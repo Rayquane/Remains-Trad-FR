@@ -82,7 +82,7 @@
     <n>Libraire</n>
   </unit>
   <unit id="overseer" v="0.7">
-    <n>Overseer</n>
+    <n>Superviseur</n>
   </unit>
   <unit id="buch" v="0.7">
     <n>Butch</n>
@@ -159,7 +159,7 @@
 A balefire phoenix is not aggressive to those, whose souls still maintain some good and mercy in them. It can be tamed, then it becomes your friend and companion</info>
   </unit>
   <unit id="owl" v="0.7">
-    <n>Robo-owl</n>
+    <n>Hibot</n>
     <info>A small security robot that can also serve as a personal assistant or secretary. Has a pretty powerful laser weapon</info>
   </unit>
   <unit id="pony" v="0.6">
@@ -169,17 +169,17 @@ Zèbres - residents of a distant country, the main enemies of the ponies in the 
 Griffins are not so numerous in Equestria, and most of them serve as mercenaries. Physically they are stronger than ponies, and have the ability to fly, but do not own any magical powers</info>
   </unit>
   <unit id="raider" v="0.6">
-    <n>Raiders</n>
+    <n>Pillards</n>
     <info>Raiders are bandits, earth ponies, and unicorns, living on robbery, plunder and brute force.
 This is a real scourge of the Wasteland, who gathered the worst traits and vices. Raiders, as a rule, are extremely aggressive, cruel, greedy, mean, and often simply insane. They always look dirty, ragged and scarred.
 Raiders often get into packs or even large gangs, ruled by the leaders. They arrange dens in abandoned buildings, convenient for raiding settlements or robbing commercial caravans and occasional travelers. Anyone invading their territory will be immediately attacked. They are usually poorly armed with melee weapons or old and weathered firearms, and their armor is made from various garbage</info>
   </unit>
   <unit id="raider1">
-    <n>Raider-sadist</n>
+    <n>Pillard sadique</n>
     <info>Psychos and maniacs, enjoying more than anything to mock and torture their victims. In battle rely on cold steel or on their own hooves and thick forehead. Because of the dumb habit of "decorating" their dwellings with fragments of decaying corpses, they are constantly sick with various diseases</info>
   </unit>
   <unit id="raider2">
-    <n>Raider-rogue</n>
+    <n>Pillard renégat</n>
     <info>Considered as trash even by the raiders` standards. They are always dressed in rags, armed with some pieces of garbage, and their health is undermined by the abundant use of alcohol and drugs</info>
   </unit>
   <unit id="raider3">
@@ -187,19 +187,19 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
     <info>Raiders from the Metalheads gang love surrounding themselves with various pieces of metal, which themselves they call "armor". Because of this, they are heavy and slow, but they are also quite well protected from hits and bullets. They use cold steel or rely on spikes that decorate their armor</info>
   </unit>
   <unit id="raider4">
-    <n>Raider-pervert</n>
+    <n>Pillard obsédé</n>
     <info>The gang of Lechers is a collection of all known vices. They are spiteful, greedy, lascivious - in a word, rare scumbags. They prefer big and heavy melee weapons</info>
   </unit>
   <unit id="raider5">
-    <n>Raider-rebel</n>
+    <n>Pillard rebelle</n>
     <info>The Rebels raiders value freedom more than anything in the world. This, in their understanding, is expressed in the ability to freely rob and rape anypony wherever they please. Armed with light firearms, like pistols</info>
   </unit>
   <unit id="raider6">
-    <n>Raider-executioner</n>
+    <n>Pillard exécuteur</n>
     <info>Conscience of the Executioners gang is heavy with many settlements, ruined and destroyed to the last inhabitant. These are ruthless killers who kill not for any selfish purpose, just for the hell of it. Often armed with shotguns, which makes them particularly dangerous at close range</info>
   </unit>
   <unit id="raider7">
-    <n>Raider-master</n>
+    <n>Pillard vétéran</n>
     <info>Masters are the most dangerous, organized and well-equipped raider gang. By raiders standards, they have good armor and weapons, and what`s more, they know how to use them</info>
   </unit>
   <unit id="raider8">
@@ -211,7 +211,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
     <info>Bombers are simply obsessed with explosives. They wander around hung with grenades, and never miss a single opportunity to use them. This makes them, probably, more dangerous for their fellow raiders than for enemies</info>
   </unit>
   <unit id="bossraider">
-    <n>Raider leader</n>
+    <n>Chef de pillards</n>
     <info>The leaders are almost always the biggest, the most powerful and the most cruel of the raiders</info>
   </unit>
   <unit id="slaver" v="0.6">
@@ -219,7 +219,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
     <info>Bandits, whose main game is capturing and subsequently selling their victims as slaves. While being almost as cruel and immoral as raiders, slavers, however, are much more "civilized." Their gangs are numerous and well-organized, they have competent leaders, a clear hierarchy and distribution of responsibilities. Slavers know their cruel craft quite well, and they use much better weapons and armor than raiders. All this makes them way more dangerous opponents</info>
   </unit>
   <unit id="slaver1">
-    <n>Herdspony</n>
+    <n>Berger</n>
     <info>Herdsponies occupy the lowest level of hierarchy in slavers gangs. Their duty is mainly transporting and escorting slaves to further trade destinations. They are usually armed with cold weapons, and their armor, in accordance with their low status, is of rather poor quality</info>
   </unit>
   <unit id="slaver2">
