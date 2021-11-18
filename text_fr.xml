@@ -155,104 +155,104 @@
   </unit>
   <unit id="phoenix" v="0.6">
     <n>Phénix funeste</n>
-    <info>A phoenix, mutated from radiation and adapted to live in the Wasteland. Despite the attractive appearance, it can be quite dangerous because of his ability to breath radioactive flames.
-A balefire phoenix is not aggressive to those, whose souls still maintain some good and mercy in them. It can be tamed, then it becomes your friend and companion</info>
+    <info>Un phénix qui a muté à cause des radiations, s'adaptant à la vie dans les Terres Désolées. Malgré sa séduisante apparence, il est plutôt dangereux à cause de sa capacité à cracher des flammes radioactives.
+Un phénix funeste n'est pas agressif envers les âmes ayant encore de la pitié en elles. Il peut être vaincu, et ensuite être un ami et compagnon.</info>
   </unit>
   <unit id="owl" v="0.7">
     <n>Hibot</n>
-    <info>A small security robot that can also serve as a personal assistant or secretary. Has a pretty powerful laser weapon</info>
+    <info>Un petit robot de sécurité qui peut aussi servir d'assistant personnel ou de secrétaire. Possède une arme laser plutôt puissante, et ça c'est chouette</info>
   </unit>
   <unit id="pony" v="0.6">
     <n>Poneys, zèbres et griffons</n>
-    <info>Poney - a dominant species of sentient beings inhabiting Equestria. They`re divided into three races: unicorns, pegasi, and earth ponies. Each race has its advantages and disadvantages. Unicorns have a gift of telekinesis, and with special training can master various magical spells, pegasi can fly, and earth ponies are the most strong, endurant and tenacious of all. Currently, you can meet many unicorns and earth ponies in the Wasteland. Pegasi on the other hoof are rarely encountered, as most of them live in their cloud cities and don`t descend to the ground.
-Zèbres - residents of a distant country, the main enemies of the ponies in the Great War. At present, their descendants quite often can be found in Equestria, and, despite the centuries past, the old enmity has not yet been forgotten. Zebras do not have magical powers like unicorns but can use witchcraft, curses, potions, and amulets, and some still remember the ancient art of necromancy.
-Griffins are not so numerous in Equestria, and most of them serve as mercenaries. Physically they are stronger than ponies, and have the ability to fly, but do not own any magical powers</info>
+    <info>Poney - Une espèce dominante vivant à Equestria. Ils sont divisés en 3 races: licornes, pégases, et poneys terrestres. Chaque race possèdent ses avantages et ses désavantages. Les licornes possèdent la télékinésie, et avec un entrainement spécial, elles peuvent exceller dans différents sorts, les pégases peuvent voler, et les poneys terrestres sont les plus forts, endurants et tenaces de tous. On peut fréquemment rencontrer des licornes et des poneys terrestres dans les Terres Désolées. Les pégases sont rarement rencontrés, car la plupart d'entre eux vivent dans leurs villes de nuages et ne descendent jamais.
+Zèbres - Habitants d'un pays lointain, l'ennemi principal des poneys pendant la Grande Guerre. Aujourd'hui, leurs descendants sont parfois aperçus dans Equestria, et, malgré que des siècles soient passés, leurs vieille rivalité n'a pas été oubliée. Les zèbres ne possèdent pas la magie comme les licornes mais peuvent se servir de la sorcellerie, malédiction, potions, et amulettes, et certains conaissent l'art de la nécromance.
+Les griffons ne sont pas nombreux dans Equestria, et la pluparts d'entre eux sont mercenaires. Physiquement ils sont plus fort que des poneys, et ont la possibilité de voler, mais ne possèdent pas de pouvoir magique.</info>
   </unit>
   <unit id="raider" v="0.6">
     <n>Pillards</n>
-    <info>Raiders are bandits, earth ponies, and unicorns, living on robbery, plunder and brute force.
-This is a real scourge of the Wasteland, who gathered the worst traits and vices. Raiders, as a rule, are extremely aggressive, cruel, greedy, mean, and often simply insane. They always look dirty, ragged and scarred.
-Raiders often get into packs or even large gangs, ruled by the leaders. They arrange dens in abandoned buildings, convenient for raiding settlements or robbing commercial caravans and occasional travelers. Anyone invading their territory will be immediately attacked. They are usually poorly armed with melee weapons or old and weathered firearms, and their armor is made from various garbage</info>
+    <info>Les pillards sont des bandits, des poneys terrestres et des unicornes vivant dans la délinquance et le pillage, employant toujours la force brute.
+Ce sont un grand fléau des Terres Désolées qui ont hérité des pires caractéristiques possibles. Les pillards sont par conséquent extrêmement agressifs, cruels, avides, vicieux, et tout simplement fous. Ils sont toujours sales et pleins de blessures.
+Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par des leaders. Ils établissent des repaires dans des immeubles abandonnés, pratiques pour piller des colonies ou voler des caravanes commerciales et des voyageurs. Quiquonque envahissant ses territoires sera immédiatement attaqué. Ils sont en général peu armés avec des armes de mêlée ou de vieilles armes à feu usées, et leurs armures sont faites à partir de multiples déchets.</info>
   </unit>
   <unit id="raider1">
     <n>Pillard sadique</n>
-    <info>Psychos and maniacs, enjoying more than anything to mock and torture their victims. In battle rely on cold steel or on their own hooves and thick forehead. Because of the dumb habit of "decorating" their dwellings with fragments of decaying corpses, they are constantly sick with various diseases</info>
+    <info>Psychotiques et maniaques, il n'y a rien qu'ils aiment plus qu'humilier et torturer leurs victimes. En combat, leurs meilleurs amis sont les armes blanches ainsi que leurs sabots. À cause de leurs stupides habitude de "décorer" leurs habitations avec des fragments de cadavres en décomposition, ils souffrent constamment de nombreuses maladies.</info>
   </unit>
   <unit id="raider2">
     <n>Pillard renégat</n>
-    <info>Considered as trash even by the raiders` standards. They are always dressed in rags, armed with some pieces of garbage, and their health is undermined by the abundant use of alcohol and drugs</info>
+    <info>Considérés comme des déchets, même par les standards des pillards. Ils sont toujours habillés comme des sacs, armés de déchets, et une santé affaiblie par l'usage abondant d'alcool et de drogues.</info>
   </unit>
   <unit id="raider3">
-    <n>Metalhead raider</n>
-    <info>Raiders from the Metalheads gang love surrounding themselves with various pieces of metal, which themselves they call "armor". Because of this, they are heavy and slow, but they are also quite well protected from hits and bullets. They use cold steel or rely on spikes that decorate their armor</info>
+    <n>Pillard de Metalhead</n>
+    <info>Les pillards de Metalhead adorent s'équiper de diverses pièces de métals, qu'ils appellent "armure". À cause de ça, ils sont très lourds et lents, mais ils sont aussi très bien protégés des coups et des balles. Ils utilisent des piques en métal pour décorer leur armure.</info>
   </unit>
   <unit id="raider4">
     <n>Pillard obsédé</n>
-    <info>The gang of Lechers is a collection of all known vices. They are spiteful, greedy, lascivious - in a word, rare scumbags. They prefer big and heavy melee weapons</info>
+    <info>Le gang des Lechers est une collection de toutes les vices connues. Ils sont rancuniers, avides, lascifs, en un mot de rares salauds. Ils préfèrent les armes de mêlée grosses et lourdes.</info>
   </unit>
   <unit id="raider5">
-    <n>Pillard rebelle</n>
-    <info>The Rebels raiders value freedom more than anything in the world. This, in their understanding, is expressed in the ability to freely rob and rape anypony wherever they please. Armed with light firearms, like pistols</info>
+    <n>Pillard des Rebelles</n>
+    <info>Les pillards des Rebelles valorisent la liberté plus que tout au monde. Selon eux, ils l'expriment par l'abilité de voler librement et de violer n'importe quel poney qu'ils veulent. Ils sont armés d'armes à feu légères, comme des pistolets.</info>
   </unit>
   <unit id="raider6">
-    <n>Pillard exécuteur</n>
-    <info>Conscience of the Executioners gang is heavy with many settlements, ruined and destroyed to the last inhabitant. These are ruthless killers who kill not for any selfish purpose, just for the hell of it. Often armed with shotguns, which makes them particularly dangerous at close range</info>
+    <n>Pillard des Exécuteurs</n>
+    <info>La conscience des pillards des Exécuteurs est lourde avec de nombreuses colonies, ruinées et détruites jusqu'au dernier habitant. Ce sont des tueurs sans foi ni loi qui tuent juste pour le plaisir. Parfois armés de fusils à pompe, ils sont particulièrement dangereux de près.</info>
   </unit>
   <unit id="raider7">
-    <n>Pillard vétéran</n>
-    <info>Masters are the most dangerous, organized and well-equipped raider gang. By raiders standards, they have good armor and weapons, and what`s more, they know how to use them</info>
+    <n>Pillard des Vétérans</n>
+    <info>Les Vétérans sont les groupes de pillards les plus dangereux, organisés et suréquippsé. Selon les normes des pillards, ils ont une bonne armure et de bonnes armes, et en plus, ils savent comment les utiliser.</info>
   </unit>
   <unit id="raider8">
-    <n>Raider-scorcher</n>
-    <info>The Scorchers gang is notorious for their unhealthy thirst for fire. In combat they use flamethrowers and incendiary weapons, and themselves feel almost no pain from burns</info>
+    <n>Pillard de Scorcher</n>
+    <info>Les pillards du gang de Scorcher sont connu pour leur (non sans danger) soif de feu. En combat, ils se servent de lance-flammes et autres armes incendiaires, la plupart d'entre eux pètent le feu (littéralement).</info>
   </unit>
   <unit id="raider9">
-    <n>Raider-bomber</n>
-    <info>Bombers are simply obsessed with explosives. They wander around hung with grenades, and never miss a single opportunity to use them. This makes them, probably, more dangerous for their fellow raiders than for enemies</info>
+    <n>Pillards des Bombers</n>
+    <info>Les Bombers sont simplement obsédés par les explosifs. Ils ont toujours une grenade avec eux, et ne ratent jamais une occasion de s'en servir. Cela les rend probablements plus dangereux que les autres pillards, [insérer jeu de mot avec explosion].</info>
   </unit>
   <unit id="bossraider">
     <n>Chef de pillards</n>
-    <info>The leaders are almost always the biggest, the most powerful and the most cruel of the raiders</info>
+    <info>Les chefs sont presque toujours les plus grands, les plus puissants et les plus cruels des pillards.</info>
   </unit>
   <unit id="slaver" v="0.6">
     <n>Esclavagistes</n>
-    <info>Bandits, whose main game is capturing and subsequently selling their victims as slaves. While being almost as cruel and immoral as raiders, slavers, however, are much more "civilized." Their gangs are numerous and well-organized, they have competent leaders, a clear hierarchy and distribution of responsibilities. Slavers know their cruel craft quite well, and they use much better weapons and armor than raiders. All this makes them way more dangerous opponents</info>
+    <info>Des bandits dont le but principal est de vendre leurs victimes en tant qu'esclaves. Ils ont beau être presque aussi cruels et immoraux que les pillards et les esclavagistes, ils sont bien plus "civilisés". Leurs gangs sont nombreux et bien organisés, possèdent des chefs compétents, une hiérarchie précise et une distribution de responsabilités. Les esclavagistes connaissent plutôt bien leur cruel métier, et ils utilisent de bien meilleures armes et armures que les pillards. Tout cela les rend encore plus dangerereux à combattre.</info>
   </unit>
   <unit id="slaver1">
     <n>Berger</n>
-    <info>Herdsponies occupy the lowest level of hierarchy in slavers gangs. Their duty is mainly transporting and escorting slaves to further trade destinations. They are usually armed with cold weapons, and their armor, in accordance with their low status, is of rather poor quality</info>
+    <info>Les bergers occupent la plus basse hiérarchie des esclavagistes. Leur but est de transporter et d'escorter les esclaves à leur point de vente. Ils sont généralement armés d'armes blanches, et leurs armures, en accord avec leurs bas rang, est d'assez mauvaise qualité.</info>
   </unit>
   <unit id="slaver2">
-    <n>Catcher</n>
-    <info>The duty of catchers is tracking down and capturing new slaves. Most slaves come from raiders, nomads, and travelers, but often catchers attack peaceful settlements, taking all strong and healthy residents and killing all the others. They are armed with various weapons and are quite dangerous for a lonely traveler</info>
+    <n>Attrapeur</n>
+    <info>Le but des attrapeurs est de traquer et de capturer de nouveaux esclaves. La plupart des esclaves viennent de pillards, de nomades et de voyageurs, mais les chasseurs attaquent souvent des colonies pacifiques en prenant tous les résidents forts et en bonne santé et en tuant tous les autres. Ils sont armés de diverses armes et sont plutôt dangereux pour un voyageur seul.</info>
   </unit>
   <unit id="slaver3">
-    <n>Warden</n>
-    <info>The duties of the wardens include looking after slaves, preventing them from escaping, maintaining order and execution of punishments (the last usually is performed with special enthusiasm). Often accompany hunters in their raids. Armed with firearms and represent a considerable danger in combat</info>
+    <n>Gardien</n>
+    <info>Les devoirs des gardiens sont de surveiller les esclaves, empêcher leur évasion, maintenir l'ordre et d'exécuter les punitions (le dernier est en général effectué avec enthousiasme) Ils accompagnent souvent les chasseurs lors de raids. Equipés d'armes à feu et représente un danger considérable en combat.</info>
   </unit>
   <unit id="slaver4">
     <n>Garde</n>
-    <info>Guards is the primary force of slavers. They serve as cover and support troops in raids, and protect camps from external threats. They also look after other slavers, brutally dealing with troublemakers. Armed with a variety of weapons and have a good armor</info>
+    <info>Les gardes sont la force principale des esclavagistes. Ils servent de couverture et de support dans les raids et protègent les camps de menaces extérieures. Ils s'occupent aussi des autres esclavagistes et règle brutalement les problèmes avec les fauteurs de troubles. Ils sont armés de diverses armes et ont une bonne armure.</info>
   </unit>
   <unit id="slaver5">
     <n>Garde d'élite</n>
-    <info>Elite guards are real professionals - strong, experienced and well equipped. They usually protect gang leaders or participate in the most risky raids. Extremely dangerous</info>
+    <info>Les gardes d'élite sont de vrais professionels - forts, doués et bien équipés. La plupart du temps, ils protègent les chefs de gangs ou participent aux raids risqués. À choisir, il vaut mieux tomber sur un dragon goule.</info>
   </unit>
   <unit id="slaver6" v="0.7">
-    <n>Leader</n>
-    <info>Usually, the leaders are chosen from the most cunning, fortunate and merciless slavers. They often command large groups of catchers, herdsponies and wardens, whom they lead to hunt for their live goods</info>
+    <n>Chef</n>
+    <info>Habituellement, les chefs sont choisis parmi les esclavagistes les plus rusés, les plus chanceux et les plus impitoyables. Ils commandent souvent de grands groupes de chasseurs, de bergers et de gardiens, qu'ils conduisent à la chasse.</info>
   </unit>
   <unit id="merc" v="0.6">
     <n>Mercenaires</n>
-    <info>Mercenaries, also known as "Talons", is a semi-military organization, which mostly consists of griffins. It includes many independent fractions, each with its own leader. Although some mercenaries have their own code of honor, most of them are common scoundrels who are only interested in money and not limited by any morality. They undertake any work whether it`s contract killing, kidnapping or slave trade, and show no pity for their victims. Mercenaries have, as a rule, much better weapons than other Wasteland inhabitants</info>
+    <info>Les mercenaires, aussi connu sous le nom de "Talon", est une organisation semi-militaire constituée principalement de griffons. Il comprend de nombreuses fractions indépendantes, chacune avec son propre chef. Bien que certains mercenaires aient leur propre code d'honneur, la plupart d'entre eux sont de simples canailles qui ne s'intéressent qu'à l'argent et ne sont limités par aucune morale. Ils entreprennent n'importe quel travail, qu'il s'agisse de meurtres à forfait, d'enlèvements ou de traite des esclaves, et ne montrent aucune pitié pour leurs victimes. Les mercenaires ont, en règle générale, de bien meilleures armes que les autres habitants des Terres Desolé</info>
   </unit>
   <unit id="merc1" v="0.6">
-    <n>Griffon-scout</n>
-    <info>Talons scouts always come in front of the main forces. Their task is to observe the situation, gather information and find targets. Scouts, as a rule, are weakly armed and only wear light armor</info>
+    <n>Griffon éclaireur</n>
+    <info>Les éclaireurs de Talons viennent toujours devant les forces principales. Leur tâche est d'observer la situation, de recueillir des informations et de trouver des cibles. En règle générale, les éclaireurs sont faiblement armés et ne portent que des armures légères</info>
   </unit>
   <unit id="merc2" v="0.6">
-    <n>Griffon-assaulter</n>
-    <info>The main strike force of the Talons troops. Their task is to be in the battle`s forefront. For this purpose they have good armor and weapons like shotguns and assault rifles</info>
+    <n>Griffon d'assault</n>
+    <info>Les forces principal des troupes de Talons. Leur tache est d'être a l'avant garde de la bataille. À cette fin, ils ont une bonne armure et des armes comme des fusils de chasse et des fusils d'assaut</info>
   </unit>
   <unit id="merc3" v="0.6">
     <n>Griffon-gunner</n>
@@ -315,7 +315,7 @@ Raiders often get into packs or even large gangs, ruled by the leaders. They arr
     <info>The pegasi military organization that emerged from the remnants of the former Equestrian air forces, once giving air support to other ponies during the War. Shortly before the War`s end pegasi leaders refused to battle with zebras any longer and shut the sky with cloud barrier, separating themselves from the rest of ponykind. Commanding officers of Enclave regard the Wasteland inhabitants as a threat to pegasi society and their own positioin as rulers. Currently the Enclave possesses the most advanced technologies in all of Equestria including battle airships, the latest generation of magical energy weapons and power armor specialy designed for pegasi</info>
   </unit>
   <unit id="encl1" v="0.8">
-    <n>Enclave officer</n>
+    <n>Officier de l'Enclave</n>
     <info>Enclave officers are rarely encountered outside fortified areas, military bases or airships. They do not wear power armor and therefore are relatively weak opponents</info>
   </unit>
   <unit id="encl2" v="0.8">
@@ -1260,7 +1260,7 @@ Although no pony produces robots nowadays, many of them are still functional des
   </weapon>
   <weapon id="flamer">
     <n>Flamethrower</n>
-    <info>Incinerates enemies in a jet of fire. Has a chance of setting target on fire, causing even more damage with time</info>
+    <info>Incinère les ennemis. A une chance de mettre la cible en feu, Cause plus de dégats avec le temp</info>
   </weapon>
   <weapon id="flamer^1">
     <n>"Scorcher"</n>
@@ -1459,13 +1459,13 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A very powerful spell that allows you to emit streams of stellar energy from which there is no escape</info>
   </weapon>
   <weapon id="paint" v="0.6">
-    <n>Paint spray</n>
+    <n>Spray a peinture</n>
   </weapon>
   <weapon id='aliblade' v='0.8'>
     <n>Ghost blades</n>
   </weapon>
   <weapon id='alimray' v='0.8'>
-    <n>Death ray</n>
+    <n>Rayon de la mort</n>
   </weapon>
   <weapon id='robolaser' v='0.8'>
     <n>Small laser</n>
@@ -1486,7 +1486,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Enhanced plasma</n>
   </weapon>
   <weapon id='robofire' v='0.8'>
-    <n>Flamethrower</n>
+    <n>Lance flamme</n>
   </weapon>
   <weapon id='robofire2' v='0.8'>
     <n>Enhanced flamethrower</n>
@@ -1507,7 +1507,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Laser minigun</n>
   </weapon>
   <weapon id='robomlau' v='0.8'>
-    <n>Rocket launcher</n>
+    <n>Lance roquette</n>
   </weapon>
   <weapon id='dronmlau' v='0.8'>
     <n>Rocket launcher</n>
@@ -4221,7 +4221,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You have become a desman. In this form you are able to climb into very narrow passages. To return to your original form press @1. Attention! Make sure there is enough space!</info>
   </eff>
   <eff id="curse" st="5" v="0.7">
-    <n>Curse</n>
+    <n>Malédiction</n>
     <info>You`ve been touched by dark and powerful magic. Healing potions will not heal you until the curse is lifted. Pay a visit to the nearest practicing magician</info>
     <mess>You`ve been cursed!</mess>
   </eff>
@@ -4231,7 +4231,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <mess>Curse of stupor</mess>
   </eff>
   <eff id="weak" st="5" v="0.7">
-    <n>Weakness</n>
+    <n>Faiblesse</n>
     <info>Your magic has temporarily weakened, therefore your accuracy, damage from melee weapons and magic decreased, as well as strength of the telekinetic throw</info>
     <mess>Curse of weakness</mess>
   </eff>
@@ -4585,232 +4585,232 @@ But this meant more than just losing Stable Pi. The retaliatory operation "Nemis
 After a few years this entire area of ​​Equestria was almost completely devoid of intelligent life. Except for pegasi, whose research missions continued to study and plunder pre-war bases and warehouses, nopony else lived in these places...</n>
   </gui>
   <gui id="loading">
-    <n>Loading...</n>
+    <n>Chargement...</n>
   </gui>
   <gui id="tele">
-    <n>telekinesis</n>
+    <n>télékinésie</n>
   </gui>
   <gui id="miss">
-    <n>miss</n>
+    <n>raté</n>
   </gui>
   <gui id="open">
-    <n>open</n>
+    <n>ouvrir</n>
   </gui>
   <gui id="close">
-    <n>close</n>
+    <n>fermer</n>
   </gui>
   <gui id="unlock">
-    <n>lockpick</n>
+    <n>crocheter</n>
   </gui>
   <gui id="termunlock">
-    <n>hacking</n>
+    <n>pirater</n>
   </gui>
   <gui id="remine">
-    <n>disarm</n>
+    <n>désarmer</n>
   </gui>
   <gui id="use">
-    <n>use</n>
+    <n>utiliser</n>
   </gui>
   <gui id="comein">
-    <n>come in</n>
+    <n>entrer</n>
   </gui>
   <gui id="trade">
-    <n>trade</n>
+    <n>échanger</n>
   </gui>
   <gui id="therapy">
-    <n>healing</n>
+    <n>soigner</n>
   </gui>
   <gui id="dial" v="0.6">
-    <n>speak</n>
+    <n>parler</n>
   </gui>
   <gui id="repair" v="0.6">
-    <n>repair</n>
+    <n>réparer</n>
   </gui>
   <gui id="take" v="0.6">
-    <n>take</n>
+    <n>prendre</n>
   </gui>
   <gui id="see" v="0.7">
-    <n>inspect</n>
+    <n>examiner</n>
   </gui>
   <gui id="activate">
-    <n>activate</n>
+    <n>activer</n>
   </gui>
   <gui id="actalarm" v="0.6">
-    <n>activate alarm</n>
+    <n>activer l'alarme</n>
   </gui>
   <gui id="beginm">
-    <n>start mission</n>
+    <n>commencer la mission</n>
   </gui>
   <gui id="return" v="0.6">
-    <n>return</n>
+    <n>retour</n>
   </gui>
   <gui id="returnb">
-    <n>return to base</n>
+    <n>retour à la base</n>
   </gui>
   <gui id="returnm">
-    <n>resume mission</n>
+    <n>continuer la mission</n>
   </gui>
   <gui id="exit" v="0.7">
-    <n>the next level</n>
+    <n>niveau suivant</n>
   </gui>
   <gui id="shutoff">
-    <n>shut down</n>
+    <n>éteindre</n>
   </gui>
   <gui id="disarm">
-    <n>disarm</n>
+    <n>désarmer</n>
   </gui>
   <gui id="rearm">
-    <n>reload</n>
+    <n>recharger</n>
   </gui>
   <gui id="fixup">
-    <n>repair</n>
+    <n>réparer</n>
   </gui>
   <gui id="press">
-    <n>press</n>
+    <n>appuyer</n>
   </gui>
   <gui id="runa">
-    <n>use the rune</n>
+    <n>utiliser la rune</n>
   </gui>
   <gui id="reboot" v="0.6">
-    <n>use an electronic lockpick</n>
+    <n>utiliser le crocheteur</n>
   </gui>
   <gui id="usekey">
-    <n>use a key</n>
+    <n>utiliser une clé</n>
   </gui>
   <gui id="required" v="0.7">
-    <n>required</n>
+    <n>requis</n>
   </gui>
   <gui id="tame" v="0.6">
-    <n>feed</n>
+    <n>nourrir</n>
   </gui>
   <gui id="signal">
-    <n>alarm</n>
+    <n>alarmer</n>
   </gui>
   <gui id="mined">
-    <n>mined</n>
+    <n>miné</n>
   </gui>
   <gui id="lock">
-    <n>locked</n>
+    <n>verouillé</n>
   </gui>
   <gui id="termlock">
-    <n>locked</n>
+    <n>verouillé</n>
   </gui>
   <gui id="zhopa">
-    <n>jammed</n>
+    <n>bloqué</n>
   </gui>
   <gui id="disabled">
-    <n>disabled</n>
+    <n>désactivé</n>
   </gui>
   <gui id="block">
-    <n>blocked</n>
+    <n>bloqué</n>
   </gui>
   <gui id="empty">
-    <n>empty</n>
+    <n>vide</n>
   </gui>
   <gui id="drop">
-    <n>drop</n>
+    <n>jeter</n>
   </gui>
   <gui id="hold">
-    <n>hold</n>
+    <n>tenir</n>
   </gui>
   <gui id="heavy">
-    <n>It`s heavy!</n>
+    <n>C'est lourd !</n>
   </gui>
   <gui id="chance">
-    <n>Success chance</n>
+    <n>Chance de réussite</n>
   </gui>
   <gui id="undef0">
-    <n>cannot unlock</n>
+    <n>impossible à débloquer</n>
   </gui>
   <gui id="undef1">
-    <n>unknown lock type</n>
+    <n>type de serrure inconnu</n>
   </gui>
   <gui id="undef2">
-    <n>unknown protection system</n>
+    <n>système de protection inconnu</n>
   </gui>
   <gui id="soft">
-    <n>easy</n>
+    <n>facile</n>
   </gui>
   <gui id="hard">
-    <n>hard</n>
+    <n>difficile</n>
   </gui>
   <gui id="veryhard">
-    <n>very hard</n>
+    <n>très difficile</n>
   </gui>
   <gui id="unreal">
-    <n>unreal</n>
+    <n>irréel</n>
   </gui>
   <gui id="magia">
-    <n>Magic</n>
+    <n>Magie</n>
   </gui>
   <gui id="armormana">
-    <n>Armor power</n>
+    <n>Puissance de l'armure</n>
   </gui>
   <gui id="magiaover">
-    <n>Overload!</n>
+    <n>Surcharge!</n>
   </gui>
   <gui id="h2o">
-    <n>Oxygen</n>
+    <n>Oxygène</n>
   </gui>
   <gui id="h2over">
-    <n>You are choking!</n>
+    <n>Tu t'étouffes!</n>
   </gui>
   <gui id="stam">
-    <n>Stamina</n>
+    <n>Endurance</n>
   </gui>
   <gui id="broken">
-    <n>broken</n>
+    <n>cassé</n>
   </gui>
   <gui id="infosats" s1="keyAttack" s2="keyTele" s3="keyAction" s4="keySats" v="0.8">
-    <n>@1 - select the target@@2 - cancel selection, exit@@3 or @4 - accept</n>
+    <n>@1 - sélectionner la cible@@2 - annuler la sélection, retour@@3 ou @4 - accepter</n>
   </gui>
   <gui id="stand0">
-    <n>Melee weapons</n>
+    <n>Armes de mêlée</n>
   </gui>
   <gui id="stand1">
-    <n>Firearms</n>
+    <n>Armes à feu</n>
   </gui>
   <gui id="stand2">
-    <n>Magical energy</n>
+    <n>Energie magique</n>
   </gui>
   <gui id="stand3">
-    <n>Explosives</n>
+    <n>Explosifs</n>
   </gui>
   <gui id="stand4">
-    <n>Other weapons</n>
+    <n>Autres armes</n>
   </gui>
   <gui id="stand5" v="0.8">
-    <n>Magic</n>
+    <n>Magie</n>
   </gui>
   <gui id="stand6" v="0.8">
-    <n>Armor</n>
+    <n>Armure</n>
   </gui>
   <gui id="stand7" v="0.8">
-    <n>Amulets</n>
+    <n>Amulettes</n>
   </gui>
   <gui id="stand8" v="0.8">
-    <n>Artifacts</n>
+    <n>Artéfacts</n>
   </gui>
   <gui id="abr" v="0.6">
-    <n>Armor broken</n>
+    <n>Armure cassée</n>
   </gui>
   <gui id="kz" v="0.6">
-    <n>Short circuit</n>
+    <n>Court-circuit</n>
   </gui>
   <gui id="stun" v="0.6">
-    <n>Stun</n>
+    <n>Etourdir</n>
   </gui>
   <gui id="help" v="0.6">
-    <n>Show hint</n>
+    <n>Afficher astuce</n>
   </gui>
   <gui id="restr_levit" v="0.6">
-    <n>Self levitation and flight are disabled</n>
+    <n>Lévitation et vol désactivés</n>
   </gui>
   <gui id="restr_port" v="0.6">
-    <n>Teleportation disabled</n>
+    <n>Téléportation désactivée</n>
   </gui>
   <gui id="restr_des" v="0.6">
-    <n>Destruction of walls disabled</n>
+    <n>Destruction des murs désactivée</n>
   </gui>
   <gui id="need_help" v="0.6">
     <n>The hints contain direct instructions on how to pass the test. Use them if you do not know what to do</n>
@@ -4819,40 +4819,40 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>s</n>
   </gui>
   <gui id="ready" v="0.8">
-    <n>ready</n>
+    <n>prêt</n>
   </gui>
   <pip id="main0">
-    <n>Close [TAB]</n>
+    <n>Fermer [TAB]</n>
   </pip>
   <pip id="mainclose">
-    <n>Close</n>
+    <n>Fermer</n>
   </pip>
   <pip id="main1">
-    <n>Status</n>
+    <n>Statut</n>
   </pip>
   <pip id="main2">
-    <n>Inventory</n>
+    <n>Inventaire</n>
   </pip>
   <pip id="main3">
     <n>Information</n>
   </pip>
   <pip id="main4">
-    <n>Trading</n>
+    <n>Echanger</n>
   </pip>
   <pip id="main5">
-    <n>Main menu</n>
+    <n>Menu principal</n>
   </pip>
   <pip id="main6">
-    <n>Healing</n>
+    <n>Soin</n>
   </pip>
   <pip id="main7">
-    <n>Craft</n>
+    <n>Fabriquer</n>
   </pip>
   <pip id="main8" v="0.6">
-    <n>Appearance</n>
+    <n>Apparence</n>
   </pip>
   <pip id="main9" v="0.8">
-    <n>Storage</n>
+    <n>Stockage</n>
   </pip>
   <pip id="stat1">
     <n>Main</n>
@@ -4864,28 +4864,28 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Perks</n>
   </pip>
   <pip id="stat4">
-    <n>Effects</n>
+    <n>Effets</n>
   </pip>
   <pip id="stat5">
-    <n>Health</n>
+    <n>Vie</n>
   </pip>
   <pip id="tgame">
-    <n>Playing time</n>
+    <n>Temps de jeu</n>
   </pip>
   <pip id="name">
-    <n>Name</n>
+    <n>Nom</n>
   </pip>
   <pip id="level">
-    <n>Level</n>
+    <n>Niveau</n>
   </pip>
   <pip id="expa">
-    <n>Experience</n>
+    <n>Expérience</n>
   </pip>
   <pip id="diff">
-    <n>Difficulty level</n>
+    <n>Niveau de difficulté</n>
   </pip>
   <pip id="hp">
-    <n>Health</n>
+    <n>Vie</n>
     <info>Your general health state. Defines how much damage you can take before you lose consciousness and get transferred to a check-point</info>
   </pip>
   <pip id="rad">
@@ -4905,7 +4905,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Shows your internal injuries, separately for the head, body, and limbs. They are difficult to heal in the field, just using medical potions is not enough. You will need the help of a qualified medic or skills in medicine and special equipment. Head injuries cause penalties for accuracy, attack speed and magic, body injuries reduce endurance, and leg injuries - movement speed. Serious blood loss also affects your ability to cause damage and resist pain</info>
   </pip>
   <pip id="head">
-    <n>Head</n>
+    <n>Tête</n>
   </pip>
   <pip id="statHead0">
     <n>Condition: perfect</n>
@@ -5655,46 +5655,46 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Healing cost</n>
   </pip>
   <pip id="med1">
-    <n>Healing</n>
+    <n>Soigner</n>
   </pip>
   <pip id="med2">
-    <n>Trading</n>
+    <n>Echanger</n>
   </pip>
   <pip id="work1">
-    <n>Create</n>
+    <n>Créer</n>
   </pip>
   <pip id="work2">
-    <n>Enhance</n>
+    <n>Améliorer</n>
   </pip>
   <pip id="work3">
-    <n>Repair</n>
+    <n>Réparer</n>
   </pip>
   <pip id="crekol">
-    <n>will be created</n>
+    <n>sera créé</n>
   </pip>
   <pip id="recipe">
-    <n>Recipe</n>
+    <n>Recette</n>
   </pip>
   <pip id="scheme1">
-    <n>Scheme</n>
+    <n>Plan</n>
   </pip>
   <pip id="repairto">
-    <n>repair by</n>
+    <n>réparé par</n>
   </pip>
   <pip id="perform" v="0.6">
-    <n>in progress</n>
+    <n>en progrès</n>
   </pip>
   <pip id="surr" v="0.6">
-    <n>all ready</n>
+    <n>prêt</n>
   </pip>
   <pip id="progress" v="0.6">
-    <n>some progress</n>
+    <n>quelques progrès</n>
   </pip>
   <pip id="ls1" v="0.7">
-    <n>Not visited</n>
+    <n>Non visité</n>
   </pip>
   <pip id="ls2" v="0.7">
-    <n>Cleared</n>
+    <n>Terminé</n>
   </pip>
   <pip id="ls3" v="0.7">
     <n>Location level reached</n>
@@ -5724,23 +5724,23 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Log</n>
   </pip>
   <pip id="opt1" v="0.7">
-    <n>Load</n>
+    <n>Charger</n>
   </pip>
   <pip id="opt2" v="0.7">
-    <n>Save</n>
+    <n>Sauvegarder</n>
   </pip>
   <pip id="fullscreen" v="0.7">
-    <n>Full screen mode</n>
+    <n>Mode plein écran</n>
     <info>Click for full screen mode. If the game is running in a browser, this feature may not work</info>
   </pip>
   <pip id="opt1_1">
-    <n>Sound volume</n>
+    <n>Volume du son</n>
   </pip>
   <pip id="opt1_2">
-    <n>Music volume</n>
+    <n>Volume de la musique</n>
   </pip>
   <pip id="opt1_3">
-    <n>Steps volume</n>
+    <n>Volume des pas</n>
   </pip>
   <pip id="help_mess" v="0.7">
     <n>Training messages</n>
@@ -5751,7 +5751,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Turn off if you are playing not the first time and do not want to read dialogues between characters</info>
   </pip>
   <pip id="show_hit1" v="0.7">
-    <n>Show damage</n>
+    <n>Afficher dégâts</n>
     <info>Visualization of damage in the form of popup numbers</info>
   </pip>
   <pip id="show_hit2" v="0.7">
@@ -5782,10 +5782,10 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Slot</n>
   </pip>
   <pip id="autoslot">
-    <n>Autosave</n>
+    <n>Auto-sauv.</n>
   </pip>
   <pip id="freeslot">
-    <n>Empty slot</n>
+    <n>Slot vide</n>
   </pip>
   <pip id="loadfile" v="0.7">
     <n>From a file</n>
@@ -5794,7 +5794,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Into a file</n>
   </pip>
   <pip id="gamesaves" v="0.7">
-    <n>Game saves</n>
+    <n>Sauvegardes</n>
   </pip>
   <pip id="invupr1" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
     <n>[click] - select weapon@[right click] - in storage / take back@slot selection keys (@1- @2) - assign</n>
@@ -5806,7 +5806,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[click] - use equipment@[right click] - discard (with [shift] - everything)@slot selection keys (@1- @2) - assign</n>
   </pip>
   <pip id="invupr5" v="0.6">
-    <n>[click] - reload</n>
+    <n>[click] - recharger</n>
   </pip>
   <pip id="vaultupr" v="0.8">
     <n>[click] - put everything into storage@[right click] - pick everything from the storage</n>
@@ -5821,7 +5821,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[click] - pay for treatment</n>
   </pip>
   <pip id="inforepair">
-    <n>[click] - repair</n>
+    <n>[click] - réparer</n>
   </pip>
   <pip id="infotrade">
     <n>[click] - select 1 unit of product@[right click] - cancel selection@hold [shift] - select all</n>
@@ -5830,10 +5830,10 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[click] - increase skill@[right click] - cancel</n>
   </pip>
   <pip id="infoload" v="0.7">
-    <n>[click] - load game</n>
+    <n>[click] - charger</n>
   </pip>
   <pip id="infosave">
-    <n>[click] - save game</n>
+    <n>[click] - sauvegarder</n>
   </pip>
   <pip id="infokeys">
     <n>[click] - reassign key</n>
@@ -5848,25 +5848,25 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[click] - discard a spell or acquire it again</n>
   </pip>
   <pip id="emptyinv">
-    <n>No items in this category</n>
+    <n>Aucun objet dans cette catégorie</n>
   </pip>
   <pip id="emptyperk">
     <n>No perks added yet</n>
   </pip>
   <pip id="emptyeff">
-    <n>No active effects</n>
+    <n>Aucun effet actif</n>
   </pip>
   <pip id="emptymed">
     <n>Attention! The medical module is damaged. Health monitoring functional is limited. Please visit a certified PipBuck technician for service</n>
   </pip>
   <pip id="emptybuy">
-    <n>Nothing to sale</n>
+    <n>Rien à vendre</n>
   </pip>
   <pip id="emptysell">
     <n>You have nothing valuable for sale</n>
   </pip>
   <pip id="emptyrep">
-    <n>Nothing to repair</n>
+    <n>Rien à réparer</n>
   </pip>
   <pip id="emptycreate">
     <n>No schematics or recipes available</n>
@@ -6163,13 +6163,13 @@ It is also recommended that you save the game to a file periodically just in cas
     <n>Defense parameters</n>
   </pip>
   <pip id="param_oth" v="0.8">
-    <n>Other parameters</n>
+    <n>Autres paramètres</n>
   </pip>
   <pip id="dam_melee" v="0.8">
-    <n>Melee damage</n>
+    <n>Dégâts au corp a corp</n>
   </pip>
   <pip id="dam_shoot" v="0.8">
-    <n>Ranged attack damage</n>
+    <n>dégâts d'attaque à distance</n>
   </pip>
   <pip id="observ" v="0.8">
     <n>Alertness</n>
@@ -6178,7 +6178,7 @@ It is also recommended that you save the game to a file periodically just in cas
     <n>Weapon mastery</n>
   </pip>
   <pip id="enemy_weap" v="0.8">
-    <n>Weapon</n>
+    <n>Arme</n>
   </pip>
   <pip id="reload" v="0.8">
     <n>Reload time</n>
