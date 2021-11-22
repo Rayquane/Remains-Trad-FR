@@ -486,7 +486,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="molerat">
     <n>Rataupe</n>
-    <info>A mutated hybrid between a rat and a mole, quite large, with sharp teeth and nasty temper</info>
+    <info>Un mutant hybride entre un rat et une taupe avec des dents tranchantes... trop meugnon</info>
   </unit>
   <unit id="scorp1">
     <n>Radscorpion</n>
@@ -1107,7 +1107,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A unique plasma shotgun, augmented by some dark magic. First, it emits plasma of pinkish color, second - it now causes much more damage</info>
   </weapon>
   <weapon id="oldr">
-    <n>Old rifle</n>
+    <n>Vieux fusil</n>
     <info>A weathered, slightly rusty rifle that, surprisingly, still works. Even though it became obsolete long before the War, it can still make a few holes in somepony</info>
   </weapon>
   <weapon id="oldr^1">
@@ -1351,7 +1351,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>On explosion, the surrounding air instantly cools down to extremely low temperatures. The living beings receive serious hypothermic damage</info>
   </weapon>
   <weapon id="molotov">
-    <n>Incendiary cocktail</n>
+    <n>Cocktail molotov</n>
     <info>A bottle filled with incendiary liquid and plugged with a piece of cloth. Ignite it, throw it - simple, cheap, effective</info>
   </weapon>
   <weapon id="fgren">
@@ -2212,7 +2212,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>"Healing" liqueur made from apples, 24 kinds of herbs and medical alcohol</info>
   </item>
   <item id="noodles" v="0.7">
-    <n>Instant noodles</n>
+    <n>Nouilles instantanés</n>
     <info>You can pour in hot water, or just eat it dry</info>
   </item>
   <item id="pasta" v="0.7">
@@ -3207,7 +3207,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>In a desperate case can be a substitute for machine oil</info>
   </item>
   <item id="fishfat" v="0.6">
-    <n>Fish oil</n>
+    <n>Huile de poisson</n>
     <info>Some ponies consider this smelly substance good for health</info>
   </item>
   <item id="firegland">
@@ -4452,29 +4452,29 @@ Music CC-BY License: https://creativecommons.org/licenses/by-nc/4.0/legalcode</i
     <n>Entrer le nom de votre personnage</n>
   </gui>
   <gui id="loadwarn">
-    <n>Attention! Autosave slot will be overwritten</n>
+    <n>Attention! La sauvegarde automatique sera écrasé</n>
   </gui>
   <gui id="setkeyinfo">
-    <n>Press a key or a mouse button to assign an action. Press TAB or ESC to cancel. Press DEL to clear</n>
+    <n>Appuis sur une touche deton clavier ou de ta souris pour assigner le bouton. Appuis sur TAB ou Echap pour annuler. Appuis sur Suppr pour effacer</n>
   </gui>
   <gui id="dif0" v="0.6">
     <n>Très facile</n>
-    <info>In a very easy mode you don`t have much to worry about.
-You start playing, having 200 health points, +25 per level.
-Enemies health is decreased by 60%.
-Your character almost never receives traumas.
-Returning to checkpoint doesn`t cause additional penalties.
-Enemies can`t hear very well</info>
+    <info>En mode très facile tu n'a pas beaucoup a t'en faire.
+Tu commence avec 200 points de vie , +25 par niveaux.
+La vie des énnemis est baissé de 60%.
+Ton personnage ne sera jamais traumatisé.
+Retourner au point de sauvegarde ne causera pas de pénalités.
+Les énnemis ne vous entendent pas très bien</info>
   </gui>
   <gui id="dif1" v="0.6">
     <n>Facile</n>
-    <info>Easy mode is intended for beginners.
-You start playing, having 150 health points, +25 per level.
-Enemies health is decreased by 30%.
-Telekinesis and self-levitation don`t consume magical power.
-Your character receives twice fewer traumas.
-Returning to checkpoint doesn`t cause additional penalties.
-Enemies can`t hear very well</info>
+    <info>Le mode facile est pour les débutants.
+Tu commence avec 150 points de vie , +25 par niveaux.
+La vie des énnemis est baissé de 30%.
+La télékinésie et l'auto-lévitation ne consomme pas de magie.
+Ton personnage recevra deux fois moins de traumatisme.
+Retourner au point de sauvegarde ne causera pas de pénalités.
+Les énnemis ne vous entendent pas très bien</info>
   </gui>
   <gui id="dif2" v="0.6">
     <n>Normale</n>
@@ -4897,11 +4897,11 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Amount of poison in your body. You will lose health points until you take an antidote or until poison effect wears off with time</info>
   </pip>
   <pip id="cut">
-    <n>Open wounds</n>
+    <n>Hémorragie</n>
     <info>Open wounds make you gradually lose blood. Even though bleeding will stop eventually, it`s better to use bandages</info>
   </pip>
   <pip id="organism" v="0.71">
-    <n>Body condition</n>
+    <n>état du corps</n>
     <info>Shows your internal injuries, separately for the head, body, and limbs. They are difficult to heal in the field, just using medical potions is not enough. You will need the help of a qualified medic or skills in medicine and special equipment. Head injuries cause penalties for accuracy, attack speed and magic, body injuries reduce endurance, and leg injuries - movement speed. Serious blood loss also affects your ability to cause damage and resist pain</info>
   </pip>
   <pip id="head">
@@ -5031,7 +5031,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Alcohol</n>
   </pip>
   <pip id="hp">
-    <n>HP</n>
+    <n>PV</n>
   </pip>
   <pip id="skin">
     <n>Damage threshold</n>
@@ -5565,13 +5565,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>To base camp</n>
   </pip>
   <pip id="info1">
-    <n>Map</n>
+    <n>Carte</n>
   </pip>
   <pip id="info2">
-    <n>Quests</n>
+    <n>Quête</n>
   </pip>
   <pip id="info3">
-    <n>World</n>
+    <n>Monde</n>
   </pip>
   <pip id="info4" v="0.6">
     <n>Notes</n>
@@ -5580,40 +5580,40 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Enemies</n>
   </pip>
   <pip id="trans">
-    <n>Travel</n>
+    <n>Voyager</n>
   </pip>
   <pip id="recLevel">
-    <n>Recommended minimum level</n>
+    <n>Niveau minimum recommandé</n>
   </pip>
   <pip id="wrLevel" v="0.7">
-    <n>Your level is too low. It is not recommended going there yet</n>
+    <n>Ton niveau est trop bas. C'est une mauvaise idée d'aller par là.</n>
   </pip>
   <pip id="alltask" v="0.7">
-    <n>Take all tasks</n>
+    <n>Prendre toutes les tâches</n>
   </pip>
   <pip id="kolProb" v="0.71">
     <n>Trial complete</n>
   </pip>
   <pip id="done">
-    <n>done</n>
+    <n>terminé</n>
   </pip>
   <pip id="nn" v="0.6">
-    <n>more</n>
+    <n>plus</n>
   </pip>
   <pip id="frag" v="0.6">
-    <n>destroyed</n>
+    <n>détruit</n>
   </pip>
   <pip id="vend1">
-    <n>Buy</n>
+    <n>Acheter</n>
   </pip>
   <pip id="vend2">
-    <n>Sell</n>
+    <n>Vendre</n>
   </pip>
   <pip id="vend3">
-    <n>Repair</n>
+    <n>Réparer</n>
   </pip>
   <pip id="vend4" v="0.6">
-    <n>Quests</n>
+    <n>Quête</n>
   </pip>
   <pip id="iv1">
     <n>goods</n>
@@ -5622,37 +5622,37 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>condition</n>
   </pip>
   <pip id="iv3">
-    <n>price</n>
+    <n>prix</n>
   </pip>
   <pip id="iv4">
-    <n>available</n>
+    <n>disponible</n>
   </pip>
   <pip id="iv5">
-    <n>repair price</n>
+    <n>prix de la réparation</n>
   </pip>
   <pip id="iv6" v="0.7">
-    <n>you have</n>
+    <n>tu possèdes</n>
   </pip>
   <pip id="caps">
-    <n>Caps</n>
+    <n>Capsules</n>
   </pip>
   <pip id="est">
-    <n>yes</n>
+    <n>oui</n>
   </pip>
   <pip id="sel">
-    <n>selected</n>
+    <n>sélectionné</n>
   </pip>
   <pip id="ost">
-    <n>left</n>
+    <n>quitter</n>
   </pip>
   <pip id="transaction">
-    <n>Accept the deal</n>
+    <n>Accepter l'offre</n>
   </pip>
   <pip id="sellall" v="0.8">
-    <n>Sell ​​valuables</n>
+    <n>Vendre ​​objets</n>
   </pip>
   <pip id="medprice">
-    <n>Healing cost</n>
+    <n>Prix du soin</n>
   </pip>
   <pip id="med1">
     <n>Soigner</n>
@@ -5743,16 +5743,16 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Volume des pas</n>
   </pip>
   <pip id="help_mess" v="0.7">
-    <n>Training messages</n>
-    <info>Turn off if you are playing not the first time and you do not require hints or pointers</info>
+    <n>Message du tutoriel</n>
+    <info>Désactivez si vous ne jouez pas pour la première fois et que vous n'avez pas besoin d'indices ou de pointeurs</info>
   </pip>
   <pip id="dial_on" v="0.7">
-    <n>Show dialogues</n>
-    <info>Turn off if you are playing not the first time and do not want to read dialogues between characters</info>
+    <n>Afficher les dialogues</n>
+    <info>Désactivez si vous ne jouez pas pour la première fois et que vous ne voulez pas lire les dialogues entre les personnages</info>
   </pip>
   <pip id="show_hit1" v="0.7">
     <n>Afficher dégâts</n>
-    <info>Visualization of damage in the form of popup numbers</info>
+    <info>Visualisation des dommages tu sait, ils</info>
   </pip>
   <pip id="show_hit2" v="0.7">
     <n>Show damage as single number</n>
@@ -5976,240 +5976,240 @@ Remember, if you save the game while being in a generated location, then after l
 Saving the game to a file can be used to create backup copies of your saves or to transfer saves between different versions of the game. To save to a file use the [To file] button on the [Save] tab, and for loading use the [From file] button on the [Load] tab and select file location and name.
 
 [Attention! Important!]
-Various disk cleanup programs might delete saves from slots! If you are using such program, make a backup copy of the game save by using [To file] button.
-It is also recommended that you save the game to a file periodically just in case</n>
+Des programmes de nettoyage peuvent supprimer les sauvegardes des slots ! Si vous utilisez ce genre de programme, faites des sauvegardes du jeu en utilisant le boutton [To file].
+Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement juste au cas-où.</n>
   </pip>
   <pip id="err_close" v="0.8">
-    <n>Continue</n>
+    <n>Continuer</n>
   </pip>
   <pip id="err_dont_show" v="0.8">
-    <n>Ignore</n>
+    <n>Ignorer</n>
   </pip>
   <pip id="err_copy_to_clipboard" v="0.8">
-    <n>Copy error text to clipboard</n>
+    <n>Copier le texte d'erreur</n>
   </pip>
   <pip id="error" v="0.8">
-    <n>An error occurred</n>
+    <n>Une erreur est survenue</n>
   </pip>
   <pip id="vault1" v="0.8">
-    <n>Equipment</n>
+    <n>Equipement</n>
   </pip>
   <pip id="vault2" v="0.8">
-    <n>Ammunition</n>
+    <n>Munitions</n>
   </pip>
   <pip id="vault3" v="0.8">
-    <n>Stuff</n>
+    <n>Inventaire</n>
   </pip>
   <pip id="mass" v="0.8">
-    <n>Item weight</n>
+    <n>Poids de l'objet</n>
   </pip>
   <pip id="mass2" v="0.8">
-    <n>Takes weapon slots</n>
+    <n>Prends slots d'armes</n>
   </pip>
   <pip id="sell" v="0.8">
-    <n>Sell value</n>
+    <n>Prix de revente</n>
   </pip>
   <pip id="needskill" v="0.8">
-    <n>Required skill</n>
+    <n>Compétences requises</n>
   </pip>
   <pip id="allmass1" v="0.8">
-    <n>Total equipment weight</n>
+    <n>Poids total de l'équipement</n>
   </pip>
   <pip id="allmass2" v="0.8">
-    <n>Total ammunition weight</n>
+    <n>Poids total des munitions</n>
   </pip>
   <pip id="allmass3" v="0.8">
-    <n>Total weight of stuff</n>
+    <n>Poids total de l'inventaire</n>
   </pip>
   <pip id="allweap" v="0.8">
-    <n>Weapon slots</n>
+    <n>Slots d'armes</n>
   </pip>
   <pip id="allmagic" v="0.8">
-    <n>Spell slots</n>
+    <n>Slots de sorts</n>
   </pip>
   <pip id="invault" v="0.8">
-    <n>in storage</n>
+    <n>en stock</n>
   </pip>
   <pip id="drop" v="0.8">
-    <n>drop</n>
+    <n>jeter</n>
   </pip>
   <pip id="vcaps" v="0.8">
-    <n>Merchant has caps</n>
+    <n>Le marchant a des capsules</n>
   </pip>
   <pip id="skillup" v="0.8">
-    <n>Increases skill</n>
+    <n>Augmente la compétence</n>
   </pip>
   <pip id="autotake" v="0.8">
-    <n>Auto item pickup</n>
-    <info>Click to choose which items should be picked up automatically</info>
+    <n>Collecte automatique d'objets</n>
+    <info>Clique pour choisir quels objets devraient être collectés automatiquement</info>
   </pip>
   <pip id="vsWeaponNew" v="0.8">
-    <n>New weapons</n>
-    <info>Automatically pick up new weapons if there are free slots for them</info>
+    <n>Nouvelles armes</n>
+    <info>Collecte automatiquement les nouvelles armes si il y a des slots libres pour elles</info>
   </pip>
   <pip id="vsWeaponRep" v="0.8">
-    <n>Weapons for repair</n>
-    <info>Automatically pick up a weapon if you have same weapon that needs repair</info>
+    <n>Armes pour réparer</n>
+    <info>Collecte automatiquement une arme si tu as la même arme qui a besoin de réparation</info>
   </pip>
   <pip id="vsAmmoAll" v="0.8">
-    <n>All ammunition</n>
-    <info>Automatically pick up any ammunition providing there is enough space in the "Ammunition" section</info>
+    <n>Toutes les munitions</n>
+    <info>Collecte automatiquement toutes les munitions en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
   </pip>
   <pip id="vsAmmoTek" v="0.8">
-    <n>Matching ammunition</n>
-    <info>Automatically pick up ammunition that matches weapons you have with you providing there is enough space in the "Ammunition" section</info>
+    <n>Munitions compatibles</n>
+    <info>Collecte automatiquement les munitions compatibles avec les armes que tu as en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
   </pip>
   <pip id="vsExplAll" v="0.8">
-    <n>Explosives</n>
-    <info>Automatically pick up grenades, mines and bombs providing there is enough space in the "Ammunition" section</info>
+    <n>Explosifs</n>
+    <info>Collecte automatiquement les grenades, les mines et les bombes en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
   </pip>
   <pip id="vsMedAll" v="0.8">
-    <n>Medicine and Potions</n>
-    <info>Automatically collect all potions and medications providing there is enough space in the "Equipment" section</info>
+    <n>Médecine et potions</n>
+    <info>Collecte automatiquement toutes les potions et médicaments en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
   </pip>
   <pip id="vsHimAll" v="0.8">
-    <n>Chemicals</n>
-    <info>Automatically collect all chemicals providing there is enough space in the "Equipment" section</info>
+    <n>Produits chimiques</n>
+    <info>Collecte automatiquement les produits chimiques en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
   </pip>
   <pip id="vsEqipAll" v="0.8">
-    <n>Other equipment</n>
-    <info>Automatically collect StealthBucks, repair kits, runes and similar items providing there is enough space in the "Equipment" section</info>
+    <n>Autres équipements</n>
+    <info>Collecte automatiquement les StealthBucks, les kits de réparation, des runes et des objets similaires en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
   </pip>
   <pip id="vsStuffAll" v="0.8">
-    <n>All stuff</n>
-    <info>Automatically collect all non equipment or ammunition items providing there is enough space in the "Stuff" section</info>
+    <n>Tout les objets</n>
+    <info>Collecte automatiquement tous les objets qui ne sont ni de l'équipement, ni des munitions, en sachant qu'il y a assez d'espace dans la section "Objets"</info>
   </pip>
   <pip id="vsVal" v="0.8">
-    <n>- Valuables</n>
-    <info>Gems, disks, pre-war books - all that can be sold to merchants</info>
+    <n>- Objets de valeur</n>
+    <info>Des gemmes, disques, livres d'avant-guerre - tout ce qui peut être vendu aux marchands</info>
   </pip>
   <pip id="vsBook" v="0.8">
-    <n>- Skill items</n>
-    <info>Educational books and memory orbs</info>
+    <n>- Capacités d'objets</n>
+    <info>Des livres éducatifs et orbes de mémoire</info>
   </pip>
   <pip id="vsFood" v="0.8">
-    <n>- Food</n>
-    <info>Any food and beverages</info>
+    <n>- Nourriture</n>
+    <info>Tout type de nourriture et de breuvage</info>
   </pip>
   <pip id="vsComp" v="0.8">
-    <n>- Components</n>
-    <info>Components for weapons, armor, explosives and electronic devices. Everything you need to work on a workbench</info>
+    <n>- Composants</n>
+    <info>Des composants pour les armes, armures, explosifs et appareils électriques. Tout ce dont tu as besoin pour travailler à un établi</info>
   </pip>
   <pip id="vsIngr" v="0.8">
-    <n>- Ingredients</n>
-    <info>Alchemical ingredients, herbs, monster body parts. All that is useful for potions</info>
+    <n>- Ingrédients</n>
+    <info>Ingrédients alchimiques, herbes, parties de monstres... Tout ça est utile pour les potions</info>
   </pip>
   <pip id="speedshtr0" v="0.8">
-    <n>Leave some of the weapons at the weapon stand and put unnecessary items into the storage</n>
+    <n>Laisse quelques armes au stand d'armes et place les objets inutiles dans le stockage</n>
   </pip>
   <pip id="speedshtr1" v="0.8">
-    <n>You are overloaded with heavy items. In this state you will not be able to run and dash</n>
+    <n>Tu es surchargé d'objets. Dans cet état, tu ne pourras ni courir, ni accélérer</n>
   </pip>
   <pip id="speedshtr2" v="0.8">
-    <n>You are heavily overloaded with items. In this state you may only trot and can barely jump</n>
+    <n>Tu es très surchargé d'objets. Dans cet état, tu ne pourras que trotter et à peine sauter</n>
   </pip>
   <pip id="speedshtr3" v="0.8">
-    <n>You are so overloaded with heavy stuff that you can`t make a single step</n>
+    <n>Tu es tellement surhargé que tu ne peux même pas faire un seul pas</n>
   </pip>
   <pip id="pet" v="0.8">
-    <n>Companion</n>
+    <n>Compagnon</n>
   </pip>
   <pip id="add_maxmW" v="0.8">
-    <n>Weapon slots</n>
+    <n>Slots d'armes</n>
   </pip>
   <pip id="add_maxmM" v="0.8">
-    <n>Spell slots</n>
+    <n>Slots de sorts</n>
   </pip>
   <pip id="add_maxm1" v="0.8">
-    <n>Maximum equipment</n>
+    <n>Maximum d'équipment</n>
   </pip>
   <pip id="add_maxm2" v="0.8">
-    <n>Maximum ammunition</n>
+    <n>Maximum de munitions</n>
   </pip>
   <pip id="add_maxm3" v="0.8">
-    <n>Maximum stuff</n>
+    <n>Maximum de stuff</n>
   </pip>
   <pip id="perlevel" v="0.8">
-    <n>per skill level</n>
+    <n>par niveau de compétence</n>
   </pip>
   <pip id="teledist" v="0.8">
-    <n>Telekinesis distance</n>
+    <n>Distance de télékinésie</n>
   </pip>
   <pip id="stun" v="0.8">
-    <n>Stun</n>
+    <n>Etourdissement</n>
   </pip>
   <pip id="knock" v="0.8">
-    <n>Knockback</n>
+    <n>Repoussement</n>
   </pip>
   <pip id="recoil" v="0.8">
-    <n>Recoil</n>
+    <n>Recul</n>
   </pip>
   <pip id="begval" v="0.8">
-    <n>Initial value</n>
+    <n>Valeur initiale</n>
   </pip>
   <pip id="begvulner" v="0.8">
-    <n>Initial vulnerability</n>
+    <n>Vulnérabilité initiale</n>
   </pip>
   <pip id="factor" v="0.8">
-    <n>Influencing factors</n>
+    <n>Facteurs influents</n>
   </pip>
   <pip id="result" v="0.8">
-    <n>Result</n>
+    <n>Résultat</n>
   </pip>
   <pip id="param_atk" v="0.8">
-    <n>Attack parameters</n>
+    <n>Paramètres d'attaque</n>
   </pip>
   <pip id="param_def" v="0.8">
-    <n>Defense parameters</n>
+    <n>Paramètres de défense</n>
   </pip>
   <pip id="param_oth" v="0.8">
     <n>Autres paramètres</n>
   </pip>
   <pip id="dam_melee" v="0.8">
-    <n>Dégâts au corp a corp</n>
+    <n>Dégâts au corps-à-corps</n>
   </pip>
   <pip id="dam_shoot" v="0.8">
-    <n>dégâts d'attaque à distance</n>
+    <n>Dégâts d'attaque à distance</n>
   </pip>
   <pip id="observ" v="0.8">
-    <n>Alertness</n>
+    <n>Vigilance</n>
   </pip>
   <pip id="weapskill" v="0.8">
-    <n>Weapon mastery</n>
+    <n>Maîtrise d'armes</n>
   </pip>
   <pip id="enemy_weap" v="0.8">
     <n>Arme</n>
   </pip>
   <pip id="reload" v="0.8">
-    <n>Reload time</n>
+    <n>Temps de rechargement</n>
     <info>Affects reloading time of any weapon using ammo or batteries</info>
   </pip>
   <pip id="allprec" v="0.8">
-    <n>General accuracy</n>
+    <n>Précision générale</n>
     <info>Hit chance multiplier for any ranged weapon and attack spells</info>
   </pip>
   <pip id="punchdamage" v="0.8">
-    <n>Kick power</n>
+    <n>Puissance du sabot</n>
     <info>Hoof impact multiplier</info>
   </pip>
   <pip id="meleerapid" v="0.8">
-    <n>Melee attack Speed</n>
+    <n>Vitesse d'attaque au corps-à-corps</n>
     <info>Affects any melee weapon except those having their own motor (like a chain saw and auto axe)</info>
   </pip>
   <pip id="healeff" v="0.8">
-    <n>Treatment efficiency</n>
+    <n>Efficacité de traitement</n>
     <info>The effectiveness of medications such as healing potions and RadAways</info>
   </pip>
   <pip id="allspeed" v="0.8">
-    <n>Movement speed</n>
+    <n>Vitesse de mouvement</n>
     <info>The general speed of movement. It can be affected with some factors such as freezing, concussion, alcohol intoxication or overburdening</info>
   </pip>
   <pip id="runspeed" v="0.8">
-    <n>Running speed</n>
+    <n>Vitesse de course</n>
     <info>Shows how much galloping is faster than trotting</info>
   </pip>
   <pip id="stamrun" v="0.8">
-    <n>Stamina consumption</n>
+    <n>Consommation d'endurance</n>
     <info>Stamina consumption for running, jumping and dashing</info>
   </pip>
   <pip id="lockpick" v="0.8">
@@ -7311,13 +7311,13 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>NOUVEAU NIVEAU OBTENU</n>
   </txt>
   <txt id="gameover">
-    <n>Attention! User`s health condition is critical, continuing mission is impossible. [br]Commencing emergency evacuation to base</n>
+    <n>Attention! Santé de l'utilisateur critique, continuer la mission est impossible. [br]Début de l'évacuation d'urgence vers la base</n>
   </txt>
   <txt id="nocont">
-    <n>Your health condition is critical, continuing mission is impossible.[br]Seek medical attention</n>
+    <n>Ta santé est critique, continuer la mission est impossible.[br]Va chercher du soin.</n>
   </txt>
   <txt id="nocont2" v="0.8">
-    <n>You are overloaded with heavy items![br]Leave some of the weapons at the weapon stand and put spare items into the storage</n>
+    <n>Tu es surchargé ![br]Laisse certaines de tes armes au stand d'armes et laisse tes objets dans le stockage</n>
   </txt>
   <txt id="trWalk" s1="keyLeft" s2="keyRight">
     <n>Appuyez sur @1 ou @2 pour vous déplacer à gauche et à droite.</n>
@@ -7401,13 +7401,13 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>In case you can`t make it, this thing here will help you this time. But seriously, it is not that hard!</n>
   </txt>
   <txt id="trFloat" s1="keyJump">
-    <n>Looks like you`ll have to swim. Press and hold @1 to swim upwards and jump out of the water</n>
+    <n>On dirait que tu vas devoir nager. Maintiens la touche @1 pour nager vers le haut et sauter hors de l'eau.</n>
   </txt>
   <txt id="trZoom" s1="keyLook" s2="keyZoom">
-    <n>Hold @1 and move cursor to move camera. Press @2 to change zoom</n>
+    <n>Maintiens @1 et bouge le curseur pour déplacer la caméra. Appuies sur @2 pour zoomer</n>
   </txt>
   <txt id="perkLevit" v="0.7">
-    <n>You got the ability[br]Double Jump</n>
+    <n>Tu as obtenu la possibilité de...[br]sauter 2 fois !</n>
   </txt>
   <txt id="trLevit" s1="keyJump" v="0.7">
     <n>While jumping, press @1 again to jump off air with telekinesis.[br]Using this technique you can jump much further</n>
