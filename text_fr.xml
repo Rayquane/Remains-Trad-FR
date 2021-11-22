@@ -4886,71 +4886,71 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="hp">
     <n>Vie</n>
-    <info>Your general health state. Defines how much damage you can take before you lose consciousness and get transferred to a check-point</info>
+    <info>Ton état de santé actuel. Définit combien tu peux prendre de dégâts avant de perdre connaissance et retourner au dernier point de contrôle. </info>
   </pip>
   <pip id="rad">
     <n>Radiation</n>
-    <info>Magical radiation sickness decreases your health level. Take RadAway to clear your body off radiation</info>
+    <info>Les maladies liées à la radioactivité magique baissent ton niveau de vie. Prends un RadAway pour te nettoyer des radiations.</info>
   </pip>
   <pip id="poison">
     <n>Poison</n>
-    <info>Amount of poison in your body. You will lose health points until you take an antidote or until poison effect wears off with time</info>
+    <info>Le taux de poison dans ton corps. Tu vas perdre des points de vie jusqu'à prendre un antidote ou que l'effet se dissipe.</info>
   </pip>
   <pip id="cut">
     <n>Hémorragie</n>
-    <info>Open wounds make you gradually lose blood. Even though bleeding will stop eventually, it`s better to use bandages</info>
+    <info>Les plaies ouvertes te font graduellement perdre du sang. Même si les saignements finiront par s'arrêter, il est préférable d'utiliser des bandages.</info>
   </pip>
   <pip id="organism" v="0.71">
-    <n>état du corps</n>
-    <info>Shows your internal injuries, separately for the head, body, and limbs. They are difficult to heal in the field, just using medical potions is not enough. You will need the help of a qualified medic or skills in medicine and special equipment. Head injuries cause penalties for accuracy, attack speed and magic, body injuries reduce endurance, and leg injuries - movement speed. Serious blood loss also affects your ability to cause damage and resist pain</info>
+    <n>Etat du corps</n>
+    <info>Montre tes dégâts internes, séparément pour la tête, le corps, et les membres. Ils sont difficiles à soigner sur le terrain, les potions médicales ne suffiront pas. Tu auras besoin de l'aide d'un médecin qualifié ou de compétences en médecine et d'équipements spéciaux. Les blessures à la tête entraînent des pénalités pour la précision, la vitesse d'attaque et la magie, les blessures corporelles réduisent l'endurance et les blessures aux jambes réduisent la vitesse de déplacement. Une perte de sang importante affecte également votre capacité à causer des dommages et à résister à la douleur</info>
   </pip>
   <pip id="head">
     <n>Tête</n>
   </pip>
   <pip id="statHead0">
-    <n>Condition: perfect</n>
-    <info>Absolutely alright</info>
+    <n>Condition : parfaite</n>
+    <info>Tout est ordre</info>
   </pip>
   <pip id="statHead1">
-    <n>Condition: OK</n>
-    <info>Diagnosis: a bloody lump, an ear scratch, and a black eye - nothing to worry about</info>
+    <n>Condition : OK</n>
+    <info>Diagnostic : une bosse sanglante, une égratignure à l'oreille et un œil au beurre noir. La tendance dans les Terres Désolées</info>
   </pip>
   <pip id="statHead2">
-    <n>Condition: poor</n>
-    <info>Diagnosis: a mild traumatic brain injury. May cause headaches, dizziness, and nausea. With such a trauma it`s hard to think straight, use magic or aim weapons. Consult your doctor at the first opportunity</info>
+    <n>Condition : mauvaise</n>
+    <info>Diagnostic : une lésion cérébrale traumatique légère. Peut causer des maux de tête, des étourdissements et des nausées. Avec un tel traumatisme, il est difficile de penser correctement, d'utiliser la magie ou de viser avec des armes. Consultez votre médecin à la première occasion</info>
   </pip>
   <pip id="statHead3">
-    <n>Condition: horrible</n>
-    <info>Diagnosis: a severe skull and brain injury. Sight and hearing are impaired. Possible memory loss, hallucinations, inadequate reaction to external stimuli. The magic limit decreased. A life threatening condition, visit a doctor as soon as possible</info>
+    <n>Condition : très mauvaise</n>
+    <info>Diagnostic : une blessure grave au crâne et au cerveau. La vue et l'ouïe sont altérées. Perte de mémoire possible, hallucinations, réaction inadéquate aux stimuli externes. La limite magique a diminué. Une condition mortelle, consultez un médecin dès que possible</info>
   </pip>
   <pip id="tors">
-    <n>Body</n>
+    <n>Corps</n>
   </pip>
   <pip id="statTors0">
-    <n>Condition: perfect</n>
-    <info>Your body is ready</info>
+    <n>Condition : parfaite</n>
+    <info>Ton corps est prêt</info>
   </pip>
   <pip id="statTors1">
-    <n>Condition: OK</n>
-    <info>Diagnosis: a couple of bruises, burns, and cuts. Please, be more careful</info>
+    <n>Condition : OK</n>
+    <info>Diagnostic : quelques contusions, brûlures et coupures. Mieux vaut être plus prudent</info>
   </pip>
   <pip id="statTors2">
-    <n>Condition: poor</n>
-    <info>Diagnosis: one or more ribs are broken, some inner organs are slightly damaged. May decrease stamina, cause dyspnea, painful breathing. A good rest in bed is recommended</info>
+    <n>Condition : mauvaise</n>
+    <info>Diagnostic : une ou plusieurs côtes sont cassées, certains organes internes sont légèrement endommagés. Peut diminuer l'endurance, provoquer une dyspnée, une respiration douloureuse. Un bon repos au lit est recommandé</info>
   </pip>
   <pip id="statTors3">
-    <n>Condition: horrible</n>
-    <info>Diagnosis: multiple rib fractures, multiple internal injuries, backbone damage suspected. Danger of heart failure. A life threatening condition, immediate hospitalization is required</info>
+    <n>Condition : très mauvaise</n>
+    <info>Diagnostic : multiples fractures des côtes, multiples blessures internes, lésions de la colonne vertébrale suspectées. Risque d'insuffisance cardiaque. Une condition mortelle, une hospitalisation immédiate est nécessaire</info>
   </pip>
   <pip id="legs">
-    <n>Legs</n>
+    <n>Jambes</n>
   </pip>
   <pip id="statLegs0">
-    <n>Condition: perfect</n>
-    <info>Nothing hurts</info>
+    <n>Condition : parfaite</n>
+    <info>Rien ne fait mal</info>
   </pip>
   <pip id="statLegs1">
-    <n>Condition: OK</n>
+    <n>Condition : OK</n>
     <info>Diagnosis: a sprained ankle. Don`t step on this leg at least for a week</info>
   </pip>
   <pip id="statLegs2">
@@ -6233,7 +6233,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
     <info>The number of action points for attacks with any weapon in S.A.T.S.</info>
   </pip>
   <pip id="saved" v="0.8">
-    <n>Saved</n>
+    <n>Sauvegardé</n>
   </pip>
   <pip id="dead" v="0.8">
     <n>Character perished</n>
