@@ -251,8 +251,8 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <info>Les éclaireurs de Talons viennent toujours devant les forces principales. Leur tâche est d'observer la situation, de recueillir des informations et de trouver des cibles. En règle générale, les éclaireurs sont faiblement armés et ne portent que des armures légères</info>
   </unit>
   <unit id="merc2" v="0.6">
-    <n>Griffon d'assault</n>
-    <info>Les forces principal des troupes de Talons. Leur tache est d'être a l'avant garde de la bataille. À cette fin, ils ont une bonne armure et des armes comme des fusils de chasse et des fusils d'assaut</info>
+    <n>Griffon d'assaut</n>
+    <info>Les forces principales des troupes de Talons. Leur tache est d'être a l'avant garde de la bataille. À cette fin, ils ont une bonne armure et des armes comme des fusils de chasse et des fusils d'assaut</info>
   </unit>
   <unit id="merc3" v="0.6">
     <n>Griffon-gunner</n>
@@ -4398,16 +4398,16 @@ Damage resistance #1, melee damage #2, accuracy #3, evasion bonus #4, magic cons
     <n>Options</n>
   </gui>
   <gui id="about" v="0.6">
-    <n>Authors</n>
-    <info>[Empalu] - concept, programming, graphics.
-[DipFanken] - graphics, locations design.
-[Mihasik] - English localization.
-[Apple_Snack], [GreyGazer], [Shadow_Of_History] - participation in development.
-The game is based on the "Fallout: Equestria" story by [kkat].
-This game is a non-commercial project and is distributed free of charge.</info>
+    <n>Auteurs</n>
+    <info>[Empalu] - concept, programmation, graphismes.
+[DipFanken] - graphismes, locations design.
+[Mihasik] - Localisation anglaise.
+[Apple_Snack], [GreyGazer], [Shadow_Of_History] - participation dans le développement.
+Le jeu est basé sur l'histoire de "Fallout : Equestria" par [kkat].
+Ce jeu est un projet non-commercial et est distribué gratuitement.</info>
   </gui>
   <gui id="usedmusic" v="0.8">
-    <n>Music:</n>
+    <n>Musique :</n>
     <info>Kai Engel — Embracing The Sunrise, Sunset, Without Redemption;
 Gothic Storm — You are not alone;
 Ars Sonor — Runsten;
@@ -4432,14 +4432,14 @@ Juhani Junkala — Epic Boss Battle;
 Music CC-BY License: https://creativecommons.org/licenses/by-nc/4.0/legalcode</info>
   </gui>
   <gui id='inform' v='0.81'>
-    <n>Useful information and links:</n>
+    <n>Information et liens utiles :</n>
     <info>
-      <a href='http://foe.ucoz.org/main.html'>Game website</a>
-      <a href='http://foe.ucoz.org/remains.html'>The latest version of the game</a>
-      <a href='https://fallout-equestria-remains.fandom.com/ru/wiki/Fallout_Equestria:_Remains_%D0%B2%D0%B8%D0%BA%D0%B8'>Game Wiki in Russian</a>
-      <a href='https://fallout-equestria-remains.fandom.com/wiki/Fallout_Equestria:_Remains_Wiki'>Game Wiki in English</a>
-      <a href='https://discord.gg/qWYAbsp'>Discord Server</a>
-      <a href='https://www.deviantart.com/empalu'>Author DeviantArt page</a>
+      <a href='http://foe.ucoz.org/main.html'>Site du jeu</a>
+      <a href='http://foe.ucoz.org/remains.html'>Dernière version du jeu</a>
+      <a href='https://fallout-equestria-remains.fandom.com/ru/wiki/Fallout_Equestria:_Remains_%D0%B2%D0%B8%D0%BA%D0%B8'>Wiki du jeu en russe</a>
+      <a href='https://fallout-equestria-remains.fandom.com/wiki/Fallout_Equestria:_Remains_Wiki'>Wiki du jeu en anglais</a>
+      <a href='https://discord.gg/qWYAbsp'>Serveur Discord</a>
+      <a href='https://www.deviantart.com/empalu'>Page DeviantArt de l'auteur</a>
     </info>
   </gui>
   <gui id="version">
@@ -4455,26 +4455,26 @@ Music CC-BY License: https://creativecommons.org/licenses/by-nc/4.0/legalcode</i
     <n>Attention! La sauvegarde automatique sera écrasé</n>
   </gui>
   <gui id="setkeyinfo">
-    <n>Appuis sur une touche deton clavier ou de ta souris pour assigner le bouton. Appuis sur TAB ou Echap pour annuler. Appuis sur Suppr pour effacer</n>
+    <n>Appuie sur une touche de ton clavier ou de ta souris pour assigner le bouton. Appuie sur TAB ou Echap pour annuler. Appuie sur Suppr pour effacer</n>
   </gui>
   <gui id="dif0" v="0.6">
     <n>Très facile</n>
-    <info>En mode très facile tu n'a pas beaucoup a t'en faire.
-Tu commence avec 200 points de vie , +25 par niveaux.
-La vie des énnemis est baissé de 60%.
+    <info>En mode très facile, tu n'as pas beaucoup à t'en faire.
+Tu commences avec 200 points de vie , +25 par niveau.
+La vie des ennemis est baissé de 60%.
 Ton personnage ne sera jamais traumatisé.
 Retourner au point de sauvegarde ne causera pas de pénalités.
-Les énnemis ne vous entendent pas très bien</info>
+Les ennemis ne vous entendent pas très bien.</info>
   </gui>
   <gui id="dif1" v="0.6">
     <n>Facile</n>
     <info>Le mode facile est pour les débutants.
-Tu commence avec 150 points de vie , +25 par niveaux.
-La vie des énnemis est baissé de 30%.
+Tu commences avec 150 points de vie, +25 par niveau.
+La vie des ennemis est baissé de 30%.
 La télékinésie et l'auto-lévitation ne consomme pas de magie.
 Ton personnage recevra deux fois moins de traumatisme.
 Retourner au point de sauvegarde ne causera pas de pénalités.
-Les énnemis ne vous entendent pas très bien</info>
+Les ennemis ne vous entendent pas très bien.</info>
   </gui>
   <gui id="dif2" v="0.6">
     <n>Normale</n>
@@ -4501,15 +4501,15 @@ You will find much fewer caps and bits in containers.
 Enemies are even stronger</info>
   </gui>
   <gui id="hardopt" v="0.8">
-    <n>Difficulty options</n>
+    <n>Options de difficulté</n>
   </gui>
   <gui id="opt1" v="0.7">
-    <n>Skip training</n>
+    <n>Passer l'entraînement</n>
     <info>You will immediately find yourself in the base camp, the training location will be unavailable
 Do not choose this option if you play the version 0.7 for the first time and do not wish to miss some important points in the story!</info>
   </gui>
   <gui id="opt2" v="0.6">
-    <n>We live once</n>
+    <n>On ne vit qu'une fois</n>
     <info>Restoration at checkpoints and returning to the base after receiving dangerous injuries will be disabled.
 The death of the character is final.
 The game is stored in a single selected slot</info>
@@ -4519,7 +4519,7 @@ The game is stored in a single selected slot</info>
     <info>Level up requires 40% less experience points</info>
   </gui>
   <gui id="opt4" v="0.6">
-    <n>Random skills</n>
+    <n>Compétences aléatoires</n>
     <info>On level up, skills and perks will be selected randomly.
 Test your survival abilities with what is brought to you by chance</info>
   </gui>
@@ -4530,8 +4530,8 @@ Increasing all skill levels to maximum will be much more difficult.
 You will have to choose more carefully which skills you need in the first place</info>
   </gui>
   <gui id="opt6" v="0.81">
-    <n>Limited inventory</n>
-    <info>In the limited inventory mode most items have weight.
+    <n>Inventaire limité</n>
+    <info>Dans ce mode, la plupart des objets ont un poids.
 You will be able to carry and use a limited number of items and weapons.
 This mode is recommended only for experienced players who are playing not the first time</info>
   </gui>
@@ -4539,13 +4539,13 @@ This mode is recommended only for experienced players who are playing not the fi
     <n>Customiser l'apparence</n>
   </gui>
   <gui id="vidfur" v="0.6">
-    <n>Hide color</n>
+    <n>Couleur de peau</n>
   </gui>
   <gui id="vidhair" v="0.6">
-    <n>Primary mane color</n>
+    <n>Couleur primaire de la crinière</n>
   </gui>
   <gui id="vidhair1" v="0.6">
-    <n>Secondary mane color</n>
+    <n>Couleur secondaire de la crinière</n>
   </gui>
   <gui id="videye" v="0.6">
     <n>Forme et couleur des yeux</n>
@@ -5505,10 +5505,10 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Weapon wear out x2</n>
   </pip>
   <pip id="rapid">
-    <n>attack speed</n>
+    <n>vitesse d'attaque</n>
   </pip>
   <pip id="precision">
-    <n>accuracy</n>
+    <n>précision</n>
   </pip>
   <pip id="distance">
     <n>to range and damage</n>
@@ -5517,25 +5517,25 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>can not use</n>
   </pip>
   <pip id="expldam">
-    <n>area damage</n>
+    <n>dégâts de zone</n>
   </pip>
   <pip id="destroy">
-    <n>Destroys walls</n>
+    <n>Destructions des murs</n>
   </pip>
   <pip id="pier">
     <n>Armor piercing</n>
   </pip>
   <pip id="healhp">
-    <n>Restore health</n>
+    <n>Restauration de vie</n>
   </pip>
   <pip id="healmana">
-    <n>Restore magical power</n>
+    <n>Restore magical powerRestauration de pouvoir magique</n>
   </pip>
   <pip id="healorgan">
-    <n>Restore body part</n>
+    <n>Restauration des membres du corps</n>
   </pip>
   <pip id="healorgans">
-    <n>Heal any injuries</n>
+    <n>Soigne toute blessure</n>
   </pip>
   <pip id="healblood">
     <n>Reduce blood loss</n>
@@ -5712,7 +5712,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Press to give items</n>
   </pip>
   <pip id="resists" v="0.6">
-    <n>Resistances</n>
+    <n>Résistances</n>
   </pip>
   <pip id="opt3" v="0.7">
     <n>Options</n>
@@ -6253,43 +6253,43 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Lay out unnecessary items</n>
   </pip>
   <key id="keyLeft">
-    <n>Left</n>
+    <n>Gauche</n>
   </key>
   <key id="keyRight">
-    <n>Right</n>
+    <n>Droite</n>
   </key>
   <key id="keySit">
-    <n>Down</n>
+    <n>Bas</n>
   </key>
   <key id="keyBeUp">
-    <n>Up</n>
+    <n>Haut</n>
   </key>
   <key id="keyJump">
-    <n>Jump, levitation</n>
+    <n>Sauter, léviter</n>
   </key>
   <key id="keyRun">
-    <n>Running</n>
+    <n>Courir</n>
   </key>
   <key id="keyAttack">
-    <n>Attack</n>
+    <n>Attaquer</n>
   </key>
   <key id="keyPunch">
-    <n>Kick</n>
+    <n>Coup de sabot</n>
   </key>
   <key id="keyReload">
-    <n>Reload</n>
+    <n>Recharger</n>
   </key>
   <key id="keyGrenad">
-    <n>Throw explosives</n>
+    <n>Jeter des explosifs</n>
   </key>
   <key id="keyMagic">
-    <n>Attacking spell</n>
+    <n>Sort d'attaque</n>
   </key>
   <key id="keyDef">
-    <n>Defensive spell</n>
+    <n>Sort de défense</n>
   </key>
   <key id="keyPet" v="0.6">
-    <n>Companion</n>
+    <n>Compagnon</n>
   </key>
   <key id="keyTele">
     <n>Telekinesis</n>
@@ -7279,13 +7279,13 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Locker room</n>
   </map>
   <map id="w_encl" v="0.8">
-    <n>Battle of the Enclave Base</n>
+    <n>Combat de la Base de l'Enclave</n>
   </map>
   <map id="bossencl" v="0.8">
-    <n>Boss of the Enclave Base</n>
+    <n>Boss de la Base de l'Enclave</n>
   </map>
   <map id="stable_pi" v="0.8">
-    <n>Stable Pi</n>
+    <n>Ecurie Pi</n>
     <info>Un abri secret complètement autonome construit au début de la guerre pour sauver les meilleurs scientifiques et ingénieurs Equestriens. C'est aussi votre maison.</info>
   </map>
   <map id="art" v="0.8">
@@ -7293,10 +7293,10 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>One of the most impregnable fortresses of Equestria. It has powerful artillery and anti-air defense systems</info>
   </map>
   <map id="stable_pi_atk" v="0.8">
-    <n>Stable Pi</n>
+    <n>Ecurie Pi</n>
   </map>
   <map id="stable_pi_surf" v="0.8">
-    <n>Entrée de Stable Pi</n>
+    <n>Entrée de l'Ecurie Pi</n>
   </map>
   <map id="thunder" v="0.8">
     <n>Thunderhead</n>
