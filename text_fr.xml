@@ -3330,46 +3330,46 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>Turns you into a small animal for a short time. This potion is so powerful that it`s enough to take just the smallest sip, hence you can use it many times</info>
   </item>
   <obj id="box">
-    <n>Crate</n>
+    <n>Caisse</n>
   </obj>
   <obj id="woodbox">
-    <n>Wooden crate</n>
+    <n>Caisse en bois</n>
   </obj>
   <obj id="mcrate1">
-    <n>Crate</n>
+    <n>Caisse</n>
   </obj>
   <obj id="mcrate2">
-    <n>Metal crate</n>
+    <n>Caisse en métal</n>
   </obj>
   <obj id="mcrate3">
-    <n>Metal box</n>
+    <n>Boîte en métal</n>
   </obj>
   <obj id="mcrate4">
-    <n>Very heavy box</n>
+    <n>Boîte très lourde</n>
   </obj>
   <obj id="mcrate5" v="0.7">
-    <n>Heavy box</n>
+    <n>Boîte lourde</n>
   </obj>
   <obj id="bigbox">
-    <n>Heavy crate</n>
+    <n>Boîte lourde</n>
   </obj>
   <obj id="bigbox2">
-    <n>Cargo container</n>
+    <n>Conteneur</n>
   </obj>
   <obj id="radbarrel">
-    <n>Radioactive waste</n>
+    <n>Déchets radioactifs</n>
   </obj>
   <obj id="radbigbarrel">
-    <n>Huge waste barrel</n>
+    <n>Grand baril de déchets</n>
   </obj>
   <obj id="chest">
-    <n>Chest</n>
+    <n>Coffre</n>
   </obj>
   <obj id="basechest" v="0.7">
-    <n>Chest</n>
+    <n>Coffre</n>
   </obj>
   <obj id="enclchest" v="0.7">
-    <n>Chest</n>
+    <n>Coffre</n>
   </obj>
   <obj id="enclcase" v="0.7">
     <n>Enclave case</n>
@@ -3384,16 +3384,16 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Wall safe</n>
   </obj>
   <obj id="case">
-    <n>Box</n>
+    <n>Boîte</n>
   </obj>
   <obj id="ammobox">
-    <n>Ammunition box</n>
+    <n>Boîte de munitions</n>
   </obj>
   <obj id="explbox">
-    <n>Explosives crate</n>
+    <n>Caisse d'explosifs</n>
   </obj>
   <obj id="bigexpl" v="0.6">
-    <n>Big explosives crate</n>
+    <n>Grande caisse d'explosifs</n>
   </obj>
   <obj id="weapbox">
     <n>Gun cabinet</n>
@@ -3405,7 +3405,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Bookshelf</n>
   </obj>
   <obj id="fridge">
-    <n>Fridge</n>
+    <n>Frigo</n>
   </obj>
   <obj id="cup">
     <n>Cupboard</n>
@@ -3435,22 +3435,22 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Couch</n>
   </obj>
   <obj id="bed">
-    <n>Bed</n>
+    <n>Lit</n>
   </obj>
   <obj id="table">
-    <n>Desk</n>
+    <n>Bureau</n>
   </obj>
   <obj id="table1">
-    <n>Wooden table</n>
+    <n>Table en bois</n>
   </obj>
   <obj id="table2">
-    <n>Metal table</n>
+    <n>Table en métal</n>
   </obj>
   <obj id="table3">
-    <n>Magical orb</n>
+    <n>Orbe magique</n>
   </obj>
   <obj id="table4" v="0.7">
-    <n>Steel table</n>
+    <n>Table en acier</n>
   </obj>
   <obj id="longtable" v="0.7">
     <n>Long table</n>
@@ -3468,7 +3468,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Tool cabinet</n>
   </obj>
   <obj id="trash">
-    <n>Trash can</n>
+    <n>Poubelle</n>
   </obj>
   <obj id="instr2">
     <n>Tools rack</n>
@@ -3477,31 +3477,31 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Terminal</n>
   </obj>
   <obj id="term1">
-    <n>Security terminal</n>
+    <n>Terminal de sécurité</n>
   </obj>
   <obj id="term2">
-    <n>Access terminal</n>
+    <n>Terminal d'accès</n>
   </obj>
   <obj id="term3">
-    <n>Info terminal</n>
+    <n>Terminal d'informations</n>
   </obj>
   <obj id="termh" v="0.6">
-    <n>Aid terminal</n>
+    <n>Terminal d'aide</n>
   </obj>
   <obj id="knop">
-    <n>Button</n>
+    <n>Bouton</n>
   </obj>
   <obj id="detonator">
-    <n>Detonator</n>
+    <n>Détonateur</n>
   </obj>
   <obj id="robocell">
     <n>Robocell</n>
   </obj>
   <obj id="alarm">
-    <n>Alarm button</n>
+    <n>Bouton d'alarme</n>
   </obj>
   <obj id="work">
-    <n>Workbench</n>
+    <n>Etabli</n>
   </obj>
   <obj id="himlab">
     <n>Laboratory bench</n>
@@ -3522,10 +3522,10 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Vault</n>
   </obj>
   <obj id="door1">
-    <n>Wooden door</n>
+    <n>Porte en bois</n>
   </obj>
   <obj id="door1a">
-    <n>Reinforced door</n>
+    <n>Porte renforcée</n>
   </obj>
   <obj id="door1b">
     <n>Sturdy door</n>
@@ -4285,7 +4285,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Maximum weight you can lift by telekinesis is reduced by #1, combat spells damage reduced by #2</info>
   </eff>
   <eff id="noArmor" v="0.8">
-    <n>No armor</n>
+    <n>Pas d'armure</n>
   </eff>
   <!--Food-->
   <eff id="drunk" st="5" v="0.7">
@@ -6292,28 +6292,28 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Compagnon</n>
   </key>
   <key id="keyTele">
-    <n>Telekinesis</n>
+    <n>Télékinésie</n>
   </key>
   <key id="keyAction">
     <n>Action</n>
   </key>
   <key id="keyCrack">
-    <n>Secondary action</n>
+    <n>Action secondaire</n>
   </key>
   <key id="keyPip">
     <n>PipBuck</n>
   </key>
   <key id="keyInvent">
-    <n>Inventory</n>
+    <n>Inventaire</n>
   </key>
   <key id="keyStatus">
-    <n>Status</n>
+    <n>Statut</n>
   </key>
   <key id="keySkills">
-    <n>Skills</n>
+    <n>Compétences</n>
   </key>
   <key id="keyMed">
-    <n>Health condition</n>
+    <n>Etat de la santé</n>
   </key>
   <key id="keyMap">
     <n>Carte</n>
