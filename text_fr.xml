@@ -1,5 +1,5 @@
 <all>
-  <lang id="def">English</lang>
+  <lang id="def">Français</lang>
   <unit id="littlepip">
     <n>Littlepip</n>
   </unit>
@@ -296,15 +296,15 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="ranger" v="0.7">
     <n>Rangers d'acier</n>
-    <info>One of the most powerful factions of postwar Equestria. Steel Rangers - a closed paramilitary organization, consisting of earth ponies and unicorns, proclaiming its goal to find and preserve pre-war technology. Characterized by aggressiveness, intolerance to strangers and generally contemptuous attitude to other inhabitants of the Wasteland, whom they simply call "savages". They own many rare technologies, do not respect any guns smaller than a minigun, and are particularly famous for their power armor - the legacy of the Ministry of Wartime Technology. Power armor, powerful weapons, combat robots, and perverted morals only a little better than raiders` - all this makes the Steel Rangers ones of the most dangerous opponents you will face</info>
+    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger d'acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des rangers d'acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
   </unit>
   <unit id="ranger1" v="0.7">
     <n>Chevalier</n>
-    <info>Knights are the main force of Steel Rangers, the lowest rank in their military hierarchy. They are organized into divisions commanded by Crusaders or into larger formations</info>
+    <info>Les chevaliers sont la force principale des rangers d'acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
   </unit>
   <unit id="ranger2" v="0.7">
-    <n>Crusaders</n>
-    <info>Crusaders are junior officers, roughly analogous to sergeants of the regular Equestrian army, who lead small detachments of eight steel rangers and carry out orders from higher commanders</info>
+    <n>Croisé</n>
+    <info>Les croisés sont des officiers subalternes, à peu près analogues aux sergents de l'armée d'Equestria, qui dirigent de petits détachements de huit gardes d'acier et exécutent les ordres des commandants supérieurs.</info>
   </unit>
   <unit id="ranger3" v="0.7">
     <n>Paladin</n>
@@ -3318,7 +3318,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>The most important thing to remember when working with this device - where does that plug goes into. Incorrect plugging may cause dire consequences</info>
   </item>
   <item id="enclarmor" v="0.8">
-    <n>Enclave Power Armor</n>
+    <n>Armure assistée de l'Enclave</n>
     <info>Power armor for pegasi. You will not be able to wear it properly without some modifications</info>
   </item>
   <item id="lp_item" v="0.8">
@@ -4455,38 +4455,38 @@ Music CC-BY License: https://creativecommons.org/licenses/by-nc/4.0/legalcode</i
     <n>Attention! La sauvegarde automatique sera écrasé</n>
   </gui>
   <gui id="setkeyinfo">
-    <n>Appuie sur une touche de ton clavier ou de ta souris pour assigner le bouton. Appuie sur TAB ou Echap pour annuler. Appuie sur Suppr pour effacer</n>
+    <n>Appuyez sur une touche de votre clavier ou de votre souris pour assigner le bouton. Appuyez sur TAB ou Echap pour annuler. Appuyez sur Suppr pour effacer</n>
   </gui>
   <gui id="dif0" v="0.6">
     <n>Très facile</n>
-    <info>En mode très facile, tu n'as pas beaucoup à t'en faire.
-Tu commences avec 200 points de vie , +25 par niveau.
+    <info>En mode très facile, vous n'avez pas beaucoup à vous en faire.
+Vous commencez avec 200 points de vie , +25 par niveau.
 La vie des ennemis est baissé de 60%.
-Ton personnage ne sera jamais traumatisé.
+Votre personnage ne sera jamais traumatisé.
 Retourner au point de sauvegarde ne causera pas de pénalités.
 Les ennemis ne vous entendent pas très bien.</info>
   </gui>
   <gui id="dif1" v="0.6">
     <n>Facile</n>
     <info>Le mode facile est pour les débutants.
-Tu commences avec 150 points de vie, +25 par niveau.
+Vous commencez avec 150 points de vie, +25 par niveau.
 La vie des ennemis est baissé de 30%.
 La télékinésie et l'auto-lévitation ne consomme pas de magie.
-Ton personnage recevra deux fois moins de traumatisme.
+Votre personnage recevra deux fois moins de traumatisme.
 Retourner au point de sauvegarde ne causera pas de pénalités.
 Les ennemis ne vous entendent pas très bien.</info>
   </gui>
   <gui id="dif2" v="0.6">
     <n>Normale</n>
-    <info>Normal difficulty is intended for more experienced players.
-You start playing with 100 health points, +20 per level.
-Your character receives additional traumas if faints and is returned to the checkpoint.
-Difficulty is more or less balanced</info>
+    <info>La difficulté normale est prévue pour les joueurs plus expérimentés.
+Vous commencez avec 100 points de vie, +20 par niveau.
+Votre personnage recevra des traumatismes additionnels en s'évanouissant et reviendra au point de contrôle.
+La difficulté est plus ou moins équilibrée.</info>
   </gui>
   <gui id="dif3" v="0.6">
     <n>Difficile</n>
-    <info>On high difficulty you have to act very carefully to survive.
-You start playing with 70 health points, +15 per level.
+    <info>En difficile, vous devrez agir avec prudence pour survivre.
+Vous commencez avec 170 points de vie, +15 par niveau.
 Your character gets even more traumas when faints and is returned to the checkpoint.
 Doctor`s care costs more. Bleeding and poisoning last twice longer.
 Teleportation to the base camp from checkpoints is not available.
@@ -4753,7 +4753,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Oxygène</n>
   </gui>
   <gui id="h2over">
-    <n>Tu t'étouffes!</n>
+    <n>Vous vous étouffez !</n>
   </gui>
   <gui id="stam">
     <n>Endurance</n>
@@ -4886,30 +4886,30 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="hp">
     <n>Vie</n>
-    <info>Ton état de santé actuel. Définit combien tu peux prendre de dégâts avant de perdre connaissance et retourner au dernier point de contrôle. </info>
+    <info>Votre état de santé actuel. Définit combien vous pouvez prendre de dégâts avant de perdre connaissance et retourner au dernier point de contrôle. </info>
   </pip>
   <pip id="rad">
     <n>Radiation</n>
-    <info>Les maladies liées à la radioactivité magique baissent ton niveau de vie. Prends un RadAway pour te nettoyer des radiations.</info>
+    <info>Les maladies liées à la radioactivité magique baissent votre niveau de vie. Prenez un RadAway pour vous nettoyer des radiations.</info>
   </pip>
   <pip id="poison">
     <n>Poison</n>
-    <info>Le taux de poison dans ton corps. Tu vas perdre des points de vie jusqu'à prendre un antidote ou que l'effet se dissipe.</info>
+    <info>Le taux de poison dans votre corps. Vous allez perdre des points de vie jusqu'à prendre un antidote ou que l'effet se dissipe.</info>
   </pip>
   <pip id="cut">
     <n>Hémorragie</n>
-    <info>Les plaies ouvertes te font graduellement perdre du sang. Même si les saignements finiront par s'arrêter, il est préférable d'utiliser des bandages.</info>
+    <info>Les plaies ouvertes vous font graduellement perdre du sang. Même si les saignements finiront par s'arrêter, il est préférable d'utiliser des bandages.</info>
   </pip>
   <pip id="organism" v="0.71">
     <n>Etat du corps</n>
-    <info>Montre tes dégâts internes, séparément pour la tête, le corps, et les membres. Ils sont difficiles à soigner sur le terrain, les potions médicales ne suffiront pas. Tu auras besoin de l'aide d'un médecin qualifié ou de compétences en médecine et d'équipements spéciaux. Les blessures à la tête entraînent des pénalités pour la précision, la vitesse d'attaque et la magie, les blessures corporelles réduisent l'endurance et les blessures aux jambes réduisent la vitesse de déplacement. Une perte de sang importante affecte également votre capacité à causer des dommages et à résister à la douleur</info>
+    <info>Montre vos dégâts internes, séparément pour la tête, le corps, et les membres. Ils sont difficiles à soigner sur le terrain, les potions médicales ne suffiront pas. Tu auras besoin de l'aide d'un médecin qualifié ou de compétences en médecine et d'équipements spéciaux. Les blessures à la tête entraînent des pénalités pour la précision, la vitesse d'attaque et la magie, les blessures corporelles réduisent l'endurance et les blessures aux jambes réduisent la vitesse de déplacement. Une perte de sang importante affecte également votre capacité à causer des dommages et à résister à la douleur</info>
   </pip>
   <pip id="head">
     <n>Tête</n>
   </pip>
   <pip id="statHead0">
     <n>Condition : parfaite</n>
-    <info>Tout est ordre</info>
+    <info>Tout est en ordre</info>
   </pip>
   <pip id="statHead1">
     <n>Condition : OK</n>
@@ -4962,41 +4962,41 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Diagnosis: multiple open fractures, ankle ligament rupture, a knee shot. It is surprising that you can move at all in this condition. Immediately contact the nearest Ministry of Peace office</info>
   </pip>
   <pip id="blood">
-    <n>Blood</n>
+    <n>Sang</n>
   </pip>
   <pip id="statBlood0">
-    <n>Condition: perfect</n>
+    <n>Condition : parfaite</n>
     <info>You are full of strength</info>
   </pip>
   <pip id="statBlood1">
-    <n>Condition: OK</n>
+    <n>Condition : OK</n>
     <info>Diagnosis: you lost some blood, but that`s OK. A good rest and well nourishment will bring you back to normal</info>
   </pip>
   <pip id="statBlood2">
-    <n>Condition: poor</n>
+    <n>Condition : mauvaise</n>
     <info>Diagnosis: you suffer from severe blood loss. Possible sudden muscle weakness, dizziness, loss of consciousness. Donor or synthetic blood transfusion is recommended</info>
   </pip>
   <pip id="statBlood3">
-    <n>Condition: horrible</n>
+    <n>Condition : très mauvaise</n>
     <info>Diagnosis: you are dying from blood loss. Immediately take the necessary actions before it`s too late</info>
   </pip>
   <pip id="mana">
-    <n>Magical power</n>
+    <n>Pouvoir magique</n>
   </pip>
   <pip id="statMana0">
-    <n>Condition: perfect</n>
+    <n>Condition : parfaite</n>
     <info>You have maximum magical power</info>
   </pip>
   <pip id="statMana1">
-    <n>Condition: OK</n>
+    <n>Condition : OK</n>
     <info>You are tired a little, but your magical power is still ok</info>
   </pip>
   <pip id="statMana2">
-    <n>Condition: poor</n>
+    <n>Condition : mauvaise</n>
     <info>Your magical power requires restoration. Spells and telekinesis may be somewhat weaker than usual</info>
   </pip>
   <pip id="statMana3">
-    <n>Condition: horrible</n>
+    <n>Condition : très mauvaise</n>
     <info>Your magical power is on the verge of complete exhaustion. Spells and telekinesis are considerably weakened. It is strongly advised to have some rest, perform restorative procedures and at all cost avoid using complex spells in this condition</info>
   </pip>
   <pip id="statMana4">
@@ -5004,7 +5004,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Your magical power is depleted. You can hardly even lift small objects, not to mention any spells</info>
   </pip>
   <pip id="ad0" v="0.6">
-    <n>no addiction yet</n>
+    <n>pas d'addiction</n>
   </pip>
   <pip id="ad1" v="0.6">
     <n>1st level - weak</n>
@@ -5631,7 +5631,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>prix de la réparation</n>
   </pip>
   <pip id="iv6" v="0.7">
-    <n>tu possèdes</n>
+    <n>vous possédez</n>
   </pip>
   <pip id="caps">
     <n>Capsules</n>
@@ -5857,31 +5857,31 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Aucun effet actif</n>
   </pip>
   <pip id="emptymed">
-    <n>Attention! The medical module is damaged. Health monitoring functional is limited. Please visit a certified PipBuck technician for service</n>
+    <n>Attention ! Le module médical est endommagé. La surveillance de santé est limitée. Veuillez visiter un technicien de PipBuck certifié pour la réparation.</n>
   </pip>
   <pip id="emptybuy">
     <n>Rien à vendre</n>
   </pip>
   <pip id="emptysell">
-    <n>You have nothing valuable for sale</n>
+    <n>Vous n'avez pas d'objet de valeur à vendre</n>
   </pip>
   <pip id="emptyrep">
     <n>Rien à réparer</n>
   </pip>
   <pip id="emptycreate">
-    <n>No schematics or recipes available</n>
+    <n>Pas de plans ou de recettes disponibles</n>
   </pip>
   <pip id="emptyupgrade">
-    <n>Nothing to upgrade</n>
+    <n>Rien à améliorer</n>
   </pip>
   <pip id="emptymap">
-    <n>The map is unavailable</n>
+    <n>La carte n'est pas disponible</n>
   </pip>
   <pip id="emptytasks" v="0.6">
-    <n>No quests yet</n>
+    <n>Pas de quête pour le moment</n>
   </pip>
   <pip id="piperror" v="0.8">
-    <n>Attention! System failure</n>
+    <n>Attention ! System failure</n>
     <info>Error 0-4570-7f45-a420-ff98 (System error, contact administrator)
 The likely cause of the failure is an effect of an electromagnetic pulse on the PipBuck systems.
 Checking the subsystems and modules:
@@ -6103,13 +6103,13 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
     <n>Laisse quelques armes au stand d'armes et place les objets inutiles dans le stockage</n>
   </pip>
   <pip id="speedshtr1" v="0.8">
-    <n>Tu es surchargé d'objets. Dans cet état, tu ne pourras ni courir, ni accélérer</n>
+    <n>Vous êtes surchargé d'objets. Dans cet état, vous ne pouvez ni courir, ni accélérer</n>
   </pip>
   <pip id="speedshtr2" v="0.8">
-    <n>Tu es très surchargé d'objets. Dans cet état, tu ne pourras que trotter et à peine sauter</n>
+    <n>Vous êtes très surchargé d'objets. Dans cet état, vous ne pouvez que trotter et à peine sauter</n>
   </pip>
   <pip id="speedshtr3" v="0.8">
-    <n>Tu es tellement surhargé que tu ne peux même pas faire un seul pas</n>
+    <n>Vous êtes tellement surchargé que vous ne pouvez même pas faire un seul pas</n>
   </pip>
   <pip id="pet" v="0.8">
     <n>Compagnon</n>
@@ -6481,7 +6481,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Verrou bloqué !</n>
   </info>
   <info id="unRepZhopa" st="5">
-    <n>Tu as eu un choc électrique</n>
+    <n>Vous avez eu un choc électrique</n>
   </info>
   <info id="unLockBlock" st="3">
     <n>Système bloqué !</n>
@@ -7314,10 +7314,10 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Attention! Santé de l'utilisateur critique, continuer la mission est impossible. [br]Début de l'évacuation d'urgence vers la base</n>
   </txt>
   <txt id="nocont">
-    <n>Ta santé est critique, continuer la mission est impossible.[br]Va chercher du soin.</n>
+    <n>Votre santé est critique, continuer la mission est impossible.[br]Allez chercher du soin.</n>
   </txt>
   <txt id="nocont2" v="0.8">
-    <n>Tu es surchargé ![br]Laisse certaines de tes armes au stand d'armes et laisse tes objets dans le stockage</n>
+    <n>Vous êtes surchargé ![br]Laissez certaines de vos armes au stand d'armes et laissez vos objets dans le stockage</n>
   </txt>
   <txt id="trWalk" s1="keyLeft" s2="keyRight">
     <n>Appuyez sur @1 ou @2 pour vous déplacer à gauche et à droite.</n>
@@ -7401,19 +7401,19 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>In case you can`t make it, this thing here will help you this time. But seriously, it is not that hard!</n>
   </txt>
   <txt id="trFloat" s1="keyJump">
-    <n>On dirait que tu vas devoir nager. Maintiens la touche @1 pour nager vers le haut et sauter hors de l'eau.</n>
+    <n>On dirait que vous allez devoir nager. Maintenez la touche @1 pour nager vers le haut et sauter hors de l'eau.</n>
   </txt>
   <txt id="trZoom" s1="keyLook" s2="keyZoom">
-    <n>Maintiens @1 et bouge le curseur pour déplacer la caméra. Appuies sur @2 pour zoomer</n>
+    <n>Maintenez @1 et déplacez le curseur pour déplacer la caméra. Appuyez sur @2 pour zoomer</n>
   </txt>
   <txt id="perkLevit" v="0.7">
-    <n>Tu as obtenu la possibilité de...[br]sauter 2 fois !</n>
+    <n>Vous avez obtenu la possibilité de...[br]sauter 2 fois !</n>
   </txt>
   <txt id="trLevit" s1="keyJump" v="0.7">
-    <n>While jumping, press @1 again to jump off air with telekinesis.[br]Using this technique you can jump much further</n>
+    <n>Pendant que vous sautez, appuyez encore sur @1 pour sauter une deuxième fois avec la télékinésie.[br]Avec cette technique tu peux sauter plus loin</n>
   </txt>
   <txt id="trLevitUp" v="0.7">
-    <n>You can also use a double jump to get into hard-to-reach places</n>
+    <n>Tu peux aussi sauter 2 fois pour atteindre des lieux innacessible en temps normal</n>
   </txt>
   <txt id="trVlaz" s1="keyBeUp" s2="keyLeft" s3="keyRight" v="0.6">
     <n>Hold @1 + @3(@2) to climb one block high without jumping, or climb through narrow passages at the level of one block</n>
@@ -7567,7 +7567,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="begDialInvent" imp="2" v="0.7">
     <n>
-      <t v="0.8">Inventory manual</t>
+      <t v="0.8">Manuel de l'inventaire</t>
       <r p='term' s1='keyPip' s2='keyInvent'>[Inventory manual]
                 Everything that you find and collect during a journey will be stored in your inventory. You can browse through the inventory using PipBuck (key @1 or @2), [Inventory] section.
                 This section has several subsections that you can switch between using buttons in the upper part of the interface - [Weapons], [Armor], [Equipment], [Ammunition], [Other]</r>
@@ -13611,79 +13611,79 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Well, yeah...</r>
       <r>And what did you expect?</r>
       <r>They are doing that again...</r>
-      <r>It stinks!</r>
-      <r>Why me?</r>
-      <r>Something is dripping on my head</r>
-      <r>Good thing you are here and not outside</r>
-      <r>The experiment was successful</r>
-      <r>There`s mold here again</r>
-      <r>Yes, where did that piece of crap roll?</r>
-      <r>I hate cleaning</r>
-      <r>My PipBuck is buggy</r>
+      <r>ça pue!</r>
+      <r>Pourquoi moi?</r>
+      <r>Quelque chose coule sur ma tête</r>
+      <r>Bon que tu sois la et non dehor</r>
+      <r>L'experiance fut un succes</r>
+      <r>Il y a encore de la moisissure ici</r>
+      <r>Oui, où est-ce que ce morceau de merde a roulé ?</r>
+      <r>Je deteste nettoyer</r>
+      <r>Mon PipBuck bug</r>
       <r>Oh yeah!</r>
-      <r>I`m not feeling so well</r>
+      <r>Je ne me sent pas bien</r>
     </rep>
     <rep act="hi" id="stabpon" v="0.8">
-      <r>Oh, @lp, long time no see!</r>
-      <r>It`s been a long time, @lp!</r>
-      <r>@lp, haven`t seen you in a while.</r>
-      <r>How are you, @lp?</r>
-      <r>Hi @lp, you`re back?</r>
-      <r>You are back, @lp?</r>
-      <r>How is it up there?</r>
-      <r>Is is true that outside there are only monsters and radiation?</r>
-      <r>Have you seen monsters?</r>
-      <r>Oh... @lp showed up again...</r>
+      <r>Oh, @lp, ça fais longtemp quon s'est pas vu!</r>
+      <r>ça fais longtemps, @lp!</r>
+      <r>@lp, ça fais un bail.</r>
+      <r>Comment tu va, @lp?</r>
+      <r>Salut @lp, tes de retour?</r>
+      <r>De retour, @lp?</r>
+      <r>Comment ça se passe là-haut?</r>
+      <r>C'est vrai que dehor il n'y a que des monstre et des radiations?</r>
+      <r>Tu as vu des monstres?</r>
+      <r>Oh... @lp est de retour...</r>
       <r>Wow!</r>
-      <r>Just look at you!</r>
-      <r>When was the last time you took shower?</r>
-      <r>Hi!</r>
-      <r>Hello, @lp</r>
-      <r>How are you, @lp?</r>
-      <r>When are you going to return that debt?</r>
-      <r>My PipBuck is broken again, can you fix it?</r>
-      <r>Oh-wei!</r>
-      <r>Does everypony outside walk like this?</r>
-      <r>Do you still need your stuff?</r>
-      <r>I thought you would never return</r>
-      <r>Why, if this isn`t the "Chosen-25" herself... big deal...</r>
-      <r>Did you find out something about Velvet?</r>
-      <r>You are back already?</r>
-      <r>Let`s make a party?</r>
-      <r>Come over, have some moonshine!</r>
+      <r>Regarde toi!</r>
+      <r>C'est quand la derniere fois que tu a prise une douche?</r>
+      <r>Salut!</r>
+      <r>Bonjour, @lp</r>
+      <r>Comment tu va, @lp?</r>
+      <r>Quand allez-vous rembourser cette dette?</r>
+      <r>Mon PipBuck est encore cassé, peux tu le réparé ?</r>
+      <r>Oh ouais!</r>
+      <r>Est-ce-que tout les poneys dehor marchent comme ça ?</r>
+      <r>Toujour besoin de tes affaires ?</r>
+      <r>Je pensais que tu ne reviendrais jamais</r>
+      <r>Mais qui voila , si ce n'est "Chosen-25" en personne...</r>
+      <r>Tu a trouvé quelque chose sur Velvet?</r>
+      <r>Tu es deja de retour ?</r>
+      <r>Faisons une fête ?</r>
+      <r>Viens, prends du clair de lune!</r>
     </rep>
     <rep act="int" id="sortir" v="0.7">
-      <r>Hey, it`s occupied!</r>
+      <r>Hey, c'est occupé !</r>
     </rep>
     <rep act="neutral" id="child" v="0.7">
-      <r>Hello!</r>
-      <r>What`s up?</r>
-      <r>Wanna play?</r>
-      <r>Pew-pew</r>
-      <r>You`ll die soon...</r>
-      <r>Oh, that`s soo cool!</r>
-      <r>Awesome!</r>
-      <r>Hey, that`s mine!</r>
-      <r>Mine`s better!</r>
-      <r>Pew! Boom</r>
+      <r>Bonjour!</r>
+      <r>Comment ça va ?</r>
+      <r>Tu veux jouer ?</r>
+      <r>Piou-piou</r>
+      <r>Tu va bientot mourrir...</r>
+      <r>Oh, c'est trop cool!</r>
+      <r>Incroyable!</r>
+      <r>Hey, c'est a moi !</r>
+      <r>Le mien est mieu!</r>
+      <r>Piou! Boom</r>
       <r>La-la-la</r>
-      <r>Hide and seek?</r>
-      <r>What a dummy!</r>
+      <r>Cache cache?</r>
+      <r>Quel con!</r>
       <r>Nuh-huh</r>
-      <r>Stay back!</r>
+      <r>Reste en arrière !</r>
       <r>Na-na-na</r>
-      <r>Can I have some caps?</r>
+      <r>Je peux avoir des capsules ?</r>
     </rep>
     <rep act="hi" id="child" v="0.8">
-      <r>Golly!</r>
-      <r>Hey, looky here!</r>
-      <r>I`m not doing anything!</r>
-      <r>It was broken when I found it!</r>
-      <r>Hi, @lp</r>
+      <r>T'imagine si on etait dans un jeu video et que toutes tes actions étaits controlé</r>
+      <r>Hey, regarde ici!</r>
+      <r>Je ne fais rien!</r>
+      <r>C'etait cassé quand je l'ai trouvé!</r>
+      <r>Salut, @lp</r>
       <r>Yay!</r>
-      <r>I`m soo bored...</r>
-      <r>It`s all his fault!</r>
-      <r>I`m just standing here</r>
+      <r>Je m'ennui tellement...</r>
+      <r>Tout est de sa faute!</r>
+      <r>Je reste la</r>
     </rep>
   </replic>
 </all>
