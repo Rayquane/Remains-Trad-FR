@@ -629,15 +629,15 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Robot-bomb, apparently created by zebras. Unlike common mines, these do not wait for the enemy to step on them, but try getting closer themselves. They must never be allowed to come close - once they approach the target, they immediately explode</info>
   </unit>
   <unit id="dron1" v="0.7">
-    <n>Security drone</n>
+    <n>Drone de sécurité</n>
     <info>A small but quite dangerous flying robot. Has a durable composite case, active electric protection and a fairly powerful laser weapon. It is used to protect military and civilian facilities of special importance</info>
   </unit>
   <unit id="dron2" v="0.7">
-    <n>Combat drone</n>
+    <n>Drone de combat</n>
     <info>Modified security drone, not so sturdy, but much faster and mobile. Armed with a high-voltage discharger and a plasma generator. Designed to accompany and support military units</info>
   </unit>
   <unit id="dron3" v="0.8">
-    <n>Enclave drone</n>
+    <n>Drone de l'Enclave</n>
     <info>Lightweight high-speed drone, often used by Enclave stormtroopers in combat. Thanks to its high maneuverability and advanced behavioral algorithms it can evade melee weapons, slow projectiles and even bullets</info>
   </unit>
   <unit id="mtrap">
@@ -662,10 +662,10 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Armed gun</n>
   </unit>
   <unit id="transmitter" v="0.6">
-    <n>Transmitter</n>
+    <n>Emetteur</n>
   </unit>
   <unit id="damexpl1">
-    <n>Installed explosives</n>
+    <n>Explosifs installés</n>
   </unit>
   <unit id="training">
     <n>Training dummy</n>
@@ -674,13 +674,13 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Captive in a cage</n>
   </unit>
   <unit id="cage">
-    <n>Empty cage</n>
+    <n>Cage vide</n>
   </unit>
   <unit id="ponpon" v="0.7">
     <n>Poney</n>
   </unit>
   <unit id="zebpon" v="0.7">
-    <n>Zebra</n>
+    <n>Zèbre</n>
   </unit>
   <unit id="moon" v="0.7">
     <n>Lunar blade</n>
@@ -689,10 +689,10 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Magic turret</n>
   </unit>
   <unit id="stabpon" v="0.8">
-    <n>Stable dweller</n>
+    <n>Habitant d'Ecurie</n>
   </unit>
   <unit id="destr1" v="0.8">
-    <n>Thunderhead reactor</n>
+    <n>Réacteur de Thunderhead</n>
   </unit>
   <weapon id="mont">
     <n>Crowbar</n>
@@ -711,7 +711,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Composed of a sharpened metal part fastened by wire to a firm wooden stick</info>
   </weapon>
   <weapon id="spear^1">
-    <n>"Viper`s bite"</n>
+    <n>"Morsure de la vipère"</n>
     <info>Unlike an ordinary spear, this one is made of firm bamboo with a tip perfectly sharpened and, for a cherry on top, poisoned</info>
   </weapon>
   <weapon id="knife">
@@ -728,22 +728,22 @@ Although no pony produces robots nowadays, many of them are still functional des
   </weapon>
   <weapon id="zknife^1" v="0.7">
     <n>Sacrificial knife</n>
-    <info>Le jouet préféré des pillards sadique, ainsi que le mien</info>
+    <info>Le jouet préféré des pillards sadiques.</info>
   </weapon>
   <weapon id="cknife">
-    <n>Combat knife</n>
+    <n>Couteau de combat</n>
     <info>An outstanding knife of high quality steel, still sharp even after all these years. Indispensable in a close range battle</info>
   </weapon>
   <weapon id="cknife^1">
     <n>"Sting"</n>
-    <info>A unique combat knife with a wavy edge made of durable steel. Sharp like a razor!</info>
+    <info>A unique combat knife with a wavy edge made of durable steel. Sharp like a razor !</info>
   </weapon>
   <weapon id="bat">
     <n>Bat with nails</n>
     <info>Un déchet... Mais toujours mieux qu'une batte simple.</info>
   </weapon>
   <weapon id="mach">
-    <n>Machete</n>
+    <n>Machette</n>
     <info>A huge broad blade from Zebra Empire. Useful for chopping through dense vegetation or slicing and dicing enemies</info>
   </weapon>
   <weapon id="mach^1">
@@ -759,7 +759,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Electrical saw, working on batteries. Can cut relatively fragile materials, including bones and skulls. Way less effective against metal</info>
   </weapon>
   <weapon id="ripper^1" v="0.7">
-    <n>Sawpony</n>
+    <n>Scie de poney</n>
     <info>A unique modified ripper. Unlike the common one, this has teeth of special steel, which makes it easy to cut through not that strong armor</info>
   </weapon>
   <weapon id="autoaxe">
@@ -767,15 +767,15 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Spinning edges of this tool are enchanted so that it can easily cut all sorts of metal garbage. Quite as easily it cuts metal armor, with its owner inside. Consumes Spark-batteries</info>
   </weapon>
   <weapon id="bsaw">
-    <n>Chainsaw</n>
+    <n>Tronçonneuse</n>
     <info>Once it was used to cut down trees, now, as there are no trees left, one can use it to cut enemies to pieces. Magically-enhanced teeth can handle even the sturdiest material. Consumes Spark-batteries</info>
   </weapon>
   <weapon id="shovel">
-    <n>Shovel</n>
+    <n>Pelle</n>
     <info>Once it was an instrument for earthwork, but sharpened edge converted it into a weapon</info>
   </weapon>
   <weapon id="mace">
-    <n>Mace</n>
+    <n>Masse</n>
     <info>A heavy iron machinery part, welded to a sturdy long rod. A good swing - and it can easily add a couple of holes to somepony`s head</info>
   </weapon>
   <weapon id="hammer">
@@ -783,31 +783,31 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A good tool for crushing walls as well as enemy skulls</info>
   </weapon>
   <weapon id="hammer^1">
-    <n>"Minotaur fist"</n>
+    <n>"Poing de minotaure"</n>
     <info>A sledgehammer turned into a deadly weapon. A prolonged handle is made of sturdiest oak and reinforced with iron, and head is ribbed for dealing higher damage</info>
   </weapon>
   <weapon id="axe">
-    <n>Axe</n>
+    <n>Hache</n>
     <info>This huge axe comes in handy for cutting through enemy crowds</info>
   </weapon>
   <weapon id="zsword">
-    <n>Zebra sword</n>
+    <n>Epée de zèbre</n>
     <info>This sword was an attribute of every zebra centurion or higher officer during wartime. It was more a proof of status than a combat weapon though</info>
   </weapon>
   <weapon id="zsword^1">
-    <n>"Dawnbreaker"</n>
+    <n>"Eclat de l'aube"</n>
     <info>Obviously this zebra sword belonged to some big fish. You can tell that by gold decorations on the guard and zebra glyphs on the blade which, unfortunately, you can`t read</info>
   </weapon>
   <weapon id="elsword">
-    <n>Electrical zebra sword</n>
+    <n>Epée électrique de zèbre</n>
     <info>A common zebra sword at the first glance, but one can notice little lightnings dancing around on a surface of the blade. Which is unusual to say the least</info>
   </weapon>
   <weapon id="elsword^1" v="0.71">
-    <n>"Caesar`s word"</n>
+    <n>"Le mot de Caesar"</n>
     <info>A unique electric sword that once belonged to a legate of the Zebra legion</info>
   </weapon>
   <weapon id="edagger" v="0.7">
-    <n>Magical energy dagger</n>
+    <n>Dague à énergie magique</n>
     <info>Compact weapon, combining the advantages of melee and magical energy weapons. Inflicts plasma damage</info>
   </weapon>
   <weapon id="cdagger" v="0.8">
@@ -815,11 +815,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A long dagger made from a claw of the hellhound leader you defeated. This claw is stronger than steel and sharper than the best combat knife</info>
   </weapon>
   <weapon id="sword">
-    <n>Sword</n>
+    <n>Epée</n>
     <info>Very effective melee weapon, but it requires quite some experience using it</info>
   </weapon>
   <weapon id="sword^1">
-    <n>"Star fury"</n>
+    <n>"Furie étoile"</n>
     <info>This unique sword is not made of usual steel but of metal of unknown origin. Its edge almost never get blunt and can cut through enemy armor like through cardboard</info>
   </weapon>
   <weapon id="lsword">
@@ -855,7 +855,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A magical weapon from the zebras` land, possessing an ominous and unstoppable power. It is capable of cutting those invisible threads that bind souls to bodies of living beings, ignoring any armor</info>
   </weapon>
   <weapon id="hsword">
-    <n>Hoofmade sword</n>
+    <n>Epée faite-sabot</n>
     <info>Actually it is not a sword at all but a sharpened metal part of some mechanism, strapped to a stick</info>
   </weapon>
   <weapon id="test">
@@ -1339,11 +1339,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A bottle filled with a very corrosive liquid. When smashed, it spills acid everywhere, causing severe chemical burns to whoever steps into it. Effective against robots` armor</info>
   </weapon>
   <weapon id="plagr">
-    <n>Plasma grenade</n>
+    <n>Grenade à plasma</n>
     <info>Instead of common explosive substances, this grenade uses powerful magic charge that can melt everything! Much more powerful than usual grenades</info>
   </weapon>
   <weapon id="impgr">
-    <n>Impulse grenade</n>
+    <n>Grenade à impulsion</n>
     <info>A grenade using electromagnetic impulse for destroying robots and other electronics. Is not effective against live targets</info>
   </weapon>
   <weapon id="cryogr" v="0.6">
@@ -1355,7 +1355,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A bottle filled with incendiary liquid and plugged with a piece of cloth. Ignite it, throw it - simple, cheap, effective</info>
   </weapon>
   <weapon id="fgren">
-    <n>Incendiary grenade</n>
+    <n>Grenade incendiaire</n>
     <info>Exploding, this grenade sets everything on fire</info>
   </weapon>
   <weapon id="spgren" v="0.6">
@@ -1363,19 +1363,19 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>An extremely powerful version of a hoofmade grenade with increased radius of damage. For an explosive it uses an infernal mixture based on Sparkle-Cola RAD</info>
   </weapon>
   <weapon id="hmine">
-    <n>Hoofmade mine</n>
+    <n>Mine faite-sabot</n>
     <info>A mine assembled from junk and gunpowder. It operates like an ordinary anti-personnel mine, but not as powerful</info>
   </weapon>
   <weapon id="mine">
-    <n>Fragmentation mine</n>
-    <info>A proximity mine, equipped with a friend/enemy recognition system</info>
+    <n>Mine à fragmentation</n>
+    <info>Une mine de proximité, équippée d'un système de reconnaissancce allié/ennemi.</info>
   </weapon>
   <weapon id="plamine">
-    <n>Plasma mine</n>
+    <n>Mine à plasma</n>
     <info>Powerful magically-enhanced version of an usual mine</info>
   </weapon>
   <weapon id="impmine">
-    <n>Impulse mine</n>
+    <n>Mine à impulsion</n>
     <info>Anti-robot mine, which sensor is calibrated to react only on mechanical enemies. It doesn`t affect live forces</info>
   </weapon>
   <weapon id="cryomine" v="0.6">
@@ -1387,23 +1387,23 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A balefire egg, turned into a mine. It is required to be a real explosives master to assemble and use such dangerous devices</info>
   </weapon>
   <weapon id="zebmine" v="0.8">
-    <n>Zebra`s mine</n>
+    <n>Mine de zèbre</n>
     <info>This mine is more powerful than usual fragmentation and plasma mines, and because of its camouflage pattern it is more difficult to notice. In addition, zebras often cast a curse on such mines, making them even more dangerous</info>
   </weapon>
   <weapon id="x37" v="0.6">
-    <n>Explosive X-37</n>
+    <n>Explosif X-37</n>
     <info>Small, yet powerful charges of plastic explosives equipped with a radio detonator. You can install several charges and then explode all at the same time by pressing the button. To detonate, press the reload button [R]. Only explosives in the same room will detonate</info>
   </weapon>
   <weapon id="dbomb">
-    <n>Dynamite pack</n>
+    <n>Pack de dynamites</n>
     <info>A couple of dynamite sticks, held together with duct tape. It is more effective for destroying walls, than ordinary dynamite, but doesn`t cause much damage to fortified concrete</info>
   </weapon>
   <weapon id="bomb">
-    <n>Hoofmade bomb</n>
+    <n>Bombe faite-sabot</n>
     <info>Explosives made for destroying fragile walls. More sturdy walls may require a couple of these</info>
   </weapon>
   <weapon id="exc4">
-    <n>The explosive C-4</n>
+    <n>L'explosif C-4</n>
     <info>It is a very powerful explosive device that can destroy even the sturdiest concrete wall. Useless against steel walls</info>
   </weapon>
   <weapon id="telebul">
@@ -2152,15 +2152,15 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A rare kind of Sparkle-Cola, which contains radioactive substances. Has a radish taste and glows in the dark</info>
   </item>
   <item id="coffee" v="0.7">
-    <n>Coffee</n>
+    <n>Café</n>
     <info>Tasty and healthy drink with a light stimulating effect</info>
   </item>
   <item id="milk" v="0.7">
-    <n>Milk</n>
-    <info>Fresh brahmin milk, removes radiation</info>
+    <n>Lait</n>
+    <info>Lat de brahmine frais, retire les radiations</info>
   </item>
   <item id="beer" v="0.7">
-    <n>Beer</n>
+    <n>Bière</n>
     <info>Low-alcoholic beverage made from local oats. The taste is not so great</info>
   </item>
   <item id="braga" v="0.7">
@@ -2180,7 +2180,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>An hard draft with a scent of fusel oil. For those who simply want to get wasted</info>
   </item>
   <item id="spirt" v="0.7">
-    <n>Alcohol</n>
+    <n>Alcool</n>
     <info>Almost pure alcohol, rare and quite expensive</info>
   </item>
   <item id="alc1" v="0.7">
@@ -2232,7 +2232,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Food rich in vegetable protein</info>
   </item>
   <item id="bread" v="0.7">
-    <n>Bread</n>
+    <n>Pain</n>
     <info>Relatively fresh bread, baked no more than a week ago</info>
   </item>
   <item id="oats" v="0.7">
@@ -2256,7 +2256,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Sweet corn flakes shaped like air bombs</info>
   </item>
   <item id="lollipops" v="0.7">
-    <n>Lollipops</n>
+    <n>Sucettes</n>
     <info>Pre-war delicacy, delicious sweet and sour sweets</info>
   </item>
   <item id="bananas" v="0.7">
@@ -2268,11 +2268,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Sweet mass made of ground peanuts</info>
   </item>
   <item id="honey" v="0.7">
-    <n>Honey</n>
+    <n>Miel</n>
     <info>Honey can be stored for hundreds of years, but fresh honey is lost, probably, forever</info>
   </item>
   <item id="apple" v="0.7">
-    <n>Apple</n>
+    <n>Pomme</n>
     <info>A real apple grown on the surface</info>
   </item>
   <item id="mushroom" v="0.7">
@@ -2280,55 +2280,55 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Mushroom of questionable edibility</info>
   </item>
   <item id="carrot" v="0.7">
-    <n>Carrot</n>
+    <n>Carotte</n>
     <info>Sweet and crisp root</info>
   </item>
   <item id="onion" v="0.7">
-    <n>Onion</n>
+    <n>Oignon</n>
     <info>Bitter vegetable, used in many dishes</info>
   </item>
   <item id="tomato" v="0.7">
-    <n>Tomato</n>
+    <n>Tomate</n>
     <info>Delicious vegetable of a slightly sour taste</info>
   </item>
   <item id="cucumber" v="0.7">
-    <n>Cucumber</n>
+    <n>Concombre</n>
     <info>Green watery vegetable</info>
   </item>
   <item id="cabbage" v="0.7">
-    <n>Cabbage</n>
+    <n>Choux</n>
     <info>Juicy and fibrous vegetable</info>
   </item>
   <item id="butter" v="0.7">
-    <n>Butter</n>
+    <n>Beurre</n>
     <info>Fresh butter from a local farm</info>
   </item>
   <item id="cheese" v="0.7">
-    <n>Cheese</n>
+    <n>Fromage</n>
     <info>Fresh cheese, looks and smells good</info>
   </item>
   <item id="tegg" v="0.7">
-    <n>Egg</n>
+    <n>Oeuf</n>
     <info>Looks more like an egg of some reptile than bird</info>
   </item>
   <item id="meat" v="0.7">
-    <n>Meat</n>
+    <n>Viande</n>
     <info>It is not recommended to eat raw meat</info>
   </item>
   <item id="potato" v="0.7">
-    <n>Potato</n>
+    <n>Patate</n>
     <info>Nutritious tubers, usually used in cooked form</info>
   </item>
   <item id="flour" v="0.7">
-    <n>Flour</n>
+    <n>Farine</n>
     <info>The main ingredient of any pastry</info>
   </item>
   <item id="garlic" v="0.7">
-    <n>Garlic</n>
+    <n>Ail</n>
     <info>A very spicy and odorous vegetable, used as a seasoning and as a chemical weapon</info>
   </item>
   <item id="sugar" v="0.7">
-    <n>Sugar</n>
+    <n>Suvre</n>
     <info>Sugar is no longer produced, so its strategic reserves are very valuable</info>
   </item>
   <item id="ketchup" v="0.7">
@@ -2340,7 +2340,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>It is said that meat increases aggression</info>
   </item>
   <item id="cucsand" v="0.7">
-    <n>Cucumber sandwich</n>
+    <n>Sandwich au concombre</n>
     <info>Simple snack</info>
   </item>
   <item id="frpot" v="0.7">
@@ -5881,7 +5881,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Pas de quête pour le moment</n>
   </pip>
   <pip id="piperror" v="0.8">
-    <n>Attention ! System failure</n>
+    <n>Attention ! Echec système.</n>
     <info>Error 0-4570-7f45-a420-ff98 (System error, contact administrator)
 The likely cause of the failure is an effect of an electromagnetic pulse on the PipBuck systems.
 Checking the subsystems and modules:
@@ -6972,11 +6972,11 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>There are many dangers in the ruins of Manehattan. Here you can often encounter squads of slavers and mercenaries. Also, some time ago reports started coming about groups of the Goddess`s alicorns appearing there</info>
   </map>
   <map id="random_mbase" v="0.7">
-    <n>Military base</n>
+    <n>Base militaire</n>
     <info>A military base in the past, now - base of the Steel Rangers</info>
   </map>
   <map id="random_canter" v="0.7">
-    <n>Canterlot ruins</n>
+    <n>Ruines de Canterlot </n>
     <info>The former capital of Equestria. Now filled with the deadly Pink Cloud and inhabited by various monsters</info>
   </map>
   <map id="mtn" v="0.7">
@@ -6984,7 +6984,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>A tall, but heavily destroyed skyscraper, in the past - one of the regional offices of the Ministry of Arcane Sciences</info>
   </map>
   <map id="labirint" v="0.6">
-    <n>Maze</n>
+    <n>Labyrinthe</n>
     <info>Find the way out of the maze. Tip: to get into narrow passages at the height of one block, press [W] + [A] or [W] + [D]</info>
     <help>You will easily find the right path by using an infra-vision potion</help>
   </map>
@@ -6993,7 +6993,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>Get to the end without stepping on slime. Tip: use a chemical protection suit to minimize acid damage</info>
   </map>
   <map id="radioactive" v="0.6">
-    <n>Gamma radiation</n>
+    <n>Radiation gamma</n>
     <info>Get through the radioactive zone without dying. Tip: use all available means of radiation protection</info>
     <help>For jumping in the horizontal direction use dash move [Shift] + [A], [A] or [Shift] + [D], [D]</help>
   </map>
@@ -7018,7 +7018,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <help>To prevent the automatic door from closing place something in the doorway</help>
   </map>
   <map id="buttons3" v="0.6">
-    <n>Throwing grenades</n>
+    <n>Lancer des grenades</n>
     <info>By throwing explosives accurately, press all the red buttons. Tip: use S.A.T.S. for better aim. To throw a grenade farther, learn "explosives" skill. You can adjust the force of the throw by changing cursor position</info>
     <help>To press the nearest button use telekinesis with a dynamite stick. To press the farthest button use S.A.T.S. and choose the correct trajectory of the throw. You will need the "explosive" skill of 3rd level at least</help>
   </map>
@@ -7052,7 +7052,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <help>Drain water by punching out the plugs. Use an anti-radiation suit</help>
   </map>
   <map id="speed" v="0.6">
-    <n>Speed</n>
+    <n>Vitesse</n>
     <info>You need to press the button here, then run to the other side before the door closes. It`s simple, just don`t run out of time</info>
     <help>Water at the lower level will slow you down, get rid of it. Use chemicals to run faster and jump higher</help>
   </map>
@@ -7062,7 +7062,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <help>Bloatsprites are vulnerable to magical energy weapons. Destroy nests as quickly as possible, or they will produce more and more new bloatsprites</help>
   </map>
   <map id="ant_breeding" v="0.6">
-    <n>Ant tunnels</n>
+    <n>Tunnels de fourmis</n>
     <info>Destroy all ant nests</info>
     <help>Ant nests are most vulnerable to explosions</help>
   </map>
@@ -7071,19 +7071,19 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>Get valuable items from the safe</info>
   </map>
   <map id="data" v="0.6">
-    <n>Data room</n>
+    <n>Salle de données</n>
     <info>Data storage and server room. Entrance is authorized only for the overmare, the technical service officer and the sysadmin. Attention! On intrusion, security systems open fire without warning</info>
   </map>
   <map id="floating" v="0.6">
-    <n>Flooded tunnels</n>
+    <n>Tunnels innondés</n>
     <info>Can you hold your breath for a long time, navigate through muddy water, fix mechanisms? If not, you shall not pass here</info>
   </map>
   <map id="platform" v="0.6">
-    <n>Moving platforms</n>
+    <n>Plateformes mouvantes</n>
     <info>Using moving platforms, get to the safe</info>
   </map>
   <map id="lasertag" v="0.6">
-    <n>Laser traps</n>
+    <n>Pièges lasers</n>
     <info>Avoid laser traps, disarm them or force your way through</info>
     <help>Laser sensors react only on hostile targets. Like you. They can be disabled having a sufficient level of the "Science" skill</help>
   </map>
@@ -7096,10 +7096,10 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Robots</n>
   </map>
   <map id="lair" v="0.6">
-    <n>Raiders</n>
+    <n>Pillards</n>
   </map>
   <map id="sentinels" v="0.6">
-    <n>Sentinels</n>
+    <n>Sentinelles</n>
   </map>
   <map id="zombies" v="0.6">
     <n>Zombies</n>
@@ -7111,10 +7111,10 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Scorpion pit</n>
   </map>
   <map id="raiders1" v="0.6">
-    <n>Raiders` den</n>
+    <n>Repaire de pillards</n>
   </map>
   <map id="slavers" v="0.6">
-    <n>Slavers` den</n>
+    <n>Repaire d'esclavagistes</n>
   </map>
   <map id="bloatking" v="0.6">
     <n>Roi bouffisprite</n>
@@ -7139,31 +7139,31 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Danger</n>
   </map>
   <map id="bossraider" v="0.6">
-    <n>Raiders leader (boss)</n>
+    <n>Chef de pillards (boss)</n>
   </map>
   <map id="bossultra" v="0.6">
     <n>Ultra-sentinelle (boss)</n>
   </map>
   <map id="bossalicorn" v="0.6">
-    <n>Alicorn (boss)</n>
+    <n>Alicorne (boss)</n>
   </map>
   <map id="bossraider1" v="0.6">
-    <n>Boss of the factory</n>
+    <n>Boss de l'usine</n>
   </map>
   <map id="bossraider2" v="0.7">
-    <n>Boss of the slavers camp</n>
+    <n>Boss du camp des esclavagistes</n>
   </map>
   <map id="bossultra1" v="0.6">
-    <n>Boss of the abandoned stable</n>
+    <n>Boss de l'Ecurie abandonnée</n>
   </map>
   <map id="bossalicorn1" v="0.6">
-    <n>Boss of the Manehattan ruins</n>
+    <n>Boss des ruines de Manehattan</n>
   </map>
   <map id="generator" v="0.7">
-    <n>Generator room</n>
+    <n>Salle du générateur</n>
   </map>
   <map id="biblio" v="0.7">
-    <n>Library</n>
+    <n>Bibliothèque</n>
   </map>
   <map id="barahlo" v="0.7">
     <n>Dark and dangerous cellar</n>
@@ -7173,16 +7173,16 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>A mysterious cellar</n>
   </map>
   <map id="telekin" v="0.7">
-    <n>Weird place</n>
+    <n>Lieu étrange</n>
   </map>
   <map id="camp" v="0.7">
     <n>Camp</n>
   </map>
   <map id="griff" v="0.7">
-    <n>Prison camp</n>
+    <n>Prison du camp</n>
   </map>
   <map id="way" v="0.7">
-    <n>Somewhere along the way to Canterlot...</n>
+    <n>Quelque part sur le chemin vers Canterlot...</n>
   </map>
   <map id="covert" v="0.7">
     <n>Covertsign</n>
@@ -7204,29 +7204,29 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Stable-Tech office, service entrance</n>
   </map>
   <map id="talisman" v="0.7">
-    <n>Alicorns` lair</n>
+    <n>Repaire d'Alicornes</n>
   </map>
   <map id="w_raiders" v="0.7">
-    <n>Battle for the Factory</n>
+    <n>Combat pour l'Usine</n>
     <info>Fight several waves of opponents, coming one after another. The time for the destruction of each wave is limited. Try not to die in the process, otherwise you`ll have to start again</info>
   </map>
   <map id="w_zombie" v="0.7">
     <n>Battle for the Sewers</n>
   </map>
   <map id="w_robots" v="0.7">
-    <n>Battle for the Stable</n>
+    <n>Combat pour l'Ecurie</n>
   </map>
   <map id="w_grif" v="0.7">
-    <n>Battle for Manehattan</n>
+    <n>Combat pour Manehattan</n>
   </map>
   <map id="w_necros" v="0.7">
-    <n>Battle for Canterlot</n>
+    <n>Combat pour Canterlot</n>
   </map>
   <map id="bossnecr1" v="0.7">
-    <n>Boss of Canterlot</n>
+    <n>Boss de Canterlot</n>
   </map>
   <map id="bossdron1" v="0.7">
-    <n>Boss of the Military base</n>
+    <n>Boss de la Base militaire </n>
   </map>
   <map id="buttons6" v="0.7">
     <n>Rapid shooter</n>
@@ -13611,79 +13611,79 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Well, yeah...</r>
       <r>And what did you expect?</r>
       <r>They are doing that again...</r>
-      <r>ça pue!</r>
-      <r>Pourquoi moi?</r>
-      <r>Quelque chose coule sur ma tête</r>
-      <r>Bon que tu sois la et non dehor</r>
-      <r>L'experiance fut un succes</r>
-      <r>Il y a encore de la moisissure ici</r>
+      <r>Ça pue !</r>
+      <r>Pourquoi moi ?</r>
+      <r>Quelque chose coule sur ma tête.</r>
+      <r>Bon que tu sois la et non dehors.</r>
+      <r>L'expérience fut un succès.</r>
+      <r>Il y a encore de la moisissure ici.</r>
       <r>Oui, où est-ce que ce morceau de merde a roulé ?</r>
-      <r>Je deteste nettoyer</r>
+      <r>Je déteste nettoyer</r>
       <r>Mon PipBuck bug</r>
-      <r>Oh yeah!</r>
-      <r>Je ne me sent pas bien</r>
+      <r>Oh yeah !</r>
+      <r>Je ne me sens pas bien.</r>
     </rep>
     <rep act="hi" id="stabpon" v="0.8">
-      <r>Oh, @lp, ça fais longtemp quon s'est pas vu!</r>
-      <r>ça fais longtemps, @lp!</r>
+      <r>Oh, @lp, ça fait longtemps qu'on s'est pas vu !</r>
+      <r>Ça fais longtemps, @lp !</r>
       <r>@lp, ça fais un bail.</r>
-      <r>Comment tu va, @lp?</r>
-      <r>Salut @lp, tes de retour?</r>
+      <r>Comment tu vas, @lp?</r>
+      <r>Salut @lp, t'es de retour?</r>
       <r>De retour, @lp?</r>
-      <r>Comment ça se passe là-haut?</r>
-      <r>C'est vrai que dehor il n'y a que des monstre et des radiations?</r>
-      <r>Tu as vu des monstres?</r>
+      <r>Comment ça se passe là-haut ?</r>
+      <r>C'est vrai que dehors il n'y a que des monstres et des radiations ?</r>
+      <r>Tu as vu des monstres ?</r>
       <r>Oh... @lp est de retour...</r>
-      <r>Wow!</r>
-      <r>Regarde toi!</r>
+      <r>Wow !</r>
+      <r>Regarde toi !</r>
       <r>C'est quand la derniere fois que tu a prise une douche?</r>
-      <r>Salut!</r>
-      <r>Bonjour, @lp</r>
-      <r>Comment tu va, @lp?</r>
-      <r>Quand allez-vous rembourser cette dette?</r>
-      <r>Mon PipBuck est encore cassé, peux tu le réparé ?</r>
-      <r>Oh ouais!</r>
-      <r>Est-ce-que tout les poneys dehor marchent comme ça ?</r>
-      <r>Toujour besoin de tes affaires ?</r>
+      <r>Salut !</r>
+      <r>Bonjour, @lp.</r>
+      <r>Comment tu vas, @lp ?</r>
+      <r>Quand allez-vous rembourser cette dette ?</r>
+      <r>Mon PipBuck est encore cassé, peux-tu le réparer ?</r>
+      <r>Oh ouais !</r>
+      <r>Est-ce que tout les poneys dehors marchent comme ça ?</r>
+      <r>Toujours besoin de tes affaires ?</r>
       <r>Je pensais que tu ne reviendrais jamais</r>
-      <r>Mais qui voila , si ce n'est "Chosen-25" en personne...</r>
-      <r>Tu a trouvé quelque chose sur Velvet?</r>
-      <r>Tu es deja de retour ?</r>
-      <r>Faisons une fête ?</r>
-      <r>Viens, prends du clair de lune!</r>
+      <r>Mais qui voilà, si ce n'est "Chosen-25" en personne...</r>
+      <r>Tu as trouvé quelque chose sur Velvet?</r>
+      <r>Tu es déjà de retour ?</r>
+      <r>On fait une fête ?</r>
+      <r>Viens, prends du clair de lune !</r>
     </rep>
     <rep act="int" id="sortir" v="0.7">
       <r>Hey, c'est occupé !</r>
     </rep>
     <rep act="neutral" id="child" v="0.7">
-      <r>Bonjour!</r>
+      <r>Bonjour !</r>
       <r>Comment ça va ?</r>
       <r>Tu veux jouer ?</r>
       <r>Piou-piou</r>
-      <r>Tu va bientot mourrir...</r>
-      <r>Oh, c'est trop cool!</r>
-      <r>Incroyable!</r>
-      <r>Hey, c'est a moi !</r>
-      <r>Le mien est mieu!</r>
-      <r>Piou! Boom</r>
+      <r>Tu vas bientot mourrir...</r>
+      <r>Oh, c'est trop cool !</r>
+      <r>Incroyable !</r>
+      <r>Eh, c'est à moi !</r>
+      <r>Le mien est mieux !</r>
+      <r>Piou ! Boom !</r>
       <r>La-la-la</r>
-      <r>Cache cache?</r>
-      <r>Quel con!</r>
+      <r>Cache-cache?</r>
+      <r>Quel con !</r>
       <r>Nuh-huh</r>
       <r>Reste en arrière !</r>
       <r>Na-na-na</r>
       <r>Je peux avoir des capsules ?</r>
     </rep>
     <rep act="hi" id="child" v="0.8">
-      <r>T'imagine si on etait dans un jeu video et que toutes tes actions étaits controlé</r>
-      <r>Hey, regarde ici!</r>
-      <r>Je ne fais rien!</r>
-      <r>C'etait cassé quand je l'ai trouvé!</r>
+      <r>T'imagine si on était dans un jeu video et que toutes tes actions étaient controlées ?</r>
+      <r>Eh, regarde ici !</r>
+      <r>Je ne fais rien !</r>
+      <r>C'était cassé quand je l'ai trouvé !</r>
       <r>Salut, @lp</r>
-      <r>Yay!</r>
-      <r>Je m'ennui tellement...</r>
-      <r>Tout est de sa faute!</r>
-      <r>Je reste la</r>
+      <r>Yay !</r>
+      <r>Je m'ennuie tellement...</r>
+      <r>Tout est de sa faute !</r>
+      <r>Je reste là.</r>
     </rep>
   </replic>
 </all>
