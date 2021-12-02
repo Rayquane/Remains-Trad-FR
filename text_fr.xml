@@ -300,63 +300,63 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="ranger1" v="0.7">
     <n>Chevalier</n>
-    <info>Les chevaliers sont la force principale des rangers d'acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
+    <info>Les Chevaliers sont la force principale des Rangers d'Acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
   </unit>
   <unit id="ranger2" v="0.7">
     <n>Croisé</n>
-    <info>Les croisés sont des officiers subalternes, à peu près analogues aux sergents de l'armée d'Equestria, qui dirigent de petits détachements de huit gardes d'acier et exécutent les ordres des commandants supérieurs.</info>
+    <info>Les Croisés sont des officiers subalternes, à peu près analogues aux sergents de l'armée d'Equestria, qui dirigent de petits détachements de huit gardes d'acier et exécutent les ordres des commandants supérieurs.</info>
   </unit>
   <unit id="ranger3" v="0.7">
     <n>Paladin</n>
-    <info>Paladins are junior officers, commanding large divisions of twenty-four Steel Rangers. They report directly to the Senior Paladins</info>
+    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre rangers d'acier. Ils signalent directement aux paladins seniors.</info>
   </unit>
   <unit id="encl" v="0.8">
-    <n>Grand Pegasus Enclave</n>
-    <info>The pegasi military organization that emerged from the remnants of the former Equestrian air forces, once giving air support to other ponies during the War. Shortly before the War`s end pegasi leaders refused to battle with zebras any longer and shut the sky with cloud barrier, separating themselves from the rest of ponykind. Commanding officers of Enclave regard the Wasteland inhabitants as a threat to pegasi society and their own positioin as rulers. Currently the Enclave possesses the most advanced technologies in all of Equestria including battle airships, the latest generation of magical energy weapons and power armor specialy designed for pegasi</info>
+    <n>Grande Enclave des Pégases</n>
+    <info>L'organisation militaire des pégases qui a emergé des restes des anciennes forces aériennes d'Equestria, ayant apporté leur aide aux autres poneys durant la Guerre. Peu avant la fin de la Guerre, les leaders pégases ont refusé de se battre plus longtemps avec les zèbres et ont fermé le ciel avec une barrière de nuages, se séparant du reste de l'équinité. Les officiers commandants de l'Enclave voient les habitants des Terres Désolées comme des menaces à la société des pégases et eux-mêmes comme des dirigeants. Actuellement, l'Enclave possède les technologies les plus avancées de tout Equestria incluant les dirigeables de combat, la dernière génération des armes à énergie magique et des armures assistées spécialement conçues pour les pégases.</info>
   </unit>
   <unit id="encl1" v="0.8">
     <n>Officier de l'Enclave</n>
-    <info>Enclave officers are rarely encountered outside fortified areas, military bases or airships. They do not wear power armor and therefore are relatively weak opponents</info>
+    <info>Les Officiers de l'Enclave sont rarement rencontrés en dehors des zones fortifiées, des bases militaires et des dirigeables. Ils ne portent pas d'armure assistée et sont par conséquent de faibles adversaires.</info>
   </unit>
   <unit id="encl2" v="0.8">
-    <n>Enclave scout</n>
-    <info>Enclave scouts often move at the front of a main force. They wear light power armor which leaves their wings unprotected but instead is equipped with a whole bunch of locators built into the helmet, allowing detection of even well-disguised enemies</info>
+    <n>Eclaireur de l'Enclave</n>
+    <info>Les Eclaireurs de l'Enclave se déplacent parfois sur le front. Ils portent une armure assistée légère qui laissent leurs ailes à découvert mais ils possèdent des traqueurs leur permettant de localiser les ennemis même bien camouflés.</info>
   </unit>
   <unit id="encl3" v="0.8">
-    <n>Enclave stormtrooper</n>
-    <info>Stormtroopers usually operate in groups of three pegasi called "wings". Their power armor can withstand significant damage, has built-in magical energy cannons and a "scorpion tail" for close combat</info>
+    <n>Unité d'assaut de l'Enclave</n>
+    <info>Les membres de l'unité d'assaut opèrent généralement en groupes de trois pégases appelés "ailes". Leur armure assistée peut résister à des dégâts importants, possède des canons à énergie magique intégrée et une "queue de scorpion" pour le combat rapproché.</info>
   </unit>
   <unit id="encl4" v="0.8">
-    <n>Elite stormtrooper</n>
-    <info>Elite stormtroopers are the pride of the Enclave army. They wear improved power armor, which perfectly protects against any damage, and use especially deadly magical energy weapons</info>
+    <n>Unité d'assaut d'élite</n>
+    <info>Les membres de l'Unité d'assaut d'élite sont la fierté de l'armée de l'Enclave. Ils portent une armure assistée améliorée, qui protège parfaitement contre tout dommage, et utilisent des armes à énergie magique particulièrement mortelles.</info>
   </unit>
   <unit id="bossencl" v="0.8">
-    <n>Wing of Ravagers</n>
-    <info>A special squad consisting of three pegasi. Takes orders only from the Commander-in-Chief of the Enclave personally</info>
+    <n>Ailes de la Dévastation</n>
+    <info>Une escouade speciale de trois pégases. Ils exécutent seulement les ordres du commandant en chef de l'Enclave.</info>
   </unit>
   <unit id="monster" v="0.6">
     <n>Monstres</n>
-    <info>Post-war Equestria is inhabited by hordes of diverse monsters, beasts and mutants. Some of them appeared under the influence of radiation, taint or various magical curses, while others were created artificially</info>
+    <info>L'Equestria d'après-guerre est habitée par des hordes de divers monstres, bêtes et mutants. Certains d'entre eux sont apparus sous l'influence de radiations, de souillures ou de diverses malédictions magiques, tandis que d'autres ont été créés artificiellement.</info>
   </unit>
   <unit id="zombie" v="0.6">
     <n>Goules</n>
-    <info>Ghouls are ponies that mutated under the influence of radiation. The ones that represent danger are so-called feral ghouls - those who lost their mind and turned into bloodthirsty zombies</info>
+    <info>Les goules sont des poneys horriblement brulé par les radiation. Ceux qui représentent un danger sont appelé les goules sauvages - ceux qui ont perdu la raison et sont devenu des zombies assoifé de sang</info>
   </unit>
   <unit id="zombie0">
     <n>Goule sauvage</n>
-    <info>Common feral ghouls can be found in plenty in the Wastelands. As a rule, they live in desolate and abandoned places, such as ruins and sewage tunnels, and especially prefer places with radioactive contamination</info>
+    <info>Les goules sauvages classique sont trouvable un peu partout dans les Terre Désolé. Mais principalement dans les endroits abandonné et désolés , comme des ruines et les égouts, mais surtout dans les zones radioactives</info>
   </unit>
   <unit id="zombie1">
-    <n>Rushing ghoul</n>
-    <info>Mutation in this kind of ghouls did not diminish their strength and speed - on the contrary, it even increased them. Also, they developed an ability to jump with huge height and distance</info>
+    <n>Goule sprinteuse</n>
+    <info>La mutation de cette espèces de goule n'a pas diminuer leurs forces ou leurs vitesse - au contraire, elles ont été ammélioré. Aussi, ils ont dévellopé la capacité de sauter plus haut et plus loin</info>
   </unit>
   <unit id="zombie2">
     <n>Goule affamée</n>
-    <info>Unicorn ghouls, whose ability for telekinesis only got stronger after mutation. You should watch out for their telekinetic grip</info>
+    <info>La capacité de télékinésie des licornes goules n'est devenue plus forte qu'après la mutation. Vous devez faire attention à leur prise télékinésique</info>
   </unit>
   <unit id="zombie3">
     <n>Goule déchaînée</n>
-    <info>The vital activity products of this kind of ghouls represents a real collection of diverse toxic substances. When attacking, they can release clouds of toxic gas</info>
+    <info>Les produits d'activité vitale de ce genre de goules représentent une véritable collection de substances toxiques. En attaquant, ils peuvent libérer des nuages ​​de gaz toxique</info>
   </unit>
   <unit id="zombie4">
     <n>Goule luminescente</n>
@@ -13608,9 +13608,9 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>What now?</r>
       <r>Everything is so dull...</r>
       <r>Same old...</r>
-      <r>Well, yeah...</r>
-      <r>And what did you expect?</r>
-      <r>They are doing that again...</r>
+      <r>Eh bien , ouais...</r>
+      <r>Et tu t'attendais a quoi</r>
+      <r>Ils le font encore...</r>
       <r>Ça pue !</r>
       <r>Pourquoi moi ?</r>
       <r>Quelque chose coule sur ma tête.</r>
