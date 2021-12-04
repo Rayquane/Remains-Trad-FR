@@ -2504,7 +2504,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>This book teaches how to communicate with traders of all sorts, how to barter and get discounts and also recognize some common tricks and ruses</info>
   </item>
   <item id="tele">
-    <n>Telekinesis for dummies</n>
+    <n>Télékinésie pour les nuls</n>
     <info>A guide for young unicorns, that is supposed to help them develop their telekinetic strength</info>
   </item>
   <item id="survival">
@@ -3613,144 +3613,144 @@ Having the book with you, you get some protection from black magic, as well as a
   </obj>
   <!--Skills-->
   <eff id="tele" v="0.7">
-    <n>Telekinesis</n>
-    <info>The "Telekinesis" skill determines your ability to move various objects with magic, and can also serve as a support for a jump in the air. [br]- With every skill point invested, the magical power consumption for telekinesis and "Double Jump" decreases. [br]- With each skill level your telekinetic power increase, in particular, you can lift heavier items, and it will be harder for enemies to escape from your telekinetic grip</info>
+    <n>Télékinésie</n>
+    <info>La compétence "Télékinésie" détermine votre abilité à déplacer divers objets avec de la magie, et peut aussi servir de soutien pour sauter.[br]- A chaque point investi, la consommation de pouvoir magique pour la télékinésie et le double saut diminue.[br]- A chaque montée de niveau, votre pouvoir télékinésique augmente, vous permettant de déplacer des objets plus lourds et les ennemis auront plus de difficulté à échapper à votre prise télékinésique.</info>
   </eff>
   <eff id="melee">
-    <n>Melee weapons</n>
-    <info>Skill "Melee weapons" determines combat effectiveness with any melee weapon. [br]- Each invested skill point increases damage by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level decreases attack speed and increases action points consumption in S.A.T.S.</info>
+    <n>Armes de corps-à-corps</n>
+    <info>La compétence "Melee weapons" determines combat effectiveness with any melee weapon. [br]- Each invested skill point increases damage by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level decreases attack speed and increases action points consumption in S.A.T.S.</info>
   </eff>
   <eff id="smallguns">
-    <n>Firearms</n>
-    <info>Skill "Firearms" determines your ability to handle pistols, rifles, shotguns and, a minigun. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
+    <n>Armes à feu</n>
+    <info>La compétence "Firearms" determines your ability to handle pistols, rifles, shotguns and, a minigun. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
   </eff>
   <eff id="energy">
-    <n>Energy weapons</n>
-    <info>Skill "Energy weapons" determines your ability to handle different laser, plasma or pulse weapons and a flamethrower. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
+    <n>Armes à énergie</n>
+    <info>La compétence "Energy weapons" determines your ability to handle different laser, plasma or pulse weapons and a flamethrower. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
   </eff>
   <eff id="explosives">
-    <n>Explosives</n>
-    <info>Skill "Explosives" determines your ability to work with everything that is capable of exploding. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
+    <n>Explosifs</n>
+    <info>La compétence "Explosives" determines your ability to work with everything that is capable of exploding. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
   </eff>
   <eff id="magic">
-    <n>Magic</n>
-    <info>Skill "Magic" determines your knowledge of magical arts, directly affecting power of your spells, both offensive and defensive. [br]- Each invested skill point increases damage of your offensive spells by #1, and defensive - by #2.[br]- Each skill level decreases cooldown time for all spells</info>
+    <n>Magie</n>
+    <info>La compétence "Magic" determines your knowledge of magical arts, directly affecting power of your spells, both offensive and defensive. [br]- Each invested skill point increases damage of your offensive spells by #1, and defensive - by #2.[br]- Each skill level decreases cooldown time for all spells</info>
   </eff>
   <eff id="repair">
-    <n>Repair</n>
-    <info>Skill "Repair" helps you keeping your weapons and armor in good condition, and using mechanisms of all sorts. [br]- Each invested skill point increases the effectiveness of repairs by #1 (with base value of #2) and increases damage for the crafted weapon by #3.[br]- Each skill level enables you creating advanced weapons, also repairing or shutting down more complex mechanisms</info>
+    <n>Réparation</n>
+    <info>La compétence "Repair" helps you keeping your weapons and armor in good condition, and using mechanisms of all sorts. [br]- Each invested skill point increases the effectiveness of repairs by #1 (with base value of #2) and increases damage for the crafted weapon by #3.[br]- Each skill level enables you creating advanced weapons, also repairing or shutting down more complex mechanisms</info>
   </eff>
   <eff id="medic">
-    <n>Medicine</n>
-    <info>Skill "Medicine" directly affects your health and ability to heal yourself without medic`s help. [br]- Each invested skill point increases the effectiveness of healing potions and other medication by #1 (with base value of #2).[br]- Each skill level increases your maximal health and enables you to operate special medical instrumentation</info>
+    <n>Médecine</n>
+    <info>La compétence "Medicine" directly affects your health and ability to heal yourself without medic`s help. [br]- Each invested skill point increases the effectiveness of healing potions and other medication by #1 (with base value of #2).[br]- Each skill level increases your maximal health and enables you to operate special medical instrumentation</info>
   </eff>
   <eff id="lockpick">
-    <n>Lockpicking</n>
-    <info>Skill "Lockpicking" allows you to open mechanical locks. [br]- Each invested skill point increases probability to open a lock and decreases chance of jamming. [br]- Each skill level allows you to pick locks of more sophisticated design</info>
+    <n>Crochetage</n>
+    <info>La compétence "Lockpicking" allows you to open mechanical locks. [br]- Each invested skill point increases probability to open a lock and decreases chance of jamming. [br]- Each skill level allows you to pick locks of more sophisticated design</info>
   </eff>
   <eff id="science">
-    <n>Science</n>
-    <info>Skill "Science" represents your knowledge in different scientific fields, particularly those about electronics and information technology. [br]- Each invested skill point increases the chance of successful hacking of electronic locks and protected terminals.[br]- Each skill level enables you breaking through more advanced defense systems, and using additional PipBuck features by applying special extension modules</info>
+    <n>Sciences</n>
+    <info>La compétence "Science" represents your knowledge in different scientific fields, particularly those about electronics and information technology. [br]- Each invested skill point increases the chance of successful hacking of electronic locks and protected terminals.[br]- Each skill level enables you breaking through more advanced defense systems, and using additional PipBuck features by applying special extension modules</info>
   </eff>
   <eff id="sneak">
-    <n>Sneak</n>
-    <info>The "Sneak" skill allows you to move unnoticed by enemies or to attack them from ambush, suddenly and deadly. [br]- Each invested skill point makes you harder to be noticed or heard. [br]- With each skill level a chance to deal critical damage to an enemy who hasn`t seen you is increased by #1. It also helps you to shut down alarm systems</info>
+    <n>Discrétion</n>
+    <info>La compétence "Sneak" allows you to move unnoticed by enemies or to attack them from ambush, suddenly and deadly. [br]- Each invested skill point makes you harder to be noticed or heard. [br]- With each skill level a chance to deal critical damage to an enemy who hasn`t seen you is increased by #1. It also helps you to shut down alarm systems</info>
   </eff>
   <eff id="barter">
-    <n>Barter</n>
-    <info>Skill "Barter" helps you to negotiate with all sorts of merchants in the Wasteland to get better goods and services for a lower price. [br]- Each invested skill point decreases prices for purchasing and repairs by #1. [br]- Each skill level expands the selection of merchants` goods and allows you to access some exclusive deals, that can`t be found anywhere else</info>
+    <n>Discours</n>
+    <info>La compétence "Barter" helps you to negotiate with all sorts of merchants in the Wasteland to get better goods and services for a lower price. [br]- Each invested skill point decreases prices for purchasing and repairs by #1. [br]- Each skill level expands the selection of merchants` goods and allows you to access some exclusive deals, that can`t be found anywhere else</info>
   </eff>
   <eff id="survival">
-    <n>Survival</n>
-    <info>This skill represents ancient knowledge almost forgotten by ponies but mastered and perfected by zebras. With this knowledge, you will survive where others would perish. [br]- Each invested skill point increases your resistance to any damage by #1.[br]- Each skill level increases your damage threshold by #2 and enables you to prepare magical potions by zebras` recipes</info>
+    <n>Survie</n>
+    <info>La compétence "Survie" represents ancient knowledge almost forgotten by ponies but mastered and perfected by zebras. With this knowledge, you will survive where others would perish. [br]- Each invested skill point increases your resistance to any damage by #1.[br]- Each skill level increases your damage threshold by #2 and enables you to prepare magical potions by zebras` recipes</info>
   </eff>
   <eff id="attack" v="0.7">
-    <n>Attack</n>
+    <n>Attaque</n>
     <info>With each level of this skill the damage of any weapon is increased by #1</info>
   </eff>
   <eff id="defense" v="0.71">
-    <n>Defense</n>
+    <n>Défense</n>
     <info>With each level your resistance to any damage increases by #1</info>
   </eff>
   <eff id="knowl" v="0.7">
-    <n>Knowledge</n>
+    <n>Connaissances</n>
     <info>With each level of this skill, you gain an additional ability for each level up</info>
   </eff>
   <eff id="alicorn" v="0.8">
-    <n>Alicorn Armor</n>
+    <n>Armure d'Alicorne</n>
   </eff>
   <eff id="tele_al" s1="keyRun" v="0.8">
-    <n>Rainbow wings</n>
+    <n>Ailes arc-en-ciel</n>
     <info>Alicorn Armor is equipped with magical wings that allow flying. You can accelerate in flight by holding the @1 key (consumes magic). The "Telekinesis" skill level determines maximum flight speed, as well as the magic consumption rate</info>
   </eff>
   <eff id="repair_al" v="0.8">
-    <n>Titanium armor</n>
+    <n>Armure de titane</n>
     <info>The outer shell of Alicorn Armor is made of magically reinforced titanium alloy plates. Your damage threshold increases depending on the "Repair" skill level</info>
   </eff>
   <eff id="medic_al" v="0.8">
-    <n>Healing power</n>
+    <n>Pouvoir de soin</n>
     <info>The Alicorn Armor`s medical systems constantly restore health of the wearer. The health recovery rate depends on the level of the "Medicine" skill</info>
   </eff>
   <eff id="lockpick_al" s1="keyPunch" v="0.8">
-    <n>Light speed​</n>
+    <n>Vitesse de la lumière</n>
     <info>The Alicorn Armor has a built-in instant teleportation spell. You can use instant teleportation using the @1 key, the magic consumption rate depends on the "Lockpick" skill level</info>
   </eff>
   <eff id="science_al" s1="keyDef" v="0.8">
-    <n>Void shield</n>
+    <n>Bouclier du néant</n>
     <info>The Alicorn Armor is equipped with a powerful shield generator. You can activate the magical shield by pressing @1 key. The strength of the shield depends on the "Science" skill level</info>
   </eff>
   <eff id="sneak_al" v="0.8">
-    <n>Shadow veil</n>
+    <n>Voile obscur</n>
     <info>The holographic systems of the Alicorn Armor obscures enemies` targeting, preventing them from hitting you. Additional dodging bonus depend on the "Sneak" skill level</info>
   </eff>
   <eff id="barter_al" v="0.8">
-    <n>Active defense</n>
+    <n>Défense active</n>
     <info>The inner lining of the Alicorn Armor is made of the "smart" plastic that is normally elastic but instantly hardens when damaged. Resistance to any external damage depends on the "Barter" skill level</info>
   </eff>
   <!--Perks you can learn-->
   <eff id="selflevit" s1="keyJump" s2="keyBeUp" s3="keyLeft" s4="keySit" s5="keyRight" v="0.7">
-    <n>Self-levitation</n>
+    <n>Auto-lévitation</n>
     <info>You can levitate yourself using magical power. To do this, press and hold @1 while being in the air. Press the @2@3@4@5 movement keys to move sideways, down or up. Moving upwards consumes more magical power.
 At the second level of this ability the consumption of magic will decrease, and the time and range of flight increase</info>
   </eff>
   <eff id="jump">
-    <n>Jumper</n>
+    <n>Sauteur</n>
     <info>"It`s not very far, just move your little rump. You can make it if you try with a hop, skip and jump!" Now you can jump half a meter higher!</info>
   </eff>
   <eff id="lightstep" v="0.7">
-    <n>Light step</n>
+    <n>Pied léger</n>
     <info>You are always watchful and careful. You never activate a trap or a pressure plate, and enemy mines are triggered with a delay</info>
   </eff>
   <eff id="babah">
-    <n>Explosions fan</n>
+    <n>Fan d'explosions</n>
     <info>Even though you like to explode stuff, you don`t forget about safety. Any explosion causes you less damage</info>
   </eff>
   <eff id="antifire">
-    <n>Fire resistance</n>
+    <n>Ignifuge</n>
     <info>Fire inflicts less damage to you. Also decreases a chance for you to be set on fire</info>
   </eff>
   <eff id="dexter">
-    <n>Bullet Dodger</n>
+    <n>Esquiveur de balles</n>
     <info>Enemies will have a hard time trying to hit you. You evasion bonus increased</info>
   </eff>
   <eff id="oak">
-    <n>Iron skin</n>
+    <n>Peau de fer</n>
     <info>Trainings with melee weapons gave great results. Now you are harder to get wounded with sharp items. Resistance to cutting damage increased</info>
   </eff>
   <eff id="stonewall">
-    <n>Stone wall</n>
+    <n>Mur de pierre</n>
     <info>You got so used to being hit with heavy stuff, now it just tickles. Resistance to blunt weapons increased</info>
   </eff>
   <eff id="reinforced">
-    <n>Armored hide</n>
+    <n>Peau blindée</n>
     <info>You lost count of bullets being shot at you. This made you tougher, your bullet resistance is permanently increased</info>
   </eff>
   <eff id="bigsize">
-    <n>Size matters</n>
-    <info>You are a fan of veery big guns! You got so used to them that you barely notice their weight</info>
+    <n>La taille compte</n>
+    <info>Vous êtes un fan de trèèèès gros pistolets ! Vous vous êtes tellement habitué à les porter que vous ne remarquez même pas leur poids.</info>
   </eff>
   <eff id="fastreload">
-    <n>Quick reload</n>
+    <n>Rechargement rapide</n>
     <info>You reload weapons twice quicker than before. It is a great advantage - less chance to get killed while you desperately try to reload</info>
   </eff>
   <eff id="fortune">
@@ -3770,7 +3770,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Your body adsorbs and converts chemicals much faster than average, therefore healing potions become #1 more effective and restore health #2 times faster</info>
   </eff>
   <eff id="action">
-    <n>Action pony</n>
+    <n>Poney d'action</n>
     <info>You never stay put, always rushing somewhere. You get #1 action points extra (to #2 initial points) in S.A.T.S. for every level of this ability</info>
   </eff>
   <eff id="entomolog">
@@ -3810,8 +3810,8 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>When you get lucky on a battlefield, your enemy can sure feel the difference! You get +#1 to critical damage with any weapon</info>
   </eff>
   <eff id="pistol">
-    <n>Duelist</n>
-    <info>You are not a fan of big and heavy weapons. Your choice - pistols and revolvers, and you sure know how to use them. All your handguns (including automatic) get accuracy bonus, and they consume #1 less action points in S.A.T.S.</info>
+    <n>Dueliste</n>
+    <info>Vous n'êtes pas un grand fan de grandes et lourdes armes. Votre choix - les pistolets et les revolvers, et vous savez bien les utiliser. Toutes vos armes à une main (automatiques incluses) obtiennent un bonus de précision et consomment #1 point d'action en moins dans le S.A.T.S.</info>
   </eff>
   <eff id="shot">
     <n>Crazy farmer</n>
@@ -3858,7 +3858,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You know how to improve your armor and make it fit perfectly, thus increasing its battle qualities. To do this you require workbench and proper materials. The second level of this perk allows you to further enhance your armor for one more time</info>
   </eff>
   <eff id="telemaster">
-    <n>Master of telekinesis</n>
+    <n>Maître de la télékinésie</n>
     <info>The range of your telekinetic grasp is increased. Also, now you can lift and perform other telekinetic actions with objects that are out of your sight</info>
   </eff>
   <eff id="sparepart">
@@ -3866,7 +3866,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You throw nothing away. To that extent, that it is hard to enter your room without breaking legs. On the other hoof, you get additional weapon fragments each time you find a weapon that you already have, and also find more useful (in your personal opinion) garbage</info>
   </eff>
   <eff id="grenader" s1="keyRun">
-    <n>Grenader</n>
+    <n>Grenadier</n>
     <info>You learned to supply all grenades with an advanced sensor, so that now they explode right after hitting an enemy! (To use ordinary grenades, hold @1 when throwing)</info>
   </eff>
   <eff id="acute">
@@ -3882,27 +3882,27 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Not only you are able to move objects with telekinesis, but also you can make them plummet through the air! To do that, press @1 when levitating an object. You can try to hit an enemy with a heady box or smash him against a wall. The second level of this perk allows you to throw objects even faster and further. Keep in mind - pushing heavy objects rapidly burns your magical power</info>
   </eff>
   <eff id="spell_port" s1="keyTele" s2="keyAttack">
-    <n>Teleportation</n>
+    <n>Téléportation</n>
     <info>You receive an ability to instantly move between places. To use it press and hold @1 while the spell charges, then release to perform teleportation. To cancel already charged spell press @2. You must see the point of arrival. Consumes quite a lot of magical energy</info>
   </eff>
   <eff id="potmaster">
-    <n>Alchemist</n>
+    <n>Alchimiste</n>
     <info>Countless hours spent with a cauldron, a retort, and a boiling cube brought their fruits! Now, when making potions, you receive two bottles of potion instead of one, consuming the same amount of ingredients. Does not work on permanent effect potions</info>
   </eff>
   <eff id="powerkick" v="0.8">
-    <n>Mighty kick</n>
+    <n>Sabot imposant</n>
     <info>Damage from your bare-hoof kicks is increased by #1. Now you can break sturdy and reinforced doors with your hind legs and stun enemies for a short period of time</info>
   </eff>
   <eff id="radchild" v="0.6">
-    <n>Child of radiation</n>
+    <n>Enfant des radiations</n>
     <info>Radiation does not kill you, but only makes you stronger. The higher your radiation level, the fewer injuries you get. Also, radiation can not reduce your health by more than 80%</info>
   </eff>
   <eff id="security" v="0.6">
-    <n>Security expert</n>
+    <n>Expert en sécurité</n>
     <info>You understand automatic security systems like none other. From any terminal controlling the turrets, you can not just simply turn them off, but reconfigure them so that they begin attacking your opponents. Meanwhile, you get all experience from the turret`s kills</info>
   </eff>
   <eff id="zona" v="0.6">
-    <n>Danger zone</n>
+    <n>Zonede danger </n>
     <info>The blast radius for any explosives you use increases by #1</info>
   </eff>
   <eff id="sapper" v="0.6">
@@ -3910,19 +3910,19 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>When it comes to mines and minefields, you have no equal. The mines you install are #1 more powerful, and in addition, your mines do not detonate from nearby explosions</info>
   </eff>
   <eff id="mmaster" v="0.6">
-    <n>Melee master</n>
+    <n>Maître du corps-à-corps</n>
     <info>You have mastered the cold steel to perfections. The attack speed of any melee weapon (except chainsaw and similar) is increased by #1</info>
   </eff>
   <eff id="warlock" v="0.6">
-    <n>Battle mage</n>
+    <n>Mage de combat</n>
     <info>You are so used to using attack magic in battles, that it almost does not tire you. With each level of this ability, you spend less magical energy on combat spells</info>
   </eff>
   <eff id="friendly" v="0.6">
-    <n>Friendly Fire</n>
+    <n>L'ami du feu</n>
     <info>You always know how to throw a grenade or shoot a grenade launcher so that you are not personally affected by the explosion. With this ability, you receive only 25% of the damage from your own explosives, including its special varieties</info>
   </eff>
   <eff id="longtime" v="0.6">
-    <n>Long-term effect</n>
+    <n>Effet à long terme</n>
     <info>Your medical knowledge helps you using combat chemistry properly. Now it works for you #1 times longer</info>
   </eff>
   <eff id="fightstim" v="0.6">
@@ -3967,23 +3967,23 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <!--Other Perks-->
   <eff id="levitation" v="0.7">
-    <n>Double jump</n>
+    <n>Double saut</n>
     <info>With help of your telekinesis, you can jump once in mid-air. The height of this second jump depends on the skill level of "Telekinesis"</info>
   </eff>
   <eff id="dead">
-    <n>ERS User</n>
-    <info>You almost died, but got saved by MAS Emergency Rescue System</info>
+    <n>Utilisateur SSU</n>
+    <info>Vous avez failli mourir, mais vous avez été sauvé par le Système de Secours d'Urgence MSA.</info>
   </eff>
   <eff id="life">
-    <n>Lifegiver</n>
+    <n>Vitalité</n>
     <info>Your health became stronger! (+#1 per ability level)</info>
   </eff>
   <eff id="spirit" v="0.6">
-    <n>Mighty spirit</n>
+    <n>Puissant esprit</n>
     <info>Your magical power reserve is increased! (+#1 per ability level)</info>
   </eff>
   <eff id="potion_dskel">
-    <n>Diamond skeleton</n>
+    <n>Squelette adamantin</n>
     <info>Zebra potion fortified your bones. Now you get #1 less injuries with each level of this ability</info>
   </eff>
   <eff id="potion_immun">
@@ -4828,13 +4828,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Fermer</n>
   </pip>
   <pip id="main1">
-    <n>Statut</n>
+    <n>Stats</n>
   </pip>
   <pip id="main2">
     <n>Inventaire</n>
   </pip>
   <pip id="main3">
-    <n>Information</n>
+    <n>Données</n>
   </pip>
   <pip id="main4">
     <n>Echanger</n>
@@ -5207,7 +5207,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Munitions</n>
   </pip>
   <pip id="ii1">
-    <n>clé</n>
+    <n>touche</n>
   </pip>
   <pip id="ii2">
     <n>nom</n>
@@ -5523,13 +5523,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Destructions des murs</n>
   </pip>
   <pip id="pier">
-    <n>Armor piercing</n>
+    <n>Perforation</n>
   </pip>
   <pip id="healhp">
     <n>Restauration de vie</n>
   </pip>
   <pip id="healmana">
-    <n>Restore magical powerRestauration de pouvoir magique</n>
+    <n>Restauration de pouvoir magique</n>
   </pip>
   <pip id="healorgan">
     <n>Restauration des membres du corps</n>
@@ -5538,25 +5538,25 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Soigne toute blessure</n>
   </pip>
   <pip id="healblood">
-    <n>Reduce blood loss</n>
+    <n>Réduire la perte de sang</n>
   </pip>
   <pip id="healrad">
-    <n>Cleanse radiation</n>
+    <n>Soigner des radiations</n>
   </pip>
   <pip id="healpoison">
-    <n>Cleanse poison</n>
+    <n>Soigner du poison</n>
   </pip>
   <pip id="healcut">
-    <n>Treat wounds</n>
+    <n>Traiter les blessures</n>
   </pip>
   <pip id="healpotions">
-    <n>Healing potions available</n>
+    <n>Potions de soins disponibles</n>
   </pip>
   <pip id="refperk">
-    <n>Perk</n>
+    <n>Aptitude</n>
   </pip>
   <pip id="refeff" v="0.7">
-    <n>Effect</n>
+    <n>Effet</n>
   </pip>
   <pip id="showhidden">
     <n>Show hidden</n>
@@ -5577,7 +5577,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Notes</n>
   </pip>
   <pip id="info5" v="0.6">
-    <n>Enemies</n>
+    <n>Ennemis</n>
   </pip>
   <pip id="trans">
     <n>Voyager</n>
@@ -5601,7 +5601,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>plus</n>
   </pip>
   <pip id="frag" v="0.6">
-    <n>détruit</n>
+    <n>tué</n>
   </pip>
   <pip id="vend1">
     <n>Acheter</n>
@@ -5718,7 +5718,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Options</n>
   </pip>
   <pip id="opt4" v="0.7">
-    <n>Control</n>
+    <n>Contrôles</n>
   </pip>
   <pip id="opt5" v="0.7">
     <n>Log</n>
@@ -5731,7 +5731,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="fullscreen" v="0.7">
     <n>Mode plein écran</n>
-    <info>Click for full screen mode. If the game is running in a browser, this feature may not work</info>
+    <info>Cliquez pour utiliser le mode plein écran. Si le jeu est démarré sur un navigateur, cette option peut ne pas marcher.</info>
   </pip>
   <pip id="opt1_1">
     <n>Volume du son</n>
@@ -5744,14 +5744,14 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="help_mess" v="0.7">
     <n>Message du tutoriel</n>
-    <info>Désactivez si vous ne jouez pas pour la première fois et que vous n'avez pas besoin d'indices ou de pointeurs</info>
+    <info>Désactivez si vous ne jouez pas pour la première fois et que vous n'avez pas besoin d'indices ou de pointeurs.</info>
   </pip>
   <pip id="dial_on" v="0.7">
     <n>Afficher les dialogues</n>
-    <info>Désactivez si vous ne jouez pas pour la première fois et que vous ne voulez pas lire les dialogues entre les personnages</info>
+    <info>Désactivez si vous ne jouez pas pour la première fois et que vous ne voulez pas lire les dialogues entre les personnages.</info>
   </pip>
   <pip id="show_hit1" v="0.7">
-    <n>Afficher dégâts</n>
+    <n>Afficher les dégâts</n>
     <info>Visualisation des dégâts effectués lors des combats.</info>
   </pip>
   <pip id="show_hit2" v="0.7">
@@ -5760,23 +5760,23 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="mat_filter" v="0.7">
     <n>Filtrer le langage vulgaire</n>
-    <info>Disable this setting only if you are at least 18 years old, and your psyche is ready to withstand the selected language, sometimes used in their speech by inhabitants of the post-apocalyptic wasteland</info>
+    <info>Désactivez cette option uniquement si vous aveez au moins 18 ans, et que votre cerveau est prêt à endurer ce type de langage parfois utilisé par les habitants des Terres Désolées.</info>
   </pip>
   <pip id="sys_cur" v="0.8">
-    <n>System cursor</n>
-    <info>Use a common cursor instead of game cursors (will take effect after game restarts)</info>
+    <n>Curseur sytème</n>
+    <info>Utilise un curseur commun au lieu du curseur du jeu (prendra effet après redémarrage du jeu).</info>
   </pip>
   <pip id="hint_tele" v="0.8">
-    <n>Telekinesis hints</n>
-    <info>Show text prompts about possibility of telekinesis</info>
+    <n>Astuces télékinésie</n>
+    <info>Affiche des messages sur les capacités de la télékinésie.</info>
   </pip>
   <pip id="show_favs" v="0.8">
-    <n>Hotkeys info</n>
-    <info>Show information about the assigned hotkeys when the cursor is at the bottom of the screen</info>
+    <n>Infos sur les touches</n>
+    <info>Affiche des informations sur les touches assignées quand le curseur est en bas de l'écran.</info>
   </pip>
   <pip id='err_show' v='0.81'>
-    <n>Error monitoring</n>
-    <info>Displaying a window with an error log</info>
+    <n>Vérification d'erreur</n>
+    <info>Affiche une fenêtre avec le log d'erreur.</info>
   </pip>
   <pip id="saveslot">
     <n>Slot</n>
@@ -5788,70 +5788,70 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Slot vide</n>
   </pip>
   <pip id="loadfile" v="0.7">
-    <n>From a file</n>
+    <n>Ouvrir un fichier</n>
   </pip>
   <pip id="savefile" v="0.7">
-    <n>Into a file</n>
+    <n>Sauv. fichier</n>
   </pip>
   <pip id="gamesaves" v="0.7">
     <n>Sauvegardes</n>
   </pip>
   <pip id="invupr1" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
-    <n>[click] - select weapon@[right click] - in storage / take back@slot selection keys (@1- @2) - assign</n>
+    <n>[clic] - sélectionner une weapon@[clic droit] - en stockage / reprendre@touches sélection de slots (@1- @2) - assigner</n>
   </pip>
   <pip id="invupr2" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
-    <n>[click] - put on armor@slot selection keys (@1- @2) - assign</n>
+    <n>[clic] - équiper l'armure@touches sélection de slots (@1- @2) - assigner</n>
   </pip>
   <pip id="invupr3" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
-    <n>[click] - use equipment@[right click] - discard (with [shift] - everything)@slot selection keys (@1- @2) - assign</n>
+    <n>[clic] - utiliser équipement@[clic droit] - jeter (avec [shift] - tout)@touches sélection de slots (@1- @2) - assigner</n>
   </pip>
   <pip id="invupr5" v="0.6">
-    <n>[click] - recharger</n>
+    <n>[clic] - recharger</n>
   </pip>
   <pip id="vaultupr" v="0.8">
-    <n>[click] - put everything into storage@[right click] - pick everything from the storage</n>
+    <n>[clic] - put everything into storage@[clic droit] - pick everything from the storage</n>
   </pip>
   <pip id="infotravel">
-    <n>[click] - chose destination point</n>
+    <n>[clic] - chose destination point</n>
   </pip>
   <pip id="usemed1">
-    <n>[click] - use appropriate medicine or instruments</n>
+    <n>[clic] - use appropriate medicine or instruments</n>
   </pip>
   <pip id="usemed2">
-    <n>[click] - pay for treatment</n>
+    <n>[clic] - pay for treatment</n>
   </pip>
   <pip id="inforepair">
-    <n>[click] - réparer</n>
+    <n>[clic] - réparer</n>
   </pip>
   <pip id="infotrade">
-    <n>[click] - select 1 unit of product@[right click] - cancel selection@hold [shift] - select all</n>
+    <n>[clic] - select 1 unit of product@[clic droit] - cancel selection@hold [shift] - select all</n>
   </pip>
   <pip id="infoskills">
-    <n>[click] - increase skill@[right click] - cancel</n>
+    <n>[clic] - increase skill@[clic droit] - cancel</n>
   </pip>
   <pip id="infoload" v="0.7">
-    <n>[click] - charger</n>
+    <n>[clic] - charger</n>
   </pip>
   <pip id="infosave">
-    <n>[click] - sauvegarder</n>
+    <n>[clic] - sauvegarder</n>
   </pip>
   <pip id="infokeys">
-    <n>[click] - reassign key</n>
+    <n>[clic] - reassign key</n>
   </pip>
   <pip id="infotasks" v="0.6">
-    <n>[click] - take a quest</n>
+    <n>[clic] - take a quest</n>
   </pip>
   <pip id="infostand" v="0.8">
-    <n>[click] - leave a weapon in storage or take it back</n>
+    <n>[clic] - leave a weapon in storage or take it back</n>
   </pip>
   <pip id="infostand2" v="0.8">
-    <n>[click] - discard a spell or acquire it again</n>
+    <n>[clic] - discard a spell or acquire it again</n>
   </pip>
   <pip id="emptyinv">
     <n>Aucun objet dans cette catégorie</n>
   </pip>
   <pip id="emptyperk">
-    <n>No perks added yet</n>
+    <n>Aucune aptitude ajoutée pour le moment.</n>
   </pip>
   <pip id="emptyeff">
     <n>Aucun effet actif</n>
@@ -6182,47 +6182,47 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="reload" v="0.8">
     <n>Temps de rechargement</n>
-    <info>Affects reloading time of any weapon using ammo or batteries</info>
+    <info>Affecte le temps de rechargement pour n'importe quelle arme utilisant des munitions ou des batteries.</info>
   </pip>
   <pip id="allprec" v="0.8">
     <n>Précision générale</n>
-    <info>Hit chance multiplier for any ranged weapon and attack spells</info>
+    <info>Multiplicateur de chance de toucher pour n'importe quelle arme à distance sort d'attaque.</info>
   </pip>
   <pip id="punchdamage" v="0.8">
     <n>Puissance du sabot</n>
-    <info>Hoof impact multiplier</info>
+    <info>Multiplicateur de l'impact du sabot.</info>
   </pip>
   <pip id="meleerapid" v="0.8">
     <n>Vitesse d'attaque au corps-à-corps</n>
-    <info>Affects any melee weapon except those having their own motor (like a chain saw and auto axe)</info>
+    <info>Affecte n'importe quelle arme au corps-à-corps exceptée celles qui ont leur propre moteur (comme une tronçonneuse ou une auto-hache).</info>
   </pip>
   <pip id="healeff" v="0.8">
     <n>Efficacité de traitement</n>
-    <info>The effectiveness of medications such as healing potions and RadAways</info>
+    <info>L'efficacité des médicaments comme les potions de soins ou les RadAways.</info>
   </pip>
   <pip id="allspeed" v="0.8">
     <n>Vitesse de mouvement</n>
-    <info>The general speed of movement. It can be affected with some factors such as freezing, concussion, alcohol intoxication or overburdening</info>
+    <info>La vitesse générale de mouvement. Elle peut être affectée par quelques facteurs comme le froid, les commotions cérébrales, l'intoxication à l'alcool ou la surcharge.</info>
   </pip>
   <pip id="runspeed" v="0.8">
     <n>Vitesse de course</n>
-    <info>Shows how much galloping is faster than trotting</info>
+    <info>Affiche de combien galopper est plus rapide que trotter.</info>
   </pip>
   <pip id="stamrun" v="0.8">
     <n>Consommation d'endurance</n>
-    <info>Stamina consumption for running, jumping and dashing</info>
+    <info>Consommation d'endurance pour courir, sauter et accélérer.</info>
   </pip>
   <pip id="lockpick" v="0.8">
-    <n>Lock opening level</n>
-    <info>Primarily determined by the "Lockpicking" skill, although some items and effects can also change this parameter</info>
+    <n>Niveau d'ouverture de verrou</n>
+    <info>Détéerminé principalement par la compétence "Crochetage", même si certains objets peuvenet changer ce paramètre.</info>
   </pip>
   <pip id="hacker" v="0.8">
-    <n>Terminal hacking Level</n>
-    <info>Primarily determined by the "Science" skill, but some items and effects can also change this parameter</info>
+    <n>Niveau de piratage de terminaux</n>
+    <info>Déterminé principalement par la compétence "Sciences", même si certains objets peuvenet changer ce paramètre.</info>
   </pip>
   <pip id="alldmana" v="0.8">
-    <n>General magic consumption</n>
-    <info>Consumption of magic for all magical actions including telekinesis, attacking and defensive spells</info>
+    <n>Consommation générale de magie</n>
+    <info>Consommation générale de la magie pour toutes les actions magiques comme la télékinésie et les sorts d'attaque et de défense.</info>
   </pip>
   <pip id="wmana" v="0.8">
     <n>Magic consumption on attack spells</n>
@@ -6625,7 +6625,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Point de compétence obtenu</n>
   </info>
   <info id="sneakBonus" st="4">
-    <n>Bonus de furtivité</n>
+    <n>Bonus de discrétion</n>
   </info>
   <info id="skillPoints" st="4">
     <n>Skill points received: @1</n>
@@ -7646,150 +7646,150 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   <txt id="storyDial1" imp="1" v="0.7">
     <n>
       <t v="0.8">Message from Mentor</t>
-      <r>Suddenly your PipBuck turns on by itself. On its screen the usual interface is replaced by a series of symbols, forming words and sentences. You do not understand what is going on, but the standard PipBuck software cannot do that and you are well aware of it</r>
-      <r p='pip'>Greetings, "Chosen-25" @lp. I am the Mentor, my task is to direct your actions and point the way</r>
-      <r p='lp2'>What?! What is this now? Who is it talking to me... and how can I answer you?</r>
-      <r p='pip'>Now you probably would like to know who I am, how I got into your PipBuck and why you should trust me at all. The questions are more than reasonable and I, of course, will answer them as best as I can.
-For now my identity must remain hidden. One thing I can say is that we are well acquainted, and I`m by no means your enemy.
-These messages have been uploaded to your PipBuck in advance and are now being shown to you. And, if I guess right what you are thinking now - no, there is no direct connection, you can not respond or ask me questions. For now.
-As for why you should trust me, here is my first and main argument</r>
-      <r>PipBuck starts playing an audio recording. Amazingly, you recognize your own voice</r>
-      <r p='pip'>Hi, @lp from the future - says @lp, that is, you, only a few days ago. - I leave to you... I mean, myself... this message, to briefly explain the situation. Because some time ago you woke up in an unknown place and with strange blankness in your memory. And so, since I know that I, that is, you will not believe anyone but myself, let me tell you this:
-I, that is, you, are entrusted with a very important mission. Really important for the whole Stable, and I, that is, you, really think so. Presently you are under the influence of a spell blocking some of your memories. I-you agreed to undergo this spell absolutely voluntarily, without the slightest coercion or threat. I did it because it was necessary. Just trust me... that is, yourself</r>
-      <r p='pip'>For safety reasons you will not remember where is your home, your friends and family. But know that it`s temporary. For now just follow the instructions of the Mentor, he will tell you what to do. He won`t lie to you, I can assure you of this. While you are on a mission, your code name is "Chosen-25". That`s all. Good luck to you</r>
-      <r>The recording ended and new messages appeared on the screen</r>
-      <r p='pip'>Well, now that we are through with the main questions, I`m sending your instructions. Remember, it`s in your best interest to execute them as soon as possible.
-Soon you will find yourself in a place called the "Equestrian Wasteland". Observe extreme caution, according to my information this place is very dangerous. You may encounter aggressive savage ponies and mutant animals. Areas contaminated with radiation also pose danger. Try to make contact with locals.
-You will receive the next message when the time comes. Remember, your task is very important for all of us. Until next time, "Chosen-25"</r>
-      <r>Messages disappeared and PipBuck returned to normal. In the "Quests" section, new entries appeared</r>
-      <r p='lp2'>I remember my Stable! I remember something... vaguely...</r>
+      <r>Soudain, votre PipBuck s'allume tout seul. Sur son écran l'interface habituelle est remplacée par une série de symboles, formant des mots et des phrases. Vous ne comprenez pas ce qui se passe, mais le logiciel PipBuck standard ne peut pas le faire et vous en êtes bien conscient</r>
+      <r p='pip'>Salutation, "Chosen-25" @lp. Je suis le Mentor, ma tâche est de diriger vos actions et de montrer la voie</r>
+      <r p='lp2'>Quoi?! Qu'est-ce que c'est maintenant? Qui me parle... et comment puis-je vous répondre ?</r>
+      <r p='pip'>Maintenant, vous aimeriez probablement savoir qui je suis, comment je suis entré dans votre PipBuck et pourquoi vous devriez me faire confiance. Les questions sont plus que raisonnables et j'y répondrai bien sûr du mieux que je peux.
+Pour l'instant, mon identité doit rester cachée. Une chose que je peux dire, c'est que nous nous connaissons bien, et je ne suis en aucun cas votre ennemi.
+Ces messages ont été téléchargés à l'avance sur votre PipBuck et vous sont maintenant montrés. Et, si je devine juste ce que vous pensez maintenant - non, il n'y a pas de lien direct, vous ne pouvez pas répondre ou me poser des questions. Pour l'instant.
+Quant à savoir pourquoi vous devriez me faire confiance, voici mon premier et principal argument</r>
+      <r>Le PipBuck commence à lire un enregistrement audio. Étonnamment, vous reconnaissez votre propre voix </r>
+      <r p='pip'>Salut, @lp du futur - dit @lp, c'est-à-dire toi, il y a quelques jours seulement. - Je t'ai laissé... je veux dire, moi-même... ce message, pour t'expliquer brièvement la situation. Parce qu'il y a quelque temps, tu t'es réveillé dans un endroit inconnu et avec un étrange vide dans ta mémoire. Et donc, puisque je sais que moi, c'est-à-dire que toi, ne croirais personne d'autre que toi-même, laisse-moi te dire ceci :
+Moi, c'est-à-dire toi, tu es chargé d'une mission très importante. Vraiment important pour toute l'écurie, et moi, c'est-à-dire toi. Actuellement, tu es sous l'influence d'un sort bloquant certains de tes souvenirs. J'ai...tu as accepté de subir ce sort de manière absolument volontaire, sans la moindre contrainte ni menace. Je l'ai fait parce que c'était nécessaire. Fais-moi confiance... c'est-à-dire toi-même </r>
+      <r p='pip'>Pour des raisons de sécurité, tu ne te souviendras plus où se trouve ta maison, tes amis et ta famille. Mais sache que c'est temporaire. Pour l'instant, suis simplement les instructions du Mentor, il te dira quoi faire. Il ne te mentira pas, je peux te l'assurer. Pendant que tu es en mission, ton nom de code est "Chosen-25". C'est tout. Bonne chance à toi </r>
+      <r>L'enregistrement s'est terminé et de nouveaux messages sont apparus à l'écran</r>
+      <r p='pip'>Eh bien, maintenant que nous avons terminé avec les questions principales, je vous envoie vos instructions. N'oubliez pas qu'il est dans votre intérêt de les exécuter dès que possible.
+Bientôt, vous vous retrouverez dans un endroit appelé « le désert équestre ». Soyez extrêmement prudent, selon mes informations cet endroit est très dangereux. Vous pouvez rencontrer des poneys sauvages agressifs et des animaux mutants. Les zones contaminées par des rayonnements présentent également un danger. Essayez d'entrer en contact avec les habitants.
+Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche est très importante pour nous tous. Jusqu'à la prochaine fois, "Chosen-25" </r>
+      <r>Les messages ont disparu et PipBuck est revenu à la normale. Dans la section "Quêtes", de nouvelles entrées sont apparues </r>
+      <r p='lp2'>Je me souviens de mon écurie ! Je me souviens de quelque chose... vaguement... </r>
       <r p='lp5' push='1'>Argh!</r>
-      <r p='lp3'>Memory spell? How could I agree to this? But it surely was my voice on the recording, and if I was so confident about this... Mentor, then there had to be a reason</r>
-      <r p='lp1'>In any case, I do not have much of a choice. Either I will stay forever in this place, or I will carry out the instructions of the Mentor, and then we shall see what comes next</r>
+      <r p='lp3'>Un sort de mémoire ? Comment pourrais-je accepter cela? Mais c'était sûrement ma voix sur l'enregistrement, et si j'étais si confiant à ce sujet... Mentor, alors il devait y avoir une raison </r>
+      <r p='lp1'>De toute façon, je n'ai pas vraiment le choix. Soit je resterai pour toujours dans cet endroit, soit je vais exécuter les instructions du Mentor, et puis nous verrons la suite </r>
     </n>
   </txt>
   <txt id="surfDialFirst" v="0.7">
     <n>
-      <r p="lp2">So this is the Equestrian Wasteland?</r>
-      <r p="lp2" push="1">It`s so... spacious...</r>
-      <r p="lp2">Oh! I feel dizzy!</r>
+      <r p="lp2">Ce sont les Terres Désolé d'Equestria?</r>
+      <r p="lp2" push="1">C'est vraiment... grand...</r>
+      <r p="lp2">Oh!  J'en ai des vertiges!</r>
     </n>
   </txt>
   <txt id="surfDialNora">
     <n>
-      <r p="lp2">I can`t believe it, am I really climbing down a rat hole?</r>
-      <r p="lp2" push="1">Why am I even doing this?</r>
+      <r p="lp2">Je ne peux pas le croire, est-ce que je traverse vraiment dans un trou à rats ? </r>
+      <r p="lp2" push="1">Pourquoi est-ce que je fais ça ? </r>
     </n>
   </txt>
   <txt id="surfDialSome" imp="1">
     <n>
-      <t v="0.8">First meeting with a raider</t>
-      <r p='lp1'>Wait, I think I saw somepony there</r>
-      <r p='lp5'>E.F.S. marks a hostile target! Even if it is a pony, it is not too friendly</r>
-      <r p='lp1'>Still, should I really attack first? Or perhaps I should at least try talking to it?</r>
+      <t v="0.8">Première rencontre avec un pillard</t>
+      <r p='lp1'>Oh, j'ai cru voir un poney par la-bas</r>
+      <r p='lp5'>E.F.S marque une cible hostile ! Même si c'est un poney, il n'est pas trop sympathique </r>
+      <r p='lp1'>Encore faut-il vraiment attaquer en premier ? Ou peut-être devrais-je au moins essayer de lui parler ?</r>
     </n>
   </txt>
   <txt id="surfDialHello">
     <n>
-      <r p="lp4">Err.. Hi! Do you live here? I...</r>
-      <r m="1" p="raider">Wha? Who the fuck are you???|Wha? Who the hay are you???</r>
-      <r p="raider">Hey, come here everypony! We are going to have some fun!</r>
+      <r p="lp4">Err.. Salut! Tu vis ici? Je...</r>
+      <r m="1" p="raider">Que ? Tes qui bordel de merde???|hein? Tes qui toi???</r>
+      <r p="raider">Eh, tout le monde venez! On va s'amuser un peu!</r>
     </n>
   </txt>
   <txt id="surfDialKill">
     <n>
-      <r p="lp2">I... killed a pony?!</r>
-      <r p="lp5" push="1">No! Whatever it was, this psycho did not have much left from a pony!</r>
+      <r p="lp2">J'ai... tué un poney?!</r>
+      <r p="lp5" push="1">Non! Quoi qu'il en soit, ce psychopathe n'avait plus grand-chose d'un poney ! </r>
     </n>
   </txt>
   <txt id="dialCalam1" v="0.7">
     <n>
-      <t v="0.8">Raiders` ambush</t>
-      <r p='raider2'>Hello, my little pony. What are you doing here all alone? Don`t you want to have fun with us?</r>
-      <r p='lp5'>You want to play, huh? Well then, come closer, let`s see who will be having more fun</r>
-      <r p='raider2'>Ha-ha-ha, that`s what I like! Today is our lucky day. Now, we...</r>
-      <r p='raider2' m='1'>Huh, what the fuck?|Huh, what the hay?!</r>
-      <r p='calam'>Hey ya! Take cover!</r>
+      <t v="0.8">Ambuscade de pillard</t>
+      <r p='raider2'>Bonjour, mon petit poney. Qu'est ce que tu fais seule ici? Tu veux t'amuser avec nous?</r>
+      <r p='lp5'>Tu veux jouer, hein ? Eh bien, approche toi, voyons qui s'amusera le plus </r>
+      <r p='raider2'>Ha-ha-ha, j'adore ! Aujourd'hui est notre jour de chance. Maintenant nous... </r>
+      <r p='raider2' m='1'>Euh, qu'est-ce que c'est que ça?|Qu'est-ce?!</r>
+      <r p='calam'>Eh toi! A couvert!</r>
     </n>
   </txt>
   <txt id="dialCalam2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Meeting Calamity</t>
-      <r p='calam'>Hey, are ya crazy or what, walkin` all alone here? Ah`m glad that Ah came jus` in time, otherwise Ah can`t even imagine what these raiders would do t` ya</r>
-      <r p='lp2'>Err... thanks for helping of course, but I had everything under control</r>
-      <r p='calam'>Yeah, right. Ah could see your "under control". One pony without armor an` a normal weapon agains` a whole lotta scumbags</r>
-      <r p='calam'>An` why are ya lookin` at me like that?</r>
-      <r p='lp4'>I`m sorry. I`ve never seen a pegasus before. In our... I mean, in a place where I came from there were no pegasi at all</r>
-      <r p='calam'>Ah, Ah see! Ah reckon, there are not so many of us in the Wasteland... Wait, what place are ya talkin` about?</r>
-      <r p='lp1'>Well... I`m not local, my home is far away</r>
-      <r p='calam'>How far?.. Hold your horses. Lemme guess: are ya from the Stable? Mah word! You must be from there! An` this funny costume. Yup, it`s all clear now. T` tell ya the truth, there are so few stables with live ponies left, that Ah rarely meet ponies like ya nowadays</r>
-      <r p='lp1'>You are right. But let`s not talk about it now, ok? You`re one of the locals, right?</r>
-      <r p='calam'>Well, ya could say that. Nice t` meet ya, Ah`m Calamity</r>
-      <r p='lp4'>Nice to meet you too, I`m @lp. Listen, Calamiti, unless it`s too much trouble for you, could you show me the way to the nearest town or other settlement?</r>
-      <r p='calam'>Of course, Ah`ll even accompany ya. There is a camp nearby, "The Prancin` Pony". Ah`m sure, there ya`ll find everythin` ya might be needin`. Tell me when ya`re ready t` go</r>
+      <t v="0.8">Rencontre avec Calamity</t>
+      <r p='calam'>Hé, tu es fou ou quoi, marcher tout seul ici ? J'suis content que j'soit venu juste à temps, sinon tu n'peut même pas imaginer ce que ces raiders f'raient pour toi </r>
+      <r p='lp2'>Err... merci de m'avoir aidé, mais tout etait sous contrôle</r>
+      <r p='calam'>Ouaip sûr. J'pouvais voir ton "sous contrôle". Un poney sans armure sur une arme normale contre tout un tas d'salauds </r>
+      <r p='calam'>Et... pourquoi tu m'regarde comme ça?</r>
+      <r p='lp4'>Je suis désolé je n'ai jamais vu de pégase avant. Dans notre... Je veux dire, dans un endroit d'où je viens, il n'y avait pas du tout de pegase</r>
+      <r p='calam'>Ah, Ah t'vois ! Ah j'imagine, nous n'sommes pas si nombreux dans l'Terres Désolés... Attends, t'parles d'quel endroit ? </r>
+      <r p='lp1'>Eh bien... je suis pas d'ici, je viens de loin</r>
+      <r p='calam'>Jusqu'où ?.. 'ttend un peu... laisse-moi d'viner : tes d'l'écurie ? Ma parole ! tu dois être d'là-bas ! Et c'drôle de costume. yep, tout est clair maintenant. J'te dis la vérité, ya si peu d'écuries avec des poneys vivants, que j'vois rarement des poneys comme toi de nos jours </r>
+      <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des locaux, n'est-ce pas ? </r>
+      <r p='calam'>Eh bien, on peux dire ça. Ravi d't'rencontrer, j'suis Calamity </r>
+      <r p='lp4'>Ravi de vous rencontrer aussi, je suis @lp. Écoute, Calamity, à moins que ce ne soit trop compliqué pour toi, pourrais-tu me montrer le chemin vers la ville ou la colonie la plus proche ? </r>
+      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le poney de Prancin". Ah, je suis sûr qu'ty trouveras tout c'que tas besoin. Dis-moi quand tu s'ras prêt à partir </r>
     </n>
   </txt>
   <txt id="plantNextLevel" v="0.7">
     <n>
-      <r mod="1" p="term">Congratulations! You have cleared [the first level of the factory]. To go to the [second level], go through the door on your right. At each next level, new trials, new enemies and new rewards will be waiting!
-You can also use [MAS terminal] to teleport to the Base Camp for healing and replenishing supplies</r>
-      <r p="lp3">Aha, let`s see... it looks like the general plan of the factory...</r>
-      <r p="lp3" push="1">Now I`m on the first level. Below are the second, third and... many more</r>
-      <r p="lp3" push="1">The maneframe that I am looking for is in the special research department. Its entrances are on the third level and below. I have to go deeper. Yes, and it seems that to enter it I will need a security access key</r>
-      <r p="lp3">Yeah, this factory is really huge. If I wanted, I could be exploring it forever...</r>
+      <r mod="1" p="term">Toutes nos félicitations! Vous avez terminé [le premier niveau de l'usine]. Pour aller au [deuxième niveau], passez la porte sur votre droite. À chaque niveau suivant, de nouvelles épreuves, de nouveaux ennemis et de nouvelles récompenses vous attendent !
+Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp de base pour soigner et réapprovisionner en fournitures</r>
+      <r p="lp3">Aha, voyons voir... ça ressemble au plan général de l'usine... .</r>
+      <r p="lp3" push="1">Maintenant, je suis au premier niveau. Ci-dessous se trouvent les deuxième, troisième et... bien d'autres </r>
+      <r p="lp3" push="1">Le terminal maneframe que je recherche est dans le département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité </r>
+      <r p="lp3">Ouais, cette usine est vraiment énorme. Si je voulais, je pourrais l'explorer pour toujours...</r>
     </n>
   </txt>
   <txt id="plantNio" v="0.7">
     <n>
-      <r p="lp2">Yes, it seems, I am on the right track. Special Research Department is down the corridor</r>
-      <r mod="1" p="term">Go straight down the corridor to enter the [Special research department] and fulfill your mission. Or enter the [Exit] door to continue exploring a new factory level. You can return here when you are ready</r>
+      <r p="lp2">Il semblerait que je suis sur la bonne voie. Le département de recherche spécial est dans le couloir </r>
+      <r mod="1" p="term">Allez tout droit dans le couloir pour entrer dans le [Département de recherche spécial] et remplissez votre mission. Ou entrez par la porte [Sortie] pour continuer à explorer un nouveau niveau d'usine. Vous pouvez revenir ici lorsque vous êtes prêt </r>
     </n>
   </txt>
   <txt id="nioDial1" v="0.7">
     <n>
-      <r p="lp1">Looks like this is the special research department. I need to find the maneframe</r>
+      <r p="lp1">On dirait que c'est le département de recherche spécial. J'ai besoin de trouver le terminal maneframe</r>
     </n>
   </txt>
   <txt id="mainframeOff" v="0.7">
     <n>
-      <r p="main">System error. Please contact the administrator</r>
+      <r p="main">Erreur système. Veuillez contacter l'administrateur</r>
     </n>
   </txt>
   <txt id="storyDial2" imp="1" v="0.71">
     <n>
-      <t v="0.8">First conversation with Mentor</t>
-      <r>You connect your PipBuck to the maneframe terminal. For a while nothing happens, then a series of characters run through the PipBuck screen, which then get replaced by a download indicator. After that, the big screen of the terminal comes to life, and one by one lines start to appear</r>
-      <r p='main' push='1'>Authorization...</r>
-      <r p='main' push='1'>System starting...</r>
-      <r p='main' push='1'>Searching for files...</r>
-      <r p='main' push='1'>"Rainbow" project files found...</r>
-      <r p='main' push='1'>Remote connection established. Transfer begins, please wait...</r>
-      <r p='lp4'>Looks like everything is going as planned!</r>
-      <r p=''>Suddenly you hear a voice coming from dynamics hidden somewhere inside the machine</r>
-      <r p='main'>Hello, @lp. It`s me, Mentor. Congratulations, you`ve successfully completed your first mission. Right now we are getting files that we have been waiting for almost two centuries</r>
-      <r p='lp2'>What? Mentor? Are you talking through this terminal? And I can answer you?</r>
-      <r p='main'>Yes, @lp. Just now your PipBuck launched a program on the maneframe, through which we can communicate. Of course, you have many questions. Now you can ask them</r>
-      <r p='lp2'>Questions? Oh sure. Who are you?... And who am I? Why don`t I remember anything about my past? And... what is in these files that you were looking for?</r>
-      <r p='main'>The answers to all these questions are interconnected. I`m really your mentor, a pony you`ve known all your life. I can not tell my name yet. Your home, the place where you were born and grew up - Stable Pi. I also have no right to disclose any details about it, as well as about those files that you found. This information is top secret. For the safety of our common home, we had to cast a memory spell even on yourself. So that if you get caught by enemy, they could never get anything from you. I hope you understand</r>
-      <r p='lp2'>Was it really so necessary?</r>
-      <r p='main'>Unfortunately, yes. We have many enemies. When you complete the mission and return, I will remove the spell, and memories will return to you. But not before. You yourself agreed to such terms, didn`t you?</r>
-      <r p='lp1'>Yes, I heard the recording. But it doesn`t make it any easier!</r>
-      <r p='main'>I understand... but I believe that you will succeed</r>
-      <r p='lp1'>But can you tell me at least something about the purpose of my mission?</r>
-      <r p='main'>That`s the main reason why we are talking right now. Long before the War was finished, Stable Pi was a secret haven for scientists and engineers involved in the most important studies for the Equestrian army. After the bombs fell and the old Equestria came to an end, we switched to a completely autonomous existence. The entire Stable complex is deep underground, and you won`t find the entrance on any map. Secrecy is very important to us. We are no warriors, we cannot protect our invaluable knowledge from greed of Wasteland inhabitants. Therefore, we almost never contact the outside world</r>
-      <r p='lp1'>I see. But why did you need to send me to the surface?</r>
-      <r p='main'>One of Stable Pi's latest developments before the judgment day was the "Sun" project. I cannot tell you anything about it, but it is extremely important not only for our small society, but for the whole of Equestria. Unfortunately, by that time the project hadn`t been completed, because it was closely connected with another important development - same time, work on the "Rainbow" project was performed in parallel in the ManeTec labs. According to our information, this second project was completed, and the entire set of schematics and technical documentation was to be sent to us. But for some reason this never happened. Communication lines with their maneframe survived, but the server did not respond to our attempts to operate it remotely</r>
-      <r p='lp1'>And that`s why you needed me to kick this server back to work? And why did you call me "Chosen-25"? And why did you send me? Was I really the best choice for an important mission?</r>
-      <r p='main'>The title "Chosen" is a tradition. The first attempt to send an emissary to the surface was made almost a hundred years ago. Then he was called the "Chosen One", because he was elected from many other candidates for his competence. He was transferred to the Wasteland by a teleportation spell, but he did not fulfill the mission and did not return. Then we sent others. Fighters and diplomats, strong and cunning, single and whole teams. So there were "Chosen-2", "Chosen-3" and so on. No one succeeded. But you. So yes, it turned out in the end that it`s you who was the best choice</r>
-      <r p='lp4'>Well, I`m glad I could help. Now I need to return?</r>
-      <r p='main'>I`m sorry, @lp, but no. Obtaining files was the first, but not the only goal. For the projects "Sun" and "Rainbow" we also require some components that we don`t have at the Stable Pi. You will have to get them. We need time to study schematics we received, but one of the missing components is already known. It is the Quantum Cogitor, and we have evidence that it was stored in the Stable 88 - the research Stable somewhat similar to ours, but with much more resources and focused on research in the robotics field. Unfortunately, for some reasons unknown to us, after sealing the Stable, the communication channel with it was soon interrupted. Your task is to check the status of the Stable 88 and get the Quantum Cogitor from the ponies that inhabit it. Entrance to Stable 88 is located in a place called Falls Springs</r>
-      <r p='main' push='1'>The files are almost done loading, the connection will be interrupted any minute. Do you have any more questions?</r>
-      <r p='lp2'>I have lots of questions, actually. How about...</r>
-      <r p='main'>File transfer is complete. Connection closed</r>
-      <r p='lp5'>Luna dammit!</r>
-      <r p='lp1'>That means, I`m stuck here for a long time? And what`s more, I have to risk my life again?</r>
-      <r p='lp3'>But "me" from the past was confident in the importance of this mission. Did I know everything about my future mission then? That I would have to stay here for so long?</r>
-      <r p='lp1'>Still, even if I didn`t, it doesn`t mean that I have to give up on everything. The task assigned to me is extremely important, and this means that I have to fulfill it. This way or another</r>
+      <t v="0.8">Première conversation avec Mentor </t>
+      <r>Vous connectez votre PipBuck au terminal maneframe. Pendant un moment, rien ne se passe, puis une série de caractères parcourent l'écran PipBuck, qui sont ensuite remplacés par un indicateur de téléchargement. Après cela, le grand écran du terminal s'anime, et une à une les lignes commencent à apparaître </r>
+      <r p='main' push='1'>Autorisation...</r>
+      <r p='main' push='1'>Démarage système...</r>
+      <r p='main' push='1'>Recherche de fichier...</r>
+      <r p='main' push='1'>Fichiers de projet "Rainbow" trouvés ...</r>
+      <r p='main' push='1'>Connexion à distance établie. Le transfert commence, veuillez patienter ...</r>
+      <r p='lp4'>On dirait que tout se passe comme prévu ! </r>
+      <r p=''>Soudain, vous entendez une voix provenant de la dynamique cachée quelque part à l'intérieur de la machine </r>
+      <r p='main'>Bonjour @lp. C'est moi, Mentor. Félicitations, vous avez terminé avec succès votre première mission. En ce moment, nous recevons des fichiers que nous attendons depuis près de deux siècles</r>
+      <r p='lp2'>Quoi? Mentor? Parlez-vous via ce terminal ? Et je peux te répondre ? </r>
+      <r p='main'>Oui, @lp. Tout à l'heure, votre PipBuck a lancé un programme sur la maneframe, à travers lequel nous pouvons communiquer. Bien sûr, vous avez de nombreuses questions. Maintenant vous pouvez leur demander </r>
+      <r p='lp2'>Des questions? Oh, bien sûr. Qui es-tu ?... Et qui suis-je ? Pourquoi je ne me souviens de rien de mon passé ? Et... qu'y a-t-il dans ces fichiers que vous cherchiez ? </r>
+      <r p='main'>Les réponses à toutes ces questions sont interconnectées. Je suis vraiment ton mentor, un poney que tu as connu toute ta vie. Je ne peux pas encore dire mon nom. Votre maison, l'endroit où vous êtes né et avez grandi - Stable Pi. Je n'ai pas non plus le droit de divulguer des détails à ce sujet, ainsi que sur les fichiers que vous avez trouvés. Cette information est top secrète. Pour la sécurité de notre maison commune, nous avons dû vous jeter un sort de mémoire. Ainsi, si vous vous faites attraper par un ennemi, il ne pourra jamais rien obtenir de vous. J'espère que vous comprendrez </r>
+      <r p='lp2'>C'etais vraiment necessaire?</r>
+      <r p='main'>Malheureusement oui. Nous avons beaucoup d'ennemis. Lorsque vous aurez terminé la mission et que vous reviendrez, je supprimerai le sort et les souvenirs vous reviendront. Mais pas avant. Vous avez vous-même accepté de telles conditions, n'est-ce pas ? </r>
+      <r p='lp1'>Oui, j'ai entendu l'enregistrement. Mais cela ne facilite pas les choses !</r>
+      <r p='main'>Je comprend... mais je sais que tu réussiras</r>
+      <r p='lp1'>Mais peux-tu au moins me dire quelque chose sur le but de ma mission ? </r>
+      <r p='main'>C'est la principale raison pour laquelle nous parlons en ce moment. Bien avant la fin de la guerre, Stable Pi était un refuge secret pour les scientifiques et les ingénieurs impliqués dans les études les plus importantes pour l'armée d'Equestria. Après la chute des bombes, nous sommes passés à une existence complètement autonome. L'ensemble du complexe Stable est profondément souterrain et vous ne trouverez l'entrée sur aucune carte. Le secret est très important pour nous. Nous ne sommes pas des guerriers, nous ne pouvons pas protéger nos précieuses connaissances de la cupidité des habitants des Terres Désolés. Par conséquent, nous ne contactons presque jamais le monde extérieur </r>
+      <r p='lp1'>Je vois. Mais pourquoi aviez-vous besoin de m'envoyer à la surface ? </r>
+      <r p='main'>L'un des derniers développements de Stable Pi avant le jour du jugement était le projet "Sun". Je ne peux rien vous dire à ce sujet, mais c'est extrêmement important non seulement pour notre petite société, mais pour l'ensemble d'Equestria. Malheureusement, à ce moment-là, le projet n'était pas terminé, car il était étroitement lié à un autre développement important - en même temps, les travaux sur le projet "Rainbow" étaient menés en parallèle dans les laboratoires ManeTec. Selon nos informations, ce deuxième projet était terminé, et l'ensemble des schémas et documentations techniques devait nous être transmis. Mais pour une raison quelconque, cela ne s'est jamais produit. Les lignes de communication avec leur maneframe ont survécu, mais le serveur n'a pas répondu à nos tentatives pour le faire fonctionner à distance </r>
+      <r p='lp1'>Et c'est pourquoi vous aviez besoin que je remette ce serveur au travail ? Et pourquoi m'avez-vous appelé "Chosen-25" ? Et pourquoi m'aavez-vous envoyé ? Étais-je vraiment le meilleur choix pour une mission importante ? </r>
+      <r p='main'>Le titre "Chosen" est une tradition. La première tentative d'envoyer un émissaire à la surface remonte à près de cent ans. Ensuite, il a été appelé « l'élu », car il a été élu parmi de nombreux autres candidats pour sa compétence. Il a été transféré dans les Terres Désolés par un sort de téléportation, mais il n'a pas rempli la mission et n'est pas revenu. Ensuite, nous en avons envoyé d'autres. Combattants et diplomates, forts et rusés, des équipes simples et entières. Il y avait donc "Chosen-2", "Chosen-3" et ainsi de suite. Personne n'a réussi. Mais toi. Alors oui, il s'est avéré que c'est toi qui étais le meilleur choix </r>
+      <r p='lp4'>Eh bien, je suis contente d'avoir pu aider. Maintenant, je dois revenir ? </r>
+      <r p='main'>Je suis désolé, @lp, mais non. L'obtention de fichiers était le premier objectif, mais pas le seul. Pour les projets "Sun" et "Rainbow", nous avons également besoin de certains composants que nous n'avons pas au Stable Pi. Vous devrez les obtenir. Nous avons besoin de temps pour étudier les schémas que nous avons reçus, mais l'un des composants manquants est déjà connu. C'est le Quantum Cogitor, et nous avons la preuve qu'il était stocké dans l'Étable 88 - l'Étable de recherche quelque peu similaire à la nôtre, mais avec beaucoup plus de ressources et axée sur la recherche dans le domaine de la robotique. Malheureusement, pour des raisons qui nous sont inconnues, après avoir scellé l'écurie, le canal de communication avec elle fut bientôt interrompu. Votre tâche est de vérifier l'état de l'écurie 88 et d'obtenir le cogitateur quantique des poneys qui l'habitent. L'entrée de l'écurie 88 est située à un endroit appelé Falls Springs</r>
+      <r p='main' push='1'>Le chargement des fichiers est presque terminé, la connexion sera interrompue d'une minute à l'autre. Avez-vous d'autres questions? </r>
+      <r p='lp2'>J'ai plein de questions, en fait. Que diriez-vous... </r>
+      <r p='main'>Le transfert de fichiers est terminé. Connexion fermée </r>
+      <r p='lp5'>Bon sang!</r>
+      <r p='lp1'>Ça veut dire que je suis coincé ici depuis longtemps ? Et en plus, je dois encore risquer ma vie ? </r>
+      <r p='lp3'>Mais "moi" du passé était confiante dans l'importance de cette mission. Suis-je alors au courant de ma future mission ? Que je devrais rester ici si longtemps ? </r>
+      <r p='lp1'>Pourtant, même si je ne l'ai pas fait, cela ne veut pas dire que je dois tout abandonner. La tâche qui m'est confiée est extrêmement importante, et cela signifie que je dois la remplir. D'une façon ou d'une autre </r>
     </n>
   </txt>
   <txt id="velvetDial1" imp="1" v="0.7">
