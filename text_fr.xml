@@ -1462,13 +1462,13 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Spray à peinture</n>
   </weapon>
   <weapon id='aliblade' v='0.8'>
-    <n>Ghost blades</n>
+    <n>Lames fantôme</n>
   </weapon>
   <weapon id='alimray' v='0.8'>
     <n>Rayon de la mort</n>
   </weapon>
   <weapon id='robolaser' v='0.8'>
-    <n>Small laser</n>
+    <n>Petit laser</n>
   </weapon>
   <weapon id='robospark' v='0.8'>
     <n>Arc thrower</n>
@@ -7599,48 +7599,48 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </txt>
   <txt id="begDialWater">
     <n>
-      <r p="lp2">Uh-oh... Something is wrong with this water...</r>
-      <r p="lp2" push="1">As far as I know, it shouldn`t be this color</r>
+      <r p="lp2">Uh-oh... Quelque chose ne va pas avec cette eau...</r>
+      <r p="lp2" push="1">Pour autant que je sache , elle ne devrait pas être de cette couleur</r>
     </n>
   </txt>
   <txt id="begDialPodkradun">
     <n>
-      <r p="lp2">This ceiling turret looks dangerous, and I don`t even have a decent weapon. I don`t think it`s worth fighting it</r>
-      <r p="lp2">But this is not necessary, right? If I want to get to other side, I can just sneak past it</r>
-      <r p="lp4">Right, let`s do this!</r>
+      <r p="lp2">Cette tourelle automatique a l'air dangereuse, et je n'ai pas d'arme adapté. Je ne pense pas que le combat soit équitable</r>
+      <r p="lp2">Mais ce n'est pas necessaire. Pour aller de l'autre coté je peux passer discrètement</r>
+      <r p="lp4">Allez, je peux le faire!</r>
     </n>
   </txt>
   <txt id="begDialTurret" imp="2">
     <n>
       <t v="0.8">Tourelles</t>
-      <r p='term'>Turrets are stationary defensive robots, installed in particular places and equipped with powerful weapons</r>
-      <r p='term'>While in a combat mode, they automatically recognize nearby hostile targets and open fire without warning</r>
-      <r p='term'>There are quite a few functional pre-war turrets in the Wasteland that, even after all these years, continue to guard entrusted objects. And this definitely represents a big problem for those eager to get easy loot from industrial plants and military objects</r>
-      <r p='term'>Luckily, turrets are quite easy to get rid of, despite their deadly firepower. You can use armor piercing or impulse weapons, or just shut them down through security terminal. The most important part - stay away from bullets, which is not that hard. Because turrets can`t move, they will not chase you after you leave their detection range</r>
+      <r p='term'>Les tourelles sont des robots défensifs, installés à des endroits particuliers et équipés d'armes puissantes</r>
+      <r p='term'>En mode combat, ils reconnaissent automatiquement les cibles hostiles à proximité et ouvrent le feu sans avertissement</r>
+      <r p='term'>Il y a pas mal de tourelles fonctionnelles d'avant-guerre dans les Terres Désolé qui, même après toutes ces années, continuent de garder les objets confiés. Et cela représente certainement un gros problème pour ceux qui souhaitent obtenir facilement du butin.</r>
+      <r p='term'>Heureusement, les tourelles sont assez faciles à éliminer, malgré leur puissance de feu mortelle. Vous pouvez utiliser des armes perforantes ou à impulsion, ou simplement les fermer via le terminal de sécurité. La partie la plus importante - restez à l'écart des balles, ce qui n'est pas si difficile. Parce que les tourelles ne peuvent pas bouger, elles ne vous poursuivront pas si vous quittez leur détection.</r>
     </n>
   </txt>
   <txt id="begDialBloat" imp="2">
     <n>
       <t v="0.8">Bouffisprites</t>
-      <r p='term'>Bloatsprites are believed to be former parasprites mutated from taint and magical radiation exposure.
-          While having new, dangerous abilities, they also inherited the notorious gift of rapid reproduction, hence you can find quite a few of them roaming Equestrian Wasteland</r>
-      <r p='term'>Some of them are able to spit poisonous thorns and acid, others will attack their prey using very sharp teeth.
-          The most dangerous type injects eggs into victim`s body, and newborn insects devour it from inside</r>
-      <r p='term'>While single bloatsprite doesn`t represent much threat, a swarm may cause you a deep trouble. These creatures are hard to kill with a bullet - try using magical energy and melee weapons</r>
+      <r p='term'>On pense que les bouffisprites sont d'anciens parasprites mutés à la suite d'une exposition aux radiations magiques.
+          Tout en ayant de nouvelles capacités dangereuses, ils ont également hérité du don notoire de la reproduction rapide, vous pouvez donc en trouver un certain nombre dans les Terres Désolé.</r>
+      <r p='term'>Certains d'entre eux sont capables de cracher des épines venimeuses et de l'acide, d'autres attaqueront leurs proies avec des dents très pointues.
+          L'espèce la plus dangereuse injecte des œufs dans le corps de la victime et les insectes nouveau-nés la dévorent de l'intérieur</r>
+      <r p='term'>Bien qu'un seul bouffisprite ne représente pas une grande menace, un essaim peut vous causer de graves problèmes. Ces créatures sont difficiles à tuer avec une balle - essayez d'utiliser de l'énergie magique et des armes de mêlée</r>
     </n>
   </txt>
   <txt id="begDialBloat2" v="0.7">
     <n>
-      <r p="lp2">There is definitely something behind this wall. I hear some kind of suspicious buzzing noise</r>
-      <r p="lp3">Hmm... the wall does not look particularly strong. I can try making a hole in it, but is it worth it?</r>
+      <r p="lp2">Il y a quelque chose derrière ce mur. J'entend un étrange bourdonnement</r>
+      <r p="lp3">Hmm... le mur n'a pas l'air très solide. Je pourrais essayer de faire un trou dedans, mais est-ce que ça vaut le coup?</r>
     </n>
   </txt>
   <txt id="begDialExpl">
     <n>
-      <r p="lp3">There`s a whole lot of explosives in there! I could try to disarm it, but I doubt that my skill is high enough</r>
-      <r p="lp3">I can probably just shoot it...</r>
-      <r p="lp3" push="1">But first I`d better take a couple of steps away!</r>
-      <r p="lp3" push="1">I hope the walls won`t collapse...</r>
+      <r p="lp3">Il y a plein d'explosifs là-dedans ! Je pourrais essayer de le désarmer, mais je doute que ma compétence soit assez élevée</r>
+      <r p="lp3">Je pourrais tirer dessu...</r>
+      <r p="lp3" push="1">Mais dabord je vais peut-être me reculer!</r>
+      <r p="lp3" push="1">J'espère que les murs ne vont pas s'écrouler...</r>
     </n>
   </txt>
   <txt id="storyDial1" imp="1" v="0.7">
