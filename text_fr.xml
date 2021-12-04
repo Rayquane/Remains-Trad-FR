@@ -103,10 +103,10 @@
     <n>Factory maneframe</n>
   </unit>
   <unit id="mainframe2" v="0.7">
-    <n>Stable maneframe</n>
+    <n>Ordinateur central d'Etable</n>
   </unit>
   <unit id="comm" v="0.7">
-    <n>Communication unit</n>
+    <n>Unité de communication</n>
   </unit>
   <unit id="mentor" v="0.8">
     <n>Mentor</n>
@@ -360,11 +360,11 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="zombie4">
     <n>Goule luminescente</n>
-    <info>This ghoul glows because of the overwhelming magical radiation stored in it. Getting hit, you risk not only taking physical damage but a dose of radiation as well. They are also able to create bursts of radiation, restoring health of other ghouls nearby</info>
+    <info>Celle-ci brille a cause du taux de radiation élevé qu'elle contient. Si vous vous faites toucher, vous ne prendrez pas seulements des dégats physique mais aussi une bonne dose de radiation. Ils peuvent créer un souffle radioactif qui va soigner les goules autours de lui</info>
   </unit>
   <unit id="zombie5">
     <n>Goule soldat</n>
-    <info>Earth pony soldier turned into a ghoul. It still wears remnants of armor, and its physical strength has incredibly increased after mutation. Just by stomping hooves on the ground, he can make a small earthquake</info>
+    <info>Un poney terrestre soldat transformé en goule Earth pony soldier turned into a ghoul. It still wears remnants of armor, and its physical strength has incredibly increased after mutation. Just by stomping hooves on the ground, he can make a small earthquake</info>
   </unit>
   <unit id="zombie6">
     <n>Goule éventreuse</n>
@@ -689,7 +689,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Magic turret</n>
   </unit>
   <unit id="stabpon" v="0.8">
-    <n>Habitant d'Ecurie</n>
+    <n>Habitant d'Etable</n>
   </unit>
   <unit id="destr1" v="0.8">
     <n>Réacteur de Thunderhead</n>
@@ -1581,7 +1581,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A battle spell embedded in Alicorn`s armor. Creates bursts of destructive cosmic energy</info>
   </weapon>
   <armor id="pip" v="0.8">
-    <n>Combinaison d'Ecurie</n>
+    <n>Combinaison d'Etable</n>
     <info>Common clothing worn by all stable dwellers</info>
   </armor>
   <armor id="kombu">
@@ -2769,7 +2769,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>The key belonging to the necromancer zebra Mchawi</info>
   </item>
   <item id="key_ranger" v="0.7">
-    <n>Steel Rangers` key</n>
+    <n>Clé des Rangers d'Acier</n>
     <info>The key that was kept by Elder Coldsight</info>
   </item>
   <item id="key_tumba" v="0.6">
@@ -3519,7 +3519,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Cryocapsule</n>
   </obj>
   <obj id="vault" v="0.8">
-    <n>Vault</n>
+    <n>Coffre</n>
   </obj>
   <obj id="door1">
     <n>Porte en bois</n>
@@ -3528,22 +3528,22 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Porte renforcée</n>
   </obj>
   <obj id="door1b">
-    <n>Sturdy door</n>
+    <n>Porte solide</n>
   </obj>
   <obj id="door2">
-    <n>Iron door</n>
+    <n>Porte en fer</n>
   </obj>
   <obj id="door2a">
-    <n>Iron door</n>
+    <n>Porte en fer</n>
   </obj>
   <obj id="stdoor">
-    <n>Stable door</n>
+    <n>Porte d'Etable</n>
   </obj>
   <obj id="door3">
-    <n>Armored door</n>
+    <n>Porte blindée</n>
   </obj>
   <obj id="door4">
-    <n>Force field</n>
+    <n>Champ de force</n>
   </obj>
   <obj id="basedoor" v="0.7">
     <n>Barracks door</n>
@@ -3561,55 +3561,55 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Iron trapdoor</n>
   </obj>
   <obj id="indoor1">
-    <n>Wooden door</n>
+    <n>Porte en bois</n>
   </obj>
   <obj id="indoor2">
     <n>Reinforced door</n>
   </obj>
   <obj id="instdoor">
-    <n>Stable door</n>
+    <n>Porte d'Etable</n>
   </obj>
   <obj id="inbasedoor" v="0.7">
     <n>Barracks door</n>
   </obj>
   <obj id="inencldoor" v="0.7">
-    <n>Base door</n>
+    <n>Porte de la base</n>
   </obj>
   <obj id="exit" v="0.7">
-    <n>Exit from the level</n>
+    <n>Quitter le niveau</n>
   </obj>
   <obj id="indoor3">
     <n>Ventilation</n>
   </obj>
   <obj id="indoor4">
-    <n>Sturdy door</n>
+    <n>Porte solide</n>
   </obj>
   <obj id="generat" v="0.7">
-    <n>Generator</n>
+    <n>Générateur</n>
   </obj>
   <obj id="checkpoint">
-    <n>Checkpoint</n>
+    <n>Point de contrôle</n>
   </obj>
   <obj id="bossroom" v="0.7">
-    <n>Boss room</n>
+    <n>Salle de boss</n>
   </obj>
   <obj id="brspr" v="0.7">
-    <n>Sprite-bot remains</n>
+    <n>Restes de Sprite-bot</n>
   </obj>
   <obj id="dsph" v="0.7">
-    <n>Dark sphere</n>
+    <n>Sphère obscure</n>
   </obj>
   <obj id="elpanel" v="0.8">
-    <n>Terminal for electric fence</n>
+    <n>Terminal pour clôture électrique</n>
   </obj>
   <obj id="door_st2" v="0.8">
-    <n>Stable exit</n>
+    <n>Sortie d'Etable</n>
   </obj>
   <obj id="door_st1" v="0.8">
-    <n>Stable entrance</n>
+    <n>Entrée d'Etable</n>
   </obj>
   <obj id="tomb" v="0.8">
-    <n>Tomb</n>
+    <n>Tombe</n>
   </obj>
   <!--Skills-->
   <eff id="tele" v="0.7">
@@ -4520,20 +4520,20 @@ The game is stored in a single selected slot</info>
   </gui>
   <gui id="opt4" v="0.6">
     <n>Compétences aléatoires</n>
-    <info>On level up, skills and perks will be selected randomly.
-Test your survival abilities with what is brought to you by chance</info>
+    <info>En montant de niveau, les compétences et aptitudes seront choisies aléatoirement.
+Testez vos capacités de survie avec ce qui vous est apporté par la chance.</info>
   </gui>
   <gui id="opt5" v="0.7">
-    <n>Slow learner</n>
-    <info>You will only receive 3 skill points per level instead of 5 points.
-Increasing all skill levels to maximum will be much more difficult.
-You will have to choose more carefully which skills you need in the first place</info>
+    <n>Apprenti lent</n>
+    <info>Vous ne recevrez que 3 points de compétence par niveau au lieu de 5.
+Augmenter les niveaux de compétence au maximum sera bien plus difficile.
+Vous devrez choisir avec prudence de quelles compétences vous aurez besoin.</info>
   </gui>
   <gui id="opt6" v="0.81">
     <n>Inventaire limité</n>
     <info>Dans ce mode, la plupart des objets ont un poids.
-You will be able to carry and use a limited number of items and weapons.
-This mode is recommended only for experienced players who are playing not the first time</info>
+Vous serez capable de transporter et d'utiliser un nombre limité d'objets et d'armes.
+Ce mode est recommandé aux joueurs expérimentés qui ne jouent pas pour la première fois.</info>
   </gui>
   <gui id="butvid" v="0.6">
     <n>Customiser l'apparence</n>
@@ -4855,13 +4855,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Stockage</n>
   </pip>
   <pip id="stat1">
-    <n>Main</n>
+    <n>Général</n>
   </pip>
   <pip id="stat2">
-    <n>Skills</n>
+    <n>Compétences</n>
   </pip>
   <pip id="stat3">
-    <n>Perks</n>
+    <n>Aptitudes</n>
   </pip>
   <pip id="stat4">
     <n>Effets</n>
@@ -5156,236 +5156,236 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Available skill points</n>
   </pip>
   <pip id="perkpoint">
-    <n>Available perks</n>
+    <n>Aptitudes disponibles</n>
   </pip>
   <pip id="requir">
-    <n>Requirements:</n>
+    <n>Critères requis :</n>
   </pip>
   <pip id="accept">
-    <n>Accept</n>
+    <n>Accepter</n>
   </pip>
   <pip id="choose">
-    <n>Choose</n>
+    <n>Choisir</n>
   </pip>
   <pip id="chooseperk">
-    <n>Choose the new perk</n>
+    <n>Choisissez la nouvelle aptitude</n>
   </pip>
   <pip id="default">
-    <n>Default</n>
+    <n>Défaut</n>
   </pip>
   <pip id="or">
-    <n>or</n>
+    <n>ou</n>
   </pip>
   <pip id="is1">
-    <n>skill</n>
+    <n>compétence</n>
   </pip>
   <pip id="is2">
-    <n>level</n>
+    <n>niveau</n>
   </pip>
   <pip id="is3">
-    <n>effect</n>
+    <n>effet</n>
   </pip>
   <pip id="is4">
-    <n>time, s</n>
+    <n>temps, s</n>
   </pip>
   <pip id="is5">
-    <n>perk</n>
+    <n>aptitude</n>
   </pip>
   <pip id="inv1">
-    <n>Weapons</n>
+    <n>Armes</n>
   </pip>
   <pip id="inv2">
-    <n>Armor</n>
+    <n>Armures</n>
   </pip>
   <pip id="inv3">
-    <n>Equipment</n>
+    <n>Equipement</n>
   </pip>
   <pip id="inv4">
-    <n>Other</n>
+    <n>Autre</n>
   </pip>
   <pip id="inv5">
-    <n>Ammunition</n>
+    <n>Munitions</n>
   </pip>
   <pip id="ii1">
-    <n>key</n>
+    <n>clé</n>
   </pip>
   <pip id="ii2">
-    <n>name</n>
+    <n>nom</n>
   </pip>
   <pip id="ii3">
     <n>condition</n>
   </pip>
   <pip id="ii4">
-    <n>ammunition</n>
+    <n>munition</n>
   </pip>
   <pip id="ii5">
-    <n>quantity</n>
+    <n>quantité</n>
   </pip>
   <pip id="ii6">
-    <n>category</n>
+    <n>catégorie</n>
   </pip>
   <pip id="ii7" v="0.8">
-    <n>you / storage</n>
+    <n>vous / stockage</n>
   </pip>
   <pip id="ii8" v="0.8">
-    <n>weight</n>
+    <n>poids</n>
   </pip>
   <pip id="ii9" v="0.8">
     <n>total</n>
   </pip>
   <pip id="a">
-    <n>A ammunition</n>
+    <n>A Munition</n>
   </pip>
   <pip id="e">
-    <n>E explosive</n>
+    <n>E Explosif</n>
   </pip>
   <pip id="spell">
-    <n>A Spell</n>
+    <n>A Sort</n>
   </pip>
   <pip id="med">
-    <n>B Medicine</n>
+    <n>B Médicament</n>
   </pip>
   <pip id="pot">
-    <n>C Magic potion</n>
+    <n>C Potion magique</n>
   </pip>
   <pip id="him">
-    <n>D Chemicals</n>
+    <n>D Produits chimiques</n>
   </pip>
   <pip id="equip">
-    <n>E Equipment</n>
+    <n>E Equipement</n>
   </pip>
   <pip id="book">
-    <n>F Book</n>
+    <n>F Livre</n>
   </pip>
   <pip id="sphera">
-    <n>F Memory orb</n>
+    <n>F Orbe de mémoire</n>
   </pip>
   <pip id="note" v="0.7">
     <n>G Document</n>
   </pip>
   <pip id="valuables">
-    <n>F Valuables</n>
+    <n>F Objets de valeur</n>
   </pip>
   <pip id="spec" v="0.7">
-    <n>I Quest item</n>
+    <n>I Objet de quête</n>
   </pip>
   <pip id="instr">
-    <n>G Tool</n>
+    <n>G Outil</n>
   </pip>
   <pip id="art">
-    <n>H Artifact</n>
+    <n>H Artéfact</n>
   </pip>
   <pip id="stuff">
-    <n>J Stuff</n>
+    <n>J Inventaire</n>
   </pip>
   <pip id="compp">
-    <n>J Ingredient</n>
+    <n>J Ingrédient</n>
   </pip>
   <pip id="scheme">
-    <n>K Scheme</n>
+    <n>K Plan</n>
   </pip>
   <pip id="impl">
-    <n>L Augmentation</n>
+    <n>L Amélioration</n>
   </pip>
   <pip id="key" v="0.7">
-    <n>M Key</n>
+    <n>M Clé</n>
   </pip>
   <pip id="food">
-    <n>N Food</n>
+    <n>N Nourriture</n>
   </pip>
   <pip id="paint" v="0.6">
-    <n>Q paint</n>
+    <n>Q Peinture</n>
     <info>Paint sprays are used to paint on the walls. Hold Shift to use airbrush mode. Attention! All murals are temporary and disappear when you leave the room</info>
   </pip>
   <pip id="money">
-    <n>Z Money</n>
+    <n>Z Argent</n>
   </pip>
   <pip id="new">
-    <n>new</n>
+    <n>nouveau</n>
   </pip>
   <pip id="weapontip">
-    <n>Type of weapon</n>
+    <n>Type d'arme</n>
   </pip>
   <pip id="weapontip1">
-    <n>melee</n>
+    <n>corps-à-corps</n>
   </pip>
   <pip id="weapontip2">
-    <n>firearms</n>
+    <n>arme à feu</n>
   </pip>
   <pip id="weapontip3">
-    <n>hoofmade</n>
+    <n>fait-sabot</n>
   </pip>
   <pip id="weapontip4">
-    <n>magical energy</n>
+    <n>énergie magique</n>
   </pip>
   <pip id="weapontip5">
-    <n>explosive</n>
+    <n>explosif</n>
   </pip>
   <pip id="weapontip6">
-    <n>spell</n>
+    <n>sort</n>
   </pip>
   <pip id="weapontip7" v="0.8">
-    <n>telekinesis</n>
+    <n>télékinésie</n>
   </pip>
   <pip id="lvl">
-    <n>Required skill level</n>
+    <n>Niveau de compétence requis</n>
   </pip>
   <pip id="islvl">
-    <n>Your skill</n>
+    <n>Votre compétence</n>
   </pip>
   <pip id="perslvl">
-    <n>Required level</n>
+    <n>Niveau requis</n>
   </pip>
   <pip id="isperslvl">
-    <n>Your level</n>
+    <n>Votre niveau</n>
   </pip>
   <pip id="damage">
-    <n>Damage</n>
+    <n>Dégâts</n>
   </pip>
   <pip id="aps">
-    <n>Attacks per second</n>
+    <n>Attaques par seconde</n>
   </pip>
   <pip id="dps">
-    <n>Damage per second</n>
+    <n>Dégâts par seconde</n>
   </pip>
   <pip id="prec">
-    <n>Range</n>
+    <n>Portée</n>
   </pip>
   <pip id="holder">
     <n>Magazine</n>
   </pip>
   <pip id="rashod">
-    <n>per shot</n>
+    <n>par tir</n>
   </pip>
   <pip id="effect">
-    <n>Efficiency</n>
+    <n>Efficacité</n>
   </pip>
   <pip id="dmana">
-    <n>Magic consumption per attack</n>
+    <n>Consommation magique par attaque</n>
   </pip>
   <pip id="dmana2" v="0.8">
-    <n>Magical consumption per use</n>
+    <n>Consommation magique par utilisation</n>
   </pip>
   <pip id="culd" v="0.8">
-    <n>Recharge time</n>
+    <n>Temps de rechargement</n>
   </pip>
   <pip id="tipdam">
-    <n>Damage type</n>
+    <n>Type de dégâts</n>
   </pip>
   <pip id="tipdam0">
-    <n>bullet</n>
+    <n>balle</n>
   </pip>
   <pip id="tipdam1">
-    <n>blade</n>
+    <n>lame</n>
   </pip>
   <pip id="critch">
-    <n>Critical damage chance</n>
+    <n>Chance de coup critique</n>
   </pip>
   <pip id="tipdam2">
-    <n>blunt</n>
+    <n>contondant</n>
   </pip>
   <pip id="tipdam3">
-    <n>fire</n>
+    <n>feu</n>
   </pip>
   <pip id="tipdam4">
     <n>explosion</n>
@@ -5752,14 +5752,14 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="show_hit1" v="0.7">
     <n>Afficher dégâts</n>
-    <info>Visualisation des dommages tu sait, ils</info>
+    <info>Visualisation des dégâts effectués lors des combats.</info>
   </pip>
   <pip id="show_hit2" v="0.7">
-    <n>Show damage as single number</n>
-    <info>When firing from shotguns or automatic weapons, total damage will be displayed by a single number, instead of individual numbers for each hit</info>
+    <n>Afficher les dégâts avec seulement un nombre</n>
+    <info>Lors de tirs au fusil à pompe ou aux armes automatiques, le total des dégâts sera affiché en un nombre seulement, au lieu d'un nombre individuel pour chaque coup.</info>
   </pip>
   <pip id="mat_filter" v="0.7">
-    <n>Filter obscene language</n>
+    <n>Filtrer le langage vulgaire</n>
     <info>Disable this setting only if you are at least 18 years old, and your psyche is ready to withstand the selected language, sometimes used in their speech by inhabitants of the post-apocalyptic wasteland</info>
   </pip>
   <pip id="sys_cur" v="0.8">
@@ -5882,7 +5882,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="piperror" v="0.8">
     <n>Attention ! Echec système.</n>
-    <info>Error 0-4570-7f45-a420-ff98 (System error, contact administrator)
+    <info>Erreur 0-4570-7f45-a420-ff98 (Erreur système, contactez l'administrateur)
 The likely cause of the failure is an effect of an electromagnetic pulse on the PipBuck systems.
 Checking the subsystems and modules:
 • User Status - Not Available
@@ -6240,14 +6240,14 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="zoom100" s1="keyZoom" s2="keyLook" v="0.8">
     <n>Zoom 100%</n>
-    <info>Enabling this option will set the zoom to 100% at the beginning of the game. If left disabled, the scale will be set to fit the entire room on the screen.
-Enable this option if your monitor has a resolution of FullHD (1920x1080) or more.
-For lower resolution, disabling this option is recommended for reducing the load on the processor and improving performance.	
-You can always change zoom in game using the @1 key. And if a room does not fit the entire screen, you can move the camera while holding @2</info>
+    <info>Activer cette option mettra le zoom à 100% au début du jeu. Si désactivée, l'échelle sera configurée pour remplir l'écran.
+Activez cette option si votre moniteur possède une résolution FullHD (1920x1080) ou plus.
+Pour les plus petites résolutions, désactiver cette option est recommandée pour réduire la charge sur le processeur et améliorer la performance.	
+Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle ne remplit pas tout l'écran, vous pouvez déplacer la caméra en restant appuyé sur @2.</info>
   </pip>
   <pip id="quake" v="0.8">
-    <n>Camera shaking</n>
-    <info>The camera will shake after explosions and strong blows</info>
+    <n>Secouement de caméra</n>
+    <info>La caméra tremblera après des explosions et de puissants chocs.</info>
   </pip>
   <pip id="tovault" v="0.81">
     <n>Lay out unnecessary items</n>
@@ -6718,49 +6718,49 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Insufficient character level</n>
   </info>
   <info id="upArmor" st="2">
-    <n>Armor enhanced</n>
+    <n>Armure améliorée</n>
   </info>
   <info id="brokenArmor" st="3">
-    <n>Armor damaged</n>
+    <n>Armure endommagée</n>
   </info>
   <info id="created" st="2">
-    <n>Weapon @1 created</n>
+    <n>Arme @1 créée</n>
   </info>
   <info id="created2" st="2">
-    <n>Item @1 created. You have total - @2</n>
+    <n>Objet @1 créé. You have total - @2</n>
   </info>
   <info id="created3" st="2">
-    <n>@1 created</n>
+    <n>@1 créé</n>
   </info>
   <info id="created4" st="2">
-    <n>Augmentation @1 installed</n>
+    <n>Amélioration @1 installée</n>
   </info>
   <info id="noMaterials" st="3">
-    <n>Lacking required materials</n>
+    <n>Manque de matériaux nécessaires</n>
   </info>
   <info id="SaveGame">
-    <n>Game saved</n>
+    <n>Partie sauvegardée</n>
   </info>
   <info id="noSaveGame" st="5">
-    <n>Saving Error</n>
+    <n>Erreur de sauvegarde</n>
   </info>
   <info id="noLoadGame" st="5" v="0.7">
-    <n>Loading error</n>
+    <n>Erreur de chargement</n>
   </info>
   <info id="checkPoint">
-    <n>Checkpoint</n>
+    <n>Point de contrôle</n>
   </info>
   <info id="addTask" st="6">
-    <n>New mission added: @1</n>
+    <n>Nouvelle mission ajoutée : @1</n>
   </info>
   <info id="addTask2" st="6" v="0.7">
-    <n>Added a new stage of the mission: "@1"</n>
+    <n>Nouvelle étape ajoutée à la mission : "@1"</n>
   </info>
   <info id="doneTask" st="6">
-    <n>Mission "@1" complete</n>
+    <n>Mission "@1" complétée</n>
   </info>
   <info id="doneStage" st="6" v="0.7">
-    <n>Stage of the mission "@1" complete</n>
+    <n>Etape de la mission "@1" complétée</n>
   </info>
   <info id="collect" st="6" v="0.7">
     <n>@1</n>
@@ -6956,7 +6956,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>Sewage tunnels, filled with sludge, toxic and radioactive waste. It is a lair for various monsters, and wild ghouls pose a significant threat. Many passages and rooms are flooded</info>
   </map>
   <map id="random_stable">
-    <n>Abandoned stable</n>
+    <n>Etable abandonnée</n>
     <info>Its population died many years ago, and those who remained turned into wild ghouls. Security robots and turrets are especially dangerous there</info>
   </map>
   <map id="core" v="0.7">
@@ -7154,7 +7154,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Boss du camp des esclavagistes</n>
   </map>
   <map id="bossultra1" v="0.6">
-    <n>Boss de l'Ecurie abandonnée</n>
+    <n>Boss de l'Etable abandonnée</n>
   </map>
   <map id="bossalicorn1" v="0.6">
     <n>Boss des ruines de Manehattan</n>
@@ -7214,7 +7214,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Combat pour les égouts</n>
   </map>
   <map id="w_robots" v="0.7">
-    <n>Combat pour l'Ecurie</n>
+    <n>Combat pour l'Etable</n>
   </map>
   <map id="w_grif" v="0.7">
     <n>Combat pour Manehattan</n>
@@ -7285,7 +7285,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Boss de la Base de l'Enclave</n>
   </map>
   <map id="stable_pi" v="0.8">
-    <n>Ecurie Pi</n>
+    <n>Etable Pi</n>
     <info>Un abri secret complètement autonome construit au début de la guerre pour sauver les meilleurs scientifiques et ingénieurs Equestriens. C'est aussi votre maison.</info>
   </map>
   <map id="art" v="0.8">
@@ -7293,10 +7293,10 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <info>L'une des plus imprenables forteresses d'Equestria. Elle possède de l'artillerie puissante et un système de défense anti-aérien.</info>
   </map>
   <map id="stable_pi_atk" v="0.8">
-    <n>Ecurie Pi</n>
+    <n>Etable Pi</n>
   </map>
   <map id="stable_pi_surf" v="0.8">
-    <n>Entrée de l'Ecurie Pi</n>
+    <n>Entrée de l'Etable Pi</n>
   </map>
   <map id="thunder" v="0.8">
     <n>Thunderhead</n>
@@ -7413,7 +7413,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
     <n>Pendant que vous sautez, appuyez encore sur @1 pour sauter une deuxième fois avec la télékinésie.[br]Avec cette technique tu peux sauter plus loin</n>
   </txt>
   <txt id="trLevitUp" v="0.7">
-    <n>Tu peux aussi sauter 2 fois pour atteindre des lieux innacessible en temps normal</n>
+    <n>Vous pouvez aussi sauter 2 fois pour atteindre des lieux innacessible en temps normal.</n>
   </txt>
   <txt id="trVlaz" s1="keyBeUp" s2="keyLeft" s3="keyRight" v="0.6">
     <n>Hold @1 + @3(@2) to climb one block high without jumping, or climb through narrow passages at the level of one block</n>
@@ -7492,8 +7492,8 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="helpControl" imp="3" v="0.7">
     <n>
-      <t v="0.8">ADVANCED CONTROLS</t>
-      <r s1='keyBeUp'>Holding @1 - raise a weapon higher</r>
+      <t v="0.8">CONTROLES AVANCEES</t>
+      <r s1='keyBeUp'>Rester appuyé sur @1 - lève une arme plus haut</r>
       <r s1='keyBeUp' s2='keySit'>Same while lying by holding both @2 and @1</r>
       <r s1='keyBeUp'>@1 near a box, a piece of furniture or a niche in a wall - hide behind a cover</r>
       <r s1='keySit'>Twice @1 - jump down off a beam</r>
@@ -7519,8 +7519,8 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="helpGl1" imp="3" v="0.7">
     <n>
-      <t v="0.8">GLOSSARY</t>
-      <r>[The Great War] - a global war between Equestria and the Zebras Empire, which happened about 200 years ago. This war ended in the mutual extermination and transformation of Equestria into the Wasteland</r>
+      <t v="0.8">GLOSSAIRE</t>
+      <r>[La Grande Guerre] - a global war between Equestria and the Zebras Empire, which happened about 200 years ago. This war ended in the mutual extermination and transformation of Equestria into the Wasteland</r>
       <r>[Megaspells] - ordinary spells strengthened by many orders of magnitude, which were used in the Great War as weapons of mass destruction</r>
       <r>[Balefire-bomb] - zebra megaspell base on the dragon fire, concealed in a special device. When activated, it explodes with a monstrous force that can destroy entire cities with a shock wave and poison the area with magical radiation</r>
       <r>[Pink cloud] - A terrible megaspell that destroyed the capital of Equestria, Canterlot. This is a deadly cloud of an extremely toxic gas of pink color, capable of killing all lifeforms. There is no protection from it</r>
@@ -7532,7 +7532,7 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="helpGl2" imp="3" v="0.7">
     <n>
-      <t v="0.8">MINISTRIES</t>
+      <t v="0.8">MINISTERES</t>
       <r>Six government organizations created during the Great War by the ruling princess Luna, whose common goal was to win the War and preserve the state integrity of Equestria. The ministries were ruled by the keepers of the Elements of Harmony.
 [Ministry of Arcane Sciences], abbreviated [MAS] - a ministry headed by Twilight Sparkle. MAS was mainly engaged in the development of magical weapons and combat spells.
 [Ministry of Image] is a ministry headed by Rarity. It was engaged in decorating streets, issuing printed materials, and also was responsible for censorship.
@@ -7544,25 +7544,25 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="begDial">
     <n>
-      <r p="lp1">What happened? Where am I?</r>
-      <r p="lp1">I need to... get up......</r>
-      <r p="lp1">I`d better get going</r>
+      <r p="lp1">Que s'est-il passé ? Où suis-je ?</r>
+      <r p="lp1">J'ai besoin... de me lever......</r>
+      <r p="lp1">Je ferais mieux d'y aller.</r>
     </n>
   </txt>
   <txt id="begDialCP" imp="1">
     <n>
-      <t v="0.8">MAS Terminals</t>
-      <r p='pip'>Attention! Unknown signal detected</r>
-      <r p='pip' push='1'>Decoding...</r>
-      <r p='pip' push='1'>Signal decoded.
-                    PipBuck signature identified.
-                    Connection established.
-                    Initializing system...</r>
-      <r p='mtn'>Welcome, New User.
-                This is the Emergency Rescue System by the Ministry of Arcane Sciences</r>
-      <r p='mtn'>You were successfully registered in the system and can now access all its privileges</r>
-      <r p='mtn'>In case of critical hazard to your life, such as: sudden zebra attack, terror action, megaspell explosion or falling from a staircase, you will be automatically teleported to safety - to the nearest available MAS terminal. You will also get a necessary medical treatment there</r>
-      <r p='mtn'>Warning: the system is currently in beta. Some minor errors and malfunctions may be experienced. We thank you for your patience</r>
+      <t v="0.8">Terminaux MSA</t>
+      <r p='pip'>Attention ! Signal inconnu détecté.</r>
+      <r p='pip' push='1'>Décodage...</r>
+      <r p='pip' push='1'>Signal décodé.
+                    Signature PipBuck identifié.
+                    Connexion établie.
+                    Initialisation du système...</r>
+      <r p='mtn'>Bienvenue, Nouvel Utilisateur.
+                Ceci est le Système de Secours Urgent par le Ministère des Sciences Arcaniques.</r>
+      <r p='mtn'>Vous avez été enregistré avec succès dans le système et pouvez désormais accéder à tous ses privilèges.</r>
+      <r p='mtn'>Dans l'éventualité d'une situation critique pour votre vie, comme : une attaque soudaine de zèbres, action de terreur, explosion de megaspell explosion ou une chute d'escaliers, vous serez automatiquement téléporté au dernier point de contrôle en sécurité - au plus proche terminal MAS disponible. Vous y recevrez aussi un traitement médical nécessaire.</r>
+      <r p='mtn'>Avertissement : Le système est actuellement en bêta. Quelques erreurs mineurs et dysfonctionnements peuvent se produire. Nous vous remercions pour votre patience.</r>
 </n>
   </txt>
   <txt id="begDialInvent" imp="2" v="0.7">
@@ -7582,14 +7582,14 @@ You can always change zoom in game using the @1 key. And if a room does not fit 
   </txt>
   <txt id="begDialLevit" v="0.7">
     <n>
-      <r p="lp2">Oh no, I can not jump over this...</r>
-      <r p="lp3">Unless...</r>
-      <r p="lp4" push="1">I could give myself a little push with telekinesis!</r>
+      <r p="lp2">Oh non, je ne peux pas sauter au-dessus de ça...</r>
+      <r p="lp3">A moins que...</r>
+      <r p="lp4" push="1">Je pourrais me donner un coup de pouce en utilisant la télékinésie !</r>
     </n>
   </txt>
   <txt id="begDialExit" imp="1" v="0.7">
     <n>
-      <t v="0.8">End of tutorial</t>
+      <t v="0.8">Fin du tutoriel</t>
       <r p='lp1'>A corridor? It seems there is light coming from the right - this is probably an exit</r>
       <r p='lp1'>And on the left is just darkness. I guess I should head toward the exit</r>
       <r p='lp1'>Or should I explore these catacombs first?</r>
@@ -10248,7 +10248,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Ask Daiquiri about the location of Falls Springs</n>
   </txt>
   <txt id="storyStable2">
-    <n>Entrer dans l'Ecurie 88</n>
+    <n>Entrer dans l'Etable 88</n>
   </txt>
   <txt id="storyStable3">
     <n>Find the Quantum Cogitator</n>
@@ -10331,10 +10331,10 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Ask Watcher about the way home</n>
   </txt>
   <txt id="storyHome6" v="0.8">
-    <n>Return to Stable Pi</n>
+    <n>Retourner à l'Etable Pi</n>
   </txt>
   <txt id="storyRanger" v="0.7">
-    <n>Steel Rangers</n>
+    <n>Rangers d'Acier</n>
     <info>It seems that the Elder of the local Steel Rangers division conspires with zebras of the Legion and plans an attack on Stable Pi! You must take measures at once</info>
   </txt>
   <txt id="storyRanger1">
