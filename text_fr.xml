@@ -4554,14 +4554,13 @@ Ce mode est recommandé aux joueurs expérimentés qui ne jouent pas pour la pre
     <n>Couleur aura magique</n>
   </gui>
   <gui id="story" v="0.7">
-    <n>Il etait une fois dasn le royaume magique d'Equestria...
-... 
-vint une époque où les idéaux d'amitié cédèrent la place à l'envie, à l'égoïsme, à la cupidité et à la cruauté. La Grande Guerre des ressources naturelles a éclaté, dans laquelle il n'y a eu aucun gagnant. Une étincelle magique frappée par des sabots de poney a rapidement fait rage de manière incontrôlable et s'est transformée en flammes qui ont englouti des continents entiers. Le feu du dragon et la magie noire, transformés en armes destructrices, ont presque mis fin à toute vie sur la planète. Le sol, l'eau et l'air ont été empoisonnés par les radiations, les villes ont été détruites, les civilisations se sont effondrées. Les poneys et leurs ennemis ont presque été effacés de la surface de la terre. L'apocalypse, prédite par des prophètes fous, auxquels presque personne n'a cru jusqu'au dernier jour, est enfin arrivée...
-... Mais ce n'était pas encore la fin. De nombreux poneys ont survécu, certains - se cachant dans les immenses abris-écuries souterrains, d'autres - s'adaptant d'une manière ou d'une autre aux nouvelles conditions. Apocalypse n'était qu'un prologue pour un autre chapitre sanglant de l'histoire des poneys. Sur les Terres Désolés brûlé et empoisonné, la violence et la cruauté ne sont pas seulement devenues permises - elles sont désormais des moyens de survie...
-... Since that day, the last day of the former Equestria, about two hundred years have passed...</n>
+    <n>Il était une fois dans le royaume magique d'Equestria...
+... vint une époque où les idéaux d'amitié cédèrent la place à l'envie, à l'égoïsme, à la cupidité et à la cruauté. La Grande Guerre des ressources naturelles a éclaté, dans laquelle il n'y a eu aucun gagnant. Une étincelle magique frappée par des sabots de poney a rapidement fait rage de manière incontrôlable et s'est transformée en flammes qui ont englouti des continents entiers. Le feu du dragon et la magie noire, transformés en armes destructrices, ont presque mis fin à toute vie sur la planète. Le sol, l'eau et l'air ont été empoisonnés par les radiations, les villes ont été détruites, les civilisations se sont effondrées. Les poneys et leurs ennemis ont presque été effacés de la surface de la terre. L'Apocalypse, prédite par des prophètes fous, auxquels presque personne n'a cru jusqu'au dernier jour, est enfin arrivée...
+... Mais ce n'était pas encore la fin. De nombreux poneys ont survécu, certains - se cachant dans les immenses abris-étables souterrains, d'autres - s'adaptant d'une manière ou d'une autre aux nouvelles conditions. L'Apocalypse n'était qu'un prologue pour un autre chapitre sanglant de l'histoire des poneys. Sur les Terres Désolés brûlées et empoisonnées, la violence et la cruauté ne sont pas seulement devenues permises - elles sont désormais des moyens de survie...
+... Depuis ce jour, le dernier jour de l'ancien Equestria, environ deux-cent années se sont écoulées...</n>
   </gui>
   <gui id="end_good" v="0.8">
-    <n>The defeat of the Enclave forces near Stable Pi and the loss of one of the Thunderheads came as a shock to the Pegasus community. Trying to save the situation and restore its reputation, the Enclave conducted several new attacks on the surface, but none of them ended in success. The combined forces of the new union successfully fended the Enclave forces off in every battle, achieving successes that would not be possible for the scattered settlements they were before. Finally, along with the information spreading among civilians about the surface pony civilization, this led to complete discrediting of the Grand Pegasus Enclave leadership. The unrest that began in society grew into an open revolt and an attempt to overthrow the current government. The civil war between the generals guilty for war crimes and the rest of the society and army was swift and bloody, and the surviving outcasts were forced to flee to the surface. Dwelling in several previously abandoned bases and camps, they no longer pose mortal danger neither to pegasi nor to surface inhabitants, becoming just one of the Wasteland threats awaiting eradication.
+    <n>La défaite des forces de l'Enclave près de l'Etable Pi et la perte de l'un des Thunderheads fut un choc au sein de la communauté des pégases. Essayant de sauver la situation et de restaurer leur réputation, l'Enclave a conduit plusieurs nouvelles attaques vers la surface, mais aucune d'elle n'a abouti à un succès. Les forces combinées de la nouvelle union ont repoussé avec brio les forces de l'Enclave à chaque bataille, achevant des victoires étant jusque là impossible au vu des colonies si dispersées auparavant. Finalement, l'information se répandant parmi les civils à propos de la civilisation des poneys de la surface, cela a mené à un discrédit total du gouvernement de la Grande Enclave des Pégases. Les premières tensions se transformèrent en une révolte ouverte et une tentative de renverser le gourverment. La guerre civile entre les généraux coupables pour leurs crimes de guerre, le reste de la société et l'armée fut rapide et sanglante, et les survivants exclus fut forcés de fuir vers la surface. Résidant dans de multiples bases et camps abandonnés,  ils ne posent plus aucun danger mortel que ce soit aux pégases ou aux habitants de la surface, devenant une menace n'attendant que leur éradication dans les Terres Désolées.
 Despite the terrible damage and heavy losses, inhabitants of Stable Pi were able to survive and adapt for a new world. It became possible mostly due to the help and protection from Prancing Pony residents and the SteelHooves rangers. The Stable residents paid their debt with technology and rare resources. Medical equipment and supplies, food reserves, pre-war plant seeds helped Prancing Pony and Covertsign residents to enter a new age of growth and development. Soon, the so-called "aid exchange" grew into close cooperation and trade, which turned these settlements into islands of prosperity in the harsh emptiness of the Wasteland.
 When the war ended, Covertsign zebras were finally able to experience the feeling they have been missing for many years - security. Led by Askari and with Velvet Remedy`s help settlers overcame hunger, disease and poverty. And though the Equestrian Wasteland still threaten them with raiders, slavers and dangerous predators, the Legion exiles were no longer afraid of the all-seeing eye of their vengeful brethren. Destruction of the regional headquarters and defeat in the war against SteelHooves ruined Caesar`s ambitious plans of conquering these lands, and the Chosen by Fate was forced to turn his gaze to places less difficult to conquer. The removal of the Legion and Enclave threats meant that the time of peace for Covertsign has finally come.
 The Prancing Pony Camp has been the largest peaceful settlement in these lands even before @lp was sent to the surface. Now, with new allies and technologies, it began looking like a real city, similar to the pre-war villages in number of settlers. Many ponies headed here searching for a peaceful life, and even some natives of Stable and Covertsign moved to live in a growing camp. Calamity, who became the main negotiator in affairs between the allied settlements, also made considerable efforts for the prosperity of his home. The inhabitants of the Prancing Pony could sleep peacefully, knowing that they were guarded not only by guns of patrols, but also by their close friendship with the Steel Rangers. Covertsign zebras, natural-born scouts, always warned them ahead about possible threats, and scientists and technicians from Stable Pi provided the Prancing Pony with the latest automatic turret system. And as the camp received support from the allies, it always helped them in return.
@@ -5425,7 +5424,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>stellar blaze</n>
   </pip>
   <pip id="tipdam19" v="0.7">
-    <n>pink cloud</n>
+    <n>nuage rose</n>
   </pip>
   <pip id="tipdam101" v="0.8">
     <n>kindness rays</n>
@@ -5437,7 +5436,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>standard</n>
   </pip>
   <pip id="ammomod_1" v="0.6">
-    <n>armor-piercing</n>
+    <n>perforante</n>
     <info>Armor-piercing round has a special bullet with a hard core and a soft shell, designed to pierce armor. However, such bullets are less effective against unprotected targets and have a weaker stopping action</info>
   </pip>
   <pip id="ammomod_2" v="0.6">
@@ -5445,23 +5444,23 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>The expansive round has a bullet that deforms when it hits a soft environment, such as the victim`s body. Such bullets do more damage to unprotected targets, but at the same time they are very bad at penetrating armor, therefore are not effective against armored targets</info>
   </pip>
   <pip id="ammomod_3" v="0.6">
-    <n>armor-piercing</n>
+    <n>perforante</n>
     <info>In this ammo, 5 arrow-shaped bullets are used instead of the usual shot, good for penetrating armor but having a weaker stopping action</info>
   </pip>
   <pip id="ammomod_4" v="0.6">
-    <n>incendiary</n>
+    <n>incendiaire</n>
     <info>A cartridge that has a magically enchanted bullet that ignites the target on impact</info>
   </pip>
   <pip id="ammomod_5" v="0.6">
-    <n>magical</n>
+    <n>magique</n>
     <info>A cartridge that allows exploiting magical energy technologies with common firearms. When hitting a target, the bullet from such a cartridge turns into a ball of plasma</info>
   </pip>
   <pip id="ammomod_6" v="0.6">
-    <n>enhanced charge</n>
+    <n>charge améliorée</n>
     <info>A battery of increased power. Improves damage and gives weapons ability to burn armor, but a weapon wears out more quickly</info>
   </pip>
   <pip id="ammomod_7" v="0.6">
-    <n>optimized</n>
+    <n>optimisée</n>
     <info>Fuel with special additives that significantly increase the combustion temperature</info>
   </pip>
   <pip id="ammomod_8" v="0.6">
@@ -5469,7 +5468,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>A more powerful magical energy model of grenades</info>
   </pip>
   <pip id="ammomod_9" v="0.6">
-    <n>pulse</n>
+    <n>impulsion</n>
     <info>Grenade with a pulse charge, designed for fighting against robots</info>
   </pip>
   <pip id="am_1" v="0.6">
@@ -5512,7 +5511,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>précision</n>
   </pip>
   <pip id="distance">
-    <n>to range and damage</n>
+    <n>to portée et dégâts</n>
   </pip>
   <pip id="weapnouse">
     <n>can not use</n>
@@ -6524,109 +6523,109 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Found weapon @1 (condition @2%)</n>
   </info>
   <info id="takeAmmo">
-    <n>Found ammunition @1 (@2 units)</n>
+    <n>Trouvé : munition @1 (@2 units)</n>
   </info>
   <info id="takeMed">
-    <n>Found medicine @1</n>
+    <n>Trouvé : médecine @1</n>
   </info>
   <info id="takeBook">
-    <n>Found a book @1</n>
+    <n>Trouvé : livre @1</n>
   </info>
   <info id="take">
-    <n>Found: @1</n>
+    <n>Trouvé : @1</n>
   </info>
   <info id="reward" v="0.6">
-    <n>Items found: @1 (@2 pcs)</n>
+    <n>Objets trouvés : @1 (@2 pcs)</n>
   </info>
   <info id="reward2" v="0.6">
-    <n>Item acquired: @1</n>
+    <n>Objet obtenu : @1</n>
   </info>
   <info id="withdraw" v="0.6">
-    <n>Items removed: @1 (@2 pcs)</n>
+    <n>Objet supprimé : @1 (@2 pcs)</n>
   </info>
   <info id="required" st="2" v="0.6">
-    <n>Items required: @1 (@2 pcs)</n>
+    <n>Objet requis : @1 (@2 pcs)</n>
   </info>
   <info id="takeMoney">
-    <n>Found caps (@1 pcs)</n>
+    <n>Trouvé : capsules (@1 pcs)</n>
   </info>
   <info id="heal" st="1">
-    <n>Medicine applied @1</n>
+    <n>Médecine appliqué @1</n>
   </info>
   <info id="usedheal" st="1">
-    <n>@1 applied</n>
+    <n>@1 appliqué</n>
   </info>
   <info id="usedfood" st="1">
-    <n>@1 eaten</n>
+    <n>@1 mangé</n>
   </info>
   <info id="usedfood2" st="1">
-    <n>@1 drunk</n>
+    <n>@1 bu</n>
   </info>
   <info id="noHeal" st="0">
-    <n>Healing is not required</n>
+    <n>Soin non requis</n>
   </info>
   <info id="noMedic" st="0">
-    <n>@1 is not required</n>
+    <n>@1 n'est pas requis</n>
   </info>
   <info id="noSuitablePot" st="0">
-    <n>No medication</n>
+    <n>Pas de médicament</n>
   </info>
   <info id="useAntirad" st="0">
-    <n>To clean radiation away use RadAway</n>
+    <n>Pour nettoyer les radiations, utiliser un RadAway</n>
   </info>
   <info id="usedSpell" st="1">
-    <n>Using spell @1</n>
+    <n>Utilise sort @1</n>
   </info>
   <info id="noClose" st="0">
-    <n>Something prevents closing this door</n>
+    <n>Quelque chose empêche de fermer cette porte</n>
   </info>
   <info id="noChArmor" st="3">
-    <n>You can not change clothes during the fight!</n>
+    <n>Vous ne pouvez pas changer de vêtements lors d'un combat !</n>
   </info>
   <info id="noChArmor2" st="3" v="0.8">
-    <n>You can only change your armor at the base camp</n>
+    <n>Vous pouvez changer votre armure seulement au camp de base</n>
   </info>
   <info id="noUseCombat" st="3">
-    <n>You can not use this during the fight!</n>
+    <n>Vous ne pouvez pas utiliser ceci durant un combat !</n>
   </info>
   <info id="noAct" st="3">
-    <n>The PipBuck is currently unavailable</n>
+    <n>Le PipBuck n'est actuellement pas disponible</n>
   </info>
   <info id="repairWeapon" st="2">
-    <n>@1 repaired (condition @2%)</n>
+    <n>@1 réparé (condition @2%)</n>
   </info>
   <info id="noRepair" st="0">
-    <n>Repair is not required</n>
+    <n>Réparation non requise</n>
   </info>
   <info id="noRepair2" st="0">
-    <n>This weapon can not be repaired</n>
+    <n>Cette arme ne peut être réparée</n>
   </info>
   <info id="noAmmo" st="3">
-    <n>Ammunition @1 missing</n>
+    <n>Munition @1 manquante</n>
   </info>
   <info id="imprAmmo" st="3" v="0.6">
-    <n>Ammunition @1 cannot be used with this weapon</n>
+    <n>Munition @1 ne peut être utilisée avec cette arme</n>
   </info>
   <info id="brokenWeapon" st="3">
-    <n>Weapon @1 is broken</n>
+    <n>Arme @1 est cassée</n>
   </info>
   <info id="reloadWeapon" st="2">
-    <n>@1 reload</n>
+    <n>@1 rechargement</n>
   </info>
   <info id="unloadWeapon" st="2" v="0.6">
-    <n>Weapon @1 is empty</n>
+    <n>Arme @1 est vide</n>
   </info>
   <info id="perk" st="4">
-    <n>Received perk @1</n>
+    <n>Aptitude obtenue : @1</n>
   </info>
   <info id="skill" st="4">
-    <n>Received skill @1</n>
+    <n>Compétence obtenue : @1</n>
   </info>
   <info id="skillPoint" st="4">
-    <n>A skill point received</n>
+    <n>Point de compétence obtenu</n>
   </info>
   <info id="sneakBonus" st="4">
-    <n>Sneak bonus</n>
+    <n>Bonus de furtivité</n>
   </info>
   <info id="skillPoints" st="4">
     <n>Skill points received: @1</n>
