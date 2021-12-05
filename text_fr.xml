@@ -4813,7 +4813,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Destruction des murs désactivée</n>
   </gui>
   <gui id="need_help" v="0.6">
-    <n>The hints contain direct instructions on how to pass the test. Use them if you do not know what to do</n>
+    <n>Les conseils contiennent des instructions directes sur la façon de progresser dans le jeu. Utilisez-les si vous ne savez pas comment réussir</n>
   </gui>
   <gui id="sec" v="0.8">
     <n>s</n>
@@ -5198,7 +5198,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Armures</n>
   </pip>
   <pip id="inv3">
-    <n>Equipement</n>
+    <n>Aides</n>
   </pip>
   <pip id="inv4">
     <n>Autre</n>
@@ -5252,7 +5252,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>D Produits chimiques</n>
   </pip>
   <pip id="equip">
-    <n>E Equipement</n>
+    <n>E Aides</n>
   </pip>
   <pip id="book">
     <n>F Livre</n>
@@ -5992,7 +5992,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
     <n>Une erreur est survenue</n>
   </pip>
   <pip id="vault1" v="0.8">
-    <n>Equipement</n>
+    <n>Aides</n>
   </pip>
   <pip id="vault2" v="0.8">
     <n>Munitions</n>
@@ -6065,15 +6065,15 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="vsMedAll" v="0.8">
     <n>Médecine et potions</n>
-    <info>Collecte automatiquement toutes les potions et médicaments en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
+    <info>Collecte automatiquement toutes les potions et médicaments en sachant qu'il y a assez d'espace dans la section "Aides"</info>
   </pip>
   <pip id="vsHimAll" v="0.8">
     <n>Produits chimiques</n>
-    <info>Collecte automatiquement les produits chimiques en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
+    <info>Collecte automatiquement les produits chimiques en sachant qu'il y a assez d'espace dans la section "Aides"</info>
   </pip>
   <pip id="vsEqipAll" v="0.8">
     <n>Autres équipements</n>
-    <info>Collecte automatiquement les StealthBucks, les kits de réparation, des runes et des objets similaires en sachant qu'il y a assez d'espace dans la section "Equipement"</info>
+    <info>Collecte automatiquement les StealthBucks, les kits de réparation, des runes et des objets similaires en sachant qu'il y a assez d'espace dans la section "Aides"</info>
   </pip>
   <pip id="vsStuffAll" v="0.8">
     <n>Tout les objets</n>
