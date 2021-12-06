@@ -340,31 +340,31 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="zombie" v="0.6">
     <n>Goules</n>
-    <info>Les goules sont des poneys horriblement brulé par les radiation. Ceux qui représentent un danger sont appelé les goules sauvages - ceux qui ont perdu la raison et sont devenu des zombies assoifé de sang</info>
+    <info>Les goules sont des poneys horriblement brulés par les radiations. Celles qui représentent un danger sont appelées les goules sauvages - celles qui ont perdu la raison et sont devenues des zombies assoifés de sang.</info>
   </unit>
   <unit id="zombie0">
     <n>Goule sauvage</n>
-    <info>Les goules sauvages classique sont trouvable un peu partout dans les Terre Désolé. Mais principalement dans les endroits abandonné et désolés , comme des ruines et les égouts, mais surtout dans les zones radioactives</info>
+    <info>Les goules sauvages classiques sont trouvables un peu partout dans les Terres Désolées. Mais principalement dans les endroits abandonnés et désolés, comme des ruines et les égouts, mais surtout dans les zones radioactives.</info>
   </unit>
   <unit id="zombie1">
     <n>Goule sprinteuse</n>
-    <info>La mutation de cette espèces de goule n'a pas diminuer leurs forces ou leurs vitesse - au contraire, elles ont été ammélioré. Aussi, ils ont dévellopé la capacité de sauter plus haut et plus loin</info>
+    <info>La mutation de cette espèce de goule n'a pas diminué leur force ou leur vitesse - au contraire, elles ont été améliorées. Aussi, elles ont développé la capacité de sauter plus haut et plus loin.</info>
   </unit>
   <unit id="zombie2">
     <n>Goule affamée</n>
-    <info>La capacité de télékinésie des licornes goules n'est devenue plus forte qu'après la mutation. Vous devez faire attention à leur prise télékinésique</info>
+    <info>La capacité de télékinésie des licornes goules n'est devenue plus forte qu'après la mutation. Vous devez faire attention à leur prise télékinésique.</info>
   </unit>
   <unit id="zombie3">
     <n>Goule déchaînée</n>
-    <info>Les produits d'activité vitale de ce genre de goules représentent une véritable collection de substances toxiques. En attaquant, ils peuvent libérer des nuages ​​de gaz toxique</info>
+    <info>Les produits d'activité vitale de ce genre de goule représentent une véritable collection de substances toxiques. En attaquant, elles peuvent libérer des nuages ​​de gaz toxique.</info>
   </unit>
   <unit id="zombie4">
     <n>Goule luminescente</n>
-    <info>Celle-ci brille a cause du taux de radiation élevé qu'elle contient. Si vous vous faites toucher, vous ne prendrez pas seulements des dégats physique mais aussi une bonne dose de radiation. Ils peuvent créer un souffle radioactif qui va soigner les goules autours de lui</info>
+    <info>Celle-ci brille à cause du taux de radiation élevé qu'elle contient. Si vous vous faites toucher, vous ne prendrez pas seulements des dégats physiques mais aussi une bonne dose de radiations. Elles peuvent créer un souffle radioactif qui va soigner les goules autours d'elle.</info>
   </unit>
   <unit id="zombie5">
     <n>Goule soldat</n>
-    <info>Un poney terrestre soldat transformé en goule Earth pony soldier turned into a ghoul. It still wears remnants of armor, and its physical strength has incredibly increased after mutation. Just by stomping hooves on the ground, he can make a small earthquake</info>
+    <info>Un poney terrestre soldat transformé en goule. It still wears remnants of armor, and its physical strength has incredibly increased after mutation. Just by stomping hooves on the ground, he can make a small earthquake</info>
   </unit>
   <unit id="zombie6">
     <n>Goule éventreuse</n>
@@ -442,15 +442,15 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="bloat0">
     <n>Jeune bouffisprite</n>
-    <info>This small creature is rather annoying than dangerous</info>
+    <info>Cette petite créture est plus agaçante que dangereuse.</info>
   </unit>
   <unit id="bloat1">
     <n>Bouffisprite acide</n>
-    <info>Bloatsprite spitting corrosive acid</info>
+    <info>Un bouffisprite crachant de l'acide corrosif.</info>
   </unit>
   <unit id="bloat2">
     <n>Bouffisprite toxique</n>
-    <info>Bloatsprite shooting poisonous spikes</info>
+    <info>Un bouffisprite crachant des épines venimeuses.</info>
   </unit>
   <unit id="bloat3">
     <n>Grand bouffisprite</n>
@@ -763,7 +763,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A unique modified ripper. Unlike the common one, this has teeth of special steel, which makes it easy to cut through not that strong armor</info>
   </weapon>
   <weapon id="autoaxe">
-    <n>Autoaxe</n>
+    <n>Auto-hache</n>
     <info>Spinning edges of this tool are enchanted so that it can easily cut all sorts of metal garbage. Quite as easily it cuts metal armor, with its owner inside. Consumes Spark-batteries</info>
   </weapon>
   <weapon id="bsaw">
@@ -823,7 +823,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>This unique sword is not made of usual steel but of metal of unknown origin. Its edge almost never get blunt and can cut through enemy armor like through cardboard</info>
   </weapon>
   <weapon id="lsword">
-    <n>Magical energy sword</n>
+    <n>Epée à énergie magique</n>
     <info>May the Force be with You, young Padawan!</info>
   </weapon>
   <weapon id="lsword^1">
@@ -867,11 +867,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Old-fashioned and not very effective firearm, dealing little damage and having low rate of fire</info>
   </weapon>
   <weapon id="p9mm" v="0.6">
-    <n>9-mm pistol</n>
+    <n>Pistolet 9 mm </n>
     <info>The most common pistol produced before the War for civilian needs</info>
   </weapon>
   <weapon id="p10mm">
-    <n>10-mm pistol</n>
+    <n>Pistolet 10 mm </n>
     <info>A standard, commonly used pistol using 10mm ammo. Its advantages are simplicity of design, reliability and low cost</info>
   </weapon>
   <weapon id="p10mm^1">
