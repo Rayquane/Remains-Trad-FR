@@ -356,39 +356,39 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="zombie3">
     <n>Goule déchaînée</n>
-    <info>Les produits d'activité vitale de ce genre de goule représentent une véritable collection de substances toxiques. En attaquant, elles peuvent libérer des nuages ​​de gaz toxique.</info>
+    <info>Les produits d'activité vitale de ce genre de goule représentent une véritable collection de substances toxiques. En attaquant, elles peuvent libérer des nuages de gaz toxique.</info>
   </unit>
   <unit id="zombie4">
     <n>Goule luminescente</n>
-    <info>Celle-ci brille à cause du taux de radiation élevé qu'elle contient. Si vous vous faites toucher, vous ne prendrez pas seulements des dégats physiques mais aussi une bonne dose de radiations. Elles peuvent créer un souffle radioactif qui va soigner les goules autours d'elle.</info>
+    <info>Celle-ci brille à cause du taux de radiation élevé qu'elle contient. Si vous vous faites toucher, vous ne prendrez pas seulement des dégats physiques mais aussi une bonne dose de radiations. Elles peuvent créer un souffle radioactif qui va soigner les goules autours d'elle.</info>
   </unit>
   <unit id="zombie5">
     <n>Goule soldat</n>
-    <info>Un poney terrestre soldat transformé en goule. It still wears remnants of armor, and its physical strength has incredibly increased after mutation. Just by stomping hooves on the ground, he can make a small earthquake</info>
+    <info>Un poney terrestre soldat transformé en goule. Elle porte encore des restes de son armure, et sa force physique a incroyablement augmenté après sa mutation. Elle peut faire trembler la terre rien qu'en marchant.</info>
   </unit>
   <unit id="zombie6">
     <n>Goule éventreuse</n>
-    <info>Les mutations de cette goule sont allée plus loin par rapport à ses proches. Sa force, sa vitesse et son agressivité ont augmenté plusieurs fois, des épines acérées sont apparues sur le corps et, en plus, il a acquis la capacité de cracher de l'acide. En conséquence, il est devenu l'un des mutants les plus dangereux des Terres Désolées.</info>
+    <info>Les mutations de cette goule sont allées plus loin par rapport à ses proches. Sa force, sa vitesse et son agressivité ont augmenté plusieurs fois, des épines acérées sont apparues sur le corps et, en plus, elle a acquis la capacité de cracher de l'acide. En conséquence, elle est devenu l'un des mutants les plus dangereux des Terres Désolées.</info>
   </unit>
   <unit id="zombie7" v="0.7">
     <n>Goule de Canterlot</n>
-    <info>Il existe un type spécifique de goules sauvages errant dans les ruines de Canterlot qui ne sont pas apparues à cause des radiations mais sous l'influence du nuage rose. Ils sont particulièrement dangereux car ils ne peuvent pas être tués par des balles ordinaires, car après "la mort", ils ressuscitent. Pour tuer ces goules pour de bon, elles doivent être brûlées ou désintégrées. De plus, les goules licornes sont capables d'utiliser des sorts d'attaque</info>
+    <info>Il existe un type spécifique de goules sauvages errant dans les ruines de Canterlot qui ne sont pas apparues à cause des radiations mais sous l'influence du nuage rose. Elles sont particulièrement dangereuses car elles ne peuvent pas être tuées par des balles ordinaires, car après "la mort", elles ressuscitent. Pour tuer ces goules pour de bon, elles doivent être brûlées ou désintégrées. De plus, les goules licornes sont capables d'utiliser des sorts d'attaque.</info>
   </unit>
   <unit id="zombie8" v="0.7">
     <n>Goule bouffi</n>
-    <info>Le nuage rose a pénétré si profondément dans la chair morte de ces goules qu'il est devenu leur essence même. Maintenant, ils sont capables de le générer à volonté</info>
+    <info>Le nuage rose a pénétré si profondément dans la chair morte de ces goules qu'il est devenu leur essence même. Maintenant, elles sont capables de le générer à volonté.</info>
   </unit>
   <unit id="zombie9" v="0.7">
     <n>Sorcière de Canterlot</n>
-    <info>Probablement la goule la plus dangereuse qui existe. Elle est connu pour sa force, sa vitesse et sa vitalité incroyables. Elle attaque avec de la magie noire, contre laquelle aucune armure ne peut se protéger</info>
+    <info>Probablement la goule la plus dangereuse qui existe. Elle est connue pour sa force, sa vitesse et sa vitalité incroyables. Elle attaque avec de la magie noire, contre laquelle aucune armure ne peut se protéger.</info>
   </unit>
   <unit id="alicorn" v="0.6">
     <n>Alicornes</n>
-    <info>Alicorns are creatures transformed by the Goddess from ordinary ponies using the Impelled Metamorphosis Potion. They have a larger size than other ponies, huge wings and a long horn. They possess a wide range of abilities: they can fly, communicate using of telepathy, they excel at telekinesis, as well as combat and defensive spells. All together, this makes them ones of the most dangerous enemies</info>
+    <info>Les Alicornes sont des créatures étant à la base des poneys ordinaires qui ont été transformées par la Déesse grâce à la Impelled Metamorphosis Potion. Elles ont une plus grande taille, de grandes ailes et une longue corne par rapport aux poneys. Elles possèdent un panel d'abilités étendu : elles peuvent voler, communiquer par la télépathie, excellent dans l'art de la télékinésie, mais aussi dans les sorts d'attaque et de défense. Toutes ensembles, elles sont l'un des plus dangereux ennemis.</info>
   </unit>
   <unit id="alicorn1" v="0.6">
     <n>Alicorne bleue</n>
-    <info>In addition to all other abilities, blue alicorns can use an invisibility spell. Hiding their presence for a while, they can insidiously attack from an ambush. They are also the most tenacious of alicorns</info>
+    <info>En plus de toutes leurs capacités de base, les Alicornes bleues peuvent utiliser un sort d'invisibilité. Hiding their presence for a while, they can insidiously attack from an ambush. They are also the most tenacious of alicorns</info>
   </unit>
   <unit id="alicorn2" v="0.6">
     <n>Alicorne violette</n>
