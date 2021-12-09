@@ -421,24 +421,24 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <n>Autres</n>
   </unit>
   <unit id="bloodwing">
-    <n>Bloodwing</n>
-    <info>Mutilated and increased in size vampire bats. Usually settle in empty and abandoned buildings, caves, under bridges and overpasses. Persistent in pursuit of their victims</info>
+    <n>Aile de sang</n>
+    <info>Des chauve-souris vampires mutilés et grandes. Elles vivent habituellement dans des bâtiments vides et abandonnés, des grottes et sous les ponts et viaducs. Elles sont persistantes lorsqu'elles poursuivent leurs victimes.</info>
   </unit>
   <unit id="bloodwing2" v="0.7">
     <n>Chauve-souris de Canterlot</n>
-    <info>The Canterlot subspecies of bloodwings, adapted to a pink cloud and much more terrifying</info>
+    <info>Une sous-espèce d'aile de sang, qui s'est adaptée au nuage rose et qui est bien plus terrifiante.</info>
   </unit>
   <unit id="fish1" v="0.6">
     <n>Piranha</n>
-    <info>A predatory mutant fish living in sewers. Fast, agile and its bites are one hell of a pain</info>
+    <info>Un poisson prédateur mutant vivant dans les égoûts. Agile, rapide, et ses morsures font sacrément mal.</info>
   </unit>
   <unit id="fish2" v="0.6">
-    <n>Wolffish</n>
-    <info>A predatory mutant fish living in sewers. It has powerful jaws and huge teeth and is not so easy to kill underwater</info>
+    <n>Poisson-loup</n>
+    <info>Un poisson prédateur mutant vivant dans les égoûjts. Il possède une puissante machoire et de grandes dents, et n'est pas facile à tuer sous l'eau.</info>
   </unit>
   <unit id="fish3" v="0.7">
     <n>Poisson-zombie</n>
-    <info>Monster fish, living in the pink waters of Canterlot</info>
+    <info>Un monstre poisson, vivant dans les eaux roses de Canterlot.</info>
   </unit>
   <unit id="bloat0">
     <n>Jeune bouffisprite</n>
@@ -458,63 +458,63 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="bloat4">
     <n>Bouffisprite vif</n>
-    <info>Bloatsprite armed with razor-sharp teeth. This species is much more dangerous than others</info>
+    <info>Un bouffisprite armé de dents tranchantes comme des rasoirs. Cette espèce est bien plus dangereuse que les autres.</info>
   </unit>
   <unit id="bloat5" v="0.7">
     <n>Bouffisprite rose</n>
-    <info>This bloatsprite all soaked in a pink cloud and got the ability to spit its concentrate</info>
+    <info>Ce bouffisprite est entièrement imprégné de nuage rose et possède la capacité de cracher son concentré.</info>
   </unit>
   <unit id="bloat6" v="0.7">
     <n>Bouffisprite cauchemardesque</n>
-    <info>A horrible and vile offspring of the pink cloud with sharp teeth. It is able to literally bite into its victim</info>
+    <info>Une horrible et ignoble progéniture du nuage rose possédant des dents tranchantes. Elle est capable de littéralement mordre à l'intérieur de sa victime.</info>
   </unit>
   <unit id="bloat10" v="0.6">
     <n>Roi bouffisprite</n>
-    <info>An unusual and very dangerous specimen of bloatsprite, huge like a barrel and incredibly tenacious</info>
+    <info>Un spécimen de bouffisprite peu commun et extrêmement dangereux, grand comme un tonneau et incroyablement tenace.</info>
   </unit>
   <unit id="ebloat">
     <n>Nid de bouffisprites</n>
-    <info>A disgusting, pulsating, mucus-draining thing producing more and more new bloatsprites until destroyed. They say this might also be a bloatsprite, but monstrously mutated and grown to gigantic proportions</info>
+    <info>Une chose répugnante, pulsatile, pleine de mucus produisant toujours et toujours plus de bouffisprites jusqu'à sa destruction. On dit qu'il pourrait s'agir d'un bouffisprite, mais qui a monstrueusement muté et grandi à des proportions gigantesques.</info>
   </unit>
   <unit id="tarakan">
     <n>Radcafard</n>
-    <info>A common cockroach, mutated under the influence of radiation and increased in size. Not dangerous, but still capable of biting</info>
+    <info>Un cafard commun, qui a muté sous l'influence des radiations et possédant une taille plus grande. Il n'est pas dangereux, mais il peut tout de même mordre.</info>
   </unit>
   <unit id="rat">
     <n>Rat</n>
-    <info>It looks like an ordinary rat, only carnivorous and aggressive. Lives absolutely everywhere, as normal rats do</info>
+    <info>Il ressemble à un rat ordinaire, il est juste carnivore et agressif. Il vit absolument partout, tel un rat normal.</info>
   </unit>
   <unit id="molerat">
     <n>Rataupe</n>
-    <info>Un mutant hybride entre un rat et une taupe avec des dents tranchantes... trop meugnon</info>
+    <info>Un mutant hybride entre un rat et une taupe avec des dents tranchantes... trop meugnon.</info>
   </unit>
   <unit id="scorp1">
     <n>Radscorpion</n>
-    <info>Mutant scorpion of impressive size with a strong chitinous shell and a deadly sting. It is extremely not recommended approaching it</info>
+    <info>Un scorpion mutant d'une taille impressionnante possédant une carapace chitineuse résistante et un dard mortel. Il est extrêmement déconseillé de s'en approcher.</info>
   </unit>
   <unit id="scorp2">
     <n>Radscorpion de sang</n>
-    <info>It looks like a normal radscorpion, but instead of poison, injects an enzyme that prevents blood coagulation so that its victim can easily die from blood loss</info>
+    <info>Il ressemble à un radscorpion basique, mais au lieu de poison, il injecte de l'enzyme stoppant la coagulation du sang pour que sa victime meurt facilement de perte de sang.</info>
   </unit>
   <unit id="scorp3">
-    <n>Horrible scorpio</n>
-    <info v="0.7">A scorpio, turned under the influence of the pink cloud into an eerie monster. Bigger and much more dangerous than ordinary radscorpions</info>
+    <n>Affreux scorpion</n>
+    <info v="0.7">Un scorpion s'étant transformé en un sinistre monstre sous l'influence du nuage rose. Plus grand et bien plus dangereux que les radscorpions ordinaires.</info>
   </unit>
   <unit id="ant1">
-    <n>Worker ant</n>
-    <info>Giant mutated ant, biting very painfully</info>
+    <n>Fourmi ouvrière</n>
+    <info>Fourmi mutante géante, mordant très douloureusement.</info>
   </unit>
   <unit id="ant2">
-    <n>Soldier ant</n>
-    <info>This mutant ant has really giant jaws, so that its bites are a problem for anypony</info>
+    <n>Fourmi soldat</n>
+    <info>Cette fourmi mutante possède une géante machoire, ce qui fait que ses morsures sont un problème pour n'importe qui.</info>
   </unit>
   <unit id="ant3">
-    <n>Fire ant</n>
-    <info>Mutant ant having a fire-making gland and capable of breathing fire</info>
+    <n>Fourmi de feu</n>
+    <info>Les fourmis de feu possèdent un gland de feu et sont donc capables de cracher du... feu.</info>
   </unit>
   <unit id="eant" v="0.6">
-    <n>Ant nest</n>
-    <info>One of many exits of an underground ant colony. Unless destroyed, the ants will come out again and again in an endless stream</info>
+    <n>Nid de fourmis</n>
+    <info>L'une des nombreuses sorties d'une colonie souterraine de fourmi. Tant qu'il n'est pas détruit, les fourmis en sortiront encore et encore.</info>
   </unit>
   <unit id="slime">
     <n>Awful slime</n>
