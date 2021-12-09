@@ -4470,7 +4470,7 @@ Les ennemis ne vous entendent pas très bien.</info>
     <n>Facile</n>
     <info>Le mode facile est pour les débutants.
 Vous commencez avec 150 points de vie, +25 par niveau.
-La vie des ennemis est baissé de 30%.
+La vie des ennemis est baissée de 30%.
 La télékinésie et l'auto-lévitation ne consomme pas de magie.
 Votre personnage recevra deux fois moins de traumatisme.
 Retourner au point de sauvegarde ne causera pas de pénalités.
@@ -5124,36 +5124,36 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Suppresses health damage caused by venom in your body</info>
   </pip>
   <pip id="radx">
-    <n>Radiation resistance</n>
+    <n>Résistance aux radiations</n>
   </pip>
   <pip id="resbleeding">
     <n>Bleeding resistance</n>
     <info>Suppresses blood loss caused by open wounds</info>
   </pip>
   <pip id="reput" v="0.6">
-    <n>Reputation</n>
-    <info v="0.8">Reputation depends on the number of side quests you complete. Completing simple missions gives one point of reputation, more important, hard and dangerous ones give more</info>
+    <n>Réputation</n>
+    <info v="0.8">Votre réputation dépend du nombre de quêtes secondaires que vous complétez. Compléter de simples quêtes donne un point de réputation, tandis que celles plus difficiles, importantes et dangereuses en donnent plus.</info>
   </pip>
   <pip id="reput0" v="0.8">
-    <n>Mysterious stranger</n>
+    <n>Mystérieux étranger</n>
   </pip>
   <pip id="reput1" v="0.8">
-    <n>Novice mercenary</n>
+    <n>Mercenaire novice</n>
   </pip>
   <pip id="reput2" v="0.8">
-    <n>Reliable partner</n>
+    <n>Partenaire fiable</n>
   </pip>
   <pip id="reput3" v="0.8">
-    <n>Trusty assistant</n>
+    <n>Assistant fidèle</n>
   </pip>
   <pip id="reput4" v="0.8">
-    <n>Close friend</n>
+    <n>Ami proche</n>
   </pip>
   <pip id="reputmax" v="0.8">
     <n>Inspiring example</n>
   </pip>
   <pip id="skillpoint">
-    <n>Available skill points</n>
+    <n>Points de compétence disponibles</n>
   </pip>
   <pip id="perkpoint">
     <n>Aptitudes disponibles</n>
@@ -5295,7 +5295,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="paint" v="0.6">
     <n>Q Peinture</n>
-    <info>Paint sprays are used to paint on the walls. Hold Shift to use airbrush mode. Attention! All murals are temporary and disappear when you leave the room</info>
+    <info>Les pistolets à peinture sont utilisés pour peindre sur les murs. Restez appuyé sur Shift pour utiliser le mode aérographe. Attention ! Toutes les fresques sont temporaires et disparaitront lorsque vous sortez de la pièce.</info>
   </pip>
   <pip id="money">
     <n>Z Argent</n>
@@ -6766,28 +6766,28 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>@1</n>
   </info>
   <info id="trauma1" st="5">
-    <n>Attention! A minor injury acquired</n>
+    <n>Attention! Vous êtes légèrement blessé</n>
   </info>
   <info id="trauma2" st="5">
-    <n>Attention! A serious injury acquired. Ask doctor for medical assistance</n>
+    <n>Attention! Vous êtes sérieusement blessé. Demmandé de l'aide a un docteur</n>
   </info>
   <info id="trauma3" st="5">
-    <n>Attention! Multiple injuries detected. Critical medical condition. Immediate hospitalization is required</n>
+    <n>Attention! Vous êtes sérieusement blessé a divers endroits. Condition vital critique. Vous devez vous faire hospitalisé immédiatement</n>
   </info>
   <info id="trauma4" st="5">
-    <n>Injuries incompatible with life. Rest in peace, @1</n>
+    <n>Blessé a en mourrir. Reposez en paix, @1</n>
   </info>
   <info id="blood1" st="5">
-    <n>Attention! A minor blood loss</n>
+    <n>Attention! Petite perte de sang</n>
   </info>
   <info id="blood2" st="5">
-    <n>Attention! Serious blood loss</n>
+    <n>Attention! Perte de sang sérieuse</n>
   </info>
   <info id="blood3" st="5">
-    <n>Attention! You are dying from blood loss. Critical medical condition</n>
+    <n>Attention! Vous êtes entrain de mourrir du a la perte de sang. Condition vital critique</n>
   </info>
   <info id="blood4" st="5">
-    <n>User died from blood loss. Rest in peace, @1</n>
+    <n>Vous êtes mort a cause de la perte de sang. Reposez en paix, @1</n>
   </info>
   <info id="tmana2" st="3">
     <n>You have a small magical exhaustion</n>
@@ -7368,10 +7368,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Appuyez sur @1 pour utiliser le PipBuck. Cet appareil possède multiples fonctionalités - allant de la visualisation de votre niveau de santé à la recherche dans votre inventaire.</n>
   </txt>
   <txt id="trSats" s1="keySats">
-    <n>For easier aiming you can use Stable-Tec Arcane Targeting Spell (S.A.T.S.).[br] To do this press @1 (or middle mouse button by default)</n>
+    <n>Pour une visée plus facile, vous pouvez utiliser le Stable-Tec Arcane Targeting Spell (S.A.T.S.).[br] Pour ce faire, appuyez sur @1 (ou clic de molette par défaut).</n>
   </txt>
   <txt id="trChWeap" s1="keyScrUp" s2="keyScrDown">
-    <n>You can switch weapons using PipBuck, numeric buttons or @1 and @2 (or scrolling by default)</n>
+    <n>Vous pouvez changer d'arme en utilisant le PipBuck, les touches numériques ou @1 et @2 (or scrolling by default)</n>
   </txt>
   <txt id="trMont">
     <n>Un pied-de-biche ! Vous pouvez autant vous en servir comme arme ou casser des trucs.</n>
@@ -7684,9 +7684,9 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   <txt id="surfDialSome" imp="1">
     <n>
       <t v="0.8">Première rencontre avec un pillard</t>
-      <r p='lp1'>Oh, j'ai cru voir un poney par la-bas</r>
-      <r p='lp5'>E.F.S marque une cible hostile ! Même si c'est un poney, il n'est pas trop sympathique </r>
-      <r p='lp1'>Encore faut-il vraiment attaquer en premier ? Ou peut-être devrais-je au moins essayer de lui parler ?</r>
+      <r p='lp1'>Oh, j'ai cru voir un poney la-bas</r>
+      <r p='lp5'>Mon E.F.S marque une cible hostile ! Même si c'est un poney, il n'a pas l'air amical </r>
+      <r p='lp1'>Je vais vraiment l'attaquer en premier ? Ou peut-être devrais-je au moins essayer de lui parler ?</r>
     </n>
   </txt>
   <txt id="surfDialHello">
@@ -13614,7 +13614,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Ça pue !</r>
       <r>Pourquoi moi ?</r>
       <r>Quelque chose coule sur ma tête.</r>
-      <r>Bon que tu sois la et non dehors.</r>
+      <r>Bon que tu sois là et non dehors.</r>
       <r>L'expérience fut un succès.</r>
       <r>Il y a encore de la moisissure ici.</r>
       <r>Oui, où est-ce que ce morceau de merde a roulé ?</r>
