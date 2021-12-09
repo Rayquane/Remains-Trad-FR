@@ -442,7 +442,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="bloat0">
     <n>Jeune bouffisprite</n>
-    <info>Cette petite créture est plus agaçante que dangereuse.</info>
+    <info>Cette petite créature est plus agaçante que dangereuse.</info>
   </unit>
   <unit id="bloat1">
     <n>Bouffisprite acide</n>
@@ -454,7 +454,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="bloat3">
     <n>Grand bouffisprite</n>
-    <info>Very large bloatsprite with a thick shell</info>
+    <info>Un très grand bouffisprite avec une coquille épaisse.</info>
   </unit>
   <unit id="bloat4">
     <n>Bouffisprite vif</n>
@@ -3618,7 +3618,7 @@ Having the book with you, you get some protection from black magic, as well as a
   </eff>
   <eff id="melee">
     <n>Armes de corps-à-corps</n>
-    <info>La compétence "Melee weapons" determines combat effectiveness with any melee weapon. [br]- Each invested skill point increases damage by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level decreases attack speed and increases action points consumption in S.A.T.S.</info>
+    <info>La compétence "Armes de corps-à-corps" determines combat effectiveness with any melee weapon. [br]- Each invested skill point increases damage by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level decreases attack speed and increases action points consumption in S.A.T.S.</info>
   </eff>
   <eff id="smallguns">
     <n>Armes à feu</n>
@@ -4265,19 +4265,19 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Complete invulnerability to any external damage</info>
   </eff>
   <eff id="trauma_head" v="0.8">
-    <n>Head injuries</n>
+    <n>Blessures à la tête</n>
     <info>Accuracy reduced by #1, melee attack speed reduced by #2, magic consumption increased by #3</info>
   </eff>
   <eff id="trauma_tors" v="0.8">
-    <n>Body injuries</n>
+    <n>Blessures du corps</n>
     <info>Maximum health reduced by #1, stamina recovery reduced by #3, stamina consumption for running and jumping increased by #2</info>
   </eff>
   <eff id="trauma_legs" v="0.8">
-    <n>Leg injuries</n>
+    <n>Blessures aux membres</n>
     <info>Running speed reduced by #1, walking speed reduced by #2</info>
   </eff>
   <eff id="trauma_blood" v="0.8">
-    <n>Blood loss</n>
+    <n>Perte de sang</n>
     <info>Resistance to any external damage reduced by #1, damage of your weapons reduced by #2</info>
   </eff>
   <eff id="trauma_mana" v="0.8">
@@ -5051,23 +5051,23 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="dexter" v="0.8">
     <n>Evasion</n>
-    <info>The higher this indicator is, the more often enemies with long-range weapons miss. The probability of hitting you is divided by the absolute value of evasion. For example, the "+ 20%" bonus means that the probability of hitting you is divided by 1.2</info>
+    <info>Plus cette valeur est haute, plus les ennemis équippés d'arme à distance vous rateront. La probabilité de vous toucher est divisée par la valeur absolue de l'évasion. Par exemple, le "+ 20%" bonus veut dire que la probabilité de vous toucher est de 1.2.</info>
   </pip>
   <pip id="sneak" v="0.8">
     <n>Stealth</n>
     <info>The higher this indicator is, the harder it is for enemies to see you, and the more time it will take them to discover you. Does not account for a StealthBuck effect</info>
   </pip>
   <pip id="allresist">
-    <n>External damage resistance</n>
-    <info v="0.8">Only for external damage. Does not protect against health reduction resulting from poisoning, bleeding and other internal damage</info>
+    <n>Résistance aux dégâts externes</n>
+    <info v="0.8">Uniquement pour les dégâts externes. Ne protège pas contre la diminution de vie résultant du poison, du saignement ou tout autre dégât interne.</info>
   </pip>
   <pip id="alldamage" v="0.71">
-    <n>Damage</n>
-    <info>Bonus to damage from any of your weapons and spells</info>
+    <n>Dégâts</n>
+    <info>Bonus de dégâts sur toutes vos armes et sorts.</info>
   </pip>
   <pip id="meleedamage" v="0.71">
-    <n>Melee weapons damage</n>
-    <info>Bonus to damage of melee weapons</info>
+    <n>Dégâts d'armes au corps-à-corps</n>
+    <info>Bonus de dégâts sur vos armes de corps-à-corps.</info>
   </pip>
   <pip id="spelldamage" v="0.71">
     <n>Combat spells damage</n>
@@ -5150,7 +5150,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Ami proche</n>
   </pip>
   <pip id="reputmax" v="0.8">
-    <n>Inspiring example</n>
+    <n>Figure d'exemple</n>
   </pip>
   <pip id="skillpoint">
     <n>Points de compétence disponibles</n>
@@ -6186,7 +6186,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="allprec" v="0.8">
     <n>Précision générale</n>
-    <info>Multiplicateur de chance de toucher pour n'importe quelle arme à distance sort d'attaque.</info>
+    <info>Multiplicateur de chance de toucher pour n'importe quelle arme à distance ou sort d'attaque.</info>
   </pip>
   <pip id="punchdamage" v="0.8">
     <n>Puissance du sabot</n>
@@ -6225,18 +6225,18 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
     <info>Consommation générale de la magie pour toutes les actions magiques comme la télékinésie et les sorts d'attaque et de défense.</info>
   </pip>
   <pip id="wmana" v="0.8">
-    <n>Magic consumption on attack spells</n>
-    <info>Separate parameter for attacking spells only. It is multiplied with the "General magic consumption" parameter</info>
+    <n>Consommation magique des sorts d'attaque</n>
+    <info>Paramètre séparé pour les sorts d'attaque uniquement. Il est multiplié avec le paramètre "Consommation générale de magie".</info>
   </pip>
   <pip id="od" v="0.8">
-    <n>Action points</n>
-    <info>The number of action points for attacks with any weapon in S.A.T.S.</info>
+    <n>Points d'action</n>
+    <info>Le nombre de points d'action pour les attaques avec n'importe quelle arme dans le S.A.T.S.</info>
   </pip>
   <pip id="saved" v="0.8">
     <n>Sauvegardé</n>
   </pip>
   <pip id="dead" v="0.8">
-    <n>Character perished</n>
+    <n>Personnage mort</n>
   </pip>
   <pip id="zoom100" s1="keyZoom" s2="keyLook" v="0.8">
     <n>Zoom 100%</n>
@@ -7368,10 +7368,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Appuyez sur @1 pour utiliser le PipBuck. Cet appareil possède multiples fonctionalités - allant de la visualisation de votre niveau de santé à la recherche dans votre inventaire.</n>
   </txt>
   <txt id="trSats" s1="keySats">
-    <n>Pour une visée plus facile, vous pouvez utiliser le Stable-Tec Arcane Targeting Spell (S.A.T.S.).[br] Pour ce faire, appuyez sur @1 (ou clic de molette par défaut).</n>
+    <n>Pour une visée plus facile, vous pouvez utiliser le Système de Visée Assistée Stable-Tec, aussi appelée S.A.T.S. (Stable-Tec Arcane Targeting Spell).[br] Pour ce faire, appuyez sur @1 (ou clic de molette par défaut).</n>
   </txt>
   <txt id="trChWeap" s1="keyScrUp" s2="keyScrDown">
-    <n>Vous pouvez changer d'arme en utilisant le PipBuck, les touches numériques ou @1 et @2 (or scrolling by default)</n>
+    <n>Vous pouvez changer d'arme en utilisant le PipBuck, les touches numériques ou @1 et @2 (ou défiler la souris par défaut).</n>
   </txt>
   <txt id="trMont">
     <n>Un pied-de-biche ! Vous pouvez autant vous en servir comme arme ou casser des trucs.</n>
