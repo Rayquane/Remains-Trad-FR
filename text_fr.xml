@@ -7794,110 +7794,110 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   </txt>
   <txt id="velvetDial1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Information obtained from the maneframe</t>
-      <r p='lp3'>Ok, good. Perhaps this cute little piece of metal would also like to tell me something?</r>
-      <r p='lp3' push='1'>Query: The "Sun" project</r>
-      <r p='main'>*Search complete*
-            *Files found: 0*
-            *Logs matches: 5*</r>
-      <r p='lp3'>That`s it, huh?</r>
-      <r p='lp3' push='1'>Query: The "Rainbow" project</r>
-      <r p='main'>*Search complete*
-            *Files found: 0*
-            *Logs matches: 5*</r>
-      <r p='lp5'>Arrgh! It looks like the files were deleted from memory after transferring. Great. Just great</r>
-      <r p='lp3' push='1'>Query: Logs for the "Rainbow" project</r>
-      <r p='main'>*Search complete*
-            *File history:
-            69 457 days ago: file downloaded;
-            69 452 days ago: file transfer attempt. ERROR: THE OPERATION WAS NOT CONFIRMED BY THE RECIPIENT. FILE TRANSFER CANCELLED;
-            81 days ago: file accessed;
-            3 minutes ago: file transferred*</r>
-      <r p='lp3'>Looks like I won`t find out anything new... Wait, what?! Well, well...</r>
-      <r p='main'>*File accessed:
-            File was accessed 81 days 5 hours 18 minutes ago from an authorized PipBuck device, serial number PX 457095004132 L*</r>
-      <r p='lp3'>PipBuck user, huh? I don`t remember seeing anyone on the surface having a PipBuck. What if... what if it was "Chosen-24"?</r>
-      <r p='lp3'>Yes, that must be her. Perhaps she is already very far from here, maybe even dead. Anyhow, I still have to try finding her. What if she visited the "Prancing Pony"? I must ask Calamity - if anyone saw something, it`s him</r>
+      <t v="0.8">Information obtenu depuis le maneframe</t>
+      <r p='lp3'>Ok, bon. Peut-être que ce mignon petit morceau de métal aimerait aussi me dire quelque chose ?</r>
+      <r p='lp3' push='1'>Requête: Le projet "Soleil"</r>
+      <r p='main'>*Recherche terminée*
+            *Fichiers trouvés: 0*
+            *Journaux des correspondances: 5*</r>
+      <r p='lp3'>C'est ça, euh?</r>
+      <r p='lp3' push='1'>Requête : Le projet "Rainbow"</r>
+      <r p='main'>*Recherche terminée*
+            *Fichiers trouvés: 0*
+            *Journaux des correspondances: 5*</r>
+      <r p='lp5'>Arrgh! C'est comme si les fichiers ont été supprimé après leurs transfers. Super. vraiment génial!</r>
+      <r p='lp3' push='1'>>Requête : Journal du projet "Rainbow"</r>
+      <r p='main'>*Recherche terminée*
+            *Historique des fichiers:
+            69 457 jours plus tôt: fichier téléchargé;
+            69 452 jours plus tôt: tentative de transfert de fichier. ERREUR : L'OPÉRATION N'A PAS ÉTÉ CONFIRMÉE PAR LE DESTINATAIRE. TRANSFERT DE FICHIER ANNULÉ;
+            81 jours plus tôt: fichier consulté;
+            3 minutes plus tôt: fichier transféré*</r>
+      <r p='lp3'>On dirait que je ne vais rien découvrir de nouveau... Attends,c'est quoi ?! ça alors...</r>
+      <r p='main'>*Fichier consulté :
+            Le fichier a été consulté il y a 81 jours 5 heures 18 minutes à partir d'un appareil PipBuck autorisé, numéro de série PX 457095004132 L*</r>
+      <r p='lp3'>Un utilisateur de PipBuck, hein ? Je ne me souviens pas avoir vu quelqu'un en surface avoir un PipBuck. Et si... et si c'était "Choosen-24" ?</r>
+      <r p='lp3'>Oui, ça doit être elle. Peut-être est-elle déjà très loin d'ici, peut-être même morte. De toute façon, je dois encore essayer de la retrouver. Et si elle visitait le "Prancing Pony" ? Je dois demander à Calamity - si quelqu'un a vu quelque chose, c'est lui</r>
     </n>
   </txt>
   <txt id="velvetDial2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Conversation with Calamity about «Chosen 24»</t>
+      <t v="0.8">Conversation avec Calamity sur le «Chosen 24»</t>
       <r p='lp4'>Calamity?</r>
-      <r p='calam'>Howdy, @lp. Needin` somethin`?</r>
-      <r p='lp4'>Well, yes. Tell me, in the last few months have you seen anypony like me?</r>
-      <r p='calam'>Huh? Ya mean, lookin` like ya? A lil` one? Or an adventurer like ya?</r>
-      <r p='lp2'>Khmm.. No, not that. I mean, somepony from the Stable</r>
-      <r p='calam'>Ah, that kind. Ayep, Ah saw one. A funny character t`be honest, ya could tell that she`s jus` outta Stable. But good. Ah mean, she has a kind heart. Ah also wanted t`ask ya if she was a friend of yer`s, but somehow it slipped mah mind</r>
-      <r p='calam'>Anyhow, she came here `bout three or four months ago. She was weak an` hungry, she almost went t` bed but stopped when she noticed Doc`s corner. He was fixin` a couple of our fellas shot by `em Raiders. So she went in, talked t` him about somethin` for `bout five minutes an` stayed t` help. Since then she was workin` with Doc. He praised her a lot, but between us he grumbled that our newcomer was tryin` t` give sick folks medications fer free</r>
-      <r p='lp2'>And why she is not here anymore? Doctor Sepsis kicked her out?</r>
-      <r p='calam'>No, `f course not. But in truth, Ah`m afraid that it`s even worse. But ya know, better ask Doc himself... He`ll tell ya everythin` better than me</r>
+      <r p='calam'>s'lut, @lp. b'soin d'que'que chose?</r>
+      <r p='lp4'>Hé bien oui. Dites-moi, au cours des derniers mois avez-vous vu quelqu'un comme moi ?</r>
+      <r p='calam'>Hein? Tu veux dire, qui t'ressembles ? Une ptite ? Ou une aventuriere comme toi?</r>
+      <r p='lp2'>Khmm.. Non, pas ça. Je veux dire, quelqu'un d'une écurie</r>
+      <r p='calam'>Ah, c'genre. Oui, j'en ai vu un. Un personnage amusant pour être honnête, . Ah dire, elle a un bon cœur. Ah aussi je voulais te demander si c'était une de tes amies, mais d'une manière ou d'une autre, ça m'a échappé</r>
+      <r p='calam'>Toute façon, elle est arrivée ici il y a environ trois ou quatre mois. Elle était faible et avait faim, elle faillit se coucher mais s'arrêta quand elle r'marqua le coin d'Doc. Il était en train de réparer que'ques-uns de nos gars abattus par les pillards. Alors elle est entrée, lui a parlé de quelque chose pendant environ cinq minutes et est restée pour l'aider. Depuis lors, elle travaillait avec Doc. Il l'a beaucoup félicitée, mais entre nous, il a grommelé que notre nouveau venu essayait de donner des médicaments aux malades gratuitement</r>
+      <r p='lp2'>Et pourquoi elle n'est plus là ? Le docteur Sepsis l'a expulsée ?</r>
+      <r p='calam'>Non, bien sûr que non. Mais en vérité, Ah j'ai peur qu'ce soit encore pire. Mais tu sais, tu f'rais mieux d'd'mander à Doc lui-même... y te dira tout mieux qu'moi</r>
     </n>
   </txt>
   <txt id="velvetDial3" imp="1" v="0.7">
     <n>
-      <t v="0.8">Conversation with Doc about Velvet</t>
-      <r p='lp2'>Look, Doc, we need to talk. It`s very important...</r>
-      <r p='vd'>If it`s venereal, lets discuss your case behind this curtain</r>
-      <r p='lp2'>No, it`s not that. I want to ask you about a Stable dweller. Did you know her? I was told that some time ago she was helping you here in the clinic</r>
-      <r p='vd'>Ah, but of course, I remember her. Velvet Remedy - that was her name. Yes, she helped me here for a while. Very capable, and good in medicine, despite being self-educated. She learned from books, you can see it at once. Little practice, especially in surgery</r>
-      <r p='vd'>But very kind, too much even. Wanted to help everypony for free. Not just ponies, every creature. We had a few quarrels with her about this, because her kindness made the clinic go into a negative balance. But we managed to find a compromise</r>
-      <r p='vd'>She asked a lot about our life, but above all she was interested in ghouls. Tried to reveal a secret of their anti-life, did not believe my words that this is the black magic of zebras. As a result, she decided to get to the truth herself. Stupid idea, if you ask me. Ghouls can no longer be cured</r>
-      <r p='vd'>First she was just searching for them around... I tried to dissuade her, but it was useless. Then she said that she found out where those creatures were most abundant. I guess, in some sewers or other forsaken hole. And then she just left and, well, that`s it. I haven`t seen her ever since</r>
-      <r p='vd'>Pity... probably found more ghouls than it was necessary. Be careful, do not repeat her mistake</r>
+      <t v="0.8">Conversation avec Doc à propos de Velvet</t>
+      <r p='lp2'>Écoutez, Doc, nous devons parler. C'est très important...</r>
+      <r p='vd'>Si c'est vénérien, discutons de votre cas derrière ce rideau</r>
+      <r p='lp2'>Non, ce n'est pas ça. Je veux vous poser une question sur un habitant d'écurie. La connaissiez-vous ? On m'a dit qu'il y a quelque temps elle vous aidait ici à la clinique</r>
+      <r p='vd'>Ah, mais bien sûr, je me souviens d'elle. Velvet Remedy - c'était son nom. Oui, elle m'a aidé ici pendant un certain temps. Très compétente et bonne en médecine, malgré son autodidacte. Elle a appris dans les livres, ça se voit tout de suite. Peu de pratique, surtout en chirurgie</r>
+      <r p='vd'>Mais très gentille, trop même. Elle voulais aider tout le monde gratuitement. Pas seulement les poneys, toutes les créatures. Nous avons eu quelques querelles avec elle à ce sujet, car sa gentillesse a fait basculer la clinique dans un bilan négatif. Mais nous avons réussi à trouver un compromis</r>
+      <r p='vd'>Elle posait beaucoup de questions sur notre vie, mais surtout elle s'intéressait aux goules.Elle a essayé de révéler un secret de leur anti-vie, et n'a pas cru mes mots que c'est la magie noire des zèbres. En conséquence, elle a décidé de découvrir la vérité elle-même. Idée stupide, si vous voulez mon avis. Les goules ne peuvent plus être guéries</r>
+      <r p='vd'>D'abord, elle les cherchait dans les environs... J'ai essayé de l'en dissuader, mais c'était inutile. Puis elle a dit qu'elle avait découvert où ces créatures étaient les plus abondantes. Je suppose, dans certains égouts ou autre trou délaissé. Et puis elle est partie et, eh bien, c'est tout. je ne l'ai pas vue depuis</r>
+      <r p='vd'>Dommage... elle a probablement trouvé plus de goules qu'il n'en fallait. Attention, ne répétez pas son erreur</r>
       <r p='lp2'>And you did not even look for her?</r>
-      <r p='vd'>We looked. Calamity flew around, even checked sewage pipes. We found no trace</r>
-      <r p='lp3'>I see... Thank you</r>
-      <r p='vd'>That was nothing... And why do you ask? Were you acquainted?</r>
-      <r p='lp2'>Yes... I mean, no...</r>
-      <r p='lp3' push='1'>I don`t know</r>
+      <r p='vd'>On a regardé. Calamity a volé partout, a même vérifié les canalisations d'égout. Nous n'avons trouvé aucune trace</r>
+      <r p='lp3'>Je vois... Merci</r>
+      <r p='vd'>Ce n'était rien... Et pourquoi demandez-vous ? Vous vous connaissiez ?</r>
+      <r p='lp2'>Oui... je veux dire, non...</r>
+      <r p='lp3' push='1'>Je sais pas</r>
       <r p='vd'>...</r>
-      <r p='vd' push='1'>Well, I`ll mind my own business then</r>
+      <r p='vd' push='1'>Eh bien, je vais m'occuper de mes affaires alors</r>
     </n>
   </txt>
   <txt id="surfDialStop" v="0.7">
     <n>
-      <r p="lp2">Stop! It`s dangerous to go further! I need to find another way</r>
+      <r p="lp2">C'est dangereux d'aller plus loin ! Je dois trouver un autre moyen</r>
     </n>
   </txt>
   <txt id="velvetDial4" v="0.7">
     <n>
-      <r p="lp2">A camp? Here? Interesting...</r>
-      <r p="lp3">I should look around more carefully</r>
+      <r p="lp2">Un campement? Ici? Intéressant...</r>
+      <r p="lp3">Je devrais regarder autour de moi plus attentivement</r>
     </n>
   </txt>
   <txt id="velvetDial5" imp="1" v="0.7">
     <n>
-      <t v="0.8">Sewage camp inspection</t>
-      <r p='lp2'>Sooo. No trace of ghouls - that`s good</r>
-      <r p='lp2'>But there are signs of struggle. The mattress is crumpled, as if a pair of ponies stomped all over it. One stack of books is turned over. Same for the pot and those bottles from the table. They are broken, as if they fell after somepony kicked the table under them with all their strength. Or something like that. And all this remained untouched for quite some time</r>
-      <r p='lp3'>But most importantly, there is no blood. Perhaps the owner of the camp is alive... I need to look for some more traces</r>
+      <t v="0.8">Inspection du camp d'égout</t>
+      <r p='lp2'>Aloooooors. Aucune traces de goules ? - c'est parfais</r>
+      <r p='lp2'>Mais il y a des signes de lutte. Le matelas est chiffonné, comme si un poney l'avait piétiné. Une pile de livres est retournée. Idem pour le pot et ces bouteilles de la table. Ils sont brisés, comme s'ils étaient tombés après qu'un poney ait donné un coup de pied à la table sous eux de toutes leurs forces. Ou quelque chose comme ça. Et tout cela est resté intact pendant un certain temps</r>
+      <r p='lp3'>Mais surtout, il n'y a pas de sang. Peut-être que le propriétaire du camp est vivant... Je dois chercher d'autres traces</r>
 </n>
   </txt>
   <txt id="velvetDial6" imp="1" v="0.7">
     <n>
-      <t v="0.8">Velvet`s diary found</t>
-      <r p='lp2'>Oh, and here`s the diary! Probably belongs to the owner of the camp. Aha... There is a signature: "Velvet Remedy"</r>
-      <r p='lp3'>(reads) Well-well-well... She studied ghouls here, conducted some experiments... I need to study the diary in more detail later</r>
-      <r p='lp3'>However, the camp was empty for a long time, and she clearly did not move out by her own free will. Who could find her here, besides ghouls?... The slavers from the camp above?</r>
+      <t v="0.8">Journal de Velvet trouvé</t>
+      <r p='lp2'>Oh, et voici le journal ! Il appartient probablement au propriétaire du camp. Aha... Il y a une signature : "Velvet Remedy"</r>
+      <r p='lp3'>(lit) Bien-bien-bien... Elle a étudié les goules ici, a mené quelques expériences... Je dois étudier le journal plus en détail plus tard</r>
+      <r p='lp3'>Cependant, le camp a été vide pendant longtemps et elle n'a manifestement pas déménagé de son plein gré. Qui pourrait la trouver ici, à part les goules ?... Les négriers du camp d'en haut ?</r>
     </n>
   </txt>
   <txt id="velvetDial7" imp="1" v="0.7">
     <n>
-      <t v="0.8">Conversation with the griffins` captives about Velvet</t>
-      <r p='lp1'>Psst, be quiet. I`am going to free you now</r>
-      <r p='hh'>Thank you, stranger</r>
-      <r p='hh'>But if you came for your friend, I am sorry, she`s no longer with us</r>
-      <r p='lp2'>Wait, who are you talking about?</r>
-      <r p='hh'>Another pony. We ran with her from the slavers, and she wore exactly the same piece of metal on her leg as you do. Are you from the same clan?</r>
-      <r p='lp1'>Please, tell me more</r>
-      <r p='hh'>A black unicorn with a silver mane. She said that her name was Velvet Remedy. After the escape, we wandered together for a while. She did not talk much about her past, but she was a very good medic. We separated after we met zebras. These creatures lured her to go with them. They pretended that they were ill, and your friend took the bait. We tried to talk her out of it, but she would not listen. By now she must be in the stomachs of the striped. I am sorry</r>
-      <r p='lp3'>Hmm... thank you for telling me this</r>
+      <t v="0.8">Conversation avec les captifs des griffons à propos de Velvet</t>
+      <r p='lp1'>Psst, soit discret. Je vais te libérer maintenant</r>
+      <r p='hh'>Merci étrangé</r>
+      <r p='hh'>Mais si tu es venu chercher ton amie, je suis désolé, elle n'est plus avec nous</r>
+      <r p='lp2'>Attend , de qui tu parle ?</r>
+      <r p='hh'> Un autre poney. Nous avons fui les esclavagistes avec elle, et elle portait exactement le même morceau de métal sur sa jambe que vous. Êtes-vous du même clan?</r>
+      <r p='lp1'>S'il vous plaît, dites-men plus</r>
+      <r p='hh'>Une licorne noire avec une crinière argentée. Elle a dit qu'elle s'appelait Velvet Remedy. Après l'évasion, nous avons erré ensemble pendant un moment. Elle ne parlait pas beaucoup de son passé, mais c'était un très bon médecin. Nous nous sommes séparés après avoir rencontré des zèbres. Ces créatures l'ont attirée pour les accompagner. Ils ont prétendu qu'ils étaient malades et votre ami a mordu à l'hameçon. Nous avons essayé de l'en dissuader, mais elle n'a pas voulu écouter. A présent, elle doit être dans le ventre des rayés. je suis désolé</r>
+      <r p='lp3'>Hmm... merci de me m'avoir aidé</r>
     </n>
   </txt>
   <txt id="sewerNextLevel" v="0.7">
     <n>
-      <r mod="1" p="term">Congratulations! You have completed [the first level of the sewers]. You can leave the sewer system by climbing the stairs, or go deeper by entering the [Exit] door. At deeper levels you will find more enemies, trials and rewards, and at the end of each level you can find the way out as well</r>
+      <r mod="1" p="term">Toutes nos félicitations! Vous avez terminé [le premier niveau des égouts]. Vous pouvez quitter le système d'égouts en montant les escaliers ou aller plus loin en entrant la porte [Sortie]. À des niveaux plus profonds, vous trouverez plus d'ennemis, d'épreuves et de récompenses, et à la fin de chaque niveau, vous pouvez également trouver la sortie</r>
     </n>
   </txt>
   <txt id="surfDialCaptive" imp="1" v="0.7">
