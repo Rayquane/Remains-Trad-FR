@@ -368,19 +368,19 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="zombie6">
     <n>Goule éventreuse</n>
-    <info>A mutation of this ghoul went further compared to its relatives. Its strength, speed, and aggression has increased multiple times, sharp spines appeared on the body, and in addition, it acquired an ability to spit acid. As a result, it became one of the most dangerous mutants in the Wasteland</info>
+    <info>Les mutations de cette goule sont allée plus loin par rapport à ses proches. Sa force, sa vitesse et son agressivité ont augmenté plusieurs fois, des épines acérées sont apparues sur le corps et, en plus, il a acquis la capacité de cracher de l'acide. En conséquence, il est devenu l'un des mutants les plus dangereux des Terres Désolées.</info>
   </unit>
   <unit id="zombie7" v="0.7">
     <n>Goule de Canterlot</n>
-    <info>There is a specific kind of wild ghouls roaming the ruins of Canterlot that appeared not because of radiation but under influence of the pink cloud. They are especially dangerous because they can not be killed by ordinary bullets, as after "death" they revive. To kill these ghouls for good they must be burned or disintegrated. In addition, unicorn ghouls are able to use attack spells</info>
+    <info>Il existe un type spécifique de goules sauvages errant dans les ruines de Canterlot qui ne sont pas apparues à cause des radiations mais sous l'influence du nuage rose. Ils sont particulièrement dangereux car ils ne peuvent pas être tués par des balles ordinaires, car après "la mort", ils ressuscitent. Pour tuer ces goules pour de bon, elles doivent être brûlées ou désintégrées. De plus, les goules licornes sont capables d'utiliser des sorts d'attaque</info>
   </unit>
   <unit id="zombie8" v="0.7">
-    <n>Goule boursouflée</n>
-    <info>The pink cloud penetrated so deeply into the dead flesh of these ghouls that it became their very essence. Now they are able to generate it at will</info>
+    <n>Goule bouffi</n>
+    <info>Le nuage rose a pénétré si profondément dans la chair morte de ces goules qu'il est devenu leur essence même. Maintenant, ils sont capables de le générer à volonté</info>
   </unit>
   <unit id="zombie9" v="0.7">
     <n>Sorcière de Canterlot</n>
-    <info>Probably the most dangerous of existing ghouls. It is notorious for incredible strength, speed and vitality. She attacks with black magic, from which no armor can protect</info>
+    <info>Probablement la goule la plus dangereuse qui existe. Elle est connu pour sa force, sa vitesse et sa vitalité incroyables. Elle attaque avec de la magie noire, contre laquelle aucune armure ne peut se protéger</info>
   </unit>
   <unit id="alicorn" v="0.6">
     <n>Alicornes</n>
@@ -5854,7 +5854,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Aucune aptitude ajoutée pour le moment.</n>
   </pip>
   <pip id="emptyeff">
-    <n>Aucun effet actif</n>
+    <n>Aucun effet actif.</n>
   </pip>
   <pip id="emptymed">
     <n>Attention ! Le module médical est endommagé. La surveillance de santé est limitée. Veuillez visiter un technicien de PipBuck certifié pour la réparation.</n>
@@ -6214,7 +6214,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="lockpick" v="0.8">
     <n>Niveau d'ouverture de verrou</n>
-    <info>Détéerminé principalement par la compétence "Crochetage", même si certains objets peuvenet changer ce paramètre.</info>
+    <info>Déterminé principalement par la compétence "Crochetage", même si certains objets peuvenet changer ce paramètre.</info>
   </pip>
   <pip id="hacker" v="0.8">
     <n>Niveau de piratage de terminaux</n>
