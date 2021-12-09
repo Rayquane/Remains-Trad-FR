@@ -392,30 +392,30 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="alicorn2" v="0.6">
     <n>Alicorne violette</n>
-    <info>Purple alicorns possess powerful telekinesis, and in addition to all other abilities, are able to teleport themselves. Teleportation helps them evade enemy attacks or persistently pursue their target</info>
+    <info>Les alicornes violettes possèdent une télékinésie puissante, et en plus de toutes leurs autres capacités, elles peuvent se téléporter. La téléportation les aide à esquiver les attaques ennemis ou à poursuivre leur cible.</info>
   </unit>
   <unit id="alicorn3" v="0.6">
     <n>Alicorne verte</n>
-    <info>Green alicorns can create extra-strong magic shields, and in addition to all other abilities, have a powerful gift for telepathy. With its help they can influence opponent`s mind, disorienting it or creating dreadful visions</info>
+    <info>Les alicornes vertes peuvent créer de très puissants boucliers magiques, et en plus de leurs autres capacités, ont un puissant don pour la télépathie. Grâce à cela, elles peuvent influencer l'esprit de leur opposant, en le désorientant ou en créant de terribles visions.</info>
   </unit>
   <unit id="bossalicorn" v="0.6">
-    <n>Blood Moon</n>
-    <info>A strange alicorn of black and red colors. It seems that she somehow combined special powers of all three types of alicorns, which made her an extremely dangerous opponent</info>
+    <n>Lune de sang</n>
+    <info>Une étrange alicorne de couleur noir et rouge. On dirait qu'elle a en quelque sorte combiné les trois pouvoirs spéciaux des diverses alicornes, faisant donc d'elle un adversaire extrêmement dangereux.</info>
   </unit>
   <unit id="scythe" v="0.6">
-    <n>Ghost blade</n>
+    <n>Lame fantôme</n>
   </unit>
   <unit id="hellhound" v="0.8">
     <n>Chiens de l'enfer</n>
-    <info>Mutated descendants of diamond dogs, intelligent, but aggressive towards ponies and extremely dangerous. They have natural weapons - teeth and huge, sharp and strong claws on the front legs which can easily cut through metal and stone. They also have a good scent and can easily smell a hidden or even invisible enemy from close enough distance</info>
+    <info>Descendants mutants des chiens adamantins, intelligents, mais aggressifs envers les poneys et extrêmement dangereux. Ils ont des armes naturelles, telles que les crocs et de grandes, tranchantes griffes aux membres avant pouvant couper facilement à travers le métal et la pierre. Ils ont aussi un bon odorat et peuvent facilement sentir un ennemi caché ou invisible d'une distance assez proche.</info>
   </unit>
   <unit id="hellhound1" v="0.8">
     <n>Chiens de l'enfer de l'Enclave</n>
-    <info>The Enclave found a way to suppress will of Hellhounds using special helmets and transmitters, subduing them and thus turning these creatures into weapons. Because mind-controlling devices affect their brain, the Enclave Hellhounds lose a significant part of their wits, but not their strength, speed and ferocity</info>
+    <info>L'Enclave a trouvé une nouvelle façon de maîtriser les Chiens de l'enfer en utilisant des casques et des transmetteurs spéciaux, ce qui les assujettit et les transforment en armes. A cause du contrôle sur leur esprit, les chiens de l'enfer de l'Enclave perdent en grande partie leur intelligence, mais possèdent toujours leur force, leur vitesse et leur férocité.</info>
   </unit>
   <unit id="bloat" v="0.6">
     <n>Bouffisprites</n>
-    <info>Bloatsprites are, apparently, parasprites, mutated under influence of taint or radiation. Acquiring new dangerous features, they have not lost their ability for intensive reproduction, thus their numbers in the Equestrian Wasteland are very high</info>
+    <info>Les bouffisprites sont, apparemment, des parasprites, ayant muté sous l'influence des radiations ou de la polution. Obtenant de nouvelles dangereuses capacités, ils n'ont pas perdu leur capacité à se reproduire en masse, rendant leur nombre dans les Terres Désolées d'Equestria très haut.</info>
   </unit>
   <unit id="other" v="0.6">
     <n>Autres</n>
@@ -683,10 +683,10 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Zèbre</n>
   </unit>
   <unit id="moon" v="0.7">
-    <n>Lunar blade</n>
+    <n>Lame lunaire</n>
   </unit>
   <unit id="turret5" v="0.8">
-    <n>Magic turret</n>
+    <n>Tourelle magique</n>
   </unit>
   <unit id="stabpon" v="0.8">
     <n>Habitant d'Etable</n>
@@ -695,7 +695,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <n>Réacteur de Thunderhead</n>
   </unit>
   <weapon id="mont">
-    <n>Crowbar</n>
+    <n>Pied-de-biche</n>
     <info>Covered with peeling red paint, scratches and some sticky yuck. Quite handy for breaking into common doors, lockers and cabinets. Useless against armored doors and safes</info>
   </weapon>
   <weapon id="mont^1">
@@ -707,7 +707,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Just a piece of rebar, covered with insulating tape for holding by teeth. You can hardly even call it "a weapon"</info>
   </weapon>
   <weapon id="spear">
-    <n>Spear</n>
+    <n>Lance</n>
     <info>Composed of a sharpened metal part fastened by wire to a firm wooden stick</info>
   </weapon>
   <weapon id="spear^1">
@@ -739,7 +739,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A unique combat knife with a wavy edge made of durable steel. Sharp like a razor !</info>
   </weapon>
   <weapon id="bat">
-    <n>Bat with nails</n>
+    <n>Batte avec des clous</n>
     <info>Un déchet... Mais toujours mieux qu'une batte simple.</info>
   </weapon>
   <weapon id="mach">
@@ -747,7 +747,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A huge broad blade from Zebra Empire. Useful for chopping through dense vegetation or slicing and dicing enemies</info>
   </weapon>
   <weapon id="mach^1">
-    <n>"Jungle call"</n>
+    <n>"L'Appel de la Jungle"</n>
     <info>A heavy machete, decorated with ornament and encrusted with nephrite</info>
   </weapon>
   <weapon id="pipe">
@@ -755,7 +755,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A heavy pipe with a massive nut on one side. Those who meet this in a battle quickly learn to keep away</info>
   </weapon>
   <weapon id="ripper">
-    <n>Ripper</n>
+    <n>Eventreur</n>
     <info>Electrical saw, working on batteries. Can cut relatively fragile materials, including bones and skulls. Way less effective against metal</info>
   </weapon>
   <weapon id="ripper^1" v="0.7">
@@ -839,11 +839,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A specially weighted super sledge, clearly made for somepony big and strong. Scary even to think, what damage one strike of this can cause</info>
   </weapon>
   <weapon id="tlance">
-    <n>Thermic lance</n>
+    <n>Lance thermique</n>
     <info>A tungsten tip, feeding from an "infinite" power source, can get several thousand degrees hot and burn through flesh and armor like a small but angry Celestia`s sun</info>
   </weapon>
   <weapon id="mspear">
-    <n>Magical energy spear</n>
+    <n>Lance à énergie magique</n>
     <info>This thing only looks like a spear. In reality it is a complex fusion of magic and technology - magical energy melee weapon, causing a tremendous plasma damage and not requiring changing batteries for exploitation</info>
   </weapon>
   <weapon id="mspear^1">
@@ -863,31 +863,31 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info/>
   </weapon>
   <weapon id="r32">
-    <n>.32 pistol</n>
+    <n>Pistolet .32</n>
     <info>Old-fashioned and not very effective firearm, dealing little damage and having low rate of fire</info>
   </weapon>
   <weapon id="p9mm" v="0.6">
-    <n>Pistolet 9 mm </n>
+    <n>Pistolet 9 mm</n>
     <info>The most common pistol produced before the War for civilian needs</info>
   </weapon>
   <weapon id="p10mm">
-    <n>Pistolet 10 mm </n>
+    <n>Pistolet 10 mm</n>
     <info>A standard, commonly used pistol using 10mm ammo. Its advantages are simplicity of design, reliability and low cost</info>
   </weapon>
   <weapon id="p10mm^1">
-    <n>"Lonely wanderer"</n>
+    <n>"Le Vagabond Solitaire"</n>
     <info>A unique 10-mm pistol, clearly made by some talented craftspony. It has a set of essential modifications and its stats are much higher than those of a standard model</info>
   </weapon>
   <weapon id="p10s">
-    <n>Silenced pistol</n>
+    <n>Pistolet silencieux</n>
     <info>A slightly modified 10-mm gun, equipped with a sound suppressor. Makes less noise when shooting, but also does less damage</info>
   </weapon>
   <weapon id="lasp">
-    <n>Laser Pistol</n>
+    <n>Pistolet laser</n>
     <info>The simplest example of magical energy weapon shooting red laser beams. Low power is compensated by low energy consumption comparing to rifles</info>
   </weapon>
   <weapon id="lasp^1">
-    <n>"Anarchist"</n>
+    <n>"Anarchiste"</n>
     <info>A unique laser pistol, likely created after the War. It has a more powerful and capacious battery, and there is an inscription in a red paint saying "OBEY"!</info>
   </weapon>
   <weapon id="flaregun">
@@ -895,7 +895,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Even though you can not call this a weapon in a normal sense, it can ignite enemy, causing him quite a bit of discomfort</info>
   </weapon>
   <weapon id="plap">
-    <n>Plasma Pistol</n>
+    <n>Pistolet à plasma</n>
     <info>The plasma pistol is much more powerful than laser one, but less accurate and faster consumes battery charge</info>
   </weapon>
   <weapon id="plap^1">
@@ -903,7 +903,7 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>A unique plasma pistol, perfected by a master-armorer. At least he could somehow fix the characteristic flaws of this weapon type, such as low accuracy and fast battery drain</info>
   </weapon>
   <weapon id="pulsep" v="0.6">
-    <n>Pulse pistol</n>
+    <n>Pistolet à impulsion</n>
     <info>The pulse pistol is called so because shooting it emits powerful directed electromagnetic pulses. They are capable of damaging electronic circuits of robots, but cause almost no harm to living beings</info>
   </weapon>
   <weapon id="shok">
@@ -911,11 +911,11 @@ Although no pony produces robots nowadays, many of them are still functional des
     <info>Quite a primitive weapon, sending electrical discharges on target. It was not designed for a battle but rather for paralyzing troublemakers and criminals</info>
   </weapon>
   <weapon id="rech">
-    <n>Rechargeable pistol</n>
+    <n>Pistolet rechargeable</n>
     <info>An example of magical energy weaponry requiring no ammo. It takes energy for shooting from an "infinite" self-charging spark-battery. However it comes with a price of lower damaging power and poor combat qualities</info>
   </weapon>
   <weapon id="r375" v="0.6">
-    <n>Revolver cal.375</n>
+    <n>Revolver calibre .375</n>
     <info>Old, but powerful and reliable revolver, although recharging it may cause some difficulty</info>
   </weapon>
   <weapon id="revo">
@@ -5559,7 +5559,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Effet</n>
   </pip>
   <pip id="showhidden">
-    <n>Show hidden</n>
+    <n>Afficher caché</n>
   </pip>
   <pip id="retr" v="0.6">
     <n>To base camp</n>
@@ -7416,130 +7416,130 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Vous pouvez aussi sauter 2 fois pour atteindre des lieux innacessible en temps normal.</n>
   </txt>
   <txt id="trVlaz" s1="keyBeUp" s2="keyLeft" s3="keyRight" v="0.6">
-    <n>Hold @1 + @3(@2) to climb one block high without jumping, or climb through narrow passages at the level of one block</n>
+    <n>Maintenez @1 + @3(@2) pour grimper sans sauter, ou grimpez dans des passages étroits au niveau d'un bloc </n>
   </txt>
   <txt id="trExit">
-    <n>Go left to continue exploring the complex. [br]Or go right to go to the surface</n>
+    <n>Allez à gauche pour continuer à explorer le complexe. [br]Ou aller à droite pour remonter à la surface </n>
   </txt>
   <txt id="trRad">
-    <n>Don`t stay long in places with high background radiation, especially don`t linger near magical radiation waste unless you want to experience deadly radiation sickness</n>
+    <n>Ne restez pas longtemps dans des endroits avec un taux de radiations élevé, surtout ne vous attardez pas près des déchets radioactif, à moins que vous ne vouliez expérimenter la maladie mortelle des radiations </n>
   </txt>
   <txt id="trAntirad">
-    <n>Use RadAway to remove magical radiation from your body. Using healing potions won`t help here</n>
+    <n>Utilisez un RadAway pour éliminer les radiations magiques de votre corps. Utiliser des potions de guérison ne soigne pas des radiations </n>
   </txt>
   <txt id="trFast" s1="keyRun">
-    <n>Run faster here (holding @1) and you won`t fall</n>
+    <n>Courez plus vite ici (maintenez @1) et vous ne tomberez pas </n>
   </txt>
   <txt id="trDiagon" s1="keyBeUp">
-    <n>While moving, hold @1 to go upstairs</n>
+    <n>En vous déplaçant, maintenez @1 pour monter les escaliers </n>
   </txt>
   <txt id="trWeaponUp" s1="keyBeUp">
-    <n>Hold @1 to raise your weapon higher.[br]You can activate the red button by shooting it</n>
+    <n>Maintenez @1 pour élever votre arme plus haut.[br]Vous pouvez activer le bouton rouge en tirant dessus. </n>
   </txt>
   <txt id="trStairs" s1="keyBeUp">
-    <n>Press @1 to grab the ladder in a jump</n>
+    <n>Appuyez sur @1 pour saisir l'échelle dans un saut</n>
   </txt>
   <txt id="trLurk" s1="keyBeUp">
-    <n>You can hide in wall niches, behind crates and furniture. While you are under cover you get bonuses to stealth and evasion. To hide, stand in front of a cover and press @1</n>
+    <n>Vous pouvez vous cacher dans des niches murales, derrière des caisses et des meubles. Pendant que vous êtes à couvert, vous obtenez des bonus pour la furtivité. Pour vous cacher, placez-vous devant une couverture et appuyez sur @1</n>
   </txt>
   <txt id="trSneak">
-    <n>It is not necessary to fight every enemy, some of them can be avoided. Wait when enemy looks away, then try to pass unnoticed. Use the wall niche to hide</n>
+    <n>Il n'est pas nécessaire de combattre tous les ennemis, certains d'entre eux peuvent être évités. Attendez que l'ennemi détourne le regard, puis essayez de passer inaperçu. Utilisez la niche murale pour vous cacher </n>
   </txt>
   <txt id="trStJump" s1="keyLeft" s2="keyRight" s3="keyJump">
-    <n>Holding @1 or @2, press @3 to jump off the ladder to the left or to the right, respectively</n>
+    <n>Maintenez @1 ou @2, appuyez sur @3 pour sauter de l'échelle vers la gauche ou vers la droite</n>
   </txt>
   <txt id="trStDown" s1="keyJump">
-    <n>Press @1 to jump down off the ladder</n>
+    <n>Appuyez sur @1 pour sauter de l'échelle</n>
   </txt>
   <txt id="trShelf" s1="keySit" s2="keySit">
-    <n>Press @1 twice to jump off the beam.[br]While falling, hold @2 to pass through other beams</n>
+    <n>Appuyez deux fois sur @1 pour sauter du faisceau.[br]En tombant, maintenez @2 pour passer à travers d'autres faisceaux </n>
   </txt>
   <txt id="trDash" s1="keyLeft" s2="keyRight" s3="keyRun">
-    <n>Holding @3, quickly tap @1 or @2 twice to dash.[br]This trick might help you reach certain places, and you may also use it in a fight</n>
+    <n>Maintenez @3, appuyez rapidement deux fois sur @1 ou @2 pour accélérer.[br]Cette astuce peut vous aider à atteindre certains endroits, et vous pouvez également l'utiliser dans un combat </n>
   </txt>
   <txt id="trDash2" s1="keyLeft" s2="keyRight" s3="keyRun" v="0.7">
-    <n>While holding @3, quickly press @1 or @2 twice to dash.[br]By making a dash toward the attacking enemy, you can avoid taking damage</n>
+    <n>Tout en maintenant @3, appuyez rapidement deux fois sur @1 ou @2 pour accélérer.[br]En accelerant vers l'ennemi attaquant, vous pouvez esquiver son attaque. </n>
   </txt>
   <txt id="surfSecret">
-    <n>A mark of the Ministry of Awesome points to the secret places and hidden stashes. Sometimes such places are hidden behind fake walls, that can be smashed by any weapon</n>
+    <n>Une marque du Ministre de la Coolitude indique les endroits secrets et les cachettes. Parfois, de tels endroits sont cachés derrière de faux murs, qui peuvent être brisés par n'importe quelle arme </n>
   </txt>
   <txt id="phoenixFeed1" v="0.6">
-    <n>You would like to offer balefire phoenix some treat, but you do not have anything suitable</n>
+    <n>Vous aimeriez offrir une friandise au phoenix funeste, mais vous n'avez rien pour lui </n>
   </txt>
   <txt id="phoenixFeed2" v="0.6">
-    <n>Balefire phoenix likes your treat. He makes a melodious trill and disappears. Perhaps you`ll meet again</n>
+    <n>Le phoenix funeste aime votre gâterie. Il fait un trille mélodieux et disparaît. Peut-être que vous vous reverrez </n>
   </txt>
   <txt id="hardDie" v="0.6">
-    <n>Your adventures end here. Rest in peace,</n>
+    <n>Votre aventure se termine ici. Reposez en paix,</n>
   </txt>
   <txt id="hardDie2" v="0.6">
-    <n>You`ve got injuries incompatible with life. Rest in peace,</n>
+    <n>Trop blesser pour vivre. Reposez en paix,</n>
   </txt>
   <txt id="exitPlant" v="0.6">
-    <n>Entering the door, you will get to a deeper level of the factory. There you will encounter new enemies, new trials and new rewards.[br]Use the MAS terminal to visit the base camp, replenish supplies and restore health</n>
+    <n>En entrant par la porte, vous arriverez à un niveau plus profond de l'usine. Vous y rencontrerez de nouveaux ennemis, de nouvelles épreuves et de nouvelles récompenses.[br]Utilisez le terminal MAS pour visiter le camp de base, reconstituer des fournitures et vous soigner </n>
   </txt>
   <txt id="toSewer" v="0.6">
-    <n>Behind this door is a passage to sewers. You will need a key to open it.[br] Recommended for adventurers of at least 6th level</n>
+    <n>Derrière cette porte se trouve un passage vers les égouts. Vous aurez besoin d'une clé pour l'ouvrir.[br] Il est recommandé d'être au moins niveau 6</n>
   </txt>
   <txt id="toStable" v="0.6">
-    <n>There is a passage to an abandoned stable. [br]This place is considered quite dangerous. Recommended for adventurers of at least 10th level.[br]Or you can go down to deeper levels of the sewers</n>
+    <n>Il y a un passage vers une écurie abandonnée. [br]Cet endroit est considéré comme assez dangereux. Il est recommandé d'être au moins niveau 10.[br]Sinon vous pouvez descendre à des niveaux plus profonds des égouts. </n>
   </txt>
   <txt id="mentorMess" v="0.8">
-    <n>Half an hour later, after @lp finished her tale of her Wasteland adventures...</n>
+    <n>Une demi-heure plus tard, après que @lp ait terminé le récit de ses aventures dans les Terres Désolés...</n>
   </txt>
   <txt id="graveMess" v="0.8">
-    <n>A couple of days later...</n>
+    <n>Quelques jours plus tard...</n>
   </txt>
   <txt id="helpControl" imp="3" v="0.7">
     <n>
       <t v="0.8">CONTROLES AVANCEES</t>
       <r s1='keyBeUp'>Rester appuyé sur @1 - lève une arme plus haut</r>
-      <r s1='keyBeUp' s2='keySit'>Same while lying by holding both @2 and @1</r>
-      <r s1='keyBeUp'>@1 near a box, a piece of furniture or a niche in a wall - hide behind a cover</r>
-      <r s1='keySit'>Twice @1 - jump down off a beam</r>
-      <r s1='keyBeUp' s2='keyLeft' s3='keyRight'>@1 + @2 or @3 - crawl into a narrow passage</r>
-      <r s1='keyAction' s2='keyLeft' s3='keyRight'>@1 + @2 or @3 - walk at a slow pace</r>
-      <r s1='keyRun' s2='keyLeft' s3='keyRight'>Quickly press @1 + @2 or @3 - turn around</r>
-      <r s1='keyRun' s2='keyLeft' s3='keyRight'>@1 + twice @2 or @3 - side dash, dodge from an attack</r>
-      <r s1='keyPunch' s2='keyRun' s3='keyPunch'>@1 - kick with a front leg, @2 + @3 - back-kick</r>
-      <r s1='keyScrDown' s2='keyScrUp'>@1,@2 - weapon selector, view quick access slots</r>
+      <r s1='keyBeUp' s2='keySit'>Idem en position couchée en tenant à la fois @2 et @1 </r>
+      <r s1='keyBeUp'>@1 près d'une boîte, d'un meuble ou d'une niche dans un mur - se mettre a couvert </r>
+      <r s1='keySit'>Twice @1 - sauter d'une poutre </r>
+      <r s1='keyBeUp' s2='keyLeft' s3='keyRight'>@1 + @2 ou @3 - ramper dans un passage étroit </r>
+      <r s1='keyAction' s2='keyLeft' s3='keyRight'>@1 + @2 ou @3 - marcher lentement</r>
+      <r s1='keyRun' s2='keyLeft' s3='keyRight'>Appuyez rapidement sur  @1 + @2 ou @3 - se retourner</r>
+      <r s1='keyRun' s2='keyLeft' s3='keyRight'>@1 + deux fois sur @2 ou @3 - accélération de coté, esquiver une attaque</r>
+      <r s1='keyPunch' s2='keyRun' s3='keyPunch'>@1 - coup de sabot avant, @2 + @3 - coup de sabot arrière</r>
+      <r s1='keyScrDown' s2='keyScrUp'>@1,@2 - séléction d'armes, voir les emplacements rapides</r>
       <r s1='keyScrDown' s2='keyScrUp' s3='keyRun'>@3 + @1,@2 - change ammunition type</r>
-      <r s1='keyReload'>Holding @1 - unload a weapon</r>
-      <r s1='keyWeapon1' s2='keyWeapon12'>In inventory - @1-@2 (digit keys) - assign a weapon, armor, or item to a quick access slot. Press the same key in game to use the assigned item</r>
-      <r s1='keyWeapon1' s2='keyWeapon12' s3='keyRun'>In inventory - @3 + @1-@2 - the same for additional slots</r>
-      <r>[Right mouse button] in the PipBuck "weapons" section - hide unused weapons</r>
-      <r>[Shift] + [click] when trading - select maximum quantity of goods</r>
-      <r s1='keyMagic'>@1 - use the last attack spell</r>
-      <r s1='keyDef'>@1 - use an equipped defensive spell</r>
-      <r s1='keyPet'>@1 - order the companion to move or attack</r>
-      <r s1='keyPet'>Holding @1 - order the companion to return</r>
-      <r>[Insert] - redraw the current room (in case of visual bugs)</r>
-      <r>[End] - command line</r>
+      <r s1='keyReload'>Maintenir @1 - décharger une arme</r>
+      <r s1='keyWeapon1' s2='keyWeapon12'>Dans l'inventaire - @1-@2 (touches numériques) - attribuez une arme, une armure ou un objet à un emplacement d'accès rapide. Appuyez sur la même touche dans le jeu pour utiliser l'élément attribué </r>
+      <r s1='keyWeapon1' s2='keyWeapon12' s3='keyRun'>Dans l'inventaire - @3 + @1-@2 - idem pour les emplacements supplémentaires </r>
+      <r>[Right mouse button] dans la section "armes" du Pip-Buck - cacherles armes non utiliser</r>
+      <r>[Shift] + [click] pendant un échange - sélectionnez la quantité maximale de marchandises</r>
+      <r s1='keyMagic'>@1 - utiliser le dernier sort d'attaque</r>
+      <r s1='keyDef'>@1 - utiliser un sort de defense équipé</r>
+      <r s1='keyPet'>@1 - ordonner au compagnon de se déplacer ou d'attaquer </r>
+      <r s1='keyPet'>Maintenir @1 - ordonner au compagnon de revenir</r>
+      <r>[Insert] - recharge la salle actuelle (en cas de bug visuel)</r>
+      <r>[End] - ligne de commande</r>
     </n>
   </txt>
   <txt id="helpGl1" imp="3" v="0.7">
     <n>
       <t v="0.8">GLOSSAIRE</t>
-      <r>[La Grande Guerre] - a global war between Equestria and the Zebras Empire, which happened about 200 years ago. This war ended in the mutual extermination and transformation of Equestria into the Wasteland</r>
-      <r>[Megaspells] - ordinary spells strengthened by many orders of magnitude, which were used in the Great War as weapons of mass destruction</r>
-      <r>[Balefire-bomb] - zebra megaspell base on the dragon fire, concealed in a special device. When activated, it explodes with a monstrous force that can destroy entire cities with a shock wave and poison the area with magical radiation</r>
-      <r>[Pink cloud] - A terrible megaspell that destroyed the capital of Equestria, Canterlot. This is a deadly cloud of an extremely toxic gas of pink color, capable of killing all lifeforms. There is no protection from it</r>
-      <r>[Stable-Tech] - a corporation that existed before the Great War. Known for building a variety of shelters-stables in which ponies were supposed to survive in the event of weapons of mass destruction going off</r>
-      <r>[PipBuck] - a portable computer designed by Stable-tech, which ponies can wear on a front leg. It has many functions - tracking the health of the user, sorting inventory, mapping and navigation, viewing any files and keeping records</r>
-      <r>[S.A.T.S.] - Stable-Tec Arcane Targeting Spell. A special spell built into PipBuck, which allows you to stop the subjective flow of time and help to aim from any weapon</r>
-      <r>[Stable] - a fully autonomous underground shelter for ponies, designed for long-term use. During the War, more than a hundred stables were built, but most of them, for various reasons, are now abandoned, and all of their inhabitants died</r>
+      <r>[La Grande Guerre] - une guerre totale entre Equestria et l'empire des zèbres, qui s'est produite il y a environ 200 ans. Cette guerre s'est terminée par l'extermination mutuelle et la transformation d'Equestria en Terre Désolée </r>
+      <r>[Megasorts] - sorts ordinaires renforcés de plusieurs ordres de grandeur, qui ont été utilisés pendant la Grande Guerre comme armes de destruction massive</r>
+      <r>[Bombe de feu funeste] - mégasorts zèbre basé sur le feu du dragon, dissimulée dans un dispositif spécial. Lorsqu'il est activé, il explose avec une force monstrueuse qui peut détruire des villes entières avec une onde de choc et empoisonner la zone avec des radiations magiques</r>
+      <r>[Nuage rose] - Un terrible mégasort qui a détruit la capitale d'Equestria, Canterlot. Il s'agit d'un nuage mortel d'un gaz extrêmement toxique de couleur rose, capable de tuer toutes les formes de vie. Il n'y a aucune protection contre ça</r>
+      <r>[Stable-Tech] - une société qui existait avant la Grande Guerre. Connu pour avoir construit une variété d'abris-écuries dans lesquels les poneys étaient censés survivre en cas d'explosion d'armes de destruction massive</r>
+      <r>[PipBuck] - un ordinateur portable conçu par Stable-tech, que les poneys peuvent porter sur une patte avant. Il a de nombreuses fonctions - suivi de la santé de l'utilisateur, tri de l'inventaire, cartographie et navigation, affichage de tous les fichiers et conservation des enregistrements</r>
+      <r>[S.A.T.S.] - Système Assisté de Tir Stable-Tec. Un sort spécial intégré au PipBuck, qui vous permet d'arrêter le flux subjectif du temps et d'aider à viser avec n'importe quelle arme</r>
+      <r>[Ecurie] - un abri souterrain pour poneys entièrement autonome, conçu pour une utilisation à long terme. Pendant la guerre, plus d'une centaine d'écuries ont été construites, mais la plupart d'entre elles, pour diverses raisons, sont aujourd'hui abandonnées, et tous leurs habitants sont morts</r>
     </n>
   </txt>
   <txt id="helpGl2" imp="3" v="0.7">
     <n>
       <t v="0.8">MINISTERES</t>
-      <r>Six government organizations created during the Great War by the ruling princess Luna, whose common goal was to win the War and preserve the state integrity of Equestria. The ministries were ruled by the keepers of the Elements of Harmony.
-[Ministry of Arcane Sciences], abbreviated [MAS] - a ministry headed by Twilight Sparkle. MAS was mainly engaged in the development of magical weapons and combat spells.
-[Ministry of Image] is a ministry headed by Rarity. It was engaged in decorating streets, issuing printed materials, and also was responsible for censorship.
-[Ministry of Peace] - Ministry headed by Fluttershy. It dealt with health issues, production of medicines such as medicinal potions, and helping wounded in combat. It is this ministry that is responsible for the invention of megaspells
-[Ministry of Morale] is a ministry headed by Pinky Pie. Officially it took care of patriotic education, supporting the population morale and organization of holidays. Unofficially it was engaged in espionage and counterintelligence.
-[Ministry of Wartime Technology] - the ministry headed by Applejack. It was engaged in development of the newest weapons and means of protection, such as power armor.
-[Ministry of Awesome] - the ministry headed by Rainbow Dash. What exactly it did was not really known</r>
+      <r>Six organisations gouvernementales créées pendant la Grande Guerre par la princesse au pouvoir Luna, dont l'objectif commun était de gagner la guerre et de préserver l'intégrité de l'État d'Equestria. Les ministères étaient dirigés par les gardiens des Éléments d'Harmonie.
+[Ministère des Sciences arcanique], aussi appelé [MSA] - un ministère dirigé par Twilight Sparkle. Le MAS était principalement engagé dans le développement d'armes magiques et de sorts de combat.
+[Ministère de l'Image] est un ministère dirigé par Rarity. Il s'occupait de la décoration des rues, de la publication de documents imprimés et était également responsable de la censure.
+[Ministère de la Paix] - Ministère dirigé par Fluttershy. Il traitait des problèmes de santé, de la production de médicaments tels que des potions médicinales et de l'aide aux blessés au combat. C'est ce ministère qui est responsable de l'invention des mégasorts
+[Ministère du Morale]est un ministère dirigé par Pinky Pie. Officiellement, il s'occupait de l'éducation patriotique, soutenant le moral de la population et l'organisation des vacances. Officieusement, il était engagé dans l'espionnage et le contre-espionnage.
+[Ministère des Technologies de guerre] - le ministère dirigé par Applejack. Il était engagé dans le développement des armes et des moyens de protection les plus récents, tels que l'armure assistée.
+[Ministère de la Coolitude] - le ministère dirigé par Rainbow Dash. Ce qu'il a fait exactement n'était pas vraiment connu</r>
 </n>
   </txt>
   <txt id="begDial">
