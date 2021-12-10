@@ -517,27 +517,27 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <info>L'une des nombreuses sorties d'une colonie souterraine de fourmi. Tant qu'il n'est pas détruit, les fourmis en sortiront encore et encore.</info>
   </unit>
   <unit id="slime">
-    <n>Awful slime</n>
-    <info>It is not known for certain what is the nature and origin of these strange creeping formations. It was hypothesized that this mucus is actually a colony of microorganisms that mutated under influence of taint. It is dangerous, as it contains corrosive acids and other unpleasant chemicals, but fortunately does not attack anypony, so it`s enough just avoiding stepping on it</info>
+    <n>Slime épouvantable</n>
+    <info>Personne n'est vraiment certain de la nature et des origines de ces étranges constitutions rampantes. Une hypothèse dirait que ce mucus est en fait une colonie de micro-organismes qui ont muté sous l'influence de la polution. Ils sont dangereux, vu qu'ils contiennent des acides corrosifs et d'autres produits chimiques déplaisants, mais n'attaquent heureusement personne, ce qui fait qu'il suffit de ne juste pas marcher dessus.</info>
   </unit>
   <unit id="cryoslime" v="0.6">
     <n>Cryoslime</n>
-    <info>A very unusual creeping mucus, striking everyone stepping on it with deadly cold</info>
+    <info>Un mucus rampant peu commun, attaquant quiconque marchant sur lui avec une froideur mortelle.</info>
   </unit>
   <unit id="pinkslime" v="0.7">
-    <n>Pink slime</n>
-    <info>Creeping mucus, full of necromantic magic of the pink cloud. Under no circumstances should you touch it</info>
+    <n>Slime rose</n>
+    <info>Un mucus rampant, rempli de magie nécromance du nuage rose. Dans aucun cas vous ne devriez le toucher...</info>
   </unit>
   <unit id="necros" v="0.7">
-    <n>Swarm of necrosprites</n>
-    <info>Little can be said about the origin of this strange and frightening entity, except that it is a product of necromancy. Necrosprites freely pass through walls and physical attacks do them no harm</info>
+    <n>Essaim de necrosprites</n>
+    <info>On ne peut pas dire grand chose des origines de cette entité étrange et effrayante, mis à part qu'elle est produite de la nécromance. Les necrosprites passent librement à travers le murs et les attaques physiques ne leur font aucun dégât.</info>
   </unit>
   <unit id="spectre" v="0.7">
-    <n>The phantom of death</n>
+    <n>Le fantôme de la mort</n>
   </unit>
   <unit id="robot" v="0.6">
     <n>Robots</n>
-    <info>Robots are the product of technological revolution, one that Equestria experienced during the years before the Great War. They represent a combination of the most advanced earth pony technology and unicorn magic and were created for performing variable tasks - from housekeeping to property protection. During the War, combat models were also developed to be used in military operations.
+    <info>Les robots are the product of technological revolution, one that Equestria experienced during the years before the Great War. They represent a combination of the most advanced earth pony technology and unicorn magic and were created for performing variable tasks - from housekeeping to property protection. During the War, combat models were also developed to be used in military operations.
 Although no pony produces robots nowadays, many of them are still functional despite centuries past. Mostly, these are combat and security robots that continue to execute built-in programs and are ready to bring all their power down upon any intruder entering their domain</info>
   </unit>
   <unit id="turret" v="0.6">
