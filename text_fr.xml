@@ -562,7 +562,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="turret4" v="0.8">
     <n>Tourelle de combat</n>
-    <info>Tourelles de plafond améliorées. A la différence des modèles conventionnels fragiles, celles-ci ont été créées pour protéger des objets militaires, et ont donc une structure renforcée et une armure résistante.</info>
+    <info>Tourelles de plafond améliorées. A la différence des modèles conventionnels fragiles, celles-ci ont été créées pour protéger des bâtiments militaires, et ont donc une structure renforcée et une armure résistante.</info>
   </unit>
   <unit id="bigrobot" v="0.6">
     <n>Grands robots</n>
@@ -570,27 +570,27 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="robobrain">
     <n>Cérébrobot</n>
-    <info>One of the first serial models of multifunctional robots, in which a central processor is replaced with a real living brain, placed in a glass tank. It has two hose-like manipulators designed to perform various actions, caterpillar tracks and weak armament, like electric discharger or laser. In general, this model has many disadvantages and is hardly suitable for combat. Robobrains are rather sluggish, clumsy, dull and do not pose much threat</info>
+    <info>L'un des premiers modèles d'une série de robots multi-tâches, dans lequel le processeur central a été remplacé par un vrai cerveau, placcé dans une cuve en verre. Il possède deux tuyaux permettant de réaliser diverses actions, des chenilles et un armement faible, comme la décharge électrique ou le laser. En général, ce modèle a beaucoup d'inconvénients et n'est pas fait pour le combat. Les cérébrobots sont plutôt lents, malhabiles et monotones, et ne sont donc pas de grandes menaces.</info>
   </unit>
   <unit id="protect">
     <n>Ponytron</n>
-    <info>A common model of a security robot that looks like a pony. It can perform such functions as defending its owners, protecting property and military objects, maintaining order and enforcing the law and so on. For this purpose, they have strong armor and medium-power weapons. Some sluggishness is partly compensated by the built-in levitation device, allowing the robot soaring in the air for some time and moving to higher grounds. Despite the fact that their owners died centuries ago, the ponytrones continue patrolling the entrusted objects and do not tolerate any intruders</info>
+    <info>Un modèle commun de robot de sécurité ressemblant à un poney. Il possède plusieurs fonctions comme protéger ses propriétaires, des propriétés et des bâtiments militaires, maintenir l'ordre, renforcer la loi, etc. Ils ont par conséquent une armure résistante et des armes à puissance moyenne. Leur lenteur est partiellement compensée par leur appareil d'auto-lévitation, leur permettant de flotter quelque temps dans les airs et atteindre des endroits en hauteur. Malgré que leurs propriétaires soient décédés il y a des siècles, les ponytrons continuent de patrouiller leur lieu attribué et ne tolère aucun intrus.</info>
   </unit>
   <unit id="gutsy">
     <n>Mister Gutsy</n>
-    <info>Military modification of the household robot "Mr. Handy", equipped with a whole arsenal of all kinds of weapons. There is a plasma gun for long range, a flamethrower for close one and a circular saw for direct contact with the enemy. For movement the robot uses levitation magic, allowing it to continuously soaring above the ground. During the War, these robots were actively used on the battlefields, and now there are not many of them left. Unfortunately, their electronic brains have long been bungled, and now they no longer distinguish friends from enemies</info>
+    <info>Une modification militaire du robot domestique "Mr. Handy", équippé d'un arsenal entier de toutes sortes d'armes. Il possède un pistolet plasma pour la longue portée, un lance-flammes pour la courte portée et une scie circulaire pour des attaques directes au corps-à-corps avec l'ennemi. Le robot se déplace à l'aide de lévitation magique, lui permettant de flotter en continu au-dessus du sol. Pendant la Guerre, ces robots ont activement été utilisés sur le champ de bataille, ce qui fait qu'il en reste peu désormais. Malheureusement, leur cerveau électronique a été bousillé avec le temps, et ne fait plus la différence entre un allié et un ennemi.</info>
   </unit>
   <unit id="eqd">
     <n>Equidroid</n>
-    <info>Equidroids, the gem of former Equestrian technology, were created shortly before the apocalypse. The first models were quite peaceful, but almost immediately there appeared combat modifications equipped with the latest weapons, energy barrier and even some spells. They did not participate in battles because of their exceptional complexity and high cost, but served rich and influential persons as guards and assistants, looking and behaving almost like living ponies. Now the surviving equidroids seem to have lost the last remnants of their electronic intelligence and pose a considerable danger</info>
+    <info>Les équidroids, le joyau de la technologie de l'ancien Equestria, ont été créés peu avant l'apocalypse. Les premiers modèles étaient plutôt paisibles, mais les changements pour le combat sont vite arrivés, équippés alors des dernières armes, d'une barrière d'énergie et même de quelques sorts. Ils n'ont pas participé au combat à cause de leur complexité exceptionnelle et de leur haut prix, mais ont servis aux riches et aux personnes importantes en tant que gardes et assistants, ressemblant et agissant presque comme le ferait un poney vivant. Désormais les équidroids semble avoir perdu leurs derniers restes d'intelligence électronique et sont une véritable menace.</info>
   </unit>
   <unit id="protect1" v="0.7">
     <n>AJ-17</n>
-    <info>Modified security robot, much cooler than usual. Equipped with heavy weapons and armor, an improved mechanism of levitation, as well as a special electromagnet circuit that protects the robot from pulse weapons</info>
+    <info>Un robot de sécurité modifié, bien plus cool que d'habitude. Il est équippé d'armes lourdes et d'une grosse armure et d'un système de lévitation amélioré, en plus d'un circuit spécial à électro-aimant le protégeant des armes à impulsion.</info>
   </unit>
   <unit id="gutsy1" v="0.7">
     <n>Mr. Vigilant</n>
-    <info>Modified for the needs of the Steel Rangers "Mr. Gutsy", equipped with more sophisticated weapons</info>
+    <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers d'Acier, équippée d'armes plus sophistiquées.</info>
   </unit>
   <unit id="sentinel">
     <n>Robot sentinelle</n>
@@ -7482,7 +7482,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Derrière cette porte se trouve un passage vers les égouts. Vous aurez besoin d'une clé pour l'ouvrir.[br] Il est recommandé d'être au moins niveau 6</n>
   </txt>
   <txt id="toStable" v="0.6">
-    <n>Il y a un passage vers une écurie abandonnée. [br]Cet endroit est considéré comme assez dangereux. Il est recommandé d'être au moins niveau 10.[br]Sinon vous pouvez descendre à des niveaux plus profonds des égouts. </n>
+    <n>Il y a un passage vers une étable abandonnée. [br]Cet endroit est considéré comme assez dangereux. Il est recommandé d'être au moins niveau 10.[br]Sinon vous pouvez descendre à des niveaux plus profonds des égouts. </n>
   </txt>
   <txt id="mentorMess" v="0.8">
     <n>Une demi-heure plus tard, après que @lp ait terminé le récit de ses aventures dans les Terres Désolés...</n>
@@ -7520,26 +7520,26 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   <txt id="helpGl1" imp="3" v="0.7">
     <n>
       <t v="0.8">GLOSSAIRE</t>
-      <r>[La Grande Guerre] - une guerre totale entre Equestria et l'empire des zèbres, qui s'est produite il y a environ 200 ans. Cette guerre s'est terminée par l'extermination mutuelle et la transformation d'Equestria en Terre Désolée </r>
+      <r>[La Grande Guerre] - une guerre totale entre Equestria et l'empire des zèbres, qui s'est produite il y a environ deux-cents ans. Cette guerre s'est terminée par l'extermination mutuelle et la transformation d'Equestria en Terre Désolée </r>
       <r>[Megasorts] - sorts ordinaires renforcés de plusieurs ordres de grandeur, qui ont été utilisés pendant la Grande Guerre comme armes de destruction massive</r>
       <r>[Bombe de feu funeste] - mégasorts zèbre basé sur le feu du dragon, dissimulée dans un dispositif spécial. Lorsqu'il est activé, il explose avec une force monstrueuse qui peut détruire des villes entières avec une onde de choc et empoisonner la zone avec des radiations magiques</r>
       <r>[Nuage rose] - Un terrible mégasort qui a détruit la capitale d'Equestria, Canterlot. Il s'agit d'un nuage mortel d'un gaz extrêmement toxique de couleur rose, capable de tuer toutes les formes de vie. Il n'y a aucune protection contre ça</r>
-      <r>[Stable-Tech] - une société qui existait avant la Grande Guerre. Connu pour avoir construit une variété d'abris-écuries dans lesquels les poneys étaient censés survivre en cas d'explosion d'armes de destruction massive</r>
+      <r>[Stable-Tec] - une société qui existait avant la Grande Guerre. Connu pour avoir construit une variété d'abris-étables dans lesquels les poneys étaient censés survivre en cas d'explosion d'armes de destruction massive</r>
       <r>[PipBuck] - un ordinateur portable conçu par Stable-tech, que les poneys peuvent porter sur une patte avant. Il a de nombreuses fonctions - suivi de la santé de l'utilisateur, tri de l'inventaire, cartographie et navigation, affichage de tous les fichiers et conservation des enregistrements</r>
       <r>[S.A.T.S.] - Système Assisté de Tir Stable-Tec. Un sort spécial intégré au PipBuck, qui vous permet d'arrêter le flux subjectif du temps et d'aider à viser avec n'importe quelle arme</r>
-      <r>[Ecurie] - un abri souterrain pour poneys entièrement autonome, conçu pour une utilisation à long terme. Pendant la guerre, plus d'une centaine d'écuries ont été construites, mais la plupart d'entre elles, pour diverses raisons, sont aujourd'hui abandonnées, et tous leurs habitants sont morts</r>
+      <r>[Etable] - un abri souterrain pour poneys entièrement autonome, conçu pour une utilisation à long terme. Pendant la guerre, plus d'une centaine d'étables ont été construites, mais la plupart d'entre elles, pour diverses raisons, sont aujourd'hui abandonnées, et tous leurs habitants sont morts</r>
     </n>
   </txt>
   <txt id="helpGl2" imp="3" v="0.7">
     <n>
       <t v="0.8">MINISTERES</t>
       <r>Six organisations gouvernementales créées pendant la Grande Guerre par la princesse au pouvoir Luna, dont l'objectif commun était de gagner la guerre et de préserver l'intégrité de l'État d'Equestria. Les ministères étaient dirigés par les gardiens des Éléments d'Harmonie.
-[Ministère des Sciences arcanique], aussi appelé [MSA] - un ministère dirigé par Twilight Sparkle. Le MAS était principalement engagé dans le développement d'armes magiques et de sorts de combat.
+[Ministère des Sciences Arcaniques], aussi appelé [MSA] - un ministère dirigé par Twilight Sparkle. Le MSA était principalement engagé dans le développement d'armes magiques et de sorts de combat.
 [Ministère de l'Image] est un ministère dirigé par Rarity. Il s'occupait de la décoration des rues, de la publication de documents imprimés et était également responsable de la censure.
-[Ministère de la Paix] - Ministère dirigé par Fluttershy. Il traitait des problèmes de santé, de la production de médicaments tels que des potions médicinales et de l'aide aux blessés au combat. C'est ce ministère qui est responsable de l'invention des mégasorts
-[Ministère du Morale]est un ministère dirigé par Pinky Pie. Officiellement, il s'occupait de l'éducation patriotique, soutenant le moral de la population et l'organisation des vacances. Officieusement, il était engagé dans l'espionnage et le contre-espionnage.
+[Ministère de la Paix] - Ministère dirigé par Fluttershy. Il traitait des problèmes de santé, de la production de médicaments tels que des potions médicinales et de l'aide aux blessés au combat. C'est ce ministère qui est responsable de l'invention des mégasorts.
+[Ministère du Moral] - Un ministère dirigé par Pinky Pie. Officiellement, il s'occupait de l'éducation patriotique, soutenant le moral de la population et l'organisation des vacances. Officieusement, il était engagé dans l'espionnage et le contre-espionnage.
 [Ministère des Technologies de guerre] - le ministère dirigé par Applejack. Il était engagé dans le développement des armes et des moyens de protection les plus récents, tels que l'armure assistée.
-[Ministère de la Coolitude] - le ministère dirigé par Rainbow Dash. Ce qu'il a fait exactement n'était pas vraiment connu</r>
+[Ministère de la Coolitude] - le ministère dirigé par Rainbow Dash. Ce qu'il a fait exactement n'était pas vraiment connu.</r>
 </n>
   </txt>
   <txt id="begDial">
@@ -7655,14 +7655,14 @@ Ces messages ont été téléchargés à l'avance sur votre PipBuck et vous sont
 Quant à savoir pourquoi vous devriez me faire confiance, voici mon premier et principal argument</r>
       <r>Le PipBuck commence à lire un enregistrement audio. Étonnamment, vous reconnaissez votre propre voix </r>
       <r p='pip'>Salut, @lp du futur - dit @lp, c'est-à-dire toi, il y a quelques jours seulement. - Je t'ai laissé... je veux dire, moi-même... ce message, pour t'expliquer brièvement la situation. Parce qu'il y a quelque temps, tu t'es réveillé dans un endroit inconnu et avec un étrange vide dans ta mémoire. Et donc, puisque je sais que moi, c'est-à-dire que toi, ne croirais personne d'autre que toi-même, laisse-moi te dire ceci :
-Moi, c'est-à-dire toi, tu es chargé d'une mission très importante. Vraiment important pour toute l'écurie, et moi, c'est-à-dire toi. Actuellement, tu es sous l'influence d'un sort bloquant certains de tes souvenirs. J'ai...tu as accepté de subir ce sort de manière absolument volontaire, sans la moindre contrainte ni menace. Je l'ai fait parce que c'était nécessaire. Fais-moi confiance... c'est-à-dire toi-même </r>
+Moi, c'est-à-dire toi, tu es chargé d'une mission très importante. Vraiment important pour toute l'étable, et moi, c'est-à-dire toi. Actuellement, tu es sous l'influence d'un sort bloquant certains de tes souvenirs. J'ai...tu as accepté de subir ce sort de manière absolument volontaire, sans la moindre contrainte ni menace. Je l'ai fait parce que c'était nécessaire. Fais-moi confiance... c'est-à-dire toi-même </r>
       <r p='pip'>Pour des raisons de sécurité, tu ne te souviendras plus où se trouve ta maison, tes amis et ta famille. Mais sache que c'est temporaire. Pour l'instant, suis simplement les instructions du Mentor, il te dira quoi faire. Il ne te mentira pas, je peux te l'assurer. Pendant que tu es en mission, ton nom de code est "Chosen-25". C'est tout. Bonne chance à toi </r>
       <r>L'enregistrement s'est terminé et de nouveaux messages sont apparus à l'écran</r>
       <r p='pip'>Eh bien, maintenant que nous avons terminé avec les questions principales, je vous envoie vos instructions. N'oubliez pas qu'il est dans votre intérêt de les exécuter dès que possible.
 Bientôt, vous vous retrouverez dans un endroit appelé « le désert équestre ». Soyez extrêmement prudent, selon mes informations cet endroit est très dangereux. Vous pouvez rencontrer des poneys sauvages agressifs et des animaux mutants. Les zones contaminées par des rayonnements présentent également un danger. Essayez d'entrer en contact avec les habitants.
 Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche est très importante pour nous tous. Jusqu'à la prochaine fois, "Chosen-25" </r>
       <r>Les messages ont disparu et PipBuck est revenu à la normale. Dans la section "Quêtes", de nouvelles entrées sont apparues </r>
-      <r p='lp2'>Je me souviens de mon écurie ! Je me souviens de quelque chose... vaguement... </r>
+      <r p='lp2'>Je me souviens de mon étable ! Je me souviens de quelque chose... vaguement... </r>
       <r p='lp5' push='1'>Argh!</r>
       <r p='lp3'>Un sort de mémoire ? Comment pourrais-je accepter cela? Mais c'était sûrement ma voix sur l'enregistrement, et si j'étais si confiant à ce sujet... Mentor, alors il devait y avoir une raison </r>
       <r p='lp1'>De toute façon, je n'ai pas vraiment le choix. Soit je resterai pour toujours dans cet endroit, soit je vais exécuter les instructions du Mentor, et puis nous verrons la suite </r>
@@ -7722,7 +7722,7 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
       <r p='lp4'>Je suis désolé je n'ai jamais vu de pégase avant. Dans notre... Je veux dire, dans un endroit d'où je viens, il n'y avait pas du tout de pegase</r>
       <r p='calam'>Ah, Ah t'vois ! Ah j'imagine, nous n'sommes pas si nombreux dans l'Terres Désolés... Attends, t'parles d'quel endroit ? </r>
       <r p='lp1'>Eh bien... je suis pas d'ici, je viens de loin</r>
-      <r p='calam'>Jusqu'où ?.. 'ttend un peu... laisse-moi d'viner : tes d'l'écurie ? Ma parole ! tu dois être d'là-bas ! Et c'drôle de costume. yep, tout est clair maintenant. J'te dis la vérité, ya si peu d'écuries avec des poneys vivants, que j'vois rarement des poneys comme toi de nos jours </r>
+      <r p='calam'>Jusqu'où ?.. 'ttend un peu... laisse-moi d'viner : tes d'l'étable ? Ma parole ! tu dois être d'là-bas ! Et c'drôle de costume. yep, tout est clair maintenant. J'te dis la vérité, ya si peu d'étables avec des poneys vivants, que j'vois rarement des poneys comme toi de nos jours </r>
       <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des locaux, n'est-ce pas ? </r>
       <r p='calam'>Eh bien, on peux dire ça. Ravi d't'rencontrer, j'suis Calamity </r>
       <r p='lp4'>Ravi de vous rencontrer aussi, je suis @lp. Écoute, Calamity, à moins que ce ne soit trop compliqué pour toi, pourrais-tu me montrer le chemin vers la ville ou la colonie la plus proche ? </r>
@@ -7782,7 +7782,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='lp1'>Et c'est pourquoi vous aviez besoin que je remette ce serveur au travail ? Et pourquoi m'avez-vous appelé "Chosen-25" ? Et pourquoi m'aavez-vous envoyé ? Étais-je vraiment le meilleur choix pour une mission importante ? </r>
       <r p='main'>Le titre "Chosen" est une tradition. La première tentative d'envoyer un émissaire à la surface remonte à près de cent ans. Ensuite, il a été appelé « l'élu », car il a été élu parmi de nombreux autres candidats pour sa compétence. Il a été transféré dans les Terres Désolés par un sort de téléportation, mais il n'a pas rempli la mission et n'est pas revenu. Ensuite, nous en avons envoyé d'autres. Combattants et diplomates, forts et rusés, des équipes simples et entières. Il y avait donc "Chosen-2", "Chosen-3" et ainsi de suite. Personne n'a réussi. Mais toi. Alors oui, il s'est avéré que c'est toi qui étais le meilleur choix </r>
       <r p='lp4'>Eh bien, je suis contente d'avoir pu aider. Maintenant, je dois revenir ? </r>
-      <r p='main'>Je suis désolé, @lp, mais non. L'obtention de fichiers était le premier objectif, mais pas le seul. Pour les projets "Sun" et "Rainbow", nous avons également besoin de certains composants que nous n'avons pas au Stable Pi. Vous devrez les obtenir. Nous avons besoin de temps pour étudier les schémas que nous avons reçus, mais l'un des composants manquants est déjà connu. C'est le Quantum Cogitor, et nous avons la preuve qu'il était stocké dans l'Étable 88 - l'Étable de recherche quelque peu similaire à la nôtre, mais avec beaucoup plus de ressources et axée sur la recherche dans le domaine de la robotique. Malheureusement, pour des raisons qui nous sont inconnues, après avoir scellé l'écurie, le canal de communication avec elle fut bientôt interrompu. Votre tâche est de vérifier l'état de l'écurie 88 et d'obtenir le cogitateur quantique des poneys qui l'habitent. L'entrée de l'écurie 88 est située à un endroit appelé Falls Springs</r>
+      <r p='main'>Je suis désolé, @lp, mais non. L'obtention de fichiers était le premier objectif, mais pas le seul. Pour les projets "Sun" et "Rainbow", nous avons également besoin de certains composants que nous n'avons pas au Stable Pi. Vous devrez les obtenir. Nous avons besoin de temps pour étudier les schémas que nous avons reçus, mais l'un des composants manquants est déjà connu. C'est le Quantum Cogitor, et nous avons la preuve qu'il était stocké dans l'Étable 88 - l'Étable de recherche quelque peu similaire à la nôtre, mais avec beaucoup plus de ressources et axée sur la recherche dans le domaine de la robotique. Malheureusement, pour des raisons qui nous sont inconnues, après avoir scellé l'étable, le canal de communication avec elle fut bientôt interrompu. Votre tâche est de vérifier l'état de l'étable 88 et d'obtenir le cogitateur quantique des poneys qui l'habitent. L'entrée de l'étable 88 est située à un endroit appelé Falls Springs</r>
       <r p='main' push='1'>Le chargement des fichiers est presque terminé, la connexion sera interrompue d'une minute à l'autre. Avez-vous d'autres questions? </r>
       <r p='lp2'>J'ai plein de questions, en fait. Que diriez-vous... </r>
       <r p='main'>Le transfert de fichiers est terminé. Connexion fermée </r>
@@ -7827,7 +7827,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='calam'>s'lut, @lp. b'soin d'que'que chose?</r>
       <r p='lp4'>Hé bien oui. Dites-moi, au cours des derniers mois avez-vous vu quelqu'un comme moi ?</r>
       <r p='calam'>Hein? Tu veux dire, qui t'ressembles ? Une ptite ? Ou une aventuriere comme toi?</r>
-      <r p='lp2'>Khmm.. Non, pas ça. Je veux dire, quelqu'un d'une écurie</r>
+      <r p='lp2'>Khmm.. Non, pas ça. Je veux dire, quelqu'un d'une étable</r>
       <r p='calam'>Ah, c'genre. Oui, j'en ai vu un. Un personnage amusant pour être honnête, . Ah dire, elle a un bon cœur. Ah aussi je voulais te demander si c'était une de tes amies, mais d'une manière ou d'une autre, ça m'a échappé</r>
       <r p='calam'>Toute façon, elle est arrivée ici il y a environ trois ou quatre mois. Elle était faible et avait faim, elle faillit se coucher mais s'arrêta quand elle r'marqua le coin d'Doc. Il était en train de réparer que'ques-uns de nos gars abattus par les pillards. Alors elle est entrée, lui a parlé de quelque chose pendant environ cinq minutes et est restée pour l'aider. Depuis lors, elle travaillait avec Doc. Il l'a beaucoup félicitée, mais entre nous, il a grommelé que notre nouveau venu essayait de donner des médicaments aux malades gratuitement</r>
       <r p='lp2'>Et pourquoi elle n'est plus là ? Le docteur Sepsis l'a expulsée ?</r>
@@ -7839,10 +7839,10 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <t v="0.8">Conversation avec Doc à propos de Velvet</t>
       <r p='lp2'>Écoutez, Doc, nous devons parler. C'est très important...</r>
       <r p='vd'>Si c'est vénérien, discutons de votre cas derrière ce rideau</r>
-      <r p='lp2'>Non, ce n'est pas ça. Je veux vous poser une question sur un habitant d'écurie. La connaissiez-vous ? On m'a dit qu'il y a quelque temps elle vous aidait ici à la clinique</r>
+      <r p='lp2'>Non, ce n'est pas ça. Je veux vous poser une question sur un habitant d'étable. La connaissiez-vous ? On m'a dit qu'il y a quelque temps elle vous aidait ici à la clinique</r>
       <r p='vd'>Ah, mais bien sûr, je me souviens d'elle. Velvet Remedy - c'était son nom. Oui, elle m'a aidé ici pendant un certain temps. Très compétente et bonne en médecine, malgré son autodidacte. Elle a appris dans les livres, ça se voit tout de suite. Peu de pratique, surtout en chirurgie</r>
       <r p='vd'>Mais très gentille, trop même. Elle voulais aider tout le monde gratuitement. Pas seulement les poneys, toutes les créatures. Nous avons eu quelques querelles avec elle à ce sujet, car sa gentillesse a fait basculer la clinique dans un bilan négatif. Mais nous avons réussi à trouver un compromis</r>
-      <r p='vd'>Elle posait beaucoup de questions sur notre vie, mais surtout elle s'intéressait aux goules.Elle a essayé de révéler un secret de leur anti-vie, et n'a pas cru mes mots que c'est la magie noire des zèbres. En conséquence, elle a décidé de découvrir la vérité elle-même. Idée stupide, si vous voulez mon avis. Les goules ne peuvent plus être guéries</r>
+      <r p='vd'>Elle posait beaucoup de questions sur notre vie, mais surtout elle s'intéressait aux goules. Elle a essayé de révéler un secret de leur anti-vie, et n'a pas cru mes mots que c'est la magie noire des zèbres. En conséquence, elle a décidé de découvrir la vérité elle-même. Idée stupide, si vous voulez mon avis. Les goules ne peuvent plus être guéries</r>
       <r p='vd'>D'abord, elle les cherchait dans les environs... J'ai essayé de l'en dissuader, mais c'était inutile. Puis elle a dit qu'elle avait découvert où ces créatures étaient les plus abondantes. Je suppose, dans certains égouts ou autre trou délaissé. Et puis elle est partie et, eh bien, c'est tout. je ne l'ai pas vue depuis</r>
       <r p='vd'>Dommage... elle a probablement trouvé plus de goules qu'il n'en fallait. Attention, ne répétez pas son erreur</r>
       <r p='lp2'>And you did not even look for her?</r>
