@@ -703,7 +703,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A tool for ponies with not so righteous source of income. Much sturdier than a crowbar, it can break even metal doors and concrete walls</info>
   </weapon>
   <weapon id="armature">
-    <n>Piece of rebar</n>
+    <n>Morceau d'armature</n>
     <info>Just a piece of rebar, covered with insulating tape for holding by teeth. You can hardly even call it "a weapon"</info>
   </weapon>
   <weapon id="spear">
@@ -2000,15 +2000,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <mess v="0.7">You have found a memory orb - a magical repository of memories that contains important information, someone`s valuable experience, or just moments of the past that someone wanted to save. Using it, you will get an additional skill point</mess>
   </item>
   <item id="book" v="0.7">
-    <n>An interesting book</n>
+    <n>Un livre intéressant</n>
     <mess>You have found a book in good condition, containing useful knowledge. Be sure to read it - from books you can learn a lot of useful things, thereby increasing one of your skills</mess>
   </item>
   <item id="firstaid">
-    <n>First aid kit</n>
+    <n>Kit de premiers soins</n>
     <info>Collection of medical supplies necessary to treat light wounds and injuries. Basic medical skills are required to use this item</info>
   </item>
   <item id="doctor">
-    <n>Doctor`s bag</n>
+    <n>Sac du docteur</n>
     <info>A set of medical instruments needed for mending fractured bones and other serious injuries. Advanced medical skills are required to use this item</info>
   </item>
   <item id="surgeon">
@@ -3411,7 +3411,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Cupboard</n>
   </obj>
   <obj id="locker">
-    <n>Lockers</n>
+    <n>Casiers</n>
   </obj>
   <obj id="tumba1">
     <n>Nightstand</n>
@@ -3420,7 +3420,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Metal nightstand</n>
   </obj>
   <obj id="ccup">
-    <n>Kitchen table</n>
+    <n>Table de cuisine</n>
   </obj>
   <obj id="wcup">
     <n>Kitchen cabinet</n>
@@ -3459,7 +3459,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Filing cabinet</n>
   </obj>
   <obj id="medbox">
-    <n>Medical supplies</n>
+    <n>Premiers soins</n>
   </obj>
   <obj id="bigmed">
     <n>Cabinet with medicines</n>
