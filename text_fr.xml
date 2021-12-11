@@ -542,7 +542,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="turret" v="0.6">
     <n>Tourelles</n>
-    <info>Les tourelles sont des robots stationnaires créés pour protéger divers objets. Elles ont de puissantes armes comme la mitraillette et des armes à énergie magique, et tire sur tout violateur s'introduisant à leur portée. Les tourelles sont typiquement controllées par un système de sécurité commun pouvant être désactivé ou reconfiguré à partir de terminaux appropriés.</info>
+    <info>Les tourelles sont des robots stationnaires conçues pour protéger divers objets. Elles ont de puissantes armes comme la mitraillette et des armes à énergie magique, et tire sur tout violateur s'introduisant à leur portée. Les tourelles sont typiquement controllées par un système de sécurité commun pouvant être désactivé ou reconfiguré à partir de terminaux appropriés.</info>
   </unit>
   <unit id="turret0">
     <n>Tourelle de plafond</n>
@@ -562,11 +562,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="turret4" v="0.8">
     <n>Tourelle de combat</n>
-    <info>Tourelles de plafond améliorées. A la différence des modèles conventionnels fragiles, celles-ci ont été créées pour protéger des bâtiments militaires, et ont donc une structure renforcée et une armure résistante.</info>
+    <info>Tourelles de plafond améliorées. A la différence des modèles conventionnels fragiles, celles-ci ont été conçues pour protéger des bâtiments militaires, et ont donc une structure renforcée et une armure résistante.</info>
   </unit>
   <unit id="bigrobot" v="0.6">
     <n>Grands robots</n>
-    <info>Une catégorie de la taille d'un poney ou plus grand encore. Ils ont été créés pour réaliser diverses tâches incluant les opérations militaires. Ces robots ont typiquement une intelligence artificielle avancée, une protection robuste en métal et des armes à énergie magique, particulièrement puissantes chez les modèles de combat.</info>
+    <info>Une catégorie de la taille d'un poney ou plus grand encore. Ils ont été conçus pour réaliser diverses tâches incluant les opérations militaires. Ces robots ont typiquement une intelligence artificielle avancée, une protection robuste en métal et des armes à énergie magique, particulièrement puissantes chez les modèles de combat.</info>
   </unit>
   <unit id="robobrain">
     <n>Cérébrobot</n>
@@ -593,20 +593,20 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers d'Acier, équippée d'armes plus sophistiquées.</info>
   </unit>
   <unit id="sentinel">
-    <n>Robot sentinelle</n>
-    <info>The combat robot, created by Robronco during the War, designed to protect the most important military, state and private facilities, as well to be on the front lines in combat operations. It is a real tank, much larger than a pony, moving on four wheels. It is well-armored and equipped with several types of heavy warfare, such as rapid-fire machine guns, missile launchers, and magical energy guns. Extremely dangerous in battle</info>
+    <n>Robot-sentinelle</n>
+    <info>Le robot de combat, fabriqué par Robronco durant la Guerre, conçu pour protéger les installations militaires, privées et gouvernementales les plus importantes, en plus d'être sur le front pour les opérations de combat. Un vrai tank, bien plus grand qu'un poney et se déplaçant sur 4 roues. Il est bien protégé et équippé de plusieurs types d'armes de guerre lourdes, comme la sulfateuse, le lance-missiles et des armes à énergie magique. Extrêmement dangereux en combat.</info>
   </unit>
   <unit id="bossultra" v="0.6">
     <n>Ultra-sentinelle</n>
-    <info>The larger and more dangerous version of the Sentinel and, what`s more, a flying one. Ultra-sentinel is equipped with heavy armor, a magic shield, a plasma minigun, and a compact multiple rocket launcher. A battle with such an opponent is a serious trial for anypony</info>
+    <info>Une plus grande et plus dangereuse version du robot-sentinelle, et en plus il vole. L'ultra-sentinelle est équippée d'une lourde armure, d'un bouclier magique, d'un minigun plasma et d'un lance-roquettes compact. Un combat contre un tel adversaire est une épreuve majeur pour n'importe qui.</info>
   </unit>
   <unit id="bossdron" v="0.7">
     <n>Bombardier</n>
-    <info>A combat drone greatly increased in size, a real flying tank. Usually protects the most important objects belonging to the Steel Rangers</info>
+    <info>Un drone de combat de très grande taille, un vrai tank volant. Protège habituellement les bâtiments les plus importants appartenant aux Rangers d'Acier.</info>
   </unit>
   <unit id="smallrobot" v="0.6">
     <n>Petits robots</n>
-    <info>Compact robots designed to perform certain tasks, do not have advanced AI and work solely on the program there were built with</info>
+    <info>Des robots compacts conçus pour réaliser certaines tâches. Ils n'ont pas une intelligence artificielle très avancée et ne font que ce que demande leur programme pré-installé.</info>
   </unit>
   <unit id="spritebot">
     <n>Sprite-bot</n>
