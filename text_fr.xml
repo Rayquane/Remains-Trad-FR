@@ -537,36 +537,36 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="robot" v="0.6">
     <n>Robots</n>
-    <info>Les robots are the product of technological revolution, one that Equestria experienced during the years before the Great War. They represent a combination of the most advanced earth pony technology and unicorn magic and were created for performing variable tasks - from housekeeping to property protection. During the War, combat models were also developed to be used in military operations.
-Although no pony produces robots nowadays, many of them are still functional despite centuries past. Mostly, these are combat and security robots that continue to execute built-in programs and are ready to bring all their power down upon any intruder entering their domain</info>
+    <info>Les robots sont le produit de la révolution technologique, que Equestria a vécu pendant des années avant la Grande Guerre. Ils représenent une combinaison de la technologie la plus avancée des poneys terrestres et de la magie des unicornes et ont été créés afin de réaliser diverses tâches, du ménage à la protection de propriété. Pendant la guerre, des modèles de combat ont aussi été développés pour être utilisés à des fins militaires.
+Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux sont encore fonctionnels malgré les siècles passés. Il y a en majorité des robots de combat et de sécurité qui continuent d'exécuter leurs programmes pré-installés et qui sont prêts à utiliser toutes leurs capacités sur tout intrus entrant dans leur domaine.</info>
   </unit>
   <unit id="turret" v="0.6">
     <n>Tourelles</n>
-    <info>Turrets are stationary robots designed to protect various objects. They have powerful weapons such as machine guns and magical energy weapons and they open fire on any violator stepping into their range. Typically, turrets are controlled by a common security system and can be disabled or reconfigured through the appropriate terminals</info>
+    <info>Les tourelles sont des robots stationnaires créés pour protéger divers objets. Elles ont de puissantes armes comme la mitraillette et des armes à énergie magique, et tire sur tout violateur s'introduisant à leur portée. Les tourelles sont typiquement controllées par un système de sécurité commun pouvant être désactivé ou reconfiguré à partir de terminaux appropriés.</info>
   </unit>
   <unit id="turret0">
-    <n>Ceiling turret</n>
-    <info>These turrets are mounted on the ceiling. They are fairly compact, but poorly protected from damage, and can be destroyed by breaking the mounts. There are concealed versions that come out only in combat mode</info>
+    <n>Tourelle de plafond</n>
+    <info>Ces tourelles sont installées au plafond. Elles sont assez compactes, mais très peu protégées des dégâts, et peuvent être détruites en cassant leur support. Il y a certaines versions cachées qui ne surviennent qu'en mode combat.</info>
   </unit>
   <unit id="turret1">
-    <n>Ground turret</n>
-    <info>Ground turrets are mounted on the floor, they are well fortified and have a strong armor protecting them from bullets</info>
+    <n>Tourelle terrestre</n>
+    <info>Ces tourelles ont été installées au sol. Elles sont bien fortifiées et ont une armure résistante les protégeant des balles.</info>
   </unit>
   <unit id="turret2">
-    <n>Wall turret</n>
-    <info>Wall turrets are attached directly to the wall or mounted on a special rail, along which they can move from one end to the other. Their barrel can turn 360 degrees</info>
+    <n>Tourelle murale</n>
+    <info>Les tourelles murales sont directement accrochées à un mur ou installées sur un rail spécial, sur lequel elles peuvent se déplacer. Leur baril peut tourner à 360 degrés.</info>
   </unit>
   <unit id="turret3">
-    <n>Armored turret</n>
-    <info>This turret is mounted on a heavy, sturdy base and is protected by armored plates and a powerful force field effectively counteracting both mechanical and magical energy impact</info>
+    <n>Tourelle blindée</n>
+    <info>Cette tourelle est installée sur une base lourde et solide, et est protégée grâce à des plaques de blindage et un puissant champ de force renvoyant efficacement tout impact mécanique ou magique.</info>
   </unit>
   <unit id="turret4" v="0.8">
-    <n>Battle turrets</n>
-    <info>Improved ceiling turrets. Unlike the rather flimsy conventional models, these are designed to protect military objects, and therefore have a reinforced body and strong armor</info>
+    <n>Tourelle de combat</n>
+    <info>Tourelles de plafond améliorées. A la différence des modèles conventionnels fragiles, celles-ci ont été créées pour protéger des objets militaires, et ont donc une structure renforcée et une armure résistante.</info>
   </unit>
   <unit id="bigrobot" v="0.6">
     <n>Grands robots</n>
-    <info>Class of pony size or even larger robots. Are designed for performing various tasks including military operations. Typically, such robots have advanced artificial intelligence, a strong metal casing, and magical energy weapons, especially powerful in combat models</info>
+    <info>Une catégorie de la taille d'un poney ou plus grand encore. Ils ont été créés pour réaliser diverses tâches incluant les opérations militaires. Ces robots ont typiquement une intelligence artificielle avancée, une protection robuste en métal et des armes à énergie magique, particulièrement puissantes chez les modèles de combat.</info>
   </unit>
   <unit id="robobrain">
     <n>Cérébrobot</n>
@@ -13617,9 +13617,9 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Bon que tu sois là et non dehors.</r>
       <r>L'expérience fut un succès.</r>
       <r>Il y a encore de la moisissure ici.</r>
-      <r>Oui, où est-ce que ce morceau de merde a roulé ?</r>
-      <r>Je déteste nettoyer</r>
-      <r>Mon PipBuck bug</r>
+      <r>Alors, où est-ce que ce morceau de merde a roulé ?</r>
+      <r>Je déteste nettoyer.</r>
+      <r>Mon PipBuck bugue.</r>
       <r>Oh yeah !</r>
       <r>Je ne me sens pas bien.</r>
     </rep>
@@ -13645,7 +13645,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Oh ouais !</r>
       <r>Est-ce que tout les poneys dehors marchent comme ça ?</r>
       <r>Toujours besoin de tes affaires ?</r>
-      <r>Je pensais que tu ne reviendrais jamais</r>
+      <r>Je pensais que tu ne reviendrais jamais.</r>
       <r>Mais qui voilà, si ce n'est "Chosen-25" en personne...</r>
       <r>Tu as trouvé quelque chose sur Velvet?</r>
       <r>Tu es déjà de retour ?</r>
