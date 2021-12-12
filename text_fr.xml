@@ -2789,15 +2789,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Key received from the commander of the Enclave base</info>
   </item>
   <item id="mont" v="0.7">
-    <n>Crowbar</n>
+    <n>Pied-de-biche</n>
     <mess>A crowbar is a universal tool. It can be used both as a weapon and for breaking various objects. With it, you can attack enemies, break open doors and break through fragile walls. You can also crack open chests and other containers when lock picking with a screwdriver fails. Both loot from the container and the crowbar itself will receive damage</mess>
   </item>
   <item id="rech" v="0.7">
-    <n>Magical energy weapon</n>
+    <n>Arme à énergie magique</n>
     <mess>The self-recharging pistol is a lucky prize. It belongs to a variety of magical energy weapons that does not require batteries. Its charge restores with time by itself</mess>
   </item>
   <item id="r32" v="0.7">
-    <n>Firearms</n>
+    <n>Arme à feu</n>
     <mess s1="keyReload">Firearms are weapons that use various types of cartridges for firing. Press @1 to reload</mess>
   </item>
   <item id="telebul" v="0.7">
@@ -2805,7 +2805,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <mess s1="keyMagic">You found a book that describes the telekinetic bullet spell. To use, equip it the same way as an ordinary weapon. The spell does not require ammunition but consumes your magical power. Also, the attacking spell can be used simultaneously with any other weapon by pressing the @1 key</mess>
   </item>
   <item id="spell" v="0.8">
-    <n>Protective spell</n>
+    <n>Sort de protection</n>
     <mess s1="keyDef">To use a protective spell first equip it from your inventory (section [Weapons] or [Equipment]). After that, you can apply it by pressing the @1 key. You can also assign a protective spell to one of the quick spell slots</mess>
   </item>
   <item id="impl" v="0.7">
@@ -2813,7 +2813,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <mess>The implant is installed and activated. No additional actions required</mess>
   </item>
   <item id="mod" v="0.7">
-    <n>PipBuck module</n>
+    <n>Module PipBuck </n>
     <mess>The module is connected to the PipBuck and activated. No additional actions required</mess>
   </item>
   <item id="impl_skin">
@@ -2821,7 +2821,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A secret technology developed as a part of "Cyber-pony" project. Implant reinforces skin with polymer tissue, that raises damage threshold by #1. Implantation cost is included in retail price</info>
   </item>
   <item id="impl_regen" v="0.8">
-    <n>Regeneration module</n>
+    <n>Module de régénération </n>
     <info>A complex and expensive implant that combines advanced magic and nanotechnology. Automatically restores the user`s health by #1 units per second, without requiring additional resources, but no more than #2 of the maximum health</info>
   </item>
   <item id="impl_mrech">
@@ -7521,7 +7521,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>
       <t v="0.8">GLOSSAIRE</t>
       <r>[La Grande Guerre] - une guerre totale entre Equestria et l'empire des zèbres, qui s'est produite il y a environ deux-cents ans. Cette guerre s'est terminée par l'extermination mutuelle et la transformation d'Equestria en Terre Désolée </r>
-      <r>[Megasorts] - sorts ordinaires renforcés de plusieurs ordres de grandeur, qui ont été utilisés pendant la Grande Guerre comme armes de destruction massive</r>
+      <r>[Mégasorts] - sorts ordinaires renforcés de plusieurs ordres de grandeur, qui ont été utilisés pendant la Grande Guerre comme armes de destruction massive</r>
       <r>[Bombe de feu funeste] - mégasorts zèbre basé sur le feu du dragon, dissimulée dans un dispositif spécial. Lorsqu'il est activé, il explose avec une force monstrueuse qui peut détruire des villes entières avec une onde de choc et empoisonner la zone avec des radiations magiques</r>
       <r>[Nuage rose] - Un terrible mégasort qui a détruit la capitale d'Equestria, Canterlot. Il s'agit d'un nuage mortel d'un gaz extrêmement toxique de couleur rose, capable de tuer toutes les formes de vie. Il n'y a aucune protection contre ça</r>
       <r>[Stable-Tec] - une société qui existait avant la Grande Guerre. Connu pour avoir construit une variété d'abris-étables dans lesquels les poneys étaient censés survivre en cas d'explosion d'armes de destruction massive</r>
@@ -7561,7 +7561,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
       <r p='mtn'>Bienvenue, Nouvel Utilisateur.
                 Ceci est le Système de Secours Urgent par le Ministère des Sciences Arcaniques.</r>
       <r p='mtn'>Vous avez été enregistré avec succès dans le système et pouvez désormais accéder à tous ses privilèges.</r>
-      <r p='mtn'>Dans l'éventualité d'une situation critique pour votre vie, comme : une attaque soudaine de zèbres, action de terreur, explosion de megaspell explosion ou une chute d'escaliers, vous serez automatiquement téléporté au dernier point de contrôle en sécurité - au plus proche terminal MAS disponible. Vous y recevrez aussi un traitement médical nécessaire.</r>
+      <r p='mtn'>Dans l'éventualité d'une situation critique pour votre vie, comme : une attaque soudaine de zèbres, une action de terreur, une explosion de mégasort ou une chute d'escaliers, vous serez automatiquement téléporté au dernier point de contrôle en sécurité - au plus proche terminal MAS disponible. Vous y recevrez aussi un traitement médical nécessaire.</r>
       <r p='mtn'>Avertissement : Le système est actuellement en bêta. Quelques erreurs mineurs et dysfonctionnements peuvent se produire. Nous vous remercions pour votre patience.</r>
 </n>
   </txt>
