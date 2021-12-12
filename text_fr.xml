@@ -156,7 +156,7 @@
   <unit id="phoenix" v="0.6">
     <n>Phénix funeste</n>
     <info>Un phénix qui a muté à cause des radiations, s'adaptant à la vie dans les Terres Désolées. Malgré sa séduisante apparence, il est plutôt dangereux à cause de sa capacité à cracher des flammes radioactives.
-Un phénix funeste n'est pas agressif envers les âmes ayant encore de la pitié en elles. Il peut être vaincu, et ensuite être un ami et compagnon.</info>
+Un phénix funeste n'est pas agressif envers les âmes ayant encore de la pitié en elles. Il peut être apprivoisé, et ensuite être un ami et compagnon.</info>
   </unit>
   <unit id="owl" v="0.7">
     <n>Hibot</n>
@@ -719,7 +719,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A large kitchen knife, not particularly suitable for a fight</info>
   </weapon>
   <weapon id="chopper">
-    <n>Chopper</n>
+    <n>Hachoir</n>
     <info>With this huge and heavy knife you can chop a cabbagehead in ten seconds flat... or any other head too!</info>
   </weapon>
   <weapon id="zknife">
@@ -916,7 +916,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="r375" v="0.6">
     <n>Revolver calibre .375</n>
-    <info>Old, but powerful and reliable revolver, although recharging it may cause some difficulty</info>
+    <info>Un vieux, mais puissant et fiable revolver, mais son rechargement peut être difficile.</info>
   </weapon>
   <weapon id="revo">
     <n>Magnum</n>
@@ -927,11 +927,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique all-purpose .44 caliber revolver made by Ironshod Firearms exclusively for Applejack. Its white ivory handle has a picture of three red apples on it</info>
   </weapon>
   <weapon id="p308c">
-    <n>0.308-pistol</n>
-    <info>A pistol converted by unknown craftspony from a 0.308 caliber rifle. It resulted in a compact, fast and deadly weapon</info>
+    <n>Pistolet .308</n>
+    <info>Un pistolet converti par un artisan à partir d'un fusil de calibre .308. Cela a résulté en une arme compacte, rapide et mortelle.</info>
   </weapon>
   <weapon id="p127mm">
-    <n>12.7mm pistol</n>
+    <n>Pistolet 12.7mm </n>
     <info>Large-caliber gun going with impressive destructive power, monstrous recoil and deafening "Boom!". Using cartridges with special blunt-ended bullets that strike like a hoof kick of doom</info>
   </weapon>
   <weapon id="p127mm^1">
@@ -1323,7 +1323,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A simple stick of dynamite with a long fuse, more suitable for mining than fighting. Use with care!</info>
   </weapon>
   <weapon id="hgren">
-    <n>Hoofmade grenade</n>
+    <n>Grenade faite-sabot</n>
     <info>A primitive grenade, made of a tin can filled with gunpowder and metal junk. It can be easily created at a workbench</info>
   </weapon>
   <weapon id="grenade">
@@ -1582,7 +1582,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <armor id="pip" v="0.8">
     <n>Combinaison d'Etable</n>
-    <info>Common clothing worn by all stable dwellers</info>
+    <info>Un vêtement commun porté par tous les habitants d'Etables.</info>
   </armor>
   <armor id="kombu">
     <n>Strengthened jumpsuit</n>
@@ -1721,7 +1721,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A fragment of a dark crystal with a faint spark of magic glowing deep inside</info>
   </armor>
   <item id="s_hsword">
-    <n>Schematics for a hoofmade sword</n>
+    <n>Plan pour l'épée faite-sabot</n>
   </item>
   <item id="s_arson">
     <n>Schematics for the "Igniter"</n>
@@ -1742,40 +1742,40 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Schematics for a railway rifle</n>
   </item>
   <item id="s_bfg">
-    <n>Schematics for the "Big Frickin Gun"</n>
+    <n>Plan pour le "Big Frickin Gun"</n>
   </item>
   <item id="dinamit">
     <n>Dynamite</n>
   </item>
   <item id="s_hgren">
-    <n>Schematics for a hoofmade grenade</n>
+    <n>Plan pour une grande faite-sabot</n>
   </item>
   <item id="s_acidgr">
     <n>Recipe for acid bomb</n>
   </item>
   <item id="s_cryogr" v="0.6">
-    <n>Schematics for the cryogrenade</n>
+    <n>Plan pour une cryogrenade</n>
   </item>
   <item id="s_molotov">
     <n>Recipe for an incendiary cocktail</n>
   </item>
   <item id="s_spgren" v="0.6">
-    <n>Schematics for Sparkle-grenade</n>
+    <n>Plan pour une Sparkle-grenade</n>
   </item>
   <item id="s_hmine">
-    <n>Schematics for the hoofmade mine.</n>
+    <n>Plan pour une mine faite-sabot</n>
   </item>
   <item id="s_cryomine" v="0.6">
-    <n>Schematics for the cryomine</n>
+    <n>Plan pour une cryomine</n>
   </item>
   <item id="s_balemine" v="0.6">
-    <n>Schematics for the balefire mine</n>
+    <n>Plan pour une mine funeste</n>
   </item>
   <item id="s_dbomb">
-    <n>Instructions for handling dynamite</n>
+    <n>Instructions pour utiliser une dynamite</n>
   </item>
   <item id="s_bomb">
-    <n>Schematics for a hoofmade bomb</n>
+    <n>Plan pour une bombe faite-sabot</n>
   </item>
   <item id="s_cdagger" v="0.8">
     <n>Schematics for the claw dagger</n>
@@ -1784,81 +1784,81 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Schematics for the "Friendship cannon"</n>
   </item>
   <item id="s_empbomb" v="0.8">
-    <n>Schematics for a pulse bomb</n>
+    <n>Plan pour une bombe à impulsion</n>
   </item>
   <item id="p9" v="0.6">
-    <n>9 mm round</n>
+    <n>Cartouche 9 mm</n>
     <info>A low-power pistol ammo, quite cheap because of its low efficiency</info>
   </item>
   <item id="p10">
-    <n>10 mm round</n>
+    <n>Cartouche 10 mm</n>
     <info>Widely-used handgun ammo, easily obtained in the Wasteland</info>
   </item>
   <item id="p375" v="0.6">
-    <n>Round cal. 375</n>
+    <n>Cartouche cal. 375</n>
     <info>Pistol rounds "HnH Magnum", used in some revolvers and rifles</info>
   </item>
   <item id="p44">
-    <n>Round cal. 44</n>
+    <n>Cartouche cal. 44</n>
     <info>"Magnum" rounds - heavier, more expensive and rare than other handgun ammunition</info>
   </item>
   <item id="p32">
-    <n>Round cal. 32</n>
+    <n>Cartouche cal. 32</n>
     <info>Handgun ammo produced in large quantities long before the War</info>
   </item>
   <item id="p308">
-    <n>Round cal. 308</n>
+    <n>Cartouche cal. 308</n>
     <info>Common sniper rifle rounds</info>
   </item>
   <item id="p127">
-    <n>12,7-mm round</n>
+    <n>Cartouche 12,7-mm</n>
     <info>Great and powerful handgun rounds, very effective, but rare and expensive</info>
   </item>
   <item id="p50mg">
-    <n>Round cal. 50 MG</n>
+    <n>Cartouche cal. 50 MG</n>
     <info>Large-caliber bullet with a steel tip - one of the most rare, expensive and effective kinds</info>
   </item>
   <item id="p556">
-    <n>5,56-mm round</n>
+    <n>Cartouche 5,56-mm</n>
     <info>Common assault rifle rounds, widely-used by both armies during the War</info>
   </item>
   <item id="p5">
-    <n>5-mm round</n>
+    <n>Cartouche 5-mm</n>
     <info>Small-caliber rounds used in high fire-rate weapons, when quantity means more than quality</info>
   </item>
   <item id="p20">
-    <n>Round cal. 20</n>
+    <n>Cartouche cal. 20</n>
     <info>Ammunition that contains buckshot instead of bullets, used for shotguns</info>
   </item>
   <item id="p12">
-    <n>Round cal. 12</n>
+    <n>Cartouche cal. 12</n>
     <info>A modern and more effective shotgun shell</info>
   </item>
   <item id="p145" v="0.6">
-    <n>14,4-mm round</n>
+    <n>Cartouche 14,4-mm</n>
     <info>A very large caliber ammo designed for heavy machine guns</info>
   </item>
   <item id="fuel">
-    <n>Fuel</n>
+    <n>Carburant</n>
     <info>Flammable liquid used in flamethrowers</info>
   </item>
   <item id="batt">
-    <n>Battery</n>
+    <n>Batterie</n>
     <info>Compact Spark-battery of medium power used in magical energy weaponry</info>
   </item>
   <item id="energ">
-    <n>Spark-battery</n>
+    <n>Spark-batterie</n>
     <info>Standard Spark-battery used in most models of magical energy weapons</info>
   </item>
   <item id="crystal">
-    <n>Crystal battery</n>
+    <n>Batterie de cristal</n>
     <info>Energy cell of increased power based on rare crystals. Used as a power supply in the most deadliest magical energy weapons</info>
   </item>
   <item id="recharg">
     <n>Charge</n>
   </item>
   <item id="not" v="0.8">
-    <n>Infinite ammo</n>
+    <n>Munitions infinies</n>
   </item>
   <item id="gren40">
     <n>40-mm shell</n>
@@ -3811,7 +3811,7 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="pistol">
     <n>Dueliste</n>
-    <info>Vous n'êtes pas un grand fan de grandes et lourdes armes. Votre choix - les pistolets et les revolvers, et vous savez bien les utiliser. Toutes vos armes à une main (automatiques incluses) obtiennent un bonus de précision et consomment #1 point d'action en moins dans le S.A.T.S.</info>
+    <info>Vous n'êtes pas un grand fan de grandes et lourdes armes. Votre choix - les pistolets et les revolvers, et vous savez bien les utiliser. Toutes vos armes à une main (automatiques incluses) obtiennent un bonus de précision et consomment #1 de points d'action en moins dans le S.A.T.S.</info>
   </eff>
   <eff id="shot">
     <n>Crazy farmer</n>
@@ -5117,17 +5117,17 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Protection from black magic</n>
   </pip>
   <pip id="venom">
-    <n>Toxic gas protection</n>
+    <n>Protection au gaz toxique</n>
   </pip>
   <pip id="respoison">
-    <n>Poison damage resistance</n>
+    <n>Résistance aux dégâts de poison</n>
     <info>Suppresses health damage caused by venom in your body</info>
   </pip>
   <pip id="radx">
     <n>Résistance aux radiations</n>
   </pip>
   <pip id="resbleeding">
-    <n>Bleeding resistance</n>
+    <n>Résistance au saignement</n>
     <info>Suppresses blood loss caused by open wounds</info>
   </pip>
   <pip id="reput" v="0.6">
@@ -5159,7 +5159,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Aptitudes disponibles</n>
   </pip>
   <pip id="requir">
-    <n>Critères requis :</n>
+    <n>Critère(s) requis :</n>
   </pip>
   <pip id="accept">
     <n>Accepter</n>
@@ -5430,7 +5430,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>kindness rays</n>
   </pip>
   <pip id="ap">
-    <n>AP</n>
+    <n>PA</n>
   </pip>
   <pip id="ammomod_0" v="0.6">
     <n>standard</n>
@@ -5440,7 +5440,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Armor-piercing round has a special bullet with a hard core and a soft shell, designed to pierce armor. However, such bullets are less effective against unprotected targets and have a weaker stopping action</info>
   </pip>
   <pip id="ammomod_2" v="0.6">
-    <n>expansive</n>
+    <n>large</n>
     <info>The expansive round has a bullet that deforms when it hits a soft environment, such as the victim`s body. Such bullets do more damage to unprotected targets, but at the same time they are very bad at penetrating armor, therefore are not effective against armored targets</info>
   </pip>
   <pip id="ammomod_3" v="0.6">
@@ -5469,16 +5469,16 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="ammomod_9" v="0.6">
     <n>impulsion</n>
-    <info>Grenade with a pulse charge, designed for fighting against robots</info>
+    <info>Une grenade avec une charge à impulsion, conçue pour combattre les robots.</info>
   </pip>
   <pip id="am_1" v="0.6">
-    <n>ap</n>
+    <n>perfo</n>
   </pip>
   <pip id="am_2" v="0.6">
-    <n>exp</n>
+    <n>large</n>
   </pip>
   <pip id="am_3" v="0.6">
-    <n>ap</n>
+    <n>perfo</n>
   </pip>
   <pip id="am_4" v="0.6">
     <n>inc</n>
@@ -5487,7 +5487,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>mag</n>
   </pip>
   <pip id="am_6" v="0.6">
-    <n>enh</n>
+    <n>amél</n>
   </pip>
   <pip id="am_7" v="0.6">
     <n>opt</n>
@@ -5496,13 +5496,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>plas</n>
   </pip>
   <pip id="am_9" v="0.6">
-    <n>pul</n>
+    <n>impul</n>
   </pip>
   <pip id="tarmor" v="0.6">
-    <n>Target armor</n>
+    <n>Armure de la cible</n>
   </pip>
   <pip id="det" v="0.6">
-    <n>Weapon wear out x2</n>
+    <n>Usure de l'arme x2</n>
   </pip>
   <pip id="rapid">
     <n>vitesse d'attaque</n>
@@ -5511,7 +5511,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>précision</n>
   </pip>
   <pip id="distance">
-    <n>to portée et dégâts</n>
+    <n>à portée et dégâts</n>
   </pip>
   <pip id="weapnouse">
     <n>can not use</n>
@@ -5586,13 +5586,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Niveau minimum recommandé</n>
   </pip>
   <pip id="wrLevel" v="0.7">
-    <n>Ton niveau est trop bas. C'est une mauvaise idée d'aller par là.</n>
+    <n>Votre niveau est trop bas. C'est une mauvaise idée d'aller par là.</n>
   </pip>
   <pip id="alltask" v="0.7">
     <n>Prendre toutes les tâches</n>
   </pip>
   <pip id="kolProb" v="0.71">
-    <n>Trial complete</n>
+    <n>Epreuve complétée</n>
   </pip>
   <pip id="done">
     <n>terminé</n>
@@ -10182,18 +10182,18 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Complete part 3</n>
   </txt>
   <txt id="toExit">
-    <n>To exit</n>
+    <n>Sortir</n>
     <info>You found yourself in abandoned auxiliary tunnels, all alone and without any equipment, and the most important - you have no clue how you ended up here. Find your way back to surface, and in the meantime try to scout this place for some useful and valuable stuff.</info>
   </txt>
   <txt id="toExit1">
-    <n>Get to the exit to surface</n>
+    <n>Atteignez la sortie pour la surface</n>
   </txt>
   <txt id="collectHS">
-    <n>Find all cogwheels</n>
+    <n>Trouvez toutes les roues dentées</n>
     <info/>
   </txt>
   <txt id="collectHS1">
-    <n>Cogwheels found:</n>
+    <n>Roues dentées trouvées :</n>
   </txt>
   <txt id="storyContact" v="0.7">
     <n>Contact locals</n>
@@ -13603,13 +13603,13 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>This place is a goddess-forsaken hole...</r>
       <r>Wire is sparkling...</r>
       <r m="1">Another day, fuck it...</r>
-      <r m="1">Fucking life...</r>
-      <r m="1">For Celestia`s sake...</r>
+      <r m="1">Putain de vie...</r>
+      <r m="1">Pour l'amour de Celestia...</r>
       <r>What now?</r>
       <r>Everything is so dull...</r>
       <r>Same old...</r>
-      <r>Eh bien , ouais...</r>
-      <r>Et tu t'attendais a quoi</r>
+      <r>Eh bien, ouais...</r>
+      <r>Et tu t'attendais à quoi ?</r>
       <r>Ils le font encore...</r>
       <r>Ça pue !</r>
       <r>Pourquoi moi ?</r>
@@ -13617,7 +13617,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Bon que tu sois là et non dehors.</r>
       <r>L'expérience fut un succès.</r>
       <r>Il y a encore de la moisissure ici.</r>
-      <r>Alors, où est-ce que ce morceau de merde a roulé ?</r>
+      <r>Bon, où est-ce que ce morceau de merde a roulé ?</r>
       <r>Je déteste nettoyer.</r>
       <r>Mon PipBuck bugue.</r>
       <r>Oh yeah !</r>
@@ -13659,23 +13659,23 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Bonjour !</r>
       <r>Comment ça va ?</r>
       <r>Tu veux jouer ?</r>
-      <r>Piou-piou</r>
+      <r>Piou-piou !</r>
       <r>Tu vas bientot mourrir...</r>
       <r>Oh, c'est trop cool !</r>
       <r>Incroyable !</r>
       <r>Eh, c'est à moi !</r>
       <r>Le mien est mieux !</r>
       <r>Piou ! Boom !</r>
-      <r>La-la-la</r>
+      <r>La-la-la !</r>
       <r>Cache-cache?</r>
       <r>Quel con !</r>
       <r>Nuh-huh</r>
       <r>Reste en arrière !</r>
-      <r>Na-na-na</r>
+      <r>Na-na-na !</r>
       <r>Je peux avoir des capsules ?</r>
     </rep>
     <rep act="hi" id="child" v="0.8">
-      <r>T'imagine si on était dans un jeu video et que toutes tes actions étaient controlées ?</r>
+      <r>T'imagine si on était dans un jeu vidéo et que toutes tes actions étaient controlées ?</r>
       <r>Eh, regarde ici !</r>
       <r>Je ne fais rien !</r>
       <r>C'était cassé quand je l'ai trouvé !</r>
