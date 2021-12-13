@@ -295,8 +295,8 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <info>Les zèbres nécromanciens sont de puissants ensorceleurs, en aucun cas inférieurs aux meilleurs magiciens unicornes. Mais, contrairement à eux, les nécromanciens ne comptent plus sur les sorts d'attaques, mais plutôt sur les sorts obscurs et les invocations de diverses créatures et d'esprits.</info>
   </unit>
   <unit id="ranger" v="0.7">
-    <n>Rangers d'acier</n>
-    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger d'acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des rangers d'acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
+    <n>Rangers d'Acier</n>
+    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger d'acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des Rangers d'Acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
   </unit>
   <unit id="ranger1" v="0.7">
     <n>Chevalier</n>
@@ -308,7 +308,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="ranger3" v="0.7">
     <n>Paladin</n>
-    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre rangers d'acier. Ils signalent directement aux paladins seniors.</info>
+    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre Rangers d'Acier. Ils signalent directement aux paladins seniors.</info>
   </unit>
   <unit id="encl" v="0.8">
     <n>Grande Enclave des Pégases</n>
@@ -650,16 +650,16 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Tripwire</n>
   </unit>
   <unit id="trigplate" v="0.6">
-    <n>Pressure plate</n>
+    <n>Plaque de pression</n>
   </unit>
   <unit id="triglaser" v="0.6">
-    <n>Laser sensor</n>
+    <n>Capteur laser</n>
   </unit>
   <unit id="damgren" v="0.6">
-    <n>Grenade bouquet</n>
+    <n>Bouquet de grenades</n>
   </unit>
   <unit id="damshot" v="0.6">
-    <n>Armed gun</n>
+    <n>Pistolet rechargé</n>
   </unit>
   <unit id="transmitter" v="0.6">
     <n>Emetteur</n>
@@ -668,10 +668,10 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Explosifs installés</n>
   </unit>
   <unit id="training">
-    <n>Training dummy</n>
+    <n>Mannequin d'entraînement</n>
   </unit>
   <unit id="captive">
-    <n>Captive in a cage</n>
+    <n>Captif dans une cage</n>
   </unit>
   <unit id="cage">
     <n>Cage vide</n>
@@ -7198,7 +7198,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="bunker" v="0.7">
     <n>Bunker</n>
-    <info>Un bunker de stockage appartenant aux Rangers d'acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
+    <info>Un bunker de stockage appartenant aux Rangers d'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
   </map>
   <map id="sttech" v="0.7">
     <n>Bureau Stable-Tech, entrée de service</n>
