@@ -647,7 +647,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Can trail alarm</n>
   </unit>
   <unit id="trigridge" v="0.6">
-    <n>Tripwire</n>
+    <n>Fil à détente</n>
   </unit>
   <unit id="trigplate" v="0.6">
     <n>Plaque de pression</n>
@@ -939,11 +939,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>This pistol is named so for a reason. Its shots are like sledge strikes. Hard to tell how it works, looks like some special earth pony magic</info>
   </weapon>
   <weapon id="psc" v="0.6">
-    <n>Terrifying gun</n>
+    <n>Pistolet terrifiant</n>
     <info>Converted from a 12.7-mm pistol, this model is designed for a powerful cartridge of 50 MG caliber. Its lethal force is really terrifying, being only slightly inferior to a large-caliber rifle. At the same time, it has a much smaller size and a decent rate of fire, but it pays with a rather low accuracy</info>
   </weapon>
   <weapon id="psc^1" v="0.6">
-    <n>"Black heart"</n>
+    <n>"Coeur noir"</n>
     <info>Modification of the "Terrifying" gun. Its elongated barrel allows increased accuracy and strength of the shot, and corpus, covered with black varnish, looks so very impressive</info>
   </weapon>
   <weapon id="blaster" v="0.6">
@@ -951,7 +951,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A weapon, unique and unusual in all respects. They say it was created not by a pony but fell from the stars. The destructive power of its shots is very high, and there is no defense against it, but there is a problem with ammunition - the star blaster uses only special energy cells that are extremely difficult to find</info>
   </weapon>
   <weapon id="wquest1" v="0.6">
-    <n>"Loyalty"</n>
+    <n>"Loyauté"</n>
     <info>A unique gun belonging to Brass Buckshot</info>
   </weapon>
   <weapon id="smg9" v="0.6">
@@ -7684,49 +7684,49 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   <txt id="surfDialSome" imp="1">
     <n>
       <t v="0.8">Première rencontre avec un pillard</t>
-      <r p='lp1'>Oh, j'ai cru voir un poney la-bas</r>
-      <r p='lp5'>Mon E.F.S marque une cible hostile ! Même si c'est un poney, il n'a pas l'air amical </r>
+      <r p='lp1'>Oh, j'ai cru voir un poney là-bas.</r>
+      <r p='lp5'>Mon E.F.S marque une cible hostile ! Même si c'est un poney, il n'a pas l'air amical.</r>
       <r p='lp1'>Je vais vraiment l'attaquer en premier ? Ou peut-être devrais-je au moins essayer de lui parler ?</r>
     </n>
   </txt>
   <txt id="surfDialHello">
     <n>
       <r p="lp4">Err.. Salut! Tu vis ici? Je...</r>
-      <r m="1" p="raider">Que ? Tes qui bordel de merde???|hein? Tes qui toi???</r>
-      <r p="raider">Eh, tout le monde venez! On va s'amuser un peu!</r>
+      <r m="1" p="raider">Que... T'es qui bordel de merde ???|Hein ? T'es qui toi ???</r>
+      <r p="raider">Eh, tout le monde venez ! On va s'amuser un peu !</r>
     </n>
   </txt>
   <txt id="surfDialKill">
     <n>
-      <r p="lp2">J'ai... tué un poney?!</r>
-      <r p="lp5" push="1">Non! Quoi qu'il en soit, ce psychopathe n'avait plus grand-chose d'un poney ! </r>
+      <r p="lp2">J'ai... tué un poney ?!</r>
+      <r p="lp5" push="1">Non ! Quoi qu'il en soit, ce psychopathe n'avait plus grand-chose d'un poney !</r>
     </n>
   </txt>
   <txt id="dialCalam1" v="0.7">
     <n>
       <t v="0.8">Ambuscade de pillard</t>
-      <r p='raider2'>Bonjour, mon petit poney. Qu'est ce que tu fais seule ici? Tu veux t'amuser avec nous?</r>
-      <r p='lp5'>Tu veux jouer, hein ? Eh bien, approche toi, voyons qui s'amusera le plus </r>
-      <r p='raider2'>Ha-ha-ha, j'adore ! Aujourd'hui est notre jour de chance. Maintenant nous... </r>
-      <r p='raider2' m='1'>Euh, qu'est-ce que c'est que ça?|Qu'est-ce?!</r>
-      <r p='calam'>Eh toi! A couvert!</r>
+      <r p='raider2'>Bonjour, mon petit poney. Qu'est ce que tu fais seule ici ? Tu veux t'amuser avec nous ?</r>
+      <r p='lp5'>Tu veux jouer, hein ? Eh bien, approche toi, voyons qui s'amusera le plus.</r>
+      <r p='raider2'>Ha-ha-ha, j'adore ! Aujourd'hui est notre jour de chance. Maintenant nous...</r>
+      <r p='raider2' m='1'>Euh, qu'est-ce que c'est que ce bordel ?|Huh ? Qu'est-ce que ?!</r>
+      <r p='calam'>Eh toi ! A couvert !</r>
     </n>
   </txt>
   <txt id="dialCalam2" imp="1" v="0.7">
     <n>
       <t v="0.8">Rencontre avec Calamity</t>
-      <r p='calam'>Hé, tu es fou ou quoi, marcher tout seul ici ? J'suis content que j'soit venu juste à temps, sinon tu n'peut même pas imaginer ce que ces raiders f'raient pour toi </r>
-      <r p='lp2'>Err... merci de m'avoir aidé, mais tout etait sous contrôle</r>
-      <r p='calam'>Ouaip sûr. J'pouvais voir ton "sous contrôle". Un poney sans armure sur une arme normale contre tout un tas d'salauds </r>
-      <r p='calam'>Et... pourquoi tu m'regarde comme ça?</r>
-      <r p='lp4'>Je suis désolé je n'ai jamais vu de pégase avant. Dans notre... Je veux dire, dans un endroit d'où je viens, il n'y avait pas du tout de pegase</r>
-      <r p='calam'>Ah, Ah t'vois ! Ah j'imagine, nous n'sommes pas si nombreux dans l'Terres Désolés... Attends, t'parles d'quel endroit ? </r>
-      <r p='lp1'>Eh bien... je suis pas d'ici, je viens de loin</r>
-      <r p='calam'>Jusqu'où ?.. 'ttend un peu... laisse-moi d'viner : tes d'l'étable ? Ma parole ! tu dois être d'là-bas ! Et c'drôle de costume. yep, tout est clair maintenant. J'te dis la vérité, ya si peu d'étables avec des poneys vivants, que j'vois rarement des poneys comme toi de nos jours </r>
-      <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des locaux, n'est-ce pas ? </r>
-      <r p='calam'>Eh bien, on peux dire ça. Ravi d't'rencontrer, j'suis Calamity </r>
+      <r p='calam'>Hé, t'es fou ou quoi, marcher tout seul ici ? J'suis content que j'soit venu juste à temps, sinon tu n'peut même pas imaginer ce que ces raiders f'raient pour toi.</r>
+      <r p='lp2'>Err... merci de m'avoir aidé, mais tout était sous contrôle.</r>
+      <r p='calam'>Ouaip sûr. J'pouvais voir ton "sous contrôle". Un poney sans armure avec une arme normale contre tout un tas d'salauds.</r>
+      <r p='calam'>Et... pourquoi tu m'regarde comme ça ?</r>
+      <r p='lp4'>Je suis désolée, je n'avais jamais vu de pégase avant. Dans notre... je veux dire, dans un endroit d'où je viens, il n'y avait pas du tout de pégase.</r>
+      <r p='calam'>Ah, j'vois ! Ah j'imagine, nous n'sommes pas si nombreux dans l'Terres Désolées... Attends, t'parles d'quel endroit ? </r>
+      <r p='lp1'>Eh bien... je suis pas d'ici, je viens de loin.</r>
+      <r p='calam'>Jusqu'où ?... 'ttend un peu... laisse-moi d'viner : t'es d'l'étable ? Ma parole ! Tu dois être d'là-bas ! Et c'drôle de costume. Yep, tout est clair maintenant. J'te dis la vérité, y a si peu d'étables avec des poneys vivants, que j'vois rarement des poneys comme toi d'nos jours.</r>
+      <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des habitants locaux, n'est-ce pas ?</r>
+      <r p='calam'>Eh bien, on peut dire ça. Ravi d't'rencontrer, j'suis Calamity.</r>
       <r p='lp4'>Ravi de vous rencontrer aussi, je suis @lp. Écoute, Calamity, à moins que ce ne soit trop compliqué pour toi, pourrais-tu me montrer le chemin vers la ville ou la colonie la plus proche ? </r>
-      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le poney de Prancin". Ah, je suis sûr qu'ty trouveras tout c'que tas besoin. Dis-moi quand tu s'ras prêt à partir </r>
+      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le poney de Prancin". Ah, je suis sûr qu'ty trouveras tout c'que t'as besoin. Dis-moi quand tu s'ras prêt à partir </r>
     </n>
   </txt>
   <txt id="plantNextLevel" v="0.7">
@@ -7735,19 +7735,19 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
 Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp de base pour soigner et réapprovisionner en fournitures</r>
       <r p="lp3">Aha, voyons voir... ça ressemble au plan général de l'usine... .</r>
       <r p="lp3" push="1">Maintenant, je suis au premier niveau. Ci-dessous se trouvent les deuxième, troisième et... bien d'autres </r>
-      <r p="lp3" push="1">Le terminal maneframe que je recherche est dans le département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité </r>
+      <r p="lp3" push="1">Le terminal d'ordinateur central que je recherche est dans le Département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité </r>
       <r p="lp3">Ouais, cette usine est vraiment énorme. Si je voulais, je pourrais l'explorer pour toujours...</r>
     </n>
   </txt>
   <txt id="plantNio" v="0.7">
     <n>
-      <r p="lp2">Il semblerait que je suis sur la bonne voie. Le département de recherche spécial est dans le couloir </r>
+      <r p="lp2">Il semblerait que je sois sur la bonne voie. Le Département de recherche spécial est dans le couloir.</r>
       <r mod="1" p="term">Allez tout droit dans le couloir pour entrer dans le [Département de recherche spécial] et remplissez votre mission. Ou entrez par la porte [Sortie] pour continuer à explorer un nouveau niveau d'usine. Vous pouvez revenir ici lorsque vous êtes prêt </r>
     </n>
   </txt>
   <txt id="nioDial1" v="0.7">
     <n>
-      <r p="lp1">On dirait que c'est le département de recherche spécial. J'ai besoin de trouver le terminal maneframe</r>
+      <r p="lp1">On dirait que c'est le Département de recherche spécial. J'ai besoin de trouver le terminal maneframe</r>
     </n>
   </txt>
   <txt id="mainframeOff" v="0.7">
