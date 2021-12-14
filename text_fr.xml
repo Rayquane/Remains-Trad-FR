@@ -610,7 +610,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="spritebot">
     <n>Sprite-bot</n>
-    <info>A small flying robot, developed by the Ministry of Morale. Sprite bots were used as mobile transmitters, constantly broadcasting patriotic radio channel, while at the same time engaged in secret surveillance of citizens. Today sprite bots can still be found in plenty in the Wastelands. They usually do not represent danger, except when they are controlled by security systems of old closed strategic objects. In this case, they can try attacking the interloper using low-power weapons</info>
+    <info>Un petit robot volant, développé par le Ministère du Moral. Les sprite-bots étaient utilisés comme transmetteurs mobiles, diffusant en permanence la radio patriotique, mais en même temps surveillait secrètement les civils. Aujourd'hui les sprites-bots Today sprite bots can still be found in plenty in the Wastelands. They usually do not represent danger, except when they are controlled by security systems of old closed strategic objects. In this case, they can try attacking the interloper using low-power weapons</info>
   </unit>
   <unit id="vortex">
     <n>Vortex</n>
@@ -3426,10 +3426,10 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Kitchen cabinet</n>
   </obj>
   <obj id="tap">
-    <n>Sink</n>
+    <n>Evier</n>
   </obj>
   <obj id="stove">
-    <n>Stove</n>
+    <n>Cuisinière</n>
   </obj>
   <obj id="couch">
     <n>Couch</n>
@@ -10624,7 +10624,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="vendor_armor_quest3" imp="1" v="0.7">
     <n>
-      <t v="0.8">Power armor - components required</t>
+      <t v="0.8">Armure assistée - composants requis</t>
       <r p='lp4'>Say, do you sell power armor?</r>
       <r p='va'>What?</r>
       <r p='va' push='1'>What made you think I might sell power armor?</r>
@@ -10666,7 +10666,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     </n>
   </txt>
   <txt id="collectPowerArmor" v="0.7">
-    <n>Power armor</n>
+    <n>Armure assistée</n>
     <info>If you want to get a power armor specially created for you, get at least a few fragments of it. I do not care how you get them, but the electronic components must be in working condition</info>
   </txt>
   <txt id="collectPowerArmor1" v="0.7">
@@ -12041,7 +12041,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
     <a>If your magical powers are depleted more than by half, the effectiveness of the spells decreases</a>
     <a v="0.8">You can cook on the stove using a recipe and the right ingredients. Food gives you long-term bonuses to various characteristics, but at any time you can have bonuses only from the latest meal eaten</a>
     <a v="0.8">You can put items that you don`t need, but don`t want to sell, into the storage. Items from the storage can be used directly for craft on a workbench and lab bench within the base camp, you don`t have to move them back into your inventory</a>
-    <a>Wash your tail often!</a>
+    <a>Nettoyez votre queue régulièrement !</a>
   </advice>
 
   <names>
