@@ -779,7 +779,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A heavy iron machinery part, welded to a sturdy long rod. A good swing - and it can easily add a couple of holes to somepony`s head</info>
   </weapon>
   <weapon id="hammer">
-    <n>Massue</n>
+    <n>Marteau</n>
     <info>A good tool for crushing walls as well as enemy skulls</info>
   </weapon>
   <weapon id="hammer^1">
@@ -811,7 +811,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Compact weapon, combining the advantages of melee and magical energy weapons. Inflicts plasma damage</info>
   </weapon>
   <weapon id="cdagger" v="0.8">
-    <n>Hellhound`s claw</n>
+    <n>Griffe de chien de l'enfer</n>
     <info>A long dagger made from a claw of the hellhound leader you defeated. This claw is stronger than steel and sharper than the best combat knife</info>
   </weapon>
   <weapon id="sword">
@@ -831,11 +831,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A more powerful energy sword glowing with golden light</info>
   </weapon>
   <weapon id="sledge">
-    <n>Super sledge</n>
+    <n>Super marteau</n>
     <info>A high-tech weapon, equipped with an inertial accumulator, capable of storing kinetic energy. Being released on impact, it greatly increases power of the strike</info>
   </weapon>
   <weapon id="sledge^1">
-    <n>"War Hammer"</n>
+    <n>"Marteau de Guerre"</n>
     <info>A specially weighted super sledge, clearly made for somepony big and strong. Scary even to think, what damage one strike of this can cause</info>
   </weapon>
   <weapon id="tlance">
@@ -851,7 +851,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique magical spear, blade emitting cold moonlight and vibrating slightly from force hidden inside. Hard to tell what magic was used to create it, but one should respect it, or even better - fear</info>
   </weapon>
   <weapon id="kosa" v="0.7">
-    <n>Grim reaper</n>
+    <n>Sinistre faucheuse</n>
     <info>A magical weapon from the zebras` land, possessing an ominous and unstoppable power. It is capable of cutting those invisible threads that bind souls to bodies of living beings, ignoring any armor</info>
   </weapon>
   <weapon id="hsword">
@@ -891,7 +891,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique laser pistol, likely created after the War. It has a more powerful and capacious battery, and there is an inscription in a red paint saying "OBEY"!</info>
   </weapon>
   <weapon id="flaregun">
-    <n>Flare gun</n>
+    <n>Pistolet lance-fusées</n>
     <info>Even though you can not call this a weapon in a normal sense, it can ignite enemy, causing him quite a bit of discomfort</info>
   </weapon>
   <weapon id="plap">
@@ -899,7 +899,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>The plasma pistol is much more powerful than laser one, but less accurate and faster consumes battery charge</info>
   </weapon>
   <weapon id="plap^1">
-    <n>"Honor guard"</n>
+    <n>"Garde d'Honneur"</n>
     <info>A unique plasma pistol, perfected by a master-armorer. At least he could somehow fix the characteristic flaws of this weapon type, such as low accuracy and fast battery drain</info>
   </weapon>
   <weapon id="pulsep" v="0.6">
@@ -907,7 +907,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>The pulse pistol is called so because shooting it emits powerful directed electromagnetic pulses. They are capable of damaging electronic circuits of robots, but cause almost no harm to living beings</info>
   </weapon>
   <weapon id="shok">
-    <n>Shock gun</n>
+    <n>Pistolet électrique</n>
     <info>Quite a primitive weapon, sending electrical discharges on target. It was not designed for a battle but rather for paralyzing troublemakers and criminals</info>
   </weapon>
   <weapon id="rech">
@@ -931,11 +931,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Un pistolet converti par un artisan à partir d'un fusil de calibre .308. Cela a résulté en une arme compacte, rapide et mortelle.</info>
   </weapon>
   <weapon id="p127mm">
-    <n>Pistolet 12.7mm </n>
+    <n>Pistolet 12.7 mm </n>
     <info>Large-caliber gun going with impressive destructive power, monstrous recoil and deafening "Boom!". Using cartridges with special blunt-ended bullets that strike like a hoof kick of doom</info>
   </weapon>
   <weapon id="p127mm^1">
-    <n>"Hoof strike"</n>
+    <n>"L'Attaque du Sabot"</n>
     <info>This pistol is named so for a reason. Its shots are like sledge strikes. Hard to tell how it works, looks like some special earth pony magic</info>
   </weapon>
   <weapon id="psc" v="0.6">
@@ -955,39 +955,39 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique gun belonging to Brass Buckshot</info>
   </weapon>
   <weapon id="smg9" v="0.6">
-    <n>9-mm submachine gun</n>
+    <n>Mitraillette 9 mm</n>
     <info>Submachine gun, using common 9-mm ammo. Small, cheap, effective and does not require special skills</info>
   </weapon>
   <weapon id="smg10" v="0.6">
-    <n>10-mm submachine gun</n>
+    <n>Mitraillette 10 mm</n>
     <info>A compact and effective weapon, and unlike a bulky assault rifle is ideal for indoor use</info>
   </weapon>
   <weapon id="pp127mm">
-    <n>12,7-mm submachine gun</n>
+    <n>Mitraillette 12,7 mm</n>
     <info>Heavy large-caliber submachine gun. Deals some nice damage and knocks-back enemies, but uses scarce type of ammo</info>
   </weapon>
   <weapon id="pp127mm^1" v="0.6">
-    <n>"Squall"</n>
+    <n>"La Rafale"</n>
     <info>This specimen differs significantly from the standard 12.7 mm SMG model. Thanks to some design features, it had reduced the spread of a shot and increased aiming range</info>
   </weapon>
   <weapon id="assr">
-    <n>Assault rifle</n>
+    <n>Fusil d'assaut</n>
     <info>All-purpose firearm that combines ease of use, good firepower and abundant ammo type</info>
   </weapon>
   <weapon id="assr^1">
-    <n>"Patriot"</n>
+    <n>"Patriote"</n>
     <info>An upgraded model of an assault rifle. They say only several hundreds were produced by the end of the Great War, thus now they are super rare</info>
   </weapon>
   <weapon id="carbine">
-    <n>Assault carbine</n>
+    <n>Carabine d'assaut</n>
     <info>Next generation of weaponry compared to assault rifles. This one is more compact, precise and effective</info>
   </weapon>
   <weapon id="carbine^1">
-    <n>"The Last Argument"</n>
+    <n>"Le Dernier Débat"</n>
     <info>Modified assault rifle with upgraded optics and increased magazine. A dream of every gun nut</info>
   </weapon>
   <weapon id="zebr">
-    <n>Zebra Assault Carbine</n>
+    <n>Carabine d'assaut de zèbre</n>
     <info>Equipped with a silencer and optical sight. Bullets fired from it are enchanted to ignite on impact with a target. Always fires three bullets per a pull of trigger</info>
   </weapon>
   <weapon id="zebr^1" v="0.8">
@@ -1003,15 +1003,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique sparkle-automatic, creator of which was able to increase fire rate by adding magical cooling system. It also has a built-in audio player, but it doesn`t work</info>
   </weapon>
   <weapon id="plamg">
-    <n>Plasma caster</n>
+    <n>Lance-plasma</n>
     <info>Weapon of devastating power, sending a rain of scorching plasma on your enemies</info>
   </weapon>
   <weapon id="plamg^1">
-    <n>"Agony"</n>
+    <n>"Agonie"</n>
     <info>A unique plasma caster with a special spellmatrix. Its plasma blasts have a chance to hit through armor, which makes this weapon much more insidious and dangerous</info>
   </weapon>
   <weapon id="nova">
-    <n>Novasurge rifle</n>
+    <n>Fusil Novasurge</n>
     <info>A standard weapon of Great Pegasus Enclave forces. It represents latest developments of magical energy technologies</info>
   </weapon>
   <weapon id="nova^1" v="0.6">
@@ -1019,15 +1019,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Improved version of the Novasurge rifle, more powerful and more reliable than usual. It is only given to commanders of the Enclave special forces</info>
   </weapon>
   <weapon id="lmg">
-    <n>Light machine gun</n>
+    <n>Mitrailleuse légère</n>
     <info>Very effective, powerful and high fire rate weapon, but it requires a lot of experience using it</info>
   </weapon>
   <weapon id="lmg^1">
-    <n>"Rumble"</n>
+    <n>"Grondement"</n>
     <info>Improved version of a light machine gun, a bit more powerful and more accurate than a common one. It belonged to Elder Coldsight before</info>
   </weapon>
   <weapon id="autor" v="0.6">
-    <n>Automatic rifle</n>
+    <n>Fusil automatique</n>
     <info>This weapon is a hybrid of a rifle and a light machine gun. It is very precise, and at the same time sufficiently rapid to sustain an reasonable fire rate</info>
   </weapon>
   <weapon id="antidrak" v="0.6">
