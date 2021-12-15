@@ -699,7 +699,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Covered with peeling red paint, scratches and some sticky yuck. Quite handy for breaking into common doors, lockers and cabinets. Useless against armored doors and safes</info>
   </weapon>
   <weapon id="mont^1">
-    <n>"Burglar`s mate"</n>
+    <n>"Complice du cambrioleur"</n>
     <info>A tool for ponies with not so righteous source of income. Much sturdier than a crowbar, it can break even metal doors and concrete walls</info>
   </weapon>
   <weapon id="armature">
@@ -723,19 +723,19 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>With this huge and heavy knife you can chop a cabbagehead in ten seconds flat... or any other head too!</info>
   </weapon>
   <weapon id="zknife">
-    <n>Indented knife</n>
+    <n>Couteau denté</n>
     <info>A knife with bent and indented edge, all rusty and bloodstained. You don`t want know who used it and how</info>
   </weapon>
   <weapon id="zknife^1" v="0.7">
-    <n>Sacrificial knife</n>
-    <info>Le jouet préféré des pillards sadiques.</info>
+    <n>Couteau sacrificiel</n>
+    <info>Le jouet préféré des pillards sadiques, ainsi que le votre.</info>
   </weapon>
   <weapon id="cknife">
     <n>Couteau de combat</n>
     <info>An outstanding knife of high quality steel, still sharp even after all these years. Indispensable in a close range battle</info>
   </weapon>
   <weapon id="cknife^1">
-    <n>"Sting"</n>
+    <n>"Piqûre"</n>
     <info>A unique combat knife with a wavy edge made of durable steel. Sharp like a razor !</info>
   </weapon>
   <weapon id="bat">
@@ -751,7 +751,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A heavy machete, decorated with ornament and encrusted with nephrite</info>
   </weapon>
   <weapon id="pipe">
-    <n>Lead pipe</n>
+    <n>Barre en plomb</n>
     <info>A heavy pipe with a massive nut on one side. Those who meet this in a battle quickly learn to keep away</info>
   </weapon>
   <weapon id="ripper">
@@ -779,7 +779,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A heavy iron machinery part, welded to a sturdy long rod. A good swing - and it can easily add a couple of holes to somepony`s head</info>
   </weapon>
   <weapon id="hammer">
-    <n>Sledgehammer</n>
+    <n>Massue</n>
     <info>A good tool for crushing walls as well as enemy skulls</info>
   </weapon>
   <weapon id="hammer^1">
