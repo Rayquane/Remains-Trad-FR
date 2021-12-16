@@ -1039,11 +1039,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique 14.5 mm machine gun, converted into a personal weapon by griffins. Once belonged to one of the "Talons" detachments</info>
   </weapon>
   <weapon id="hmg" v="0.6">
-    <n>Medium machine gun</n>
+    <n>Mitrailleuse moyenne</n>
     <info>A large-caliber machine gun, intended primarily for reinforcing guard posts rather than for personal use. Too big and heavy, but its firepower is more than impressive</info>
   </weapon>
   <weapon id="quick" v="0.6">
-    <n>Rapid-fire plasma gun</n>
+    <n>Fusil plasma à tir rapide</n>
     <info>A model of a plasma gun, modified just before the Apocalypse, which combat characteristics were much improved. As far as we know, only a few dozen units were produced, after which the manufacturing plant was destroyed by a megaspell</info>
   </weapon>
   <weapon id="quick^1" v="0.6">
@@ -1051,7 +1051,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique high fire rate plasma caster, which design was improved by an unknown master. It seems, it hid in the storerooms of the "Steel Rangers" for years, waiting for something. And now its time has come</info>
   </weapon>
   <weapon id="oldshot">
-    <n>Old shotgun</n>
+    <n>Vieux fusil</n>
     <info>This ancient shotgun is all rusty and falling apart. It can still shoot alright, but success is unlikely. Can hold two shells maximum</info>
   </weapon>
   <weapon id="oldshot^1">
@@ -1059,19 +1059,19 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A vintage shotgun in a good condition. You can tell, somepony really cared for this weapon and yet almost never used it</info>
   </weapon>
   <weapon id="lshot">
-    <n>Lever-action shotgun</n>
-    <info>A lever-action rifle, sawed-off and converted to a shotgun. Effective for a close range combat only</info>
+    <n>Fusil à pompe à levier</n>
+    <info>Un fusil à levier, à canon scié et converti en fusil à pompe. Efficace pour la courte portée uniquement.</info>
   </weapon>
   <weapon id="shotgun">
-    <n>Sawed-off shotgun</n>
+    <n>Fusil à canon scié</n>
     <info>Double-barreled sawed-off shotgun. Quite powerful, but because of a widespread of shot, it is effective only at close range. Allows only two shots to be fired, then you have to reload. Which, of course is not very convenient</info>
   </weapon>
   <weapon id="shotgun^1">
-    <n>"Supreme measure"</n>
-    <info>A unique sawed-off shotgun that probably belonged to some sheriff. There is a name on a butt of the rifle. Silverstar</info>
+    <n>"Loi suprême"</n>
+    <info>Un fusil à canon scié unique qui appartenait probablement à un sherrif. Un nom est écrit sur la crosse : Silverstar.</info>
   </weapon>
   <weapon id="saf9">
-    <n>IF-9 Combat Shotgun</n>
+    <n>Fusil de combat IF-9</n>
     <info>Semi-automatic shotgun with a drum magazine, one of many weapon models developed in Ironshod Firearms</info>
   </weapon>
   <weapon id="saf9^1">
@@ -1079,7 +1079,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A modified shotgun with loner barrel and improved cartridge feeding system, making it faster and more accurate</info>
   </weapon>
   <weapon id="pshot">
-    <n>Police shotgun</n>
+    <n>Fusil de police</n>
     <info>A shotgun used by pre-War police forces, becoming very popular nowadays due to its combat effectiveness</info>
   </weapon>
   <weapon id="pshot^1">
@@ -1087,11 +1087,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique police shotgun of outstanding quality, clearly made by special order. There is an engraving saying "To police chief Counterstrike, in gratitude for saving hostages"</info>
   </weapon>
   <weapon id="prism">
-    <n>Prism gun</n>
+    <n>Pistolet prisme</n>
     <info>Similar to a laser rifle, but using different focusing system. Instead of a single impulse it emits a bunch of rays of different wavelength, that makes it more effective at close range</info>
   </weapon>
   <weapon id="prism^1">
-    <n>"Rainbow strike"</n>
+    <n>"Frappe arc-en-ciel"</n>
     <info>A modified prism gun, has a higher power than a standard model. Its rainbow colored rays can burn a target through and knock it back at the same time</info>
   </weapon>
   <weapon id="cryo" v="0.6">
@@ -1099,8 +1099,8 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A unique weapon, the only one in existence. It does not melt or incinerate, but freezes the target. The living creatures are particularly vulnerable to this effect</info>
   </weapon>
   <weapon id="plam">
-    <n>Multiplasma shotgun</n>
-    <info>Magical energy shotgun casting three plasma bolts per one shot. Weapon of choice at close range, not effective at long distance</info>
+    <n>Fusil à multiplasma</n>
+    <info>Un fusil à pompe à énergie magique tirant trois éclairs par tir. Une arme de choix pour la courte portée, non efficace à grande distance.</info>
   </weapon>
   <weapon id="plam^1">
     <n>"Cerberus"</n>
@@ -1111,51 +1111,51 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A weathered, slightly rusty rifle that, surprisingly, still works. Even though it became obsolete long before the War, it can still make a few holes in somepony</info>
   </weapon>
   <weapon id="oldr^1">
-    <n>"Granddaddy`s rifle"</n>
+    <n>"Le fusil de Grand-Père"</n>
     <info>This weapon is as old as the Equestrian firearms can be. But it was made to last, and it still surpasses many similar rifles</info>
   </weapon>
   <weapon id="hunt">
-    <n>Hunting rifle</n>
+    <n>Fusil de chasse</n>
     <info>Do not even ask why ponies might need hunting rifles. Just a good and accurate weapon, besides consuming a common ammo type</info>
   </weapon>
   <weapon id="winchester">
-    <n>Cowpony repeater</n>
+    <n>Fusil à répétition de cow-poney</n>
     <info>A lever-action rifle, slightly primitive perhaps, but accurate and reliable. It was quite popular before the War among civilians of Equestria, regarded as an outstanding self-defense weapon</info>
   </weapon>
   <weapon id="winchester^1">
-    <n>"Price of freedom"</n>
+    <n>"Prix de la liberté"</n>
     <info>"And what are You ready to sacrifice for freedom?" - asks the cowpony from an old propaganda poster, holding a rifle exactly like this in her hooves</info>
   </weapon>
   <weapon id="sniper">
-    <n>Sniper rifle</n>
+    <n>Fusil de précision</n>
     <info>Effective long-range weapon. Uses rare .308 caliber ammo</info>
   </weapon>
   <weapon id="sniper^1">
-    <n>"Remorse"</n>
+    <n>"Remords"</n>
     <info>A unique sniper rifle. It is completely black, and its butt has hundreds of tiny notches. Its previous owner counted its every prey</info>
   </weapon>
   <weapon id="brushgun">
-    <n>Brush gun</n>
+    <n>Carabine à levier</n>
     <info>One of the most powerful examples of non-military weapons. A shot from this rifle can even kill a bear, and from a reasonable distance too</info>
   </weapon>
   <weapon id="brushgun^1">
-    <n>"Elephant hunter"</n>
+    <n>"Chasseur d'éléphant"</n>
     <info>Can you really kill an elephant with this? Well, we will never know for sure due to an absence of elephants in the Equestrian Wasteland. But judging by its looks - you most probably can</info>
   </weapon>
   <weapon id="anti">
-    <n>Anti-machine rifle</n>
+    <n>Fusil anti-machines</n>
     <info>Large-caliber armor-piercing rifle effective against robots and power armor. With some luck you can even take out a tank. The bad news is that it is not so easy to find proper ammunition</info>
   </weapon>
   <weapon id="anti^1">
-    <n>"Spitfire`s Thunder"</n>
+    <n>"La Colère du Tonnerre"</n>
     <info>A unique anti-machine rifle, enchanted to shoot without any recoil, even though its power is simply monstrous. Decorated with gold and precious stones, and every shot sounds like a thunder roll</info>
   </weapon>
   <weapon id="rechr">
-    <n>Rechargeable rifle</n>
+    <n>Fusil rechargeable</n>
     <info>This weapon represents an attempt to create a weapon that doesn`t require any ammo. Not very successful, as you can see. An "infinite" battery does not produce enough power, and the weapon itself requires frequent maintenance</info>
   </weapon>
   <weapon id="lasr">
-    <n>Laser rifle</n>
+    <n>Fusil laser</n>
     <info>A more powerful and accurate weapon than a laser pistol, but also faster consuming battery power. Unlike bullets, a laser beam instantly reaches destination, hence no need to make any corrections for target distance and some other factors. Doesn`t work underwater</info>
   </weapon>
   <weapon id="lasr^1">
@@ -1163,15 +1163,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Limited edition laser rifle that uses magical ruby of a very rare kind as a focusing crystal. During the War, it was used by elite pegasi-assaulters, but now it is almost impossible to get</info>
   </weapon>
   <weapon id="plar">
-    <n>Plasma rifle</n>
+    <n>Fusil plasma</n>
     <info>High-power magical energy weapon casting bolts of green magical plasma. When shot from this gun, enemies do not just die but actually melt into a puddle of green slime. Can easily melt through concrete walls, but because of difficulties with plasma stabilization it is not highly accurate and requires good skills for successful exploitation</info>
   </weapon>
   <weapon id="plar^1">
-    <n>"Turboplasma rifle"</n>
+    <n>"Fusil Turboplasma"</n>
     <info>An example of how much one can improve combat stats of a standard weapon with proper talent and ingenuity. This modified plasma rifle not only has higher fire rate, but also uses less energy</info>
   </weapon>
   <weapon id="pulser" v="0.6">
-    <n>Pulse rifle</n>
+    <n>Fusil à impulsion</n>
     <info>A significantly enhanced version of the pulse pistol. To create the most powerful electromagnetic pulse, it is stuffed with a whole bunch of coils, capacitors, and lamps. Unfortunately, all this stuff is very unreliable and wears down quickly</info>
   </weapon>
   <weapon id="pulser^1" v="0.6">
@@ -1179,7 +1179,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>The impulse rifle of a very strange look. The blue crystals inserted in it emit a magical aura, which must have something to do with its increased fire rate</info>
   </weapon>
   <weapon id="lassn">
-    <n>Laser sniper rifle</n>
+    <n>Fusil laser de précision</n>
     <info>This weapon is more powerful and accurate in comparison to a common laser rifle, but consumes battery charge faster. Also it emits rays of green color instead of red</info>
   </weapon>
   <weapon id="lassn^1">
@@ -1191,15 +1191,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A weapon emitting an intense flow of infrared radiation, instantly igniting the target. It was developed as an alternative to flamethrowers, but, unlike them, does not have such a demoralizing effect, and therefore has not become too popular</info>
   </weapon>
   <weapon id="termo^1" v="0.8">
-    <n>"Ashes of Equestria"</n>
+    <n>"Cendres d'Equestria"</n>
     <info>The unique thermoemitter, which fighting qualities are an order of magnitude higher compared to a usual one. Capable of turning anything into ashes</info>
   </weapon>
   <weapon id="grom">
-    <n>Storm rifle</n>
+    <n>Fusil tempête</n>
     <info>Long range magical energy rifle. Hits enemy with a powerful bolt of electricity, targeted by a laser ray. For better effect target must be touching the ground</info>
   </weapon>
   <weapon id="grom^1">
-    <n>"Thunderer"</n>
+    <n>"Tonnerre Grondant"</n>
     <info>A unique storm rifle, which coolness is OVER NINE THOUSAND! It is not only more powerful than ordinary storm rifles, but is also enchanted to pierce magical armor</info>
   </weapon>
   <weapon id="rail">
@@ -1211,11 +1211,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An improved railgun, developed not so long ago by what is left from Equestrian science. Even more deadly than before, and also equipped with improved power system</info>
   </weapon>
   <weapon id="glau1">
-    <n>Grenade launcher</n>
+    <n>Lance-grenades</n>
     <info>Single charge 40-mm grenade launcher, effective both against crowds of enemies as well as for punching through walls. Projectiles move in a parabolic trajectory, that must be considered when aiming</info>
   </weapon>
   <weapon id="glau">
-    <n>Grenade launcher</n>
+    <n>Lance-grenades</n>
     <info>Automatic 40-mm grenade launcher, much more effective than an ordinary single charge one, as it allows to keep up intense fire. Steel Rangers are quite fond of this weapon for its deadly power</info>
   </weapon>
   <weapon id="glau^1">
@@ -1223,11 +1223,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Unique automatic grenade launcher, capable of turning a battlefield into a burning hell. It has a bigger magazine and faster fire-rate, compared to a standard model</info>
   </weapon>
   <weapon id="aglau" v="0.6">
-    <n>Automatic grenade launcher</n>
+    <n>Lance-grenades automatique</n>
     <info>A 40-mm grenade launcher with a large magazine for 12 shells and an excellent fire rate. Provides the highest density of fire among all weapons of this type</info>
   </weapon>
   <weapon id="mlau">
-    <n>Missile launcher</n>
+    <n>Lance-missiles</n>
     <info>A portable launcher designed for destruction of heavy machinery, buildings and enemy horsepower using large-caliber rockets</info>
   </weapon>
   <weapon id="mlau^1">
@@ -1239,11 +1239,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Weapon equipped with rotating several barreled cluster of impressive firepower. It uses small-caliber ammo, which is not very effective against armored targets. In addition, it takes some time to start spinning</info>
   </weapon>
   <weapon id="minigun^1">
-    <n>"Gale"</n>
+    <n>"Vent violent"</n>
     <info>A unique minigun - machine of doom, a horrible meat grinder. Just a word that Gale appeared on a battlefield may cause enemy troops run in panic</info>
   </weapon>
   <weapon id="gatl">
-    <n>Laser minigun</n>
+    <n>Minigun laser</n>
     <info>Multiple barreled laser gun, which gives you great power and rate of fire but is too large and heavy</info>
   </weapon>
   <weapon id="gatl^1">
@@ -1251,15 +1251,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Unique laser minigun that belonged to some high-ranking Steel Ranger. More precise and compact than standard model</info>
   </weapon>
   <weapon id="gatp">
-    <n>Plasma minigun</n>
+    <n>Minigun plasma</n>
     <info>A weapon of unbelievable power, capable of turning a whole squad into a puddle of green goo in a matter of seconds. Its huge size, weight and charge consumption on the other hoof make it a poor personal weapon</info>
   </weapon>
   <weapon id="gatp^1">
-    <n>"Dragon`s roar"</n>
+    <n>"Rugissement du dragon"</n>
     <info>Somepony could indeed find significance in dragon`s breath and flow of plasma spit by this weapon. But it would be right to say, that facing this weapon, a dragon would definitely wind himself in trouble</info>
   </weapon>
   <weapon id="flamer">
-    <n>Flamethrower</n>
+    <n>Lance-flammes</n>
     <info>Incinère les ennemis. A une chance de mettre la cible en feu, Cause plus de dégats avec le temp</info>
   </weapon>
   <weapon id="flamer^1">
@@ -1267,7 +1267,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An improved flamethrower, having some construction changes. Because of those, fire range and fuel burning temperature are increased</info>
   </weapon>
   <weapon id="incin">
-    <n>Incinerator</n>
+    <n>Incinérateur</n>
     <info>An explosive flame-thrower, launching small portions of combustible mixture. Balls of fire explode on impact, splashing burning fuel all over, so remember to keep distance</info>
   </weapon>
   <weapon id="cflamer">
