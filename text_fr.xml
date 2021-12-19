@@ -610,23 +610,23 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="spritebot">
     <n>Sprite-bot</n>
-    <info>Un petit robot volant, développé par le Ministère du Moral. Les sprite-bots étaient utilisés comme transmetteurs mobiles, diffusant en permanence la radio patriotique, mais en même temps surveillait secrètement les civils. Aujourd'hui les sprites-bots Today sprite bots can still be found in plenty in the Wastelands. They usually do not represent danger, except when they are controlled by security systems of old closed strategic objects. In this case, they can try attacking the interloper using low-power weapons</info>
+    <info>Un petit robot volant, développé par le Ministère du Moral. Les sprite-bots étaient utilisés comme transmetteurs mobiles, diffusant en permanence la radio patriotique, mais en même temps surveillait secrètement les civils. Aujourd'hui les sprites-bots peuvent être trouvés en abondance dans les terres Désoléees. Ils ne représentent en général aucun danger, excepté quand ils sont controllés par les sytèmes de sécurité d'anciennes entités stratégiques. Dans ce cas, ils peuvent essayer d'attaquer l'intrus à l'aide d'armes à faible puissance.</info>
   </unit>
   <unit id="vortex">
     <n>Vortex</n>
-    <info>Flying scout robot used to observe a situation and collect data during combat. It can both act autonomously or be controlled via a radio interface, transferring an image from robot`s camera directly to the operator`s visor. It can also be used in combat directly - its propeller`s blades are made of durable alloy and sharpened, making them quite suitable as a cutting weapon</info>
+    <info>Des robots volants éclaireurs utilisés pour observer une situation et collecter des données. Il peut agir autonomement ou peut être controllé par interface radio, transferrant l'image de la caméra du robot à la visière de l'opérateur. Il peut aussi être utilisé en combat directement :  ses lames d'hélices sont faits d'alliage durable et tranchant, faisant d'elles une arme tranchante convenable.</info>
   </unit>
   <unit id="roller">
-    <n>Roller</n>
-    <info>Small security robots that resemble a metal globe. When a hostile object appears in their detection range, they begin rolling towards it, aiming to strike and shock with a powerful electric discharge. They can jump high and bounce from the walls</info>
+    <n>Rouleur</n>
+    <info>Petits robots de sécurité qui ressemblent à des globes en métal. Quannd une entité hostile apparaît dans leur portée de détection, ils commencent à rouler vers elle, visant à l'attaquer et l'électrifier avec une puissante décharge électrique. Ils peuvent sauter haut et bondir des murs.</info>
   </unit>
   <unit id="roller2" v="0.8">
     <n>Roller de l'Enclave</n>
-    <info>An improved roller equipped with its own plasma mini-reactor that gives it more power and explosiveness. In combination with high mobility and an exceptionally strong body it poses a considerable threat</info>
+    <info>Un rouleur amélioré équippé de son propre mini-réacteur plasma lui donnant plus de puissance et d'explosivité. Sa combinaison d'une haute mobilité et d'un excellent corps résistant fait qu'il représente une menace considérable.</info>
   </unit>
   <unit id="msp">
     <n>Arachno-mine</n>
-    <info>Robot-bomb, apparently created by zebras. Unlike common mines, these do not wait for the enemy to step on them, but try getting closer themselves. They must never be allowed to come close - once they approach the target, they immediately explode</info>
+    <info>Une bombe-robot, apparemment créée par les zèbres. Contrairement aux mines communes, celles-ci n'attendent pas que l'ennemi marche dessus, mais essayent de s'approcher de lui. Elles ne doivent jamais s'approcher : une fois assez proches, elles explosent immédiatement.</info>
   </unit>
   <unit id="dron1" v="0.7">
     <n>Drone de sécurité</n>
@@ -7726,7 +7726,7 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
       <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des habitants locaux, n'est-ce pas ?</r>
       <r p='calam'>Eh bien, on peut dire ça. Ravi d't'rencontrer, j'suis Calamity.</r>
       <r p='lp4'>Ravi de vous rencontrer aussi, je suis @lp. Écoute, Calamity, à moins que ce ne soit trop compliqué pour toi, pourrais-tu me montrer le chemin vers la ville ou la colonie la plus proche ? </r>
-      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le poney de Prancin". Ah, je suis sûr qu'ty trouveras tout c'que t'as besoin. Dis-moi quand tu s'ras prêt à partir </r>
+      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le Poney Cabré". Ah, je suis sûr qu'ty trouveras tout c'que t'as besoin. Dis-moi quand tu s'ras prêt à partir </r>
     </n>
   </txt>
   <txt id="plantNextLevel" v="0.7">
@@ -7902,21 +7902,21 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   </txt>
   <txt id="surfDialCaptive" imp="1" v="0.7">
     <n>
-      <t v="0.8">Conversation with slavers` captive</t>
-      <r p='capt'>Hey! You are not one of them? You don`t look like one of those... please, help me!</r>
-      <r p='lp2'>What happened? Who put you in a cage?</r>
-      <r p='lp2' push='1'>And who are "they"?</r>
-      <r p='capt'>The slavers! There`s a whole gang of them. They captured us during a raid - me and the other ponies. And now hold us in cages until they take us to Filly</r>
-      <r p='lp5'>They kidnap other ponies to... just use them as if they were some kind of property?</r>
-      <r p='capt'>Yes! Please don`t leave me here!</r>
-      <r p='lp5'>I won`t! Neither you, nor other captives</r>
-      <r p='lp3'>But the cage is locked... I am not sure that I can handle this lock...</r>
-      <r p='capt'>Slavers must have keys. Most likely, the chief warden has a copy. But don`t even think about stealing them, and taking them by force... There are too many of them for you alone</r>
-      <r p='lp5'>We shall see about that!</r>
-      <r p='lp2' push='1'>Where are the other captives?</r>
-      <r p='capt'>I don`t know. Must be in that big building. I hope they are still ok...</r>
-      <r p='lp2'>I will try to pick the lock on your cage. And if it doesn`t work, I`ll have to get the key</r>
-      <r p='lp5' push='1'>I just can`t believe things like this are actually happening!</r>
+      <t v="0.8">Conversation avec le captif des esclavagistes</t>
+      <r p='capt'>Hey! Vous n'êtes pas l'un d'entre eux? Vous ne ressemblez pas à l'un de ceux-là... s'il vous plaît, aidez-moi !</r>
+      <r p='lp2'>Que s'est-il passé? Qui t'a mis en cage ?</r>
+      <r p='lp2' push='1'>Et qui c'est "eux"?</r>
+      <r p='capt'>Les esclavagistes ! Il y en a toute une bande. Ils nous ont capturés lors d'un raid - moi et les autres poneys. Et maintenant ils nous gardent dans des cages jusqu'à ce qu'ils nous emmènent à Filly</r>
+      <r p='lp5'>Ils kidnappent d'autres poneys pour... les utiliser comme s'ils étaient une sorte de propriété ?</r>
+      <r p='capt'>Oui! S'il te plaît ne me laissez pas ici!</r>
+      <r p='lp5'>Je ne le ferai pas ! Ni toi, ni les autres captifs</r>
+      <r p='lp3'>Mais la cage est verrouillée... Je ne suis pas sûr de pouvoir crochetter cette serrure...</r>
+      <r p='capt'>Les esclavagistes doivent avoir des clés. Très probablement, le directeur général en a une copie. Mais ne pensez même pas à les lui voler, ou à les prendre de force... Il sont trop nombreux</r>
+      <r p='lp5'>C'est ce qu'on va voir!</r>
+      <r p='lp2' push='1'>Ou sont les autres captifs?</r>
+      <r p='capt'>Je ne sais pas. Ça doit être dans ce grand bâtiment. J'espère qu'ils vont bien...</r>
+      <r p='lp2'>Je vais essayer de crocheter la serrure de ta cage. Et si ça ne marche pas, je devrai récupérer la clé</r>
+      <r p='lp5' push='1'>Je ne peux tout simplement pas croire que des choses comme celle-ci se produisent réellement !</r>
     </n>
   </txt>
   <txt id="surfDialHello2" imp="1" v="0.7">
@@ -8152,53 +8152,53 @@ You were not at the briefing of the rear-guard commanders, so I`ll give you the 
   </txt>
   <txt id="rblDialM" v="0.7">
     <n>
-      <r p="lp1">Well, we certainly got somewhere. Looks like here they`re not going to shoot me right away. I need to look around and ask some questions</r>
+      <r p="lp1">Eh bien, enfin voila un lieu amical. On dirait qu'ici ils ne vont pas me tirer dessus sans raison. Je vais explorer autour de moi et poser quelques questions</r>
     </n>
   </txt>
   <txt id="rblDialHi">
     <n>
-      <r p="term">Welcome to "Prancing Pony" - the most peaceful and safe place in the Wasteland. Here you can rest, trade, repair equipment and get medical treatment</r>
-      <r p="term">Please obey the rules. Fighting, shooting, stealing and furniture displacement are prohibited. Violators will be terminated</r>
+      <r p="term">Bienvenue au "Poney Cabré", l'endroit le plus paisible et le plus sûr des Terres Désolées. Ici, vous pouvez vous reposer, échanger, réparer du matériel et recevoir des soins médicaux.</r>
+      <r p="term">Veuillez respecter les règles. Les bagarres, les tirs, les vols et les déplacements de mobilier sont interdits. Les contrevenants seront licenciés.</r>
     </n>
   </txt>
   <txt id="rblDialMed" imp="2">
     <n>
-      <t v="0.8">The Health section of your PipBuck</t>
-      <r p='term' mod='1'>Remember to often check your health condition! To do that, go to "Health" section in your PipBuck.</r>
-      <r p='term' mod='1' push='1'>Don`t forget, you won`t survive long using health potions only. They sure make you feel better, but don`t get rid of serious injuries and traumas.
-          If you like to scout in all sorts of dangerous places, but are not an expert in medicine yourself, you definitely should visit a doctor on a regular basis</r>
+      <t v="0.8">La section Santé de votre PipBuck</t>
+      <r p='term' mod='1'>N'oubliez pas de vérifier régulièrement votre état de santé ! Pour cela, rendez-vous dans la section « Santé » de votre Pip Buck.</r>
+      <r p='term' mod='1' push='1'>N'oubliez pas que vous ne survivrez pas longtemps en utilisant uniquement des potions de santé.
+          Si vous aimez explorer toutes sortes d'endroits dangereux, mais que vous n'êtes pas vous-même un expert en médecine, vous devriez absolument consulter un médecin régulièrement.</r>
     </n>
   </txt>
   <txt id="rblDialWorkbench" imp="2">
     <n>
-      <t v="0.8">Using a workbench</t>
-      <r p='term' mod='1'>Use a workbench if you need to create, repair or improve your equipment</r>
-      <r p='term' mod='1' push='1'>To assemble new weapons and explosives you need schematics, materials and appropriate skills.
-          For repairing weapons and armor you need necessary components and repair skill. Or you can just pay the merchant to do it.
-          Avoid using worn out armor and broken weapons - they will surely let you down in the most critical moment</r>
+      <t v="0.8">Utiliser un établi</t>
+      <r p='term' mod='1'>Utilisez un établi si vous devez créer, réparer ou améliorer votre équipement.</r>
+      <r p='term' mod='1' push='1'>Pour assembler de nouvelles armes et explosifs, vous avez besoin de schémas, de matériaux et de compétences appropriées.
+          Pour réparer des armes et des armures, vous avez besoin des composants nécessaires et des compétences de réparation. Ou vous pouvez simplement payer le marchand pour le faire.
+          Évitez d'utiliser des armures usées et des armes cassées - elles vous laisseront sûrement tomber au moment le plus critique</r>
     </n>
   </txt>
   <txt id="rblDialTrain">
     <n>
-      <r mod="1" p="term">Welcome to the training grounds. Here you can train with melee weapons, firearms, grenades and magic, without disturbing anypony</r>
-      <r mod="1" p="term" push="1">While you are here, your weapons will not break, and your ammo will not end. Shoot as much as you like!</r>
+      <r mod="1" p="term">Bienvenue sur les terrains d'entraînement. Ici, vous pouvez vous entraîner avec des armes de mêlée, des armes à feu, des grenades et de la magie, sans déranger personne</r>
+      <r mod="1" p="term" push="1">Tant que vous êtes ici, vos armes ne se briseront pas et vos munitions ne s'épuiseront pas. Tirez autant que vous le souhaitez !</r>
     </n>
   </txt>
   <txt id="rblDialBoss">
     <n>
-      <r mod="1" p="term">You can fight any boss again, but only after you get his key. The boss level will match yours</r>
+      <r mod="1" p="term">Vous pouvez à nouveau combattre n'importe quel boss, mais seulement après avoir obtenu sa clé. Le niveau du boss correspondra au vôtre</r>
     </n>
   </txt>
   <txt id="vendor_bar_hi" imp="1" v="0.7">
     <n>
-      <t v="0.8">Meeting Daiquiri</t>
-      <r p='vb'>Welcome to my bar "Prancing Pony". By the way, that`s also the name of our settlement. We are always happy to see peaceful travelers here. Do not cause problems, and we will get along. And my name is Daiquiri</r>
-      <r p='lp4'>Hi, I`m @lp. As I understand, you are in charge of this camp?</r>
-      <r p='vb'>Sort of. At least I try to resolve all important issues. Ask me if you need something or just want to have a drink</r>
-      <r p='vb'>If you want to trade or earn a few caps, visit merchants in the main hall. They always have work to be done, maybe they`ll hire you to help</r>
-      <r p='vb'>Well, if you need to patch up, visit the clinic. Our Doc is the best doctor you can find around here</r>
-      <r p='lp4'>Thank you for your hospitality. If I ever need information, I will definitely pay you a visit</r>
-      <r p='lp3'>(to herself) Well, the first contact is officially established. Now I need to find out anything that might help me in my search for the factory</r>
+      <t v="0.8">Rencontre avec Daiquiri</t>
+      <r p='vb'>Bienvenue dans mon bar le "Poney Cabré". Au fait, c'est aussi le nom de notre colonie. Nous sommes toujours heureux de voir des voyageurs paisibles ici. Ne causez pas de problèmes, et nous nous entendrons (et nous ne vous tuerons pas). Mon nom est Daiquiri</r>
+      <r p='lp4'>Salut, je suis @lp. Si j'ai bien compris, vous êtes en charge de ce camp ?</r>
+      <r p='vb'>En quelque sorte. J'essaie au moin de résoudre tous les problèmes importants. Demandez-moi si vous avez besoin de quelque chose ou si vous voulez juste boire un verre</r>
+      <r p='vb'>Si vous souhaitez échanger ou gagner quelques capsules, rendez-vous chez les marchands dans le hall principal. Ils ont toujours du travail à faire, peut-être qu'ils vous embaucheront pour les aider</r>
+      <r p='vb'>Eh bien, si vous avez besoin de vous rafistoler, rendez-vous à la clinique. Notre doc est le meilleur médecin que vous puissiez trouver ici</r>
+      <r p='lp4'>Je vous remercie pour votre hospitalité. Si jamais j'ai besoin d'informations, je vous rendrai certainement visite</r>
+      <r p='lp3'>(à elle-même) Bon, le premier contact est officiellement établi. Maintenant, j'ai besoin de trouver tout ce qui pourrait m'aider dans ma recherche de l'usine</r>
     </n>
   </txt>
   <txt id="vendor_bar_task" imp="1" v="0.7">
