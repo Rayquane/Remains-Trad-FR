@@ -621,7 +621,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Petits robots de sécurité qui ressemblent à des globes en métal. Quannd une entité hostile apparaît dans leur portée de détection, ils commencent à rouler vers elle, visant à l'attaquer et l'électrifier avec une puissante décharge électrique. Ils peuvent sauter haut et bondir des murs.</info>
   </unit>
   <unit id="roller2" v="0.8">
-    <n>Roller de l'Enclave</n>
+    <n>Rouleur de l'Enclave</n>
     <info>Un rouleur amélioré équippé de son propre mini-réacteur plasma lui donnant plus de puissance et d'explosivité. Sa combinaison d'une haute mobilité et d'un excellent corps résistant fait qu'il représente une menace considérable.</info>
   </unit>
   <unit id="msp">
@@ -630,15 +630,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="dron1" v="0.7">
     <n>Drone de sécurité</n>
-    <info>A small but quite dangerous flying robot. Has a durable composite case, active electric protection and a fairly powerful laser weapon. It is used to protect military and civilian facilities of special importance</info>
+    <info>Un robot volant petit mais plutôt dangereux. Il possède une armure composée et durable, une protection électrique active, et une puissante arme laser. Il est utilisé pour protéger les bâtiments militaires et civils d'importance particulière.</info>
   </unit>
   <unit id="dron2" v="0.7">
     <n>Drone de combat</n>
-    <info>Modified security drone, not so sturdy, but much faster and mobile. Armed with a high-voltage discharger and a plasma generator. Designed to accompany and support military units</info>
+    <info>Un drone de sécurité modifié, pas aussi solide, mais bien plus rapide et mobile. Armé d'un déchargeur à haute tension et d'un générateur plasma. Conçu pour accompagner et supporter les unités militaires.</info>
   </unit>
   <unit id="dron3" v="0.8">
     <n>Drone de l'Enclave</n>
-    <info>Lightweight high-speed drone, often used by Enclave stormtroopers in combat. Thanks to its high maneuverability and advanced behavioral algorithms it can evade melee weapons, slow projectiles and even bullets</info>
+    <info>Un drone léger ultra rapide, utilisé régulièrement par les unités d'assaut de l'Enclave en combat. Grâce à sa grande maniabilité et ses algorithmes de comportement avancés, il peut esquiver des armes de corps-à-corps, les projectiles lents et mêmes des balles.</info>
   </unit>
   <unit id="mtrap">
     <n>Piège</n>
@@ -1159,7 +1159,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A more powerful and accurate weapon than a laser pistol, but also faster consuming battery power. Unlike bullets, a laser beam instantly reaches destination, hence no need to make any corrections for target distance and some other factors. Doesn`t work underwater</info>
   </weapon>
   <weapon id="lasr^1">
-    <n>"Scarlet sunrise"</n>
+    <n>"Aube écarlate"</n>
     <info>Limited edition laser rifle that uses magical ruby of a very rare kind as a focusing crystal. During the War, it was used by elite pegasi-assaulters, but now it is almost impossible to get</info>
   </weapon>
   <weapon id="plar">
@@ -1167,7 +1167,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>High-power magical energy weapon casting bolts of green magical plasma. When shot from this gun, enemies do not just die but actually melt into a puddle of green slime. Can easily melt through concrete walls, but because of difficulties with plasma stabilization it is not highly accurate and requires good skills for successful exploitation</info>
   </weapon>
   <weapon id="plar^1">
-    <n>"Fusil Turboplasma"</n>
+    <n>"Fusil turboplasma"</n>
     <info>An example of how much one can improve combat stats of a standard weapon with proper talent and ingenuity. This modified plasma rifle not only has higher fire rate, but also uses less energy</info>
   </weapon>
   <weapon id="pulser" v="0.6">
@@ -1175,7 +1175,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A significantly enhanced version of the pulse pistol. To create the most powerful electromagnetic pulse, it is stuffed with a whole bunch of coils, capacitors, and lamps. Unfortunately, all this stuff is very unreliable and wears down quickly</info>
   </weapon>
   <weapon id="pulser^1" v="0.6">
-    <n>"Mystery shard"</n>
+    <n>"Eclat mystère"</n>
     <info>The impulse rifle of a very strange look. The blue crystals inserted in it emit a magical aura, which must have something to do with its increased fire rate</info>
   </weapon>
   <weapon id="lassn">
@@ -1187,7 +1187,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A long-range laser rifle made by special order, probably even unique. Higher quality capacitors and the finest tuning of focusing crystals makes this weapon able to generate laser impulses of unbelievable power!</info>
   </weapon>
   <weapon id="termo" v="0.6">
-    <n>Thermoemitter</n>
+    <n>Thermo-émetteur</n>
     <info>A weapon emitting an intense flow of infrared radiation, instantly igniting the target. It was developed as an alternative to flamethrowers, but, unlike them, does not have such a demoralizing effect, and therefore has not become too popular</info>
   </weapon>
   <weapon id="termo^1" v="0.8">
@@ -1271,7 +1271,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An explosive flame-thrower, launching small portions of combustible mixture. Balls of fire explode on impact, splashing burning fuel all over, so remember to keep distance</info>
   </weapon>
   <weapon id="cflamer">
-    <n>Tactical flamethrower</n>
+    <n>Lance-flammes tactique</n>
     <info>A fearsome weapon, promising inevitable and very painful death, causing panic and chaos in enemy squads. It spits burning fuel on long distance, starting fires that are quite hard to extinguish</info>
   </weapon>
   <weapon id="cflamer^1">
@@ -1507,10 +1507,10 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Laser minigun</n>
   </weapon>
   <weapon id='robomlau' v='0.8'>
-    <n>Lance roquette</n>
+    <n>Lance-roquettes</n>
   </weapon>
   <weapon id='dronmlau' v='0.8'>
-    <n>Rocket launcher</n>
+    <n>Lance-roquettes</n>
   </weapon>
   <weapon id='robogatp' v='0.8'>
     <n>Plasma minigun</n>
@@ -1865,50 +1865,50 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A small explosive projectile for use in grenade launchers</info>
   </item>
   <item id="rocket">
-    <n>Rocket</n>
+    <n>Roquette</n>
     <info>A self-propelled projectile for use in rocket launchers</info>
   </item>
   <item id="egg">
-    <n>Balefire egg</n>
+    <n>Oeuf funeste</n>
     <info>A magical projectile, resembling an egg. Destructive energy, hidden deep inside, is expressed on a surface merely by elusive flickering of lights</info>
   </item>
   <item id="aero">
-    <n>Aerosol</n>
+    <n>Aérosol</n>
     <info>A cylinder of liquid propane and isobutane - highly flammable gases</info>
   </item>
   <item id="dart">
-    <n>Dart</n>
+    <n>Fléchette</n>
     <info>A common attribute for a darts game</info>
   </item>
   <item id="saw">
-    <n>Circular saw</n>
+    <n>Scie circulaire</n>
     <info>A circular saw of stainless steel with sharp teeth</info>
   </item>
   <item id="mine" v="0.6">
-    <n>Fragmentation mine</n>
+    <n>Mine à fragmentation </n>
   </item>
   <item id="acid">
-    <n>Acid</n>
-    <info>A plastic bottle with concentrated acid</info>
+    <n>Acide</n>
+    <info>Une bouteille en plastique contenant de l'acide concentré.</info>
   </item>
   <item id="spikenail">
     <n>Railway spike</n>
     <info>A heavy iron thing, used to attach sleepers to rails</info>
   </item>
   <item id="pcryo" v="0.6">
-    <n>Cryocell</n>
+    <n>Cryocellule</n>
     <info>If the alchemical compounds contained in this small cell react, this would cause an instant drop in their temperature to the almost absolute zero</info>
   </item>
   <item id="bcell" v="0.6">
-    <n>Energy cell</n>
+    <n>Cellule d'énergie</n>
     <info>A battery used for a star blaster, many times more powerful than usual batteries</info>
   </item>
   <item id="s_chitin">
     <n>Schematics for the chitinous armor</n>
   </item>
   <item id="money">
-    <n>Bag with caps</n>
-    <info>Bottle caps used as money</info>
+    <n>Sac de capsules</n>
+    <info>Capsules de bouteilles utilisées comme monnaie.</info>
   </item>
   <item id="gel" v="0.6">
     <n>Biogel</n>
@@ -1922,27 +1922,27 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Suitable for treatment of scratches and cuts and also stops bleeding</info>
   </item>
   <item id="pot1">
-    <n>Healing potion</n>
+    <n>Potion de soin</n>
     <info>Intended for treatment of light injuries. Treatment effect takes some time</info>
   </item>
   <item id="pot2">
-    <n>Large healing Potion</n>
+    <n>Grande potion de soin</n>
     <info>Intended for treatment of injuries of medium severity. Treatment effect takes some time</info>
   </item>
   <item id="pot3">
-    <n>Extra-strong healing potion</n>
+    <n>Extra potion de soin</n>
     <info>Intended for treatment of severe injuries. Treatment effect takes some time</info>
   </item>
   <item id="potm1">
-    <n>Magic potion</n>
+    <n>Potion magique</n>
     <info>Restores magical power and heals magical burnout and exhaustion</info>
   </item>
   <item id="potm2" v="0.7">
-    <n>Large magic potion</n>
+    <n>Grande potion magique</n>
     <info>Restores magical power and heals magical burnout and exhaustion</info>
   </item>
   <item id="potm3" v="0.7">
-    <n>Super-large magic potion</n>
+    <n>Super potion magique</n>
     <info>Restores magical power and heals magical burnout and exhaustion</info>
   </item>
   <item id="antiradin">
@@ -1954,12 +1954,12 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Instantly neutralizes effects of any kind of toxins and increases poison resistance for a short time</info>
   </item>
   <item id="potHP">
-    <n>Potion of life</n>
+    <n>Potion de vie</n>
     <info>Permanently increases maximum health</info>
     <mess v="0.7">This is not an ordinary healing potion, but a potent elixir that can permanently fortify your health. Drink it without hesitation</mess>
   </item>
   <item id="potMP" v="0.6">
-    <n>Potion of spirit</n>
+    <n>Potion d'esprit</n>
     <info>Permanently increases the maximum of magical power</info>
   </item>
   <item id="stealth">
@@ -1967,19 +1967,19 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Portable techno-magical device developed by the Ministry of Arcane Sciences with support from the Ministry of Image, capable to make his owner invisible for a short period of time</info>
   </item>
   <item id="rep">
-    <n>Weapon repair kit</n>
+    <n>Kit de réparation d'armes</n>
     <info>Can be used to repair almost any weapon. Using this, you can repair an equipped weapon by some degree depending on the weapon class and your repair skill</info>
   </item>
   <item id="mworkbench" v="0.6">
-    <n>A portable workbench</n>
+    <n>Etabli portable</n>
     <info>Using a portable bench you can repair your weapons and armor on a march, just like using a regular workbench</info>
   </item>
   <item id="mworkexpl" v="0.6">
-    <n>Demopony`s field kit</n>
+    <n>Kit de terrain Demoponey</n>
     <info>Contains all the necessary equipment for creating explosives on a march</info>
   </item>
   <item id="mworklab" v="0.6">
-    <n>Field lab</n>
+    <n>Labo de terrain</n>
     <info>Contains all the necessary equipment for preparing potions and chemicals in the field</info>
   </item>
   <item id="whistle" v="0.6">
@@ -1987,15 +1987,15 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Needed to call or dismiss a tamed phoenix</info>
   </item>
   <item id="owl" v="0.7">
-    <n>Robo-owl</n>
+    <n>Hibot</n>
     <info>A small security robot that can also serve as a personal assistant or secretary. Has a fairly powerful laser weapon. Can be used as a companion</info>
     <mess>You assembled a [robo-owl], and now it can be your companion. Activate it through the inventory - the [equipment] section. There you can see the robo-owl condition and its stats. If the robo-owl is damaged in combat, you can repair it in the same way as any weapon or armor</mess>
   </item>
   <item id="s_owl" v="0.7">
-    <n>Robo-owl schematics</n>
+    <n>Plan Hibot</n>
   </item>
   <item id="sphera">
-    <n>Memory orb</n>
+    <n>Orbe de mémoire</n>
     <info>This magical item contains recorded memories of other creatures. Using it brings you an additional skill point</info>
     <mess v="0.7">You have found a memory orb - a magical repository of memories that contains important information, someone`s valuable experience, or just moments of the past that someone wanted to save. Using it, you will get an additional skill point</mess>
   </item>
@@ -3504,16 +3504,16 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Etabli</n>
   </obj>
   <obj id="himlab">
-    <n>Laboratory bench</n>
+    <n>Atelier de chimie</n>
   </obj>
   <obj id="wmap">
-    <n>Wasteland map</n>
+    <n>Carte des Terres Désolées</n>
   </obj>
   <obj id="stand">
     <n>Weapons rack</n>
   </obj>
   <obj id="p_luna" v="0.6">
-    <n>Princess Luna portrait</n>
+    <n>Portrait de la Princesse Luna</n>
   </obj>
   <obj id="cryocap" v="0.6">
     <n>Cryocapsule</n>
@@ -3552,7 +3552,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Base door</n>
   </obj>
   <obj id="enclpole" v="0.7">
-    <n>Force field</n>
+    <n>Champ de force</n>
   </obj>
   <obj id="hatch1">
     <n>Trapdoor</n>
@@ -3564,7 +3564,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Porte en bois</n>
   </obj>
   <obj id="indoor2">
-    <n>Reinforced door</n>
+    <n>Porte renforcée</n>
   </obj>
   <obj id="instdoor">
     <n>Porte d'Etable</n>
@@ -3594,7 +3594,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Salle de boss</n>
   </obj>
   <obj id="brspr" v="0.7">
-    <n>Restes de Sprite-bot</n>
+    <n>Débris de Sprite-bot</n>
   </obj>
   <obj id="dsph" v="0.7">
     <n>Sphère obscure</n>
@@ -3614,11 +3614,11 @@ Having the book with you, you get some protection from black magic, as well as a
   <!--Skills-->
   <eff id="tele" v="0.7">
     <n>Télékinésie</n>
-    <info>La compétence "Télékinésie" détermine votre abilité à déplacer divers objets avec de la magie, et peut aussi servir de soutien pour sauter.[br]- A chaque point investi, la consommation de pouvoir magique pour la télékinésie et le double saut diminue.[br]- A chaque montée de niveau, votre pouvoir télékinésique augmente, vous permettant de déplacer des objets plus lourds et les ennemis auront plus de difficulté à échapper à votre prise télékinésique.</info>
+    <info>La compétence "Télékinésie" représente votre abilité à déplacer divers objets avec de la magie, et peut aussi servir de soutien pour sauter.[br]- A chaque point investi, la consommation de pouvoir magique pour la télékinésie et le double saut diminue.[br]- A chaque montée de niveau, votre pouvoir télékinésique augmente, vous permettant de déplacer des objets plus lourds et les ennemis auront plus de difficulté à échapper à votre prise télékinésique.</info>
   </eff>
   <eff id="melee">
     <n>Armes de corps-à-corps</n>
-    <info>La compétence "Armes de corps-à-corps" determines combat effectiveness with any melee weapon. [br]- Each invested skill point increases damage by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level decreases attack speed and increases action points consumption in S.A.T.S.</info>
+    <info>La compétence "Armes de corps-à-corps" représente l'efficacité de combat de n'importe quelle arme au corps-à-corps. [br]- Chaque point investi augmente les dégâts de #1.[br]- Chaque point investi permet d'utiliser des armes plus avancées. Un niveau de compétence insuffisant diminue la vitesse d'attaque et augmente la consommation de points d'action dans le S.A.T.S.</info>
   </eff>
   <eff id="smallguns">
     <n>Armes à feu</n>
@@ -3746,7 +3746,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You lost count of bullets being shot at you. This made you tougher, your bullet resistance is permanently increased</info>
   </eff>
   <eff id="bigsize">
-    <n>La taille compte</n>
+    <n>C'est la taille qui compte</n>
     <info>Vous êtes un fan de trèèèès gros pistolets ! Vous vous êtes tellement habitué à les porter que vous ne remarquez même pas leur poids.</info>
   </eff>
   <eff id="fastreload">
@@ -3754,19 +3754,19 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You reload weapons twice quicker than before. It is a great advantage - less chance to get killed while you desperately try to reload</info>
   </eff>
   <eff id="fortune">
-    <n>Treasure hunter</n>
+    <n>Chasseur de trésors</n>
     <info>You have a habit of searching through every trash can on your way, hence you always find more caps and pre-War bits</info>
   </eff>
   <eff id="infiltrator">
-    <n>Infiltrator</n>
+    <n>Infiltrateur</n>
     <info>You learned to be more careful when picking locks. In case of failure, pin break twice less often, and lock is damaged #1 less</info>
   </eff>
   <eff id="coolhacker">
-    <n>Cool hacker</n>
-    <info>You are such a cool hacker, that even security systems provide you with additional attempts for picking a password (#1 instead of #2)!</info>
+    <n>Le pirate cool</n>
+    <info>Vous êtes un pirate tellement cool, que même les systèmes de sécurité vous donnent plus de tentatives pour trouver le bon mot de passe (#1 au lieu de #2) !</info>
   </eff>
   <eff id="metabol">
-    <n>Rapid metabolism</n>
+    <n>Métabolisme rapide</n>
     <info>Your body adsorbs and converts chemicals much faster than average, therefore healing potions become #1 more effective and restore health #2 times faster</info>
   </eff>
   <eff id="action">
@@ -3774,11 +3774,11 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You never stay put, always rushing somewhere. You get #1 action points extra (to #2 initial points) in S.A.T.S. for every level of this ability</info>
   </eff>
   <eff id="entomolog">
-    <n>Entomologist</n>
+    <n>Entomologiste</n>
     <info>You always showed interest to insects, spiders, and other arthropods, and you learned their weaknesses. You cause #1 more damage to radscorpions, radroaches, bloatsprites and similar creatures</info>
   </eff>
   <eff id="anatomy">
-    <n>Military anatomy</n>
+    <n>Anatomie militaire</n>
     <info>You know pony anatomy so well, that you always aim at vital organs. You cause #1 more damage to raiders and other equine enemies</info>
   </eff>
   <eff id="robot">
@@ -3794,27 +3794,27 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info v="0.8">You have learned to shoot accurately even while running or from an unsteady position. The accuracy penalty for shooting while running is reduced to #1 (with base penalty value #2), and the penalty for shooting while jumping or while climbing stairs has been reduced to #3 (base penalty value #4). Does not affect shooting with S.A.T.S.</info>
   </eff>
   <eff id="composure">
-    <n>Cold blooded</n>
+    <n>Sang-froid</n>
     <info v="0.8">You keep calm during a fight and prefer systematic shooting or a tactical retreat to rushing headlong into battle. Accuracy bonus when firing while standing still is increased to #1 (#2 by default), and accuracy loss from shooting behind your back is decreased tp #3 (#4 by default). Only affects shooting without using S.A.T.S.</info>
   </eff>
   <eff id="mathlogic">
-    <n>Math logic</n>
+    <n>Logique mathématique</n>
     <info v="0.8">You calibrated your PipBuck so that now any attack in S.A.T.S. consumes #1 less action points, and on the second level of ability - #2 less</info>
   </eff>
   <eff id="critch">
-    <n>Soldier`s luck</n>
+    <n>Chance de soldat</n>
     <info>Good luck always follows you on a battlefield. Your critical damage chance is increased by #1 for every level of this perk</info>
   </eff>
   <eff id="critdam">
-    <n>Deadly criticals</n>
+    <n>Critiquement mortel</n>
     <info>When you get lucky on a battlefield, your enemy can sure feel the difference! You get +#1 to critical damage with any weapon</info>
   </eff>
   <eff id="pistol">
-    <n>Dueliste</n>
+    <n>Duelliste</n>
     <info>Vous n'êtes pas un grand fan de grandes et lourdes armes. Votre choix - les pistolets et les revolvers, et vous savez bien les utiliser. Toutes vos armes à une main (automatiques incluses) obtiennent un bonus de précision et consomment #1 de points d'action en moins dans le S.A.T.S.</info>
   </eff>
   <eff id="shot">
-    <n>Crazy farmer</n>
+    <n>Fermier fou</n>
     <info>Your favorite weapon - a shotgun, with that you are ready to protect yourself and your property either from raiders, bandits or a darn army of dragons! All your shotguns get armor piercing and increased knockback effects</info>
   </eff>
   <eff id="commando">
@@ -3822,39 +3822,39 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You are absolutely sure that there is no weapon better than an assault rifle. And you sure know how to get the best from it. Your assault rifles and a minigun cause more damage by 2 points per each bullet</info>
   </eff>
   <eff id="rifle" v="0.8">
-    <n>One shot</n>
+    <n>En un coup</n>
     <info>You are a great shooter, for whom every bullet counts. All your hunting and sniper rifles get a critical hit bonus</info>
   </eff>
   <eff id="laser">
-    <n>Laser show</n>
+    <n>Spectacle laser</n>
     <info>Laser weapons are your favorites. You know how to handle it so that it causes 15% more damage</info>
   </eff>
   <eff id="plasma">
-    <n>Plasma greetings</n>
+    <n>Salutations Plasma</n>
     <info>You love to turn enemies into puddles of slime with plasma weapons. You even learned to deal with its drawbacks, so that now your plasma weapons are more accurate, and plasma reaches target #1 faster</info>
   </eff>
   <eff id="pyro">
-    <n>Pyromaniac</n>
+    <n>Pyromaniaque</n>
     <info>You love to set things on fire since you were little, your favorite smell is of petroleum, and your favorite hobby - watch enemies turn into ashes. Any weapon causing fire damage (including grenades) becomes more powerful</info>
   </eff>
   <eff id="desintegr">
-    <n>Disintegration</n>
+    <n>Désintégration</n>
     <info>All your laser and plasma weapons get a #1 chance to disintegrate target - that is to completely annihilate it with a single shot (the weapon becomes about #2 cooler), providing that the target has no more health left than 10 times the weapon`s damage</info>
   </eff>
   <eff id="remont">
-    <n>Weapon maintenance</n>
+    <n>Entretien d'armes</n>
     <info>You always clean and oil your weapons, and in return they never let you down in a critical moment. A probability that a worn weapon misfires is decreased #1 times, even though its damage and accuracy still decrease</info>
   </eff>
   <eff id="envir">
-    <n>Adaptive metabolism</n>
+    <n>Métabolisme adaptatif</n>
     <info>Surprisingly, you adapted well to life in the toxic and irradiated Wasteland. You get a bonus to radiation resistance, and also to resistance against toxic and corrosive substances</info>
   </eff>
   <eff id="wild">
-    <n>Roamer of the wild plains</n>
+    <n>Vagabond des plaines sauvages</n>
     <info>You learned to survive among wild animals and monsters. You get a bonus to protection against bites and scratches, stings and spikes and so on, and suffer less from wounds and poisoning</info>
   </eff>
   <eff id="uparmor">
-    <n>Armor enhancement</n>
+    <n>Amélioration d'armures</n>
     <info>You know how to improve your armor and make it fit perfectly, thus increasing its battle qualities. To do this you require workbench and proper materials. The second level of this perk allows you to further enhance your armor for one more time</info>
   </eff>
   <eff id="telemaster">
@@ -3870,7 +3870,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You learned to supply all grenades with an advanced sensor, so that now they explode right after hitting an enemy! (To use ordinary grenades, hold @1 when throwing)</info>
   </eff>
   <eff id="acute">
-    <n>Piercing strike</n>
+    <n>Frappe perforante</n>
     <info>Any armor has weak spots and you know it very well. Any stubbing-cutting weapon (like knives, swords, axes and spears) gets additional armor-piercing effect</info>
   </eff>
   <eff id="stunning">
@@ -4400,7 +4400,7 @@ Damage resistance #1, melee damage #2, accuracy #3, evasion bonus #4, magic cons
   <gui id="about" v="0.6">
     <n>Auteurs</n>
     <info>[Empalu] - concept, programmation, graphismes.
-[DipFanken] - graphismes, locations design.
+[DipFanken] - graphismes, conception des lieux.
 [Mihasik] - Localisation anglaise.
 [Apple_Snack], [GreyGazer], [Shadow_Of_History] - participation dans le développement.
 Le jeu est basé sur l'histoire de "Fallout : Equestria" par [kkat].
@@ -4473,50 +4473,50 @@ Vous commencez avec 150 points de vie, +25 par niveau.
 La vie des ennemis est baissée de 30%.
 La télékinésie et l'auto-lévitation ne consomme pas de magie.
 Votre personnage recevra deux fois moins de traumatisme.
-Retourner au point de sauvegarde ne causera pas de pénalités.
+Retourner au point de contrôle ne causera pas de pénalités.
 Les ennemis ne vous entendent pas très bien.</info>
   </gui>
   <gui id="dif2" v="0.6">
     <n>Normale</n>
     <info>La difficulté normale est prévue pour les joueurs plus expérimentés.
 Vous commencez avec 100 points de vie, +20 par niveau.
-Votre personnage recevra des traumatismes additionnels en s'évanouissant et reviendra au point de contrôle.
+Votre personnage recevra des traumatismes additionnels quand il s'évanouit et retourne au point de contrôle.
 La difficulté est plus ou moins équilibrée.</info>
   </gui>
   <gui id="dif3" v="0.6">
     <n>Difficile</n>
     <info>En difficile, vous devrez agir avec prudence pour survivre.
 Vous commencez avec 170 points de vie, +15 par niveau.
-Your character gets even more traumas when faints and is returned to the checkpoint.
-Doctor`s care costs more. Bleeding and poisoning last twice longer.
-Teleportation to the base camp from checkpoints is not available.
-Enemies are generally stronger</info>
+Votre personnage obtient encore plus de traumatismes quand il s'évanouit et retourne au point de contrôle.
+Les soins de médecin coûent plus cher. Le saignement et l'empoisonnement dure deux fois plus longtemps.
+La téléportation au camp de base depuis les points de contrôle n'est pas disponible.
+Les ennemis sont en général plus puissants.</info>
   </gui>
   <gui id="dif4" v="0.6">
     <n>Très difficile</n>
-    <info>Super-hard mode is designed for fans of the toughest hardcore.
-You start the game with 40 health points, +10 per level.
-The character will get serious injuries if loses consciousness and is returned to the control point.
-You will find much fewer caps and bits in containers.
-Enemies are even stronger</info>
+    <info>Le mode très difficile est conçu pour les fans les plus chevronnés.
+Vous commencez la partie avec 40 points de vie, +10 par niveau.
+Votre personnage obtiendra de grosses blessures si il s'évanouit et revient au point de contrôle.
+Vous trouverez beaucoup moins de capsules et de nourriture dans les conteneurs.
+Les ennemis sont encore plus puissants.</info>
   </gui>
   <gui id="hardopt" v="0.8">
     <n>Options de difficulté</n>
   </gui>
   <gui id="opt1" v="0.7">
     <n>Passer l'entraînement</n>
-    <info>You will immediately find yourself in the base camp, the training location will be unavailable
-Do not choose this option if you play the version 0.7 for the first time and do not wish to miss some important points in the story!</info>
+    <info>Vous vous retrouverez directement au camp de base. Le lieu d'entraînement sera indisponible.
+Ne choisissez pas cette option si vous jouez à la version 0.7 pour la première fois et que vous ne voulez pas manquer des points importants de l'histoire !</info>
   </gui>
   <gui id="opt2" v="0.6">
     <n>On ne vit qu'une fois</n>
-    <info>Restoration at checkpoints and returning to the base after receiving dangerous injuries will be disabled.
-The death of the character is final.
-The game is stored in a single selected slot</info>
+    <info>La restauration aux points de contrôle et le retour à la base après avoir reçu de dangereuses blessures seront désactivés.
+La mort du personnage est définitive.
+La partie est stockée dans un seul slot sélectionné.</info>
   </gui>
   <gui id="opt3" v="0.6">
-    <n>Faster level ups</n>
-    <info>Level up requires 40% less experience points</info>
+    <n>Montée de niveau plus rapide</n>
+    <info>La montée de niveau requiert 40% de points d'expérience de moins.</info>
   </gui>
   <gui id="opt4" v="0.6">
     <n>Compétences aléatoires</n>
@@ -4897,7 +4897,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Le taux de poison dans votre corps. Vous allez perdre des points de vie jusqu'à prendre un antidote ou que l'effet se dissipe.</info>
   </pip>
   <pip id="cut">
-    <n>Hémorragie</n>
+    <n>Plaies ouvertes</n>
     <info>Les plaies ouvertes vous font graduellement perdre du sang. Même si les saignements finiront par s'arrêter, il est préférable d'utiliser des bandages.</info>
   </pip>
   <pip id="organism" v="0.71">
@@ -4951,14 +4951,14 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="statLegs1">
     <n>Condition : OK</n>
-    <info>Diagnosis: a sprained ankle. Don`t step on this leg at least for a week</info>
+    <info>Diagnostic : a sprained ankle. Don`t step on this leg at least for a week</info>
   </pip>
   <pip id="statLegs2">
-    <n>Condition: poor</n>
+    <n>Condition : mauvaise</n>
     <info>Diagnosis: at least one leg is broken, others have multiple minor injuries. You can not run and jump as usual in this condition. It is highly recommended mending the fractured bone, fix the broken leg and avoid any physical activities</info>
   </pip>
   <pip id="statLegs3">
-    <n>Condition: horrible</n>
+    <n>Condition : très mauvaise</n>
     <info>Diagnosis: multiple open fractures, ankle ligament rupture, a knee shot. It is surprising that you can move at all in this condition. Immediately contact the nearest Ministry of Peace office</info>
   </pip>
   <pip id="blood">
@@ -5589,7 +5589,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Votre niveau est trop bas. C'est une mauvaise idée d'aller par là.</n>
   </pip>
   <pip id="alltask" v="0.7">
-    <n>Prendre toutes les tâches</n>
+    <n>Sélec. tt tâches</n>
   </pip>
   <pip id="kolProb" v="0.71">
     <n>Epreuve complétée</n>
@@ -6799,52 +6799,52 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Attention! Your magical power is depleted. Further magical use is impossible</n>
   </info>
   <info id="poison" st="5">
-    <n>Attention! You are poisoned!</n>
+    <n>Attention ! Vous êtes empoisonné !</n>
   </info>
   <info id="cut" st="5">
-    <n>Attention! You are bleeding!</n>
+    <n>Attention ! Vous saignez !</n>
   </info>
   <info id="addiction1" st="3" v="0.6">
-    <n>You got slightly addicted to @1</n>
+    <n>Vous êtes devenu un peu accro à @1.</n>
   </info>
   <info id="addiction2" st="3" v="0.6">
-    <n>Your addiction to @1 increased to a medium level</n>
+    <n>Votre addiction à @1 a augmenté à un moyen niveau.</n>
   </info>
   <info id="addiction3" st="3" v="0.6">
-    <n>You are completely addicted to @1</n>
+    <n>Vous êtes coplètement accro à @1</n>
   </info>
   <info id="petCall" v="0.6">
-    <n>Companion summoned: @1</n>
+    <n>Compagnon appelé : @1</n>
   </info>
   <info id="petRecall" v="0.6">
-    <n>Companion dismissed: @1</n>
+    <n>Compagnon retiré : @1</n>
   </info>
   <info id="petNot" st="3" v="0.6">
     <n>The companion in being reborn</n>
-  </info>
+   </info>
   <info id="petNot2" st="0" v="0.6">
-    <n>Action unavailable</n>
+    <n>Action indisponible</n>
   </info>
   <info id="petNot3" st="3" v="0.7">
-    <n>Robo owl needs repair</n>
+    <n>L'Hibot a besoin de réparation</n>
   </info>
   <info id="petDie" st="3" v="0.6">
-    <n>@1 dies. Time for revival - @2 seconds</n>
+    <n>@1 meurt. Temps de réanimation - @2 secondes</n>
   </info>
   <info id="petDie2" st="3" v="0.7">
     <n>@1 breaks down</n>
   </info>
   <info id="petRes" v="0.6">
-    <n>@1 returns to you</n>
+    <n>@1 revient à vous</n>
   </info>
   <info id="noPetCall" st="3" v="0.6">
-    <n>Can`t summon a companion in here</n>
+    <n>Impossible d'appeler un compagnon ici.</n>
   </info>
   <info id="noPetFollow" st="3" v="0.6">
-    <n>Your companion won`t follow you there</n>
+    <n>Votre compagnon ne vous suivra pas ici.</n>
   </info>
   <info id="closeProb" st="6" v="0.6">
-    <n>Trial "@1" completed</n>
+    <n>Epreuve "@1" complétée</n>
   </info>
   <info id="noBase" st="0" v="0.6">
     <n>This must be done in a safe place</n>
@@ -6856,25 +6856,25 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Trigger [@1] = @2</n>
   </info>
   <info id="changeDif" st="4" v="0.7">
-    <n>Game difficulty changed: "@1"</n>
+    <n>Difficulté de la partie modifiée : "@1"</n>
   </info>
   <info id="needCons" st="3" v="0.7">
-    <n>Item required: @1</n>
+    <n>Objet requis : @1</n>
   </info>
   <info id="usedCons" st="3" v="0.7">
-    <n>Item used: @1</n>
+    <n>Objet utilisé : @1</n>
   </info>
   <info id="onlyExpl" st="0" v="0.8">
-    <n>Can assign explosives or spells only</n>
+    <n>Possible d'assigner uniquement des explosifs ou des sorts d'attaques</n>
   </info>
   <info id="onlySpell" st="0" v="0.8">
-    <n>Only for defensive spells</n>
+    <n>Uniquement pour les sorts de défense</n>
   </info>
   <info id="disSpell" st="0" v="0.8">
-    <n>Spell unavailable</n>
+    <n>Sort indisponible</n>
   </info>
   <info id="disWeapon" st="0" v="0.8">
-    <n>Weapon unavailable</n>
+    <n>Arme indisponible</n>
   </info>
   <info id="noDrop1" st="0" v="0.8">
     <n>Do not litter in the base camp, use the storage instead</n>
@@ -6892,13 +6892,13 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Not enough spell slots</n>
   </info>
   <info id="itemDestr" st="5" v="0.8">
-    <n>The equipment destroyed (@1, @2pcs)</n>
+    <n>Equipement détruit (@1, @2pcs)</n>
   </info>
   <info id="itemLose" st="3" v="0.8">
-    <n>Items fell out of the bag (@1, @2pcs)</n>
+    <n>Objets tombés de l'inventaire (@1, @2pcs)</n>
   </info>
   <info id="killHero" st="2" v="0.8">
-    <n>Unique enemy defeated: @1</n>
+    <n>Ennemi unique vaincu : @1</n>
   </info>
   <info id="electroOff" v="0.8">
     <n>Electric fence disabled</n>
@@ -6910,10 +6910,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Not available with Alicorn mode active</n>
   </info>
   <info id="noTravel" st="3" v="0.8">
-    <n>You don`t have time for this</n>
+    <n>Vous n'avez pas le temps pour ça.</n>
   </info>
   <info id="overMass" st="3" v="0.81">
-    <n>Overload! Too many items</n>
+    <n>Surcharge ! Trop d'objets.</n>
   </info>
   <map id="test">
     <n>Test loc</n>
@@ -6940,11 +6940,11 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>A small settlement in which the slavers are based. Here is the entrance to the stable 88</info>
   </map>
   <map id="rbl">
-    <n>"Prancing pony" camp</n>
+    <n>Camp "Poney Cabré"</n>
     <info>One of those rare safe places where you can rest, treat your wounds and replenish supplies</info>
   </map>
   <map id="random_plant">
-    <n>Factory</n>
+    <n>Usine</n>
     <info>A partly destroyed "ManeTec" factory complex, occupied by raiders. Apart from them you should watch out for automatic defense systems and occasional monsters</info>
   </map>
   <map id="nio" v="0.7">
@@ -6952,7 +6952,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>The brain center of the ManeTec factory, where research and development was previously conducted. The central maneframe is somewhere here</info>
   </map>
   <map id="random_sewer">
-    <n>Sewers</n>
+    <n>Egoûts</n>
     <info>Sewage tunnels, filled with sludge, toxic and radioactive waste. It is a lair for various monsters, and wild ghouls pose a significant threat. Many passages and rooms are flooded</info>
   </map>
   <map id="random_stable">
@@ -6968,7 +6968,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>Meeting place according to the Mentor instructions</info>
   </map>
   <map id="random_mane" v="0.6">
-    <n>Manehattan ruins</n>
+    <n>Ruines de Manehattan </n>
     <info>There are many dangers in the ruins of Manehattan. Here you can often encounter squads of slavers and mercenaries. Also, some time ago reports started coming about groups of the Goddess`s alicorns appearing there</info>
   </map>
   <map id="random_mbase" v="0.7">
@@ -6980,7 +6980,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>The former capital of Equestria. Now filled with the deadly Pink Cloud and inhabited by various monsters</info>
   </map>
   <map id="mtn" v="0.7">
-    <n>M.A.S. tower</n>
+    <n>Tour M.A.S.</n>
     <info>A tall, but heavily destroyed skyscraper, in the past - one of the regional offices of the Ministry of Arcane Sciences</info>
   </map>
   <map id="labirint" v="0.6">
@@ -7428,16 +7428,16 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Utilisez un RadAway pour éliminer les radiations magiques de votre corps. Utiliser des potions de guérison ne soigne pas des radiations </n>
   </txt>
   <txt id="trFast" s1="keyRun">
-    <n>Courez plus vite ici (maintenez @1) et vous ne tomberez pas </n>
+    <n>Courez plus vite ici (maintenez @1) et vous ne tomberez pas.</n>
   </txt>
   <txt id="trDiagon" s1="keyBeUp">
-    <n>En vous déplaçant, maintenez @1 pour monter les escaliers </n>
+    <n>En vous déplaçant, maintenez @1 pour monter les escaliers.</n>
   </txt>
   <txt id="trWeaponUp" s1="keyBeUp">
-    <n>Maintenez @1 pour élever votre arme plus haut.[br]Vous pouvez activer le bouton rouge en tirant dessus. </n>
+    <n>Maintenez @1 pour élever votre arme plus haut.[br]Vous pouvez activer le bouton rouge en tirant dessus.</n>
   </txt>
   <txt id="trStairs" s1="keyBeUp">
-    <n>Appuyez sur @1 pour saisir l'échelle dans un saut</n>
+    <n>Appuyez sur @1 pour saisir l'échelle dans un saut.</n>
   </txt>
   <txt id="trLurk" s1="keyBeUp">
     <n>Vous pouvez vous cacher dans des niches murales, derrière des caisses et des meubles. Pendant que vous êtes à couvert, vous obtenez des bonus pour la furtivité. Pour vous cacher, placez-vous devant une couverture et appuyez sur @1</n>
@@ -7464,16 +7464,16 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Une marque du Ministre de la Coolitude indique les endroits secrets et les cachettes. Parfois, de tels endroits sont cachés derrière de faux murs, qui peuvent être brisés par n'importe quelle arme </n>
   </txt>
   <txt id="phoenixFeed1" v="0.6">
-    <n>Vous aimeriez offrir une friandise au phoenix funeste, mais vous n'avez rien pour lui </n>
+    <n>Vous aimeriez offrir une friandise au phoenix funeste, mais vous n'avez rien pour lui.</n>
   </txt>
   <txt id="phoenixFeed2" v="0.6">
-    <n>Le phoenix funeste aime votre gâterie. Il fait un trille mélodieux et disparaît. Peut-être que vous vous reverrez </n>
+    <n>Le phoenix funeste aime votre gâterie. Il fait un trille mélodieux et disparaît. Peut-être que vous vous reverrez.</n>
   </txt>
   <txt id="hardDie" v="0.6">
     <n>Votre aventure se termine ici. Reposez en paix,</n>
   </txt>
   <txt id="hardDie2" v="0.6">
-    <n>Trop blesser pour vivre. Reposez en paix,</n>
+    <n>Vous avez eu des blessures trop graves pour vivre. Reposez en paix,</n>
   </txt>
   <txt id="exitPlant" v="0.6">
     <n>En entrant par la porte, vous arriverez à un niveau plus profond de l'usine. Vous y rencontrerez de nouveaux ennemis, de nouvelles épreuves et de nouvelles récompenses.[br]Utilisez le terminal MAS pour visiter le camp de base, reconstituer des fournitures et vous soigner </n>
@@ -7482,10 +7482,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Derrière cette porte se trouve un passage vers les égouts. Vous aurez besoin d'une clé pour l'ouvrir.[br] Il est recommandé d'être au moins niveau 6</n>
   </txt>
   <txt id="toStable" v="0.6">
-    <n>Il y a un passage vers une étable abandonnée. [br]Cet endroit est considéré comme assez dangereux. Il est recommandé d'être au moins niveau 10.[br]Sinon vous pouvez descendre à des niveaux plus profonds des égouts. </n>
+    <n>Il y a un passage vers une Etable abandonnée. [br]Cet endroit est considéré comme assez dangereux. Il est recommandé d'être au moins niveau 10.[br]Sinon vous pouvez descendre à des niveaux plus profonds des égouts.</n>
   </txt>
   <txt id="mentorMess" v="0.8">
-    <n>Une demi-heure plus tard, après que @lp ait terminé le récit de ses aventures dans les Terres Désolés...</n>
+    <n>Une demi-heure plus tard, après que @lp ait terminé le récit de ses aventures dans les Terres Désolées...</n>
   </txt>
   <txt id="graveMess" v="0.8">
     <n>Quelques jours plus tard...</n>
@@ -7631,15 +7631,15 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </txt>
   <txt id="begDialBloat2" v="0.7">
     <n>
-      <r p="lp2">Il y a quelque chose derrière ce mur. J'entend un étrange bourdonnement</r>
+      <r p="lp2">Il y a quelque chose derrière ce mur. J'entend un étrange bourdonnement.</r>
       <r p="lp3">Hmm... le mur n'a pas l'air très solide. Je pourrais essayer de faire un trou dedans, mais est-ce que ça vaut le coup?</r>
     </n>
   </txt>
   <txt id="begDialExpl">
     <n>
-      <r p="lp3">Il y a plein d'explosifs là-dedans ! Je pourrais essayer de le désarmer, mais je doute que ma compétence soit assez élevée</r>
-      <r p="lp3">Je pourrais tirer dessu...</r>
-      <r p="lp3" push="1">Mais dabord je vais peut-être me reculer!</r>
+      <r p="lp3">Il y a plein d'explosifs là-dedans ! Je pourrais essayer de le désarmer, mais je doute que ma compétence soit assez élevée.</r>
+      <r p="lp3">Je pourrais tirer dessus...</r>
+      <r p="lp3" push="1">Mais d'abord je vais peut-être me reculer !</r>
       <r p="lp3" push="1">J'espère que les murs ne vont pas s'écrouler...</r>
     </n>
   </txt>
@@ -7670,14 +7670,14 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   </txt>
   <txt id="surfDialFirst" v="0.7">
     <n>
-      <r p="lp2">Ce sont les Terres Désolé d'Equestria?</r>
+      <r p="lp2">Ce sont les Terres Désolées d'Equestria?</r>
       <r p="lp2" push="1">C'est vraiment... grand...</r>
-      <r p="lp2">Oh!  J'en ai des vertiges!</r>
+      <r p="lp2">Oh ! J'en ai des vertiges !</r>
     </n>
   </txt>
   <txt id="surfDialNora">
     <n>
-      <r p="lp2">Je ne peux pas le croire, est-ce que je traverse vraiment dans un trou à rats ? </r>
+      <r p="lp2">Je ne peux pas le croire, est-ce que je traverse vraiment un trou à rats ? </r>
       <r p="lp2" push="1">Pourquoi est-ce que je fais ça ? </r>
     </n>
   </txt>
@@ -7726,7 +7726,7 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
       <r p='lp1'>Vous avez raison. Mais n'en parlons pas maintenant, d'accord ? Vous faites partie des habitants locaux, n'est-ce pas ?</r>
       <r p='calam'>Eh bien, on peut dire ça. Ravi d't'rencontrer, j'suis Calamity.</r>
       <r p='lp4'>Ravi de vous rencontrer aussi, je suis @lp. Écoute, Calamity, à moins que ce ne soit trop compliqué pour toi, pourrais-tu me montrer le chemin vers la ville ou la colonie la plus proche ? </r>
-      <r p='calam'>Bien sûr, j'vais même t'accompagner. Ya un camp à proximité, "Le Poney Cabré". Ah, je suis sûr qu'ty trouveras tout c'que t'as besoin. Dis-moi quand tu s'ras prêt à partir </r>
+      <r p='calam'>Bien sûr, j'vais même t'accompagner. Y a un camp à proximité, "Le Poney Cabré". Ah, je suis sûr qu't'y trouveras tout c'que t'as besoin. Dis-moi quand tu s'ras prêt à partir </r>
     </n>
   </txt>
   <txt id="plantNextLevel" v="0.7">
@@ -7747,7 +7747,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   </txt>
   <txt id="nioDial1" v="0.7">
     <n>
-      <r p="lp1">On dirait que c'est le Département de recherche spécial. J'ai besoin de trouver le terminal maneframe</r>
+      <r p="lp1">On dirait que c'est le Département de recherche spécial. J'ai besoin de trouver le terminal de l'ordinateur central.</r>
     </n>
   </txt>
   <txt id="mainframeOff" v="0.7">
@@ -7758,23 +7758,23 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   <txt id="storyDial2" imp="1" v="0.71">
     <n>
       <t v="0.8">Première conversation avec Mentor </t>
-      <r>Vous connectez votre PipBuck au terminal maneframe. Pendant un moment, rien ne se passe, puis une série de caractères parcourent l'écran PipBuck, qui sont ensuite remplacés par un indicateur de téléchargement. Après cela, le grand écran du terminal s'anime, et une à une les lignes commencent à apparaître </r>
+      <r>Vous connectez votre PipBuck au terminal de l'ordinateur central. Pendant un moment, rien ne se passe, puis une série de caractères parcourent l'écran PipBuck, qui sont ensuite remplacés par un indicateur de téléchargement. Après cela, le grand écran du terminal s'anime, et une à une les lignes commencent à apparaître </r>
       <r p='main' push='1'>Autorisation...</r>
       <r p='main' push='1'>Démarage système...</r>
       <r p='main' push='1'>Recherche de fichier...</r>
       <r p='main' push='1'>Fichiers de projet "Rainbow" trouvés ...</r>
       <r p='main' push='1'>Connexion à distance établie. Le transfert commence, veuillez patienter ...</r>
       <r p='lp4'>On dirait que tout se passe comme prévu ! </r>
-      <r p=''>Soudain, vous entendez une voix provenant de la dynamique cachée quelque part à l'intérieur de la machine </r>
+      <r p=''>Soudain, vous entendez une voix provenant de la dynamique cachée quelque part à l'intérieur de la machine.</r>
       <r p='main'>Bonjour @lp. C'est moi, Mentor. Félicitations, vous avez terminé avec succès votre première mission. En ce moment, nous recevons des fichiers que nous attendons depuis près de deux siècles</r>
-      <r p='lp2'>Quoi? Mentor? Parlez-vous via ce terminal ? Et je peux te répondre ? </r>
-      <r p='main'>Oui, @lp. Tout à l'heure, votre PipBuck a lancé un programme sur la maneframe, à travers lequel nous pouvons communiquer. Bien sûr, vous avez de nombreuses questions. Maintenant vous pouvez leur demander </r>
+      <r p='lp2'>Quoi? Mentor? Parlez-vous via ce terminal ? Et je peux te répondre ?</r>
+      <r p='main'>Oui, @lp. Tout à l'heure, votre PipBuck a lancé un programme sur l'ordinateur central, à travers lequel nous pouvons communiquer. Bien sûr, vous avez de nombreuses questions. Maintenant vous pouvez leur demander </r>
       <r p='lp2'>Des questions? Oh, bien sûr. Qui es-tu ?... Et qui suis-je ? Pourquoi je ne me souviens de rien de mon passé ? Et... qu'y a-t-il dans ces fichiers que vous cherchiez ? </r>
       <r p='main'>Les réponses à toutes ces questions sont interconnectées. Je suis vraiment ton mentor, un poney que tu as connu toute ta vie. Je ne peux pas encore dire mon nom. Votre maison, l'endroit où vous êtes né et avez grandi - Stable Pi. Je n'ai pas non plus le droit de divulguer des détails à ce sujet, ainsi que sur les fichiers que vous avez trouvés. Cette information est top secrète. Pour la sécurité de notre maison commune, nous avons dû vous jeter un sort de mémoire. Ainsi, si vous vous faites attraper par un ennemi, il ne pourra jamais rien obtenir de vous. J'espère que vous comprendrez </r>
-      <r p='lp2'>C'etais vraiment necessaire?</r>
+      <r p='lp2'>C'etait vraiment nécessaire?</r>
       <r p='main'>Malheureusement oui. Nous avons beaucoup d'ennemis. Lorsque vous aurez terminé la mission et que vous reviendrez, je supprimerai le sort et les souvenirs vous reviendront. Mais pas avant. Vous avez vous-même accepté de telles conditions, n'est-ce pas ? </r>
       <r p='lp1'>Oui, j'ai entendu l'enregistrement. Mais cela ne facilite pas les choses !</r>
-      <r p='main'>Je comprend... mais je sais que tu réussiras</r>
+      <r p='main'>Je comprends... mais je sais que tu réussiras</r>
       <r p='lp1'>Mais peux-tu au moins me dire quelque chose sur le but de ma mission ? </r>
       <r p='main'>C'est la principale raison pour laquelle nous parlons en ce moment. Bien avant la fin de la guerre, Stable Pi était un refuge secret pour les scientifiques et les ingénieurs impliqués dans les études les plus importantes pour l'armée d'Equestria. Après la chute des bombes, nous sommes passés à une existence complètement autonome. L'ensemble du complexe Stable est profondément souterrain et vous ne trouverez l'entrée sur aucune carte. Le secret est très important pour nous. Nous ne sommes pas des guerriers, nous ne pouvons pas protéger nos précieuses connaissances de la cupidité des habitants des Terres Désolés. Par conséquent, nous ne contactons presque jamais le monde extérieur </r>
       <r p='lp1'>Je vois. Mais pourquoi aviez-vous besoin de m'envoyer à la surface ? </r>
@@ -7786,7 +7786,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='main' push='1'>Le chargement des fichiers est presque terminé, la connexion sera interrompue d'une minute à l'autre. Avez-vous d'autres questions? </r>
       <r p='lp2'>J'ai plein de questions, en fait. Que diriez-vous... </r>
       <r p='main'>Le transfert de fichiers est terminé. Connexion fermée </r>
-      <r p='lp5'>Bon sang!</r>
+      <r p='lp5'>Bon sang !</r>
       <r p='lp1'>Ça veut dire que je suis coincé ici depuis longtemps ? Et en plus, je dois encore risquer ma vie ? </r>
       <r p='lp3'>Mais "moi" du passé était confiante dans l'importance de cette mission. Suis-je alors au courant de ma future mission ? Que je devrais rester ici si longtemps ? </r>
       <r p='lp1'>Pourtant, même si je ne l'ai pas fait, cela ne veut pas dire que je dois tout abandonner. La tâche qui m'est confiée est extrêmement importante, et cela signifie que je dois la remplir. D'une façon ou d'une autre </r>
@@ -7800,38 +7800,38 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='main'>*Recherche terminée*
             *Fichiers trouvés: 0*
             *Journaux des correspondances: 5*</r>
-      <r p='lp3'>C'est ça, euh?</r>
+      <r p='lp3'>C'est ça, euh ?</r>
       <r p='lp3' push='1'>Requête : Le projet "Rainbow"</r>
       <r p='main'>*Recherche terminée*
             *Fichiers trouvés: 0*
             *Journaux des correspondances: 5*</r>
-      <r p='lp5'>Arrgh! C'est comme si les fichiers ont été supprimé après leurs transfers. Super. vraiment génial!</r>
+      <r p='lp5'>Arrgh ! C'est comme si les fichiers avaient été supprimés après leur transfert. Super. Vraiment génial !</r>
       <r p='lp3' push='1'>>Requête : Journal du projet "Rainbow"</r>
       <r p='main'>*Recherche terminée*
             *Historique des fichiers:
-            69 457 jours plus tôt: fichier téléchargé;
-            69 452 jours plus tôt: tentative de transfert de fichier. ERREUR : L'OPÉRATION N'A PAS ÉTÉ CONFIRMÉE PAR LE DESTINATAIRE. TRANSFERT DE FICHIER ANNULÉ;
+            69 457 jours plus tôt : fichier téléchargé;
+            69 452 jours plus tôt : tentative de transfert de fichier. ERREUR : L'OPÉRATION N'A PAS ÉTÉ CONFIRMÉE PAR LE DESTINATAIRE. TRANSFERT DE FICHIER ANNULÉ;
             81 jours plus tôt: fichier consulté;
             3 minutes plus tôt: fichier transféré*</r>
-      <r p='lp3'>On dirait que je ne vais rien découvrir de nouveau... Attends,c'est quoi ?! ça alors...</r>
+      <r p='lp3'>On dirait que je ne vais rien découvrir de nouveau... Attends, c'est quoi ?! ça alors...</r>
       <r p='main'>*Fichier consulté :
             Le fichier a été consulté il y a 81 jours 5 heures 18 minutes à partir d'un appareil PipBuck autorisé, numéro de série PX 457095004132 L*</r>
       <r p='lp3'>Un utilisateur de PipBuck, hein ? Je ne me souviens pas avoir vu quelqu'un en surface avoir un PipBuck. Et si... et si c'était "Choosen-24" ?</r>
-      <r p='lp3'>Oui, ça doit être elle. Peut-être est-elle déjà très loin d'ici, peut-être même morte. De toute façon, je dois encore essayer de la retrouver. Et si elle visitait le "Prancing Pony" ? Je dois demander à Calamity - si quelqu'un a vu quelque chose, c'est lui</r>
+      <r p='lp3'>Oui, ça doit être elle. Peut-être est-elle déjà très loin d'ici, peut-être même morte. De toute façon, je dois encore essayer de la retrouver. Et si elle visitait le "Prancing Pony" ? Je dois demander à Calamity. Si quelqu'un a vu quelque chose, c'est bien lui.</r>
     </n>
   </txt>
   <txt id="velvetDial2" imp="1" v="0.7">
     <n>
       <t v="0.8">Conversation avec Calamity sur le «Chosen 24»</t>
-      <r p='lp4'>Calamity?</r>
-      <r p='calam'>s'lut, @lp. b'soin d'que'que chose?</r>
-      <r p='lp4'>Hé bien oui. Dites-moi, au cours des derniers mois avez-vous vu quelqu'un comme moi ?</r>
-      <r p='calam'>Hein? Tu veux dire, qui t'ressembles ? Une ptite ? Ou une aventuriere comme toi?</r>
-      <r p='lp2'>Khmm.. Non, pas ça. Je veux dire, quelqu'un d'une étable</r>
-      <r p='calam'>Ah, c'genre. Oui, j'en ai vu un. Un personnage amusant pour être honnête, . Ah dire, elle a un bon cœur. Ah aussi je voulais te demander si c'était une de tes amies, mais d'une manière ou d'une autre, ça m'a échappé</r>
+      <r p='lp4'>Calamity ?</r>
+      <r p='calam'>s'lut, @lp. B'soin d'quelque chose ?</r>
+      <r p='lp4'>Hé bien oui. Dites-moi, au cours des derniers mois, avez-vous vu quelqu'un comme moi ?</r>
+      <r p='calam'>Hein ? Tu veux dire, qui t'ressembles ? Une ptite ? Ou une aventurière comme toi?</r>
+      <r p='lp2'>Hmm.. Non, pas ça. Je veux dire, quelqu'un d'une Etable.</r>
+      <r p='calam'>Ah, c'genre. Oui, j'en ai vu un. Un personnage amusant pour être honnête. Elle avait un bon cœur. Ah aussi,je voulais te demander si c'tait une d'tes amies, mais d'une manière ou d'une autre, ça m'a échappé.</r>
       <r p='calam'>Toute façon, elle est arrivée ici il y a environ trois ou quatre mois. Elle était faible et avait faim, elle faillit se coucher mais s'arrêta quand elle r'marqua le coin d'Doc. Il était en train de réparer que'ques-uns de nos gars abattus par les pillards. Alors elle est entrée, lui a parlé de quelque chose pendant environ cinq minutes et est restée pour l'aider. Depuis lors, elle travaillait avec Doc. Il l'a beaucoup félicitée, mais entre nous, il a grommelé que notre nouveau venu essayait de donner des médicaments aux malades gratuitement</r>
       <r p='lp2'>Et pourquoi elle n'est plus là ? Le docteur Sepsis l'a expulsée ?</r>
-      <r p='calam'>Non, bien sûr que non. Mais en vérité, Ah j'ai peur qu'ce soit encore pire. Mais tu sais, tu f'rais mieux d'd'mander à Doc lui-même... y te dira tout mieux qu'moi</r>
+      <r p='calam'>Non, bien sûr que non. Mais en vérité, Ah j'ai peur qu'ce soit encore pire. Mais tu sais, tu f'rais mieux de d'mander à Doc lui-même... y te dira tout mieux qu'moi.</r>
     </n>
   </txt>
   <txt id="velvetDial3" imp="1" v="0.7">
@@ -7850,26 +7850,26 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='lp3'>Je vois... Merci</r>
       <r p='vd'>Ce n'était rien... Et pourquoi demandez-vous ? Vous vous connaissiez ?</r>
       <r p='lp2'>Oui... je veux dire, non...</r>
-      <r p='lp3' push='1'>Je sais pas</r>
+      <r p='lp3' push='1'>Je ne sais pas.</r>
       <r p='vd'>...</r>
-      <r p='vd' push='1'>Eh bien, je vais m'occuper de mes affaires alors</r>
+      <r p='vd' push='1'>Eh bien, je vais m'occuper de mes affaires alors.</r>
     </n>
   </txt>
   <txt id="surfDialStop" v="0.7">
     <n>
-      <r p="lp2">C'est dangereux d'aller plus loin ! Je dois trouver un autre moyen</r>
+      <r p="lp2">C'est dangereux d'aller plus loin ! Je dois trouver une autre solution.</r>
     </n>
   </txt>
   <txt id="velvetDial4" v="0.7">
     <n>
-      <r p="lp2">Un campement? Ici? Intéressant...</r>
-      <r p="lp3">Je devrais regarder autour de moi plus attentivement</r>
+      <r p="lp2">Un campement ? Ici ? Intéressant...</r>
+      <r p="lp3">Je devrais regarder autour de moi plus attentivement.</r>
     </n>
   </txt>
   <txt id="velvetDial5" imp="1" v="0.7">
     <n>
       <t v="0.8">Inspection du camp d'égout</t>
-      <r p='lp2'>Aloooooors. Aucune traces de goules ? - c'est parfais</r>
+      <r p='lp2'>Aloooooors. Aucune traces de goules ? - c'est parfait.</r>
       <r p='lp2'>Mais il y a des signes de lutte. Le matelas est chiffonné, comme si un poney l'avait piétiné. Une pile de livres est retournée. Idem pour le pot et ces bouteilles de la table. Ils sont brisés, comme s'ils étaient tombés après qu'un poney ait donné un coup de pied à la table sous eux de toutes leurs forces. Ou quelque chose comme ça. Et tout cela est resté intact pendant un certain temps</r>
       <r p='lp3'>Mais surtout, il n'y a pas de sang. Peut-être que le propriétaire du camp est vivant... Je dois chercher d'autres traces</r>
 </n>
@@ -7885,14 +7885,14 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   <txt id="velvetDial7" imp="1" v="0.7">
     <n>
       <t v="0.8">Conversation avec les captifs des griffons à propos de Velvet</t>
-      <r p='lp1'>Psst, soit discret. Je vais te libérer maintenant</r>
-      <r p='hh'>Merci étrangé</r>
-      <r p='hh'>Mais si tu es venu chercher ton amie, je suis désolé, elle n'est plus avec nous</r>
-      <r p='lp2'>Attend , de qui tu parle ?</r>
-      <r p='hh'> Un autre poney. Nous avons fui les esclavagistes avec elle, et elle portait exactement le même morceau de métal sur sa jambe que vous. Êtes-vous du même clan?</r>
-      <r p='lp1'>S'il vous plaît, dites-men plus</r>
-      <r p='hh'>Une licorne noire avec une crinière argentée. Elle a dit qu'elle s'appelait Velvet Remedy. Après l'évasion, nous avons erré ensemble pendant un moment. Elle ne parlait pas beaucoup de son passé, mais c'était un très bon médecin. Nous nous sommes séparés après avoir rencontré des zèbres. Ces créatures l'ont attirée pour les accompagner. Ils ont prétendu qu'ils étaient malades et votre ami a mordu à l'hameçon. Nous avons essayé de l'en dissuader, mais elle n'a pas voulu écouter. A présent, elle doit être dans le ventre des rayés. je suis désolé</r>
-      <r p='lp3'>Hmm... merci de me m'avoir aidé</r>
+      <r p='lp1'>Psst, sois discret. Je vais te libérer maintenant.</r>
+      <r p='hh'>Merci étranger.</r>
+      <r p='hh'>Mais si tu es venu chercher ton amie, je suis désolée, elle n'est plus avec nous.</r>
+      <r p='lp2'>Attends, de qui tu parle ?</r>
+      <r p='hh'> Un autre poney. Nous avons fui les esclavagistes avec elle, et elle portait exactement le même morceau de métal sur sa jambe que toi. Êtes-vous du même clan ?</r>
+      <r p='lp1'>S'il vous plaît, dites-m'en plus.</r>
+      <r p='hh'>Une licorne noire avec une crinière argentée. Elle a dit qu'elle s'appelait Velvet Remedy. Après l'évasion, nous avons erré ensemble pendant un moment. Elle ne parlait pas beaucoup de son passé, mais c'était un très bon médecin. Nous nous sommes séparés après avoir rencontré des zèbres. Ces créatures l'ont attirée pour les accompagner. Ils ont prétendu qu'ils étaient malades et ton ami a mordu à l'hameçon. Nous avons essayé de l'en dissuader, mais elle n'a pas voulu écouter. A présent, elle doit être dans le ventre des rayés. Je suis désolée.</r>
+      <r p='lp3'>Hmm... merci de m'avoir aidé.</r>
     </n>
   </txt>
   <txt id="sewerNextLevel" v="0.7">
@@ -7903,19 +7903,19 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   <txt id="surfDialCaptive" imp="1" v="0.7">
     <n>
       <t v="0.8">Conversation avec le captif des esclavagistes</t>
-      <r p='capt'>Hey! Vous n'êtes pas l'un d'entre eux? Vous ne ressemblez pas à l'un de ceux-là... s'il vous plaît, aidez-moi !</r>
-      <r p='lp2'>Que s'est-il passé? Qui t'a mis en cage ?</r>
-      <r p='lp2' push='1'>Et qui c'est "eux"?</r>
-      <r p='capt'>Les esclavagistes ! Il y en a toute une bande. Ils nous ont capturés lors d'un raid - moi et les autres poneys. Et maintenant ils nous gardent dans des cages jusqu'à ce qu'ils nous emmènent à Filly</r>
+      <r p='capt'>Eh ! Vous n'êtes pas l'un d'entre eux ? Vous ne leur ressemblez pas... s'il vous plaît, aidez-moi !</r>
+      <r p='lp2'>Que s'est-il passé ? Qui t'as mis en cage ?</r>
+      <r p='lp2' push='1'>Et qui sont "eux"?</r>
+      <r p='capt'>Les esclavagistes ! Il y en a toute une bande. Ils nous ont capturés lors d'un raid, moi et les autres poneys. Et maintenant ils nous gardent dans des cages jusqu'à ce qu'ils nous emmènent à Filly.</r>
       <r p='lp5'>Ils kidnappent d'autres poneys pour... les utiliser comme s'ils étaient une sorte de propriété ?</r>
-      <r p='capt'>Oui! S'il te plaît ne me laissez pas ici!</r>
-      <r p='lp5'>Je ne le ferai pas ! Ni toi, ni les autres captifs</r>
-      <r p='lp3'>Mais la cage est verrouillée... Je ne suis pas sûr de pouvoir crochetter cette serrure...</r>
-      <r p='capt'>Les esclavagistes doivent avoir des clés. Très probablement, le directeur général en a une copie. Mais ne pensez même pas à les lui voler, ou à les prendre de force... Il sont trop nombreux</r>
-      <r p='lp5'>C'est ce qu'on va voir!</r>
-      <r p='lp2' push='1'>Ou sont les autres captifs?</r>
+      <r p='capt'>Oui ! S'il vous plaît, ne me laissez pas ici !</r>
+      <r p='lp5'>Je ne le ferai pas ! Ni toi, ni les autres captifs.</r>
+      <r p='lp3'>Mais la cage est verrouillée... Je ne suis pas sûr de pouvoir crocheter cette serrure...</r>
+      <r p='capt'>Les esclavagistes doivent avoir des clés. Le directeur général doit très probablement en avoir une copie. Mais ne pensez même pas à les lui voler, ou à les prendre de force... ils sont trop nombreux.</r>
+      <r p='lp5'>C'est ce qu'on va voir !</r>
+      <r p='lp2' push='1'>Où sont les autres captifs?</r>
       <r p='capt'>Je ne sais pas. Ça doit être dans ce grand bâtiment. J'espère qu'ils vont bien...</r>
-      <r p='lp2'>Je vais essayer de crocheter la serrure de ta cage. Et si ça ne marche pas, je devrai récupérer la clé</r>
+      <r p='lp2'>Je vais essayer de crocheter la serrure de ta cage. Et si ça ne marche pas, je vais devoir récupérer la clé.</r>
       <r p='lp5' push='1'>Je ne peux tout simplement pas croire que des choses comme celle-ci se produisent réellement !</r>
     </n>
   </txt>
@@ -10261,10 +10261,10 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <info>Raiders hold their captives in cages. Find a way to release them. Break cage locks or find a key</info>
   </txt>
   <txt id="freeCaptive1">
-    <n>Captives rescued:</n>
+    <n>Captifs secourus :</n>
   </txt>
   <txt id="storyMeet" v="0.7">
-    <n>Meeting</n>
+    <n>Rencontre</n>
     <info>Send the Quantum Cogitator to our trusted person through his sprite-bot. The meeting place is Hankey garages</info>
   </txt>
   <txt id="storyMeet1" v="0.7">
@@ -10435,50 +10435,50 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Talk to SteelHooves</n>
   </txt>
   <txt id="storyFbattle" v="0.8">
-    <n>The last battle</n>
-    <info>The Enclave is attacking your home, Stable Pi. Protect it at all costs!</info>
+    <n>Le dernier combat</n>
+    <info>L'Enclave est en train d'attaquer votre foyer, l'Etable Pi. Protégez-le à tout prix !</info>
   </txt>
   <txt id="storyFbattle1" v="0.8">
-    <n>Return to Stable Pi and find Mentor</n>
+    <n>Retourner à l'Etable Pi et trouver Mentor</n>
   </txt>
   <txt id="storyFbattle2" v="0.8">
-    <n>Get the "Alikorn Armor"</n>
+    <n>Obtenir "l'Armure Alikorne"</n>
   </txt>
   <txt id="storyFbattle3" v="0.8">
-    <n>Stop the invasion</n>
+    <n>Stopper l'invasion</n>
   </txt>
   <txt id="storyFbattle4" v="0.8">
-    <n>Destroy Thunderhead</n>
+    <n>Détruire Thunderhead</n>
   </txt>
   <txt id="storyFbattle5" v="0.8">
-    <n>Survive</n>
+    <n>Survivre</n>
   </txt>
   <txt id="probAwayDial1">
     <n>
-      <r p="lp2">Hey!!! Where are you going???</r>
+      <r p="lp2">Eh !!! Où est-ce que tu vas ???</r>
     </n>
   </txt>
   <txt id="probBarahloDial" v="0.7">
     <n>
-      <r p="lp2">What the hay is this?!!!???</r>
-      <r p="spectre">(deadly voice) I will suck your soul!</r>
-      <r p="lp2">Aaah!</r>
-      <r>This enemy can not be defeated! Run, @lp, run!</r>
+      <r p="lp2">Qu'est-ce que c'est que ça ?!!!???</r>
+      <r p="spectre">(voix menaçante) Je vais aspirer ton âme !</r>
+      <r p="lp2">Aaah !</r>
+      <r>Cet ennemi ne peut être vaincu ! Courez, @lp, courez !</r>
     </n>
   </txt>
   <txt id="tamePhoenix" v="0.6">
-    <n>Make friends with a balefire phoenix</n>
+    <n>Être ami avec un phénix funeste</n>
     <info>The balefire phoenix, it seems, is not afraid of you and does not show any aggression. Rumors say, these birds are unusually intelligent and, with proper care, can become loyal friends. Try to make friends with one</info>
   </txt>
   <txt id="tamePhoenix1" v="0.6">
-    <n>Offer radioactive cookies:</n>
+    <n>Offrir des cookies radioactifs :</n>
   </txt>
   <txt id="tamePhoenix2" v="0.6">
-    <n>Talk</n>
+    <n>Parler</n>
   </txt>
   <txt id="dialTamePhoenix" imp="1" v="0.6">
     <n>
-      <t v="0.8">Balefire phoenix</t>
+      <t v="0.8">Phénix funeste</t>
       <r p='phoenix'>*** balefire phoenix, turning its head, looks at you with one eye ***</r>
       <r p='lp4'>You know ... you are the most beautiful creature I`ve ever met in my life</r>
       <r p='phoenix'>*** the balefire phoenix looks very pleased, it ruffles feathers on its head and turns to show you first one side, then another ***</r>
@@ -10490,7 +10490,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="dialTakeWhistle" imp="2" v="0.6">
     <n>
-      <t v="0.8">About companions</t>
+      <t v="0.8">A propos des compagnons</t>
       <r p='lp4'>It might be dangerous, coming with me, but if you really want to travel together, then I won`t mind your company at all</r>
       <r p='phoenix'>*** the balefire phoenix soars next to you, you feel the warmth radiating from it. Now you don`t feel so lonely ***</r>
       <r mod='1'>[Balefire Phoenix] becomes your companion. He will follow you, helping in battle.
@@ -10676,86 +10676,86 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Give Oak Stalwart the materials for the armor and wait for the completion of the work</n>
   </txt>
   <txt id="killMadfox" v="0.6">
-    <n>Kill Mad Fox</n>
+    <n>Tuez Mad Fox</n>
     <info>Have you heard about the Mad Fox gang? They say their lair is somewhere in the old factory. Whoever finds and finishes these degenerates off, would deserve my eternal gratitude</info>
   </txt>
   <txt id="killMadfox1" v="0.6">
-    <n>Kill Mad Fox</n>
+    <n>Tuez Mad Fox</n>
   </txt>
   <txt id="killMadfox2" v="0.6">
-    <n>Get a reward from Oak Stalwart</n>
+    <n>Obtenez une récompense de la part d'Oak Stalwart</n>
   </txt>
   <txt id="collectPaintsA" v="0.6">
-    <n>Get the paint</n>
+    <n>Obtenez de la peinture</n>
     <info>I`m looking for sprays with paint of different colors. For a start, the common ones will do</info>
   </txt>
   <txt id="collectPaintsA1" v="0.6">
-    <n>Red</n>
+    <n>Rouge</n>
   </txt>
   <txt id="collectPaintsA2" v="0.6">
-    <n>Green</n>
+    <n>Vert</n>
   </txt>
   <txt id="collectPaintsA3" v="0.6">
-    <n>Blue</n>
+    <n>Bleu</n>
   </txt>
   <txt id="collectPaintsA4" v="0.6">
-    <n>Yellow</n>
+    <n>Jaune</n>
   </txt>
   <txt id="collectPaintsA5" v="0.6">
-    <n>White</n>
+    <n>Blanc</n>
   </txt>
   <txt id="collectPaintsA6" v="0.6">
-    <n>Bring back all the paint and get a reward</n>
+    <n>Rapportez toutes les peintures et obtenez une récompense</n>
   </txt>
   <txt id="collectPaintsB" v="0.6">
-    <n>Get the paint - 2</n>
+    <n>Obtenez de la peinture - 2</n>
     <info>Again I`m looking for paint sprays, but now I require more rare colors</info>
   </txt>
   <txt id="collectPaintsB1" v="0.6">
-    <n>Grey</n>
+    <n>Gris</n>
   </txt>
   <txt id="collectPaintsB2" v="0.6">
-    <n>Purple</n>
+    <n>Violet</n>
   </txt>
   <txt id="collectPaintsB3" v="0.6">
     <n>Orange</n>
   </txt>
   <txt id="collectPaintsB4" v="0.6">
-    <n>Brown</n>
+    <n>Marron</n>
   </txt>
   <txt id="collectPaintsB5" v="0.6">
-    <n>Light blue</n>
+    <n>Bleu clair</n>
   </txt>
   <txt id="collectPaintsB6" v="0.6">
-    <n>Khaki</n>
+    <n>Kaki</n>
   </txt>
   <txt id="collectPaintsB7" v="0.6">
-    <n>Dark green</n>
+    <n>Vert foncé</n>
   </txt>
   <txt id="collectPaintsB8" v="0.6">
     <n>Bring back all the paint and get a reward</n>
   </txt>
   <txt id="collectPaintsC" v="0.7">
-    <n>Get the paint - 3</n>
+    <n>Obtenez de la peinture - 3</n>
     <info>Another hunt for paint. I need special colors, see the list attached. As usual - you bright paint, I pay caps, but this time the reward is bigger</info>
   </txt>
   <txt id="collectPaintsC1" v="0.6">
     <n>Cyan</n>
   </txt>
   <txt id="collectPaintsC2" v="0.6">
-    <n>Pink</n>
+    <n>Rose</n>
   </txt>
   <txt id="collectPaintsC3" v="0.6">
-    <n>Burgundy</n>
+    <n>Bordeaux</n>
   </txt>
   <txt id="collectPaintsC4" v="0.6">
-    <n>Crimson</n>
+    <n>Pourpre</n>
   </txt>
   <txt id="collectPaintsC5" v="0.6">
     <n>Lime</n>
   </txt>
   <txt id="collectPaintsC6" v="0.6">
-    <n>Fiery</n>
+    <n>Rouge feu</n>
   </txt>
   <txt id="collectPaintsC7" v="0.6">
     <n>Beige</n>
@@ -10765,15 +10765,15 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="vendor_armor_paint" imp="1" v="0.6">
     <n>
-      <t v="0.8">Amateur artist</t>
-      <r p='lp4'>Why did you need all that paint anyway?</r>
-      <r p='va'>Why do you care?</r>
-      <r p='lp4'>Because it is just sooo interesting!</r>
-      <r p='va'>I learn painting. You can call this my hobby. If you want to - here, take the key to the back room and have a look, just do not touch anything</r>
-      <r p='lp4'>And how is it going?</r>
-      <r p='va'>Could be better. But it`s hard to learn from experience, and there are no manuals for artists even in Nebula`s library</r>
-      <r p='lp2'>Perhaps I could try to find you something useful?</r>
-      <r p='va'>You`re funny, @lp, have anypony told you? You can`t just find everything that everypony needs among some old ruins. No, thank you, I`m good</r>
+      <t v="0.8">Artiste amateur</t>
+      <r p='lp4'>Pourquoi aviez-vous besoin de toute cette peinture de toute façon ?</r>
+      <r p='va'>Pourquoi voulez-vous savoir ?</r>
+      <r p='lp4'>Parce que c'est siiii intéressant !</r>
+      <r p='va'>J'apprends à peindre. Vous pourriez appeler cela mon passe-temps. Si vous voulez, prenez la clé pour ouvrir l'arrière-salle et regarder. Ne touchez juste à rien.</r>
+      <r p='lp4'>Et comment ça avance ?</r>
+      <r p='va'>Cela pourrait être mieux. Mais il est difficle d'apprendre par expérience, et il n'y a pas de livres pour les artistes, même dans la bibliothèque de Nebula.</r>
+      <r p='lp2'>Peut-être pourrais-je essayer de trouver quelque chose d'utile ?</r>
+      <r p='va'>Personne ne vous a déjà dit que vous étiez drôle, @lp ? Vous ne pouvez pas trouver tout ce dont tout le monde a besoin parmi des ruines. Non merci, ça ira.</r>
     </n>
   </txt>
   <txt id="killBloats" v="0.6">
