@@ -1407,11 +1407,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>It is a very powerful explosive device that can destroy even the sturdiest concrete wall. Useless against steel walls</info>
   </weapon>
   <weapon id="telebul">
-    <n>Telekinetic bullet</n>
+    <n>Balle télékinésique</n>
     <info>This spell allows to hit a remote target with a focused telekinetic field, dealing strike damage and knocking it back</info>
   </weapon>
   <weapon id="mbul" v="0.6">
-    <n>Magic bullet</n>
+    <n>Balle magique</n>
     <info>One of the basic combat spells, shooting a simple blast of magical energy at the enemy. By the principle of action this spell resembles plasma weapons</info>
   </weapon>
   <weapon id="ice">
@@ -1419,43 +1419,43 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>This spell launches a blast of sharp icicles, piercing and freezing your enemies</info>
   </weapon>
   <weapon id="blades" v="0.6">
-    <n>Ghost blades</n>
+    <n>Lames fantômes</n>
     <info>A spell that creates several sharp ghost blades at once, that spread out like a fan</info>
   </weapon>
   <weapon id="dragon">
-    <n>Dragon breath</n>
+    <n>Souffle de dragon</n>
     <info>This spell transforms unicorn magic power into a stream of fire, resembling dragon flames, even though, of course, not so devastating</info>
   </weapon>
   <weapon id="lightning">
-    <n>Lightning bolt</n>
+    <n>Foudre</n>
     <info>This spell hits enemy with almost a natural lightning! It causes more damage if target touches the ground, but it is not so effective against flying targets</info>
   </weapon>
   <weapon id="fireball" v="0.6">
-    <n>Fireball</n>
+    <n>Boule de feu</n>
     <info>Classics of combat magic. A fiery blast exploding when hitting the target, like a bazooka shot</info>
   </weapon>
   <weapon id="mray">
-    <n>Magic beam</n>
+    <n>Laser magique</n>
     <info>This spell transforms unicorn magic into radiant energy of devastating power. It is also quite accurate at long range</info>
   </weapon>
   <weapon id="defwave" v="0.6">
-    <n>Deformation wave</n>
+    <n>Onde de déformation</n>
     <info>A very complex spell. Allows launching a special shockwave, similar to one from an explosion, but of directed action. On impact enemies receive heavy internal damage</info>
   </weapon>
   <weapon id="eclipse">
-    <n>Black sun</n>
+    <n>Soleil noir</n>
     <info>One of the most powerful spells in mage`s arsenal. Causes much damage and is very effective against crowding enemies, but is very demanding of magical power</info>
   </weapon>
   <weapon id="dray" v="0.6">
-    <n>Death ray</n>
+    <n>Rayon de la mort</n>
     <info>A spell that creates the strongest flow of negative energy that kills all life on its way, no matter how far is the distance. Does not work on non-living opponents</info>
   </weapon>
   <weapon id="udar" v="0.7">
-    <n>Telekinetic shock</n>
+    <n>Choc télékinésique</n>
     <info>The amplified version of the telekinetic bullet, producing 5 telekinetic projectiles simultaneously, causing target impact damage and throwing it back with a huge force</info>
   </weapon>
   <weapon id="skybolt" v="0.7">
-    <n>Heavenly Lights</n>
+    <n>Lumières célestes</n>
     <info>A very powerful spell that allows you to emit streams of stellar energy from which there is no escape</info>
   </weapon>
   <weapon id="paint" v="0.6">
@@ -1609,7 +1609,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Armor of excellent quality based on plates of complex polymers and ceramics. Designed to provide the good ballistic protection, while having relatively low weight and not constraining movements of the user</info>
   </armor>
   <armor id="assault">
-    <n>Stormtrooper armor</n>
+    <n>Armure d'unité d'assaut</n>
     <info>Improved combat armor designed especially for elite stormtroopers. Provides the best protection among all armor types, except power armor</info>
   </armor>
   <armor id="magus">
@@ -1617,7 +1617,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Special armor, charmed to counteract effects of magical energy. Provides little protection against bullets and normal physical attacks</info>
   </armor>
   <armor id="moon">
-    <n>Moon armor</n>
+    <n>Armure lunaire</n>
     <info>An armor designed especially for battle mages. Built-in talismans not only protect from magical energy impact, but also increase you own spell power</info>
   </armor>
   <armor id="chitin">
@@ -1625,7 +1625,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A light and sturdy armor made of thick chitinous radscorpion shells. Can be greatly improved by experienced hoofs. Gives a good protection against physical attacks, protects against monster fangs, but poorly protects against bullets and magic</info>
   </armor>
   <armor id="intel">
-    <n>Scout armor</n>
+    <n>Armure d'éclaireur</n>
     <info>A light armor designed for scouts and saboteurs. Its camouflage color allows you to merge with terrain and act stealthily. It also confuses enemies during battle, preventing them from taking steady aim</info>
   </armor>
   <armor id="astealth" s1="keyArmor" s2="keyBeUp">
@@ -1637,7 +1637,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Heavy but sturdy armor, equipped with a special amortizing lining, a refractory outer layer and a closed helmet. Excellent protection against hits, fire and explosions</info>
   </armor>
   <armor id="tre" v="0.6">
-    <n>Treasure hunter`s clothes</n>
+    <n>Vêtements de chasseur de trésors</n>
     <info>While you are wearing these clothes, each enemy you kill may drop a precious stone (the stronger the opponent, the more likely)</info>
   </armor>
   <armor id="socks" v="0.8">
@@ -1751,13 +1751,13 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Plan pour une grande faite-sabot</n>
   </item>
   <item id="s_acidgr">
-    <n>Recipe for acid bomb</n>
+    <n>Recette pour une bombe acide</n>
   </item>
   <item id="s_cryogr" v="0.6">
     <n>Plan pour une cryogrenade</n>
   </item>
   <item id="s_molotov">
-    <n>Recipe for an incendiary cocktail</n>
+    <n>Recette pour un cocktail molotov</n>
   </item>
   <item id="s_spgren" v="0.6">
     <n>Plan pour une Sparkle-grenade</n>
@@ -2068,72 +2068,72 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Instantly restores health. Even though it is capable of saving life in a critical condition, it is very toxic</info>
   </item>
   <item id="potion_fly">
-    <n>Potion of flight</n>
+    <n>Potion d'envol</n>
     <info>This potion gives you wings, thus making you able to fly. The effect is temporary</info>
   </item>
   <item id="potion_shadow">
-    <n>Potion of shadows</n>
+    <n>Potion des ténèbres</n>
     <info>Drinking the potion will turn you into a shadow. While in this form, it is hard to see or cause damage to you, but you won`t be able to fight as well. Also, it seems that it weakens unicorns` telekinesis ability</info>
   </item>
   <item id="potion_mage">
-    <n>Wizardry potion</n>
+    <n>Potion de sorcellerie</n>
     <info>The potion reduces magical energy consumption for telekinesis and different spells, increasing their power, and also speeds up energy restoration</info>
   </item>
   <item id="potion_infra">
-    <n>Infra-vision potion</n>
+    <n>Potion d'infra-vision</n>
     <info>For a short period of time allows you seeing through walls and also to see things that are hidden or concealed with magic</info>
   </item>
   <item id="potion_swim" v="0.6">
-    <n>Diver`s potion</n>
+    <n>Potion de plongeur</n>
     <info>For five minutes allows you to breathe underwater and swim much faster</info>
   </item>
   <item id="potion_pink" v="0.7">
-    <n>Pink potion</n>
+    <n>Potion rose</n>
     <info>This potion somewhat protects you from the harmful effects of the Pink Cloud</info>
   </item>
   <item id="potion_chance" v="0.7">
-    <n>Potion of the Last Chance</n>
+    <n>Potion de dernière chance</n>
     <info>If during its action you are dealt a death blow, you gain absolute protection for 5 seconds and partially restore your health. Absolute protection does not save from poison and bleeding</info>
   </item>
   <item id="rollup" v="0.6">
-    <n>Joint of magic weed</n>
-    <info>Smokable. The effect is unpredictable!</info>
+    <n>Joint d'herbe magique</n>
+    <info>Fumable. L'effet est imprévisible !</info>
   </item>
   <item id="potion_dskel">
-    <n>Potion of fortitude</n>
+    <n>Potion de fortification</n>
     <info>This potion makes your bones sturdy and capable to endure heavy load. Permanent effect</info>
   </item>
   <item id="potion_immun">
-    <n>Immunity potion</n>
+    <n>Potion d'immunité</n>
     <info>Drinking this improves your ability to resist different negative factors, such as poisoning, bleeding and radiation. Permanent effect</info>
   </item>
   <item id="potion_might">
-    <n>Potion of might</n>
+    <n>Potion de puissance</n>
     <info>This potion improves your reflexes and increases aggression. You can deal more damage with melee weapons. Permanent effect</info>
   </item>
   <item id="potion_speed">
-    <n>Potion of vivacity</n>
+    <n>Potion de vivacité</n>
     <info>This potion increases running speed and stamina capacity. In other words you can run faster and longer. Permanent effect</info>
   </item>
   <item id="potion_prec">
-    <n>Potion of concentration</n>
+    <n>Potion de concentration</n>
     <info>This potion fortifies your nervous system and sharpens sight, which improves your shooting accuracy. Permanent effect</info>
   </item>
   <item id="potion_dexter" v="0.7">
-    <n>Elixir of Intuition</n>
+    <n>Elixir d'intuition</n>
     <info>This potion gives you an ability to anticipate the near future to some extent, and thus evade enemy bullets. Permanent effect</info>
   </item>
   <item id="potion_crit" v="0.7">
-    <n>Elixir of Fortune</n>
+    <n>Elixir de fortune</n>
     <info>It is hard to say what exactly this potion does and how it works, but with it your hits will cause critical damage more often. Permanent effect</info>
   </item>
   <item id="potion_elements" v="0.6">
-    <n>Elemental potion</n>
+    <n>Potion élémentaire</n>
     <info>A potion invented by unicorns in the distant past. Strengthens magician`s connection to natural forces and increases power of his spells</info>
   </item>
   <item id="potion_purif" v="0.7">
-    <n>Potion of purification</n>
-    <info>Purifies from curses</info>
+    <n>Potion de purification</n>
+    <info>Purifie des malédictions</info>
   </item>
   <item id="sparklecola">
     <n>Sparkle-cola</n>
@@ -2144,7 +2144,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Non-alcoholic fizzy drink produced before the War. Restores health</info>
   </item>
   <item id="radcookie" v="0.6">
-    <n>Radioactive cookies</n>
+    <n>Cookies radioactifs</n>
     <info>It is extremely not recommended eating this thing. But perhaps there is somepony who might like it</info>
   </item>
   <item id="radcola" v="0.6">
@@ -2164,7 +2164,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Low-alcoholic beverage made from local oats. The taste is not so great</info>
   </item>
   <item id="braga" v="0.7">
-    <n>Home brew</n>
+    <n>Bière artisanale</n>
     <info>Low-alcohol beverage from potatoes. The taste leaves much to be desired</info>
   </item>
   <item id="cordial" v="0.7">
@@ -2172,8 +2172,8 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Alcoholic drink of medium strength from local fruits, or whatever is now used instead of them. Pretty pleasant to the taste</info>
   </item>
   <item id="schnapps" v="0.7">
-    <n>Schnapps</n>
-    <info>A fairly strong alcoholic beverage obtained by distillation</info>
+    <n>Eau-de-vie</n>
+    <info>Un breuvage plutôt fort en alcool obtenu par distillation.</info>
   </item>
   <item id="hooch" v="0.7">
     <n>Moonshine</n>
@@ -2689,71 +2689,71 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Allows changing the game difficulty to "super-hard" for a single time</info>
   </item>
   <item id="p_black" v="0.6">
-    <n>Black paint</n>
+    <n>Peinture noire</n>
   </item>
   <item id="p_white" v="0.6">
-    <n>White paint</n>
+    <n>Peinture blanche</n>
   </item>
   <item id="p_gray" v="0.6">
-    <n>Grey paint</n>
+    <n>Peinture grise</n>
   </item>
   <item id="p_blue" v="0.6">
-    <n>Blue paint</n>
+    <n>Peinture bleue</n>
   </item>
   <item id="p_red" v="0.6">
-    <n>Red paint</n>
+    <n>Peinture rouge</n>
   </item>
   <item id="p_green" v="0.6">
-    <n>Green paint</n>
+    <n>Peinture verte</n>
   </item>
   <item id="p_yellow" v="0.6">
-    <n>Yellow paint</n>
+    <n>Peinture jaune</n>
   </item>
   <item id="p_purple" v="0.6">
-    <n>Purple paint</n>
+    <n>Peinture violette</n>
   </item>
   <item id="p_orange" v="0.6">
-    <n>Orange paint</n>
+    <n>Peinture orange</n>
   </item>
   <item id="p_brown" v="0.6">
-    <n>Brown paint</n>
+    <n>Peinture marron</n>
   </item>
   <item id="p_lblue" v="0.6">
-    <n>Light blue paint</n>
+    <n>Peinture bleue claire</n>
   </item>
   <item id="p_dgreen" v="0.6">
-    <n>Dark green paint</n>
+    <n>Peinture verte foncée</n>
   </item>
   <item id="p_cyan" v="0.6">
-    <n>Cyan paint</n>
+    <n>Peinture cyan</n>
   </item>
   <item id="p_pink" v="0.6">
-    <n>Pink paint</n>
+    <n>Peinture rose</n>
   </item>
   <item id="p_khaki" v="0.6">
-    <n>Khaki paint</n>
+    <n>Peinture kaki</n>
   </item>
   <item id="p_crimson" v="0.6">
-    <n>Crimson paint</n>
+    <n>Peinture pourpre</n>
   </item>
   <item id="p_lime" v="0.6">
-    <n>Lime paint</n>
+    <n>Peinture lime</n>
   </item>
   <item id="p_burgundy" v="0.6">
-    <n>Burgundy paint</n>
+    <n>Peinture bordeaux</n>
   </item>
   <item id="p_fire" v="0.6">
-    <n>Fiery paint</n>
+    <n>Peinture rouge feu</n>
   </item>
   <item id="p_beige" v="0.6">
-    <n>Beige paint</n>
+    <n>Peinture beige</n>
   </item>
   <item id="key_raiders" v="0.7">
-    <n>Slavers` key</n>
+    <n>Clé des esclavagistes</n>
     <info>Opens various locks in the slavers den</info>
   </item>
   <item id="key_sewer" v="0.7">
-    <n>Security access key</n>
+    <n>Clé d'accès sécurisé</n>
     <info>Gives access to the ManeTec Department of Special Research</info>
   </item>
   <item id="key_cat" v="0.7">
@@ -5884,16 +5884,16 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Attention ! Echec système.</n>
     <info>Erreur 0-4570-7f45-a420-ff98 (Erreur système, contactez l'administrateur)
 The likely cause of the failure is an effect of an electromagnetic pulse on the PipBuck systems.
-Checking the subsystems and modules:
-• User Status - Not Available
-• Medical module - not available
-• Inventory sorter - not available
-• Cartographic module - not available
-• Targeting spell - not available
-• User Interface - Disabled
-• The operating system kernel - not responding
-Attention! Reboot required
-System reboot in progress, please wait .......</info>
+Checking the subsystems and modules :
+• Statut utilisateur - indisponible
+• Module médical - indisponible
+• Trieur d'inventaire - indisponible
+• Module cartographique - indisponible
+• Visée de sort - indisponible
+• Interface utilisateur - désactivé
+• Le noyau du système d'exploitation - ne répond pas
+Attention ! Redémarrage requis.
+Redémarrage du système en cours, veuillez patienter.......</info>
   </pip>
   <pip id="helpInv1" s1="keyRun" s2="keyGrenad" s3="keyMagic" s4="keyGrenad" s5="keyMagic" v="0.8">
     <n>This is a list of all your weapons and magic. New weapons are indicated by the [☩] symbol.
@@ -5937,7 +5937,7 @@ Use [left mouse button] to load the weapon with the necessary type of ammunition
     <n>In limited inventory mode, most items have weight. All your items are divided into categories, the weights for which are calculated separately</n>
   </pip>
   <pip id="massInv1" v="0.8">
-    <n>[Weapons]
+    <n>[Armes]
 You can take with you and use a limited number of weapons determined by the number of [weapon slots]. Knives and pistols occupy one cell, rifles, shotguns etc. - two, and large-sized weapons - three. Grenades and mines can be used without restrictions. All other weapons are only available at the base camp.
 Use [right mouse click] to discard a specific weapon and free the slots it occupies. The weapon will be hidden, will not occupy the weapon slots and you won`t be able to use it. You can still find the same weapon on a mission, or you can take it back when you return to the base camp using PipBuck or the weapon stand.
 You can carry more weapons than you have weapon slots for, but it will slow you down. With a slight overload you will not be able to run and dash, with more overload you will only be able to trot, and finally you won`t be able to move at all. It will not affect movement speed in the base camp, but you won`t be able go anywhere else until you reduce weight.
@@ -5946,12 +5946,12 @@ You can use a limited number of attacking or defensive spells, all others will b
 Each extra spell will reduce the magic recovery speed by 25%</n>
   </pip>
   <pip id="massInv2" v="0.8">
-    <n>[Armor]
+    <n>[Armure]
 You can take only one set of armor on a mission, the rest will remain in the base camp, except for protective suits and clothing. On a mission you can change into protective suits and clothing or back into the same armor any time.
 Amulets can be changed at any time</n>
   </pip>
   <pip id="massInv3" v="0.8">
-    <n>[Equipment]
+    <n>[Equipement]
 This includes valuable and fragile items that you may need at any time (even in battle), which is why the inventory sorter puts them in a separate bag: medicine, potions, battle chemicals, StealthBucks, repair kits, runes. Each item has an arbitrary [weight] characteristic, which shows the space it occupies in the inventory.
 If you take more items than the bag can carry, they might break when you take damage or simply fall out of the bag.
 [Ammunition]
@@ -6041,7 +6041,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="autotake" v="0.8">
     <n>Collecte automatique d'objets</n>
-    <info>Clique pour choisir quels objets devraient être collectés automatiquement</info>
+    <info>Cliquez pour choisir quels objets devraient être collectés automatiquement</info>
   </pip>
   <pip id="vsWeaponNew" v="0.8">
     <n>Nouvelles armes</n>
@@ -6049,7 +6049,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="vsWeaponRep" v="0.8">
     <n>Armes pour réparer</n>
-    <info>Collecte automatiquement une arme si tu as la même arme qui a besoin de réparation</info>
+    <info>Collecte automatiquement une arme si vous avez la même arme qui a besoin de réparation</info>
   </pip>
   <pip id="vsAmmoAll" v="0.8">
     <n>Toutes les munitions</n>
@@ -6057,7 +6057,7 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="vsAmmoTek" v="0.8">
     <n>Munitions compatibles</n>
-    <info>Collecte automatiquement les munitions compatibles avec les armes que tu as en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
+    <info>Collecte automatiquement les munitions compatibles avec les armes que vous possédez en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
   </pip>
   <pip id="vsExplAll" v="0.8">
     <n>Explosifs</n>
@@ -6093,14 +6093,14 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="vsComp" v="0.8">
     <n>- Composants</n>
-    <info>Des composants pour les armes, armures, explosifs et appareils électriques. Tout ce dont tu as besoin pour travailler à un établi</info>
+    <info>Des composants pour les armes, armures, explosifs et appareils électriques. Tout ce dont vous avez besoin pour travailler à un établi.</info>
   </pip>
   <pip id="vsIngr" v="0.8">
     <n>- Ingrédients</n>
-    <info>Ingrédients alchimiques, herbes, parties de monstres... Tout ça est utile pour les potions</info>
+    <info>Ingrédients alchimiques, herbes, parties de monstres... Tout ça est utile pour les potions.</info>
   </pip>
   <pip id="speedshtr0" v="0.8">
-    <n>Laisse quelques armes au stand d'armes et place les objets inutiles dans le stockage</n>
+    <n>Laissez quelques armes au stand d'armes et placez les objets inutiles dans le stockage</n>
   </pip>
   <pip id="speedshtr1" v="0.8">
     <n>Vous êtes surchargé d'objets. Dans cet état, vous ne pouvez ni courir, ni accélérer</n>
@@ -6250,7 +6250,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>La caméra tremblera après des explosions et de puissants chocs.</info>
   </pip>
   <pip id="tovault" v="0.81">
-    <n>Lay out unnecessary items</n>
+    <n>Disposer des objets non nécessaires</n>
   </pip>
   <key id="keyLeft">
     <n>Gauche</n>
@@ -6331,7 +6331,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Soin</n>
   </key>
   <key id="keyMana" v="0.71">
-    <n>Quick magic potion</n>
+    <n>Potion de magie rapide</n>
   </key>
   <key id="keyItemNext">
     <n>Objet suivant</n>
@@ -6409,19 +6409,19 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Accélération</n>
   </key>
   <key id="keyArmor" v="0.8">
-    <n>Armor ability</n>
+    <n>Capacité d'armure</n>
   </key>
   <key id="keySpell1" v="0.8">
-    <n>Quick spell 1</n>
+    <n>Sort rapide 1</n>
   </key>
   <key id="keySpell2" v="0.8">
-    <n>Quick spell 2</n>
+    <n>Sort rapide 2</n>
   </key>
   <key id="keySpell3" v="0.8">
-    <n>Quick spell 3</n>
+    <n>Sort rapide 3</n>
   </key>
   <key id="keySpell4" v="0.8">
-    <n>Quick spell 4</n>
+    <n>Sort rapide 4</n>
   </key>
   <info id="noPoss" st="2">
     <n>Rien à faire ici sans outils</n>
@@ -6439,7 +6439,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Consuming material for repair</n>
   </info>
   <info id="unRepLock" st="2">
-    <n>Force field is shut down</n>
+    <n>Champ de force désactivé</n>
   </info>
   <info id="useRuna" st="2">
     <n>Burglar`s rune used</n>
@@ -6451,7 +6451,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Accessed</n>
   </info>
   <info id="unFixLock" st="2">
-    <n>Fixed</n>
+    <n>Réparé</n>
   </info>
   <info id="unLockFail" st="3">
     <n>Echec de crochetage</n>
@@ -6475,7 +6475,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Echec de piratage. Dernière tentative restante</n>
   </info>
   <info id="unTermLockFail2" st="3">
-    <n>Echec de piratage. Réessaye</n>
+    <n>Echec de piratage. Réessayez</n>
   </info>
   <info id="unLockZhopa" st="3">
     <n>Verrou bloqué !</n>
@@ -6493,7 +6493,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Compétence requise @1-@2</n>
   </info>
   <info id="remine" st="2">
-    <n>Appareil explosif désarmé</n>
+    <n>Appareil explosif désamorcé</n>
   </info>
   <info id="remineFail" st="3">
     <n>Echec de désarmement d'un appareil explosif</n>
@@ -6502,28 +6502,28 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>La bombe a explosé !</n>
   </info>
   <info id="signalOff" st="2">
-    <n>Alarm turned off</n>
+    <n>Alarme désactivée</n>
   </info>
   <info id="signalFail" st="3">
-    <n>Failed to turn alarm off</n>
+    <n>Echec de désactivation d'alarme</n>
   </info>
   <info id="signalZhopa" st="3">
-    <n>Alarm goes off!</n>
+    <n>Alarme désactivée !</n>
   </info>
   <info id="trapActivate" st="3" v="0.6">
-    <n>Trap activated</n>
+    <n>Piège activé</n>
   </info>
   <info id="trapDisarm" st="2" v="0.6">
-    <n>Trap disarmed</n>
+    <n>Piège désamorcé</n>
   </info>
   <info id="inUse" v="0.6">
-    <n>@1 is in use</n>
+    <n>@1 est en cours d'utilisation</n>
   </info>
   <info id="takeWeapon">
-    <n>Found weapon @1 (condition @2%)</n>
+    <n>Trouvé : arme @1 (condition @2%)</n>
   </info>
   <info id="takeAmmo">
-    <n>Trouvé : munition @1 (@2 units)</n>
+    <n>Trouvé : munition @1 (@2 unités)</n>
   </info>
   <info id="takeMed">
     <n>Trouvé : médecine @1</n>
@@ -6628,28 +6628,28 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Bonus de discrétion</n>
   </info>
   <info id="skillPoints" st="4">
-    <n>Skill points received: @1</n>
+    <n>Points de compétence reçus : @1</n>
   </info>
   <info id="perkPoint" st="4">
-    <n>New perks available</n>
+    <n>Nouvelles aptitudes disponibles</n>
   </info>
   <info id="skillUp" st="4">
-    <n>Skill @1 improved</n>
+    <n>Compétence @1 améliorée</n>
   </info>
   <info id="noSkill" st="0">
-    <n>Nothing interesting...</n>
+    <n>Rien d'intéressant...</n>
   </info>
   <info id="noPerk" st="0">
-    <n>No effect...</n>
+    <n>Aucun effet...</n>
   </info>
   <info id="endEffect" st="0">
-    <n>Effect @1 passed</n>
+    <n>Effet @1 terminé</n>
   </info>
   <info id="endFoodEffect" st="0" v="0.7">
-    <n>Effect from the food has passed</n>
+    <n>L'effet de la nourriture est terminé</n>
   </info>
   <info id="noVisible" st="0">
-    <n>The object is out of sight</n>
+    <n>L'objet est hors de portée</n>
   </info>
   <info id="loc">
     <n>Moving to @1</n>
@@ -6658,22 +6658,22 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>You can not leave the room while being attacked</n>
   </info>
   <info id="term1Act">
-    <n>Security systems are disabled</n>
+    <n>Les systèmes de sécurité sont désactivés</n>
   </info>
   <info id="term2Act">
-    <n>Locks opened</n>
+    <n>Verrous ouverts</n>
   </info>
   <info id="robocellOff">
     <n>Robocell powered down</n>
   </info>
   <info id="alarmOff">
-    <n>Alarm shut off</n>
+    <n>Alarme éteinte</n>
   </info>
   <info id="noSats" st="3">
-    <n>The weapon is not supported by S.A.T.S.</n>
+    <n>L'arme n'est pas supportée par le S.A.T.S.</n>
   </info>
   <info id="noOd" st="2">
-    <n>Not enough action points</n>
+    <n>Pas assez de points d'action</n>
   </info>
   <info id="zoom0">
     <n>Zoom 100%</n>
@@ -6685,28 +6685,28 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Zoom 2</n>
   </info>
   <info id="noMoney" st="3">
-    <n>Need @1 caps more</n>
+    <n>Besoin de @1 capsule(s) de plus</n>
   </info>
   <info id="noSkillPoint" st="3">
-    <n>Not enough skill points</n>
+    <n>Pas assez de pojnts de compétence</n>
   </info>
   <info id="misfire" st="3">
-    <n>Misfire!</n>
+    <n>Misfire !</n>
   </info>
   <info id="weaponJammed" st="3">
     <n>Weapon jammed</n>
   </info>
   <info id="spellCuld" st="9" v="0.8">
-    <n>Spell recharge - @1 sec</n>
+    <n>Rechargement de sort - @1 sec</n>
   </info>
   <info id="overMana" st="9" v="0.8">
     <n>Magic burnout</n>
   </info>
   <info id="noMana" st="3">
-    <n>Not enough magical power</n>
+    <n>Pas assez d'énergie magique</n>
   </info>
   <info id="noSpells" st="3">
-    <n>Unable to use spells</n>
+    <n>Inapte à utiliser des sorts</n>
   </info>
   <info id="weaponCircuit" st="3">
     <n>Short-circuit in the battery</n>
@@ -6847,10 +6847,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Epreuve "@1" complétée</n>
   </info>
   <info id="noBase" st="0" v="0.6">
-    <n>This must be done in a safe place</n>
+    <n>Ceci doit être fait dans un endroit sûr</n>
   </info>
   <info id="refill" v="0.6">
-    <n>Merchants have new products for sale</n>
+    <n>Les marchands proposent de nouveaux produits à vendre</n>
   </info>
   <info id="trigger" v="0.6">
     <n>Trigger [@1] = @2</n>
@@ -6880,7 +6880,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Do not litter in the base camp, use the storage instead</n>
   </info>
   <info id="noDrop2" st="0" v="0.8">
-    <n>It is better to keep this item</n>
+    <n>Il serait préférable de garder cet objet</n>
   </info>
   <info id="noSell" st="3" v="0.8">
     <n>The merchant does not have enough caps to pay for your goods</n>
@@ -6960,11 +6960,11 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>Its population died many years ago, and those who remained turned into wild ghouls. Security robots and turrets are especially dangerous there</info>
   </map>
   <map id="core" v="0.7">
-    <n>The core of the stable 88</n>
+    <n>Coeur de l'Etable 88</n>
     <info>Here are the overmare office, the main security office, the main server and the reactor core, which gives energy to the whole stable</info>
   </map>
   <map id="garages" v="0.7">
-    <n>Hankey Garages</n>
+    <n>Garages Hankey</n>
     <info>Meeting place according to the Mentor instructions</info>
   </map>
   <map id="random_mane" v="0.6">
@@ -6998,22 +6998,22 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <help>For jumping in the horizontal direction use dash move [Shift] + [A], [A] or [Shift] + [D], [D]</help>
   </map>
   <map id="doors" v="0.6">
-    <n>Combination lock</n>
+    <n>Verrou de combination</n>
     <info>Pressing the appropriate buttons, open all the armored doors</info>
     <help>Only one combination opens all the doors. The hint number is written on the wall behind the box. This number in binary form is the correct code</help>
   </map>
   <map id="lift" v="0.6">
-    <n>Fall</n>
+    <n>Chute</n>
     <info>Overcome the lift from the working anti-gravity elevator. You need to get the sufficient falling speed</info>
     <help>The third teleport is hidden under the floor</help>
   </map>
   <map id="buttons1" v="0.6">
-    <n>Shooting buttons</n>
+    <n>Boutons cibles</n>
     <info>Activate all the red buttons by shooting them</info>
     <help>To press the lower button, use a grenade together with telekinesis</help>
   </map>
   <map id="buttons2" v="0.6">
-    <n>Two sides</n>
+    <n>Deux côtés</n>
     <info>Activate two buttons on the sides of the room simultaneously</info>
     <help>To prevent the automatic door from closing place something in the doorway</help>
   </map>
@@ -7023,7 +7023,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <help>To press the nearest button use telekinesis with a dynamite stick. To press the farthest button use S.A.T.S. and choose the correct trajectory of the throw. You will need the "explosive" skill of 3rd level at least</help>
   </map>
   <map id="buttons4" v="0.6">
-    <n>Battle rainbow</n>
+    <n>Combat arc-en-ciel</n>
     <info>You need to press all buttons. Each button responds to one particular type of damage</info>
     <help>Laser, fire, electricity, acid, plasma, frost</help>
   </map>
@@ -7088,7 +7088,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <help>Laser sensors react only on hostile targets. Like you. They can be disabled having a sufficient level of the "Science" skill</help>
   </map>
   <map id="turrets" v="0.6">
-    <n>Danger zone</n>
+    <n>Zone de danger</n>
     <info>Get through the passage guarded by turrets</info>
     <help>There is a detonator behind a fragile wall, opening path to the pool with water. Water will protect you from energy weapons</help>
   </map>
@@ -7120,7 +7120,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Roi bouffisprite</n>
   </map>
   <map id="grav" v="0.6">
-    <n>Gravitational anomaly</n>
+    <n>Anomalie gravitationnelle</n>
     <info>Defeat enemies under lunar gravity conditions</info>
   </map>
   <map id="buttons5" v="0.6">
@@ -7201,7 +7201,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>Un bunker de stockage appartenant aux Rangers d'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
   </map>
   <map id="sttech" v="0.7">
-    <n>Bureau Stable-Tech, entrée de service</n>
+    <n>Bureau Stable-Tec, entrée de service</n>
   </map>
   <map id="talisman" v="0.7">
     <n>Repaire d'Alicornes</n>
@@ -7245,7 +7245,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>Un grand bâtiment construit par l'Enclave au sommet de la montagne. L'Enclave n'a pas fait une seule tentative pour contacter les habitants des Terres Désolées et, à en juger par le nombre de troupes dans la base, il est peu probable qu'ils soient venus avec des intentions paisibles.</info>
   </map>
   <map id="post" v="0.8">
-    <n> Avant-poste de l'Enclave</n>
+    <n>Avant-poste de l'Enclave</n>
     <info>Les portes vers la base principale</info>
   </map>
   <map id="comm" v="0.8">
@@ -7383,7 +7383,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Self-charging pistol - a lucky prize. It belongs to magical energy weapons class, that does not need Spark-batteries. The charge is restored automatically over time</n>
   </txt>
   <txt id="trFirearms" s1="keyReload">
-    <n>Firearms - you can never get enough of those. Press @1 to reload</n>
+    <n>Armes à feu - vous n'en aurez jamais assez de cet équipement. Appuyez sur @1 pour recharger.</n>
   </txt>
   <txt id="trMagic">
     <n>You found a book describing spell "Telekinetic bullet". To use it, equip it like an ordinary weapon. Spells don`t require ammo, but consume your magical power</n>
@@ -7794,7 +7794,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   </txt>
   <txt id="velvetDial1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Information obtenu depuis le maneframe</t>
+      <t v="0.8">Information obtenue depuis l'ordinateur central</t>
       <r p='lp3'>Ok, bon. Peut-être que ce mignon petit morceau de métal aimerait aussi me dire quelque chose ?</r>
       <r p='lp3' push='1'>Requête: Le projet "Soleil"</r>
       <r p='main'>*Recherche terminée*
