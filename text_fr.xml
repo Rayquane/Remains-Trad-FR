@@ -200,11 +200,11 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="raider7">
     <n>Pillard des Vétérans</n>
-    <info>Les Vétérans sont les groupes de pillards les plus dangereux, organisés et suréquippsé. Selon les normes des pillards, ils ont une bonne armure et de bonnes armes, et en plus, ils savent comment les utiliser.</info>
+    <info>Les Vétérans sont les groupes de pillards les plus dangereux, organisés et suréquippés. Selon les normes des pillards, ils ont une bonne armure et de bonnes armes, et en plus, ils savent comment les utiliser.</info>
   </unit>
   <unit id="raider8">
     <n>Pillard de Scorcher</n>
-    <info>Les pillards du gang de Scorcher sont connu pour leur (non sans danger) soif de feu. En combat, ils se servent de lance-flammes et autres armes incendiaires, la plupart d'entre eux pètent le feu (littéralement).</info>
+    <info>Les pillards du gang de Scorcher sont connus pour leur (non sans danger) soif de feu. En combat, ils se servent de lance-flammes et autres armes incendiaires, la plupart d'entre eux pètent le feu (littéralement).</info>
   </unit>
   <unit id="raider9">
     <n>Pillards des Bombers</n>
@@ -537,7 +537,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="robot" v="0.6">
     <n>Robots</n>
-    <info>Les robots sont le produit de la révolution technologique, que Equestria a vécu pendant des années avant la Grande Guerre. Ils représenent une combinaison de la technologie la plus avancée des poneys terrestres et de la magie des unicornes et ont été créés afin de réaliser diverses tâches, du ménage à la protection de propriété. Pendant la guerre, des modèles de combat ont aussi été développés pour être utilisés à des fins militaires.
+    <info>Les robots sont le produit de la révolution technologique, que Equestria a vécu pendant des années avant la Grande Guerre. Ils représentent une combinaison de la technologie la plus avancée des poneys terrestres et de la magie des unicornes et ont été créés afin de réaliser diverses tâches, du ménage à la protection de propriété. Pendant la guerre, des modèles de combat ont aussi été développés pour être utilisés à des fins militaires.
 Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux sont encore fonctionnels malgré les siècles passés. Il y a en majorité des robots de combat et de sécurité qui continuent d'exécuter leurs programmes pré-installés et qui sont prêts à utiliser toutes leurs capacités sur tout intrus entrant dans leur domaine.</info>
   </unit>
   <unit id="turret" v="0.6">
@@ -1918,7 +1918,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Kindness</n>
   </item>
   <item id="pot0">
-    <n>Charmed bandage</n>
+    <n>Bandage enchanté</n>
     <info>Suitable for treatment of scratches and cuts and also stops bleeding</info>
   </item>
   <item id="pot1">
@@ -2016,7 +2016,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Contains complex medical tools and healing spells for treating the most severe wounds. One can literally bring somepony back to life with this, providing he has the most advanced medical skills and lots of experience</info>
   </item>
   <item id="bloodpak">
-    <n>Blood pack</n>
+    <n>Poche de sang</n>
     <info>A pack of artificial blood, compatible with blood of any pony race</info>
   </item>
   <item id="radx">
@@ -2665,28 +2665,28 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Old binoculars with scratched lenses, a gift from Calamity</info>
   </item>
   <item id="empbomb" v="0.7">
-    <n>Pulse bomb</n>
-    <info>Helps entering the Steel Rangers bunker. One-time use</info>
+    <n>Bombe à impulsion</n>
+    <info>Aide à rentrer dans le bunker des Rangers d'Acier. Usage unique.</info>
   </item>
   <item id="card0" v="0.7">
-    <n>"Fool" destiny card</n>
-    <info>Allows changing the game difficulty to "very easy" for a single time</info>
+    <n>Carte de tarot "Le Fou"</n>
+    <info>Permet de changer la difficulté du jeu en "très facile" une seule fois.</info>
   </item>
   <item id="card1" v="0.7">
-    <n>"Hermit" destiny card</n>
-    <info>Allows changing the game difficulty to "easy" for a single time</info>
+    <n>Carte de tarot "L'Hermite"</n>
+    <info>Permet de changer la difficulté du jeu en "facile" une seule fois.</info>
   </item>
   <item id="card2" v="0.7">
-    <n>"Mage" destiny card</n>
-    <info>Allows changing the game difficulty to "normal" for a single time</info>
+    <n>Carte de tarot "Le Magicien"</n>
+    <info>Permet de changer la difficulté du jeu en "normale" une seule fois.</info>
   </item>
   <item id="card3" v="0.7">
-    <n>"Emperor" destiny card</n>
-    <info>Allows changing the game difficulty to "hard" for a single time</info>
+    <n>Carte de tarot "L'Empereur"</n>
+    <info>Permet de changer la difficulté du jeu en "difficile" une seule fois.</info>
   </item>
   <item id="card4" v="0.7">
-    <n>"Death" destiny card</n>
-    <info>Allows changing the game difficulty to "super-hard" for a single time</info>
+    <n>Carte de tarot "La Mort"</n>
+    <info>Permet de changer la difficulté du jeu en "très difficile" une seule fois.</info>
   </item>
   <item id="p_black" v="0.6">
     <n>Peinture noire</n>
@@ -5682,7 +5682,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>réparé par</n>
   </pip>
   <pip id="perform" v="0.6">
-    <n>en progrès</n>
+    <n>en progression</n>
   </pip>
   <pip id="surr" v="0.6">
     <n>prêt</n>
@@ -5700,16 +5700,16 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Location level reached</n>
   </pip>
   <pip id="ls4" v="0.7">
-    <n>Base camp</n>
+    <n>Camp de base</n>
   </pip>
   <pip id="actTake" v="0.6">
-    <n>Press to accept a mission</n>
+    <n>Appuyer pour accepter une mission</n>
   </pip>
   <pip id="actSurr" v="0.6">
-    <n>Press to finish the quest and get a reward</n>
+    <n>Appuyer pour terminer une quête et recevoir une récompense</n>
   </pip>
   <pip id="actGive" v="0.6">
-    <n>Press to give items</n>
+    <n>Appuyer pour donner des objets</n>
   </pip>
   <pip id="resists" v="0.6">
     <n>Résistances</n>
@@ -5797,7 +5797,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Sauvegardes</n>
   </pip>
   <pip id="invupr1" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
-    <n>[clic] - sélectionner une weapon@[clic droit] - en stockage / reprendre@touches sélection de slots (@1- @2) - assigner</n>
+    <n>[clic] - sélectionner une arme@[clic droit] - en stockage / reprendre@touches sélection de slots (@1- @2) - assigner</n>
   </pip>
   <pip id="invupr2" s1="keyWeapon1" s2="keyWeapon12" v="0.8">
     <n>[clic] - équiper l'armure@touches sélection de slots (@1- @2) - assigner</n>
@@ -5812,13 +5812,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[clic] - put everything into storage@[clic droit] - pick everything from the storage</n>
   </pip>
   <pip id="infotravel">
-    <n>[clic] - chose destination point</n>
+    <n>[clic] - choisir un point de destination</n>
   </pip>
   <pip id="usemed1">
-    <n>[clic] - use appropriate medicine or instruments</n>
+    <n>[clic] - utiliser l'objet approprié</n>
   </pip>
   <pip id="usemed2">
-    <n>[clic] - pay for treatment</n>
+    <n>[clic] - payer pour un traitement</n>
   </pip>
   <pip id="inforepair">
     <n>[clic] - réparer</n>
@@ -5827,7 +5827,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[clic] - select 1 unit of product@[clic droit] - cancel selection@hold [shift] - select all</n>
   </pip>
   <pip id="infoskills">
-    <n>[clic] - increase skill@[clic droit] - cancel</n>
+    <n>[clic] - augmenter une compétence @[clic droit] - retour</n>
   </pip>
   <pip id="infoload" v="0.7">
     <n>[clic] - charger</n>
@@ -5839,7 +5839,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[clic] - reassign key</n>
   </pip>
   <pip id="infotasks" v="0.6">
-    <n>[clic] - take a quest</n>
+    <n>[clic] - choisir une quête</n>
   </pip>
   <pip id="infostand" v="0.8">
     <n>[clic] - leave a weapon in storage or take it back</n>
@@ -6924,24 +6924,24 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info/>
   </map>
   <map id="begin">
-    <n>Technical tunnels</n>
-    <info>Beginning of your journey</info>
+    <n>Tunnels techniques</n>
+    <info>Le commencement de votre voyage.</info>
   </map>
   <map id="surf">
     <n>Surface</n>
-    <info>Equestrian Wasteland, harsh and cruel</info>
+    <info>Les Terres Désolées, rudes et cruelles.</info>
   </map>
   <map id="raiders1" v="0.6">
-    <n>Raiders` den</n>
-    <info>Ruins, occupied by a large raiders gang</info>
+    <n>Taverne de pillards</n>
+    <info>Des ruines, occupées par un grand gang de pillards.</info>
   </map>
   <map id="raiders" v="0.7">
     <n>Falls Springs</n>
-    <info>A small settlement in which the slavers are based. Here is the entrance to the stable 88</info>
+    <info>Une petite colonie où se basent les esclavagistes. C'est aussi là où se trouve l'entrée à l'Etable 88.</info>
   </map>
   <map id="rbl">
     <n>Camp "Poney Cabré"</n>
-    <info>One of those rare safe places where you can rest, treat your wounds and replenish supplies</info>
+    <info>L'un des rares lieux sûrs où vous pouvez vous reposer, traiter vos blessures et vous réapprovisionner.</info>
   </map>
   <map id="random_plant">
     <n>Usine</n>
@@ -7645,9 +7645,9 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </txt>
   <txt id="storyDial1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Message from Mentor</t>
+      <t v="0.8">Message du Mentor</t>
       <r>Soudain, votre PipBuck s'allume tout seul. Sur son écran l'interface habituelle est remplacée par une série de symboles, formant des mots et des phrases. Vous ne comprenez pas ce qui se passe, mais le logiciel PipBuck standard ne peut pas le faire et vous en êtes bien conscient</r>
-      <r p='pip'>Salutation, "Chosen-25" @lp. Je suis le Mentor, ma tâche est de diriger vos actions et de montrer la voie</r>
+      <r p='pip'>Salutations, "Chosen-25" @lp. Je suis le Mentor, ma tâche est de diriger vos actions et de montrer la voie</r>
       <r p='lp2'>Quoi?! Qu'est-ce que c'est maintenant? Qui me parle... et comment puis-je vous répondre ?</r>
       <r p='pip'>Maintenant, vous aimeriez probablement savoir qui je suis, comment je suis entré dans votre PipBuck et pourquoi vous devriez me faire confiance. Les questions sont plus que raisonnables et j'y répondrai bien sûr du mieux que je peux.
 Pour l'instant, mon identité doit rester cachée. Une chose que je peux dire, c'est que nous nous connaissons bien, et je ne suis en aucun cas votre ennemi.
@@ -8194,7 +8194,7 @@ You were not at the briefing of the rear-guard commanders, so I`ll give you the 
       <t v="0.8">Rencontre avec Daiquiri</t>
       <r p='vb'>Bienvenue dans mon bar le "Poney Cabré". Au fait, c'est aussi le nom de notre colonie. Nous sommes toujours heureux de voir des voyageurs paisibles ici. Ne causez pas de problèmes, et nous nous entendrons (et nous ne vous tuerons pas). Mon nom est Daiquiri</r>
       <r p='lp4'>Salut, je suis @lp. Si j'ai bien compris, vous êtes en charge de ce camp ?</r>
-      <r p='vb'>En quelque sorte. J'essaie au moin de résoudre tous les problèmes importants. Demandez-moi si vous avez besoin de quelque chose ou si vous voulez juste boire un verre</r>
+      <r p='vb'>En quelque sorte. J'essaie au moins de résoudre tous les problèmes importants. Demandez-moi si vous avez besoin de quelque chose ou si vous voulez juste boire un verre</r>
       <r p='vb'>Si vous souhaitez échanger ou gagner quelques capsules, rendez-vous chez les marchands dans le hall principal. Ils ont toujours du travail à faire, peut-être qu'ils vous embaucheront pour les aider</r>
       <r p='vb'>Eh bien, si vous avez besoin de vous rafistoler, rendez-vous à la clinique. Notre doc est le meilleur médecin que vous puissiez trouver ici</r>
       <r p='lp4'>Je vous remercie pour votre hospitalité. Si jamais j'ai besoin d'informations, je vous rendrai certainement visite</r>
@@ -10733,7 +10733,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Vert foncé</n>
   </txt>
   <txt id="collectPaintsB8" v="0.6">
-    <n>Bring back all the paint and get a reward</n>
+    <n>Rapportez toute les peintures et obtenez une récompense</n>
   </txt>
   <txt id="collectPaintsC" v="0.7">
     <n>Obtenez de la peinture - 3</n>
@@ -10761,7 +10761,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Beige</n>
   </txt>
   <txt id="collectPaintsC8" v="0.6">
-    <n>Bring back all the paint and get a reward</n>
+    <n>Rapportez toute les peintures et obtenez une récompense</n>
   </txt>
   <txt id="vendor_armor_paint" imp="1" v="0.6">
     <n>
@@ -10771,7 +10771,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
       <r p='lp4'>Parce que c'est siiii intéressant !</r>
       <r p='va'>J'apprends à peindre. Vous pourriez appeler cela mon passe-temps. Si vous voulez, prenez la clé pour ouvrir l'arrière-salle et regarder. Ne touchez juste à rien.</r>
       <r p='lp4'>Et comment ça avance ?</r>
-      <r p='va'>Cela pourrait être mieux. Mais il est difficle d'apprendre par expérience, et il n'y a pas de livres pour les artistes, même dans la bibliothèque de Nebula.</r>
+      <r p='va'>Cela pourrait être mieux. Mais il est difficile d'apprendre par expérience, et il n'y a pas de livres pour les artistes, même dans la bibliothèque de Nebula.</r>
       <r p='lp2'>Peut-être pourrais-je essayer de trouver quelque chose d'utile ?</r>
       <r p='va'>Personne ne vous a déjà dit que vous étiez drôle, @lp ? Vous ne pouvez pas trouver tout ce dont tout le monde a besoin parmi des ruines. Non merci, ça ira.</r>
     </n>
@@ -10985,7 +10985,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="vendor_medic_quest1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Broken AutoDoc</t>
+      <t v="0.8">AutoDoc cassé</t>
       <r p='lp4'>Hey, Doc! And what about this strange robot standing in the corner?</r>
       <r p='vd'>This is the AutoDoc - a pre-war, fully automated medical station. It is equipped with a diagnostic module and a full spectrum of surgical instruments. In fact, it can cure you of many diseases and injuries all by itself, no doctor participation is required</r>
       <r p='lp1'>But, by the looks of it, now it doesn`t work?</r>
@@ -11000,7 +11000,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="vendor_medic_quest2" imp="1" v="0.7">
     <n>
-      <t v="0.8">AutoDoc works again</t>
+      <t v="0.8">AutoDoc remarche</t>
       <r p='lp4'>Job`s done, Doc. Your assistant is back in service, works as good as new</r>
       <r p='vd'>I already know that. How should I explain... Let`s just say that all the time that you were tinkering with the machine, I was in the same room sitting next to you. At a distance of half a meter. Do you understand what I`m getting at?</r>
       <r p='vd'>But thank you for the job well done. Patching up the AutoDoc is a very significant contribution to the functioning of my clinic. As promised, from now on you have every right to use the AutoDoc absolutely free of charge and not even pay for electricity consumption. In addition, here are all 5 liters of biogel that I have left. If you need more, you can try to search it among the ruins of pre-war clinics or pharmaceutical factories, other sources of biogel still do not exist</r>
@@ -11086,7 +11086,7 @@ First, I need calipers</r>
     <n>Bring the obtained fat</n>
   </txt>
   <txt id="collectCol2" v="0.7">
-    <n>"Cyberpony" Magazine</n>
+    <n>Magazine "Cyberponey"</n>
     <info>I`m looking for pre-war magazines "Cyberpony". They are very rare, they only came out during a single year and in small batches. I`ll pay for each, but anypony who brings all twelve numbers will receive a special reward</info>
   </txt>
   <txt id="collectCol21" v="0.7">
@@ -11142,7 +11142,7 @@ First, I need calipers</r>
   </txt>
   <txt id="vendor_mech_quest2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Fascination with robots</t>
+      <t v="0.8">Fascination avec les robots</t>
       <r p='vm'>Tell me, @lp, how good are you at hacking terminals?</r>
       <r p='lp2'>I`m pretty good at this, why?</r>
       <r p='vm'>You see, I`m somewhat interested in everything connected with robots. I`m especially curious about equidroids. Heard about them? They are robots that look like real ponies</r>
@@ -11196,7 +11196,7 @@ First, I need calipers</r>
     <n>Bring all the stones to Dusty Nebula and get a reward</n>
   </txt>
   <txt id="collectBooks" v="0.6">
-    <n>Library</n>
+    <n>Bibliothèque</n>
     <info>I am buying intact pre-war books for the best price. Any will do, providing they can be read. Who brings the most, receives a special reward. Reading is magic, yay!</info>
   </txt>
   <txt id="collectBooks1" v="0.6">
@@ -11210,7 +11210,7 @@ First, I need calipers</r>
   </txt>
   <txt id="vendor_mage_quest1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Library</t>
+      <t v="0.8">Bibliothèque</t>
       <r p='lp2'>I see you have a whole library here!</r>
       <r p='vs'>I wish I had... Several shelves with books, that is all. Nowadays the books are not published - there is nopony to do it. Ponies almost lost interest completely in anything that does not help them survive here and now. And almost all pre-war ones are either burned, or rotted from dampness, or simply fell apart from time and lack of care. Our time is not kind to knowledge, @lp</r>
       <r p='vs'>But sometimes you can come across almost intact ones. And I consider it my duty to preserve them. Let us have a deal - if you find undamaged pre-war books somewhere, bring them to me. I will pay you more for them than you can get from anypony else</r>
@@ -13400,9 +13400,9 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Nopony there...</r>
     </rep>
     <rep act="dam" id="eqd">
-      <r>Ouch!</r>
+      <r>Ouille !</r>
       <r>It`s tickling!</r>
-      <r>Ouch! What for?</r>
+      <r>Ouille ! Pourquoi ?</r>
       <r>Why so rude?</r>
       <r>Stop it, bully!</r>
     </rep>
@@ -13415,8 +13415,8 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Oh! What a rough day!</r>
     </rep>
     <rep act="levit" id="eqd">
-      <r>Oh wow!</r>
-      <r>I can fly!</r>
+      <r>Oh wow !</r>
+      <r>Je peux voler !</r>
       <r>Yeah! Give me a ride!</r>
       <r>So much fun!</r>
     </rep>
@@ -13437,7 +13437,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Proceeding to the next instruction</r>
     </rep>
     <rep act="attack" id="sentinel">
-      <r>Danger level - red</r>
+      <r>Niveau de danger - rouge</r>
       <r>New target acquired</r>
       <r>Setting highest priority target</r>
       <r>All civilians, evacuate immediately</r>
@@ -13514,26 +13514,26 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Hey, don`t touch this!</r>
     </rep>
     <rep act="neutral" id="doctor">
-      <r>Tell me where it hurts?</r>
+      <r>Dites-moi où avez-vous mal ?</r>
       <r>Do you need patching up?</r>
-      <r>Healing potions...</r>
-      <r>I`ll get you back on your hooves!</r>
-      <r>Is anypony injured?</r>
-      <r>Do you need a doctor?</r>
+      <r>Potions de soin...</r>
+      <r>Je vous remettrais sur sabots !</r>
+      <r>Quelqu'un est-il blessé ?</r>
+      <r>Avez-vous besoin d'un médecin ?</r>
       <r>First class healing magic!</r>
-      <r>Not feeling well?</r>
-      <r>We treat illnesses, wounds, injuries!</r>
-      <r>Absolutely painless procedures!</r>
-      <r>If you die, we`ll return your money!</r>
-      <r>Best medical care in the Wasteland!</r>
-      <r>Where did I leave my scalpel?..</r>
+      <r>Vous ne vous sentez pas bien ?</r>
+      <r>Nous traitons maladies, plaies, et blessures !</r>
+      <r>Méthodes sans douleur !</r>
+      <r>Si vous mourrez, on vous rends la monnaie !</r>
+      <r>Le meilleur des soins des Terres Désolées !</r>
+      <r>Où ai-je mis mon scalpel ?...</r>
       <r>Free rabies shots!</r>
       <r>An apple a day... would be great * sigh *</r>
-      <r>Get a discount on blood transfusion!</r>
+      <r>Obtenez une réduction sur la transfusion de sang !</r>
       <r>Treating venereal diseases for half a price</r>
     </rep>
     <rep act="vse" id="doctor">
-      <r>Feeling better?</r>
+      <r>On se sent mieux ?</r>
       <r>All set! Neeext!</r>
       <r>Be careful next time, OK?</r>
       <r>Stay healthy!</r>
@@ -13542,27 +13542,27 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>Don`t forget to take your medicine!</r>
     </rep>
     <rep act="neutral" id="captive">
-      <r>Help...</r>
-      <r>Help me!</r>
-      <r>Let me out!</r>
-      <r>Please, help...</r>
-      <r>Anypony...</r>
-      <r>Please, water...</r>
-      <r>What will happen to me?</r>
-      <r>Water......</r>
-      <r>I need help...</r>
+      <r>De l'aide...</r>
+      <r>Aidez-moi !</r>
+      <r>Laissez-moi sortir !</r>
+      <r>S'il-vous-plaît, de l'aide...</r>
+      <r>N'importe qui...</r>
+      <r>S'il-vous-plaît, de l'eau...</r>
+      <r>Que va t'il m'arriver ?</r>
+      <r>De l'eau......</r>
+      <r>J'ai besoin d'aide...</r>
     </rep>
     <rep act="vse" id="captive">
-      <r>Thanks!</r>
-      <r>Thank you!</r>
-      <r>You saved me!</r>
-      <r>Goddesses bless you!</r>
-      <r>I`m out of here!</r>
-      <r>I`m free!</r>
-      <r>Let`s get out of here!</r>
+      <r>Merci !</r>
+      <r>Merci à vous !</r>
+      <r>Vous m'avez sauvé !</r>
+      <r>Les Déesses vous bénissent !</r>
+      <r>Je suis sortie !</r>
+      <r>Je suis libre !</r>
+      <r>Partons d'ici !</r>
     </rep>
     <rep act="neutral" id="ponpon" v="0.7">
-      <r>Hi!</r>
+      <r>Salut !</r>
       <r>How are you?</r>
       <r>Huh!</r>
       <r>Yeah, we have a problem...</r>
