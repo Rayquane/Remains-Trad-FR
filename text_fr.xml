@@ -4273,7 +4273,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Maximum health reduced by #1, stamina recovery reduced by #3, stamina consumption for running and jumping increased by #2</info>
   </eff>
   <eff id="trauma_legs" v="0.8">
-    <n>Blessures aux membres</n>
+    <n>Blessures aux jambes</n>
     <info>Running speed reduced by #1, walking speed reduced by #2</info>
   </eff>
   <eff id="trauma_blood" v="0.8">
@@ -4902,60 +4902,60 @@ After a few years this entire area of ​​Equestria was almost completely devo
   </pip>
   <pip id="organism" v="0.71">
     <n>Etat du corps</n>
-    <info>Montre vos dégâts internes, séparément pour la tête, le corps, et les membres. Ils sont difficiles à soigner sur le terrain, les potions médicales ne suffiront pas. Tu auras besoin de l'aide d'un médecin qualifié ou de compétences en médecine et d'équipements spéciaux. Les blessures à la tête entraînent des pénalités pour la précision, la vitesse d'attaque et la magie, les blessures corporelles réduisent l'endurance et les blessures aux jambes réduisent la vitesse de déplacement. Une perte de sang importante affecte également votre capacité à causer des dommages et à résister à la douleur</info>
+    <info>Montre vos dégâts internes, séparément pour la tête, le corps, et les membres. Ils sont difficiles à soigner sur le terrain, les potions médicales ne suffiront pas. Vous aurez besoin de l'aide d'un médecin qualifié ou de compétences en médecine et d'équipements spéciaux. Les blessures à la tête entraînent des pénalités pour la précision, la vitesse d'attaque et la magie, les blessures corporelles réduisent l'endurance et les blessures aux jambes réduisent la vitesse de déplacement. Une perte de sang importante affecte également votre capacité à causer des dommages et à résister à la douleur.</info>
   </pip>
   <pip id="head">
     <n>Tête</n>
   </pip>
   <pip id="statHead0">
     <n>Condition : parfaite</n>
-    <info>Tout est en ordre</info>
+    <info>Tout est en ordre.</info>
   </pip>
   <pip id="statHead1">
     <n>Condition : OK</n>
-    <info>Diagnostic : une bosse sanglante, une égratignure à l'oreille et un œil au beurre noir. La tendance dans les Terres Désolées</info>
+    <info>Diagnostic : une bosse sanglante, une égratignure à l'oreille et un œil au beurre noir. La tendance dans les Terres Désolées.</info>
   </pip>
   <pip id="statHead2">
     <n>Condition : mauvaise</n>
-    <info>Diagnostic : une lésion cérébrale traumatique légère. Peut causer des maux de tête, des étourdissements et des nausées. Avec un tel traumatisme, il est difficile de penser correctement, d'utiliser la magie ou de viser avec des armes. Consultez votre médecin à la première occasion</info>
+    <info>Diagnostic : une lésion cérébrale traumatique légère. Peut causer des maux de tête, des étourdissements et des nausées. Avec un tel traumatisme, il est difficile de penser correctement, d'utiliser la magie ou de viser avec des armes. Consultez votre médecin à la première occasion.</info>
   </pip>
   <pip id="statHead3">
     <n>Condition : très mauvaise</n>
-    <info>Diagnostic : une blessure grave au crâne et au cerveau. La vue et l'ouïe sont altérées. Perte de mémoire possible, hallucinations, réaction inadéquate aux stimuli externes. La limite magique a diminué. Une condition mortelle, consultez un médecin dès que possible</info>
+    <info>Diagnostic : une blessure grave au crâne et au cerveau. La vue et l'ouïe sont altérées. Perte de mémoire possible, hallucinations, réaction inadéquate aux stimuli externes. La limite magique a diminué. Une condition mortelle, consultez un médecin dès que possible.</info>
   </pip>
   <pip id="tors">
     <n>Corps</n>
   </pip>
   <pip id="statTors0">
     <n>Condition : parfaite</n>
-    <info>Ton corps est prêt</info>
+    <info>Votre corps est prêt.</info>
   </pip>
   <pip id="statTors1">
     <n>Condition : OK</n>
-    <info>Diagnostic : quelques contusions, brûlures et coupures. Mieux vaut être plus prudent</info>
+    <info>Diagnostic : quelques contusions, brûlures et coupures. Mieux vaut être plus prudent.</info>
   </pip>
   <pip id="statTors2">
     <n>Condition : mauvaise</n>
-    <info>Diagnostic : une ou plusieurs côtes sont cassées, certains organes internes sont légèrement endommagés. Peut diminuer l'endurance, provoquer une dyspnée, une respiration douloureuse. Un bon repos au lit est recommandé</info>
+    <info>Diagnostic : une ou plusieurs côtes sont cassées, certains organes internes sont légèrement endommagés. Peut diminuer l'endurance, provoquer une dyspnée, une respiration douloureuse. Un bon repos au lit est recommandé.</info>
   </pip>
   <pip id="statTors3">
     <n>Condition : très mauvaise</n>
-    <info>Diagnostic : multiples fractures des côtes, multiples blessures internes, lésions de la colonne vertébrale suspectées. Risque d'insuffisance cardiaque. Une condition mortelle, une hospitalisation immédiate est nécessaire</info>
+    <info>Diagnostic : multiples fractures des côtes, multiples blessures internes, lésions de la colonne vertébrale suspectées. Risque d'insuffisance cardiaque. Une condition mortelle, une hospitalisation immédiate est nécessaire.</info>
   </pip>
   <pip id="legs">
     <n>Jambes</n>
   </pip>
   <pip id="statLegs0">
     <n>Condition : parfaite</n>
-    <info>Rien ne fait mal</info>
+    <info>Rien ne fait mal.</info>
   </pip>
   <pip id="statLegs1">
     <n>Condition : OK</n>
-    <info>Diagnostic : a sprained ankle. Don`t step on this leg at least for a week</info>
+    <info>Diagnostic : une entorse de cheville. Ne marchez pas avec cette jambe un minimum d'une semaine.</info>
   </pip>
   <pip id="statLegs2">
     <n>Condition : mauvaise</n>
-    <info>Diagnosis: at least one leg is broken, others have multiple minor injuries. You can not run and jump as usual in this condition. It is highly recommended mending the fractured bone, fix the broken leg and avoid any physical activities</info>
+    <info>Diagnostic : au moins une jambe cassée, others have multiple minor injuries. You can not run and jump as usual in this condition. It is highly recommended mending the fractured bone, fix the broken leg and avoid any physical activities</info>
   </pip>
   <pip id="statLegs3">
     <n>Condition : très mauvaise</n>
@@ -5532,7 +5532,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Restauration de pouvoir magique</n>
   </pip>
   <pip id="healorgan">
-    <n>Restauration des membres du corps</n>
+    <n>Restauration du membre du corps</n>
   </pip>
   <pip id="healorgans">
     <n>Soigne toute blessure</n>
@@ -7167,7 +7167,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="barahlo" v="0.7">
     <n>Cave sombre et dangereuse</n>
-    <info>N'ouvrez pas la porte, la mort vous attend a l'interieur</info>
+    <info>N'ouvrez pas la porte, la mort vous attend à l'intérieur</info>
   </map>
   <map id="podval" v="0.7">
     <n>Une cave mysterieuse</n>
