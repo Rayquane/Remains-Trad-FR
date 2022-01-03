@@ -6688,7 +6688,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Besoin de @1 capsule(s) de plus</n>
   </info>
   <info id="noSkillPoint" st="3">
-    <n>Pas assez de pojnts de compétence</n>
+    <n>Pas assez de points de compétence</n>
   </info>
   <info id="misfire" st="3">
     <n>Misfire !</n>
@@ -6709,13 +6709,13 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Inapte à utiliser des sorts</n>
   </info>
   <info id="weaponCircuit" st="3">
-    <n>Short-circuit in the battery</n>
+    <n>Court-circuit dans la batterie</n>
   </info>
   <info id="weaponSkillLevel" st="3">
-    <n>Your weapon skill is not sufficient</n>
+    <n>Votre niveau de compétence d'arme est insuffisant</n>
   </info>
   <info id="persLevel" st="3">
-    <n>Insufficient character level</n>
+    <n>Niveau de personnage insuffisant</n>
   </info>
   <info id="upArmor" st="2">
     <n>Armure améliorée</n>
@@ -6727,7 +6727,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Arme @1 créée</n>
   </info>
   <info id="created2" st="2">
-    <n>Objet @1 créé. You have total - @2</n>
+    <n>Objet @1 créé. Vous avez au total - @2</n>
   </info>
   <info id="created3" st="2">
     <n>@1 créé</n>
@@ -6766,37 +6766,37 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>@1</n>
   </info>
   <info id="trauma1" st="5">
-    <n>Attention! Vous êtes légèrement blessé</n>
+    <n>Attention ! Vous êtes légèrement blessé.</n>
   </info>
   <info id="trauma2" st="5">
-    <n>Attention! Vous êtes sérieusement blessé. Demmandé de l'aide a un docteur</n>
+    <n>Attention ! Vous êtes sérieusement blessé. Demandez de l'aide à un docteur.</n>
   </info>
   <info id="trauma3" st="5">
-    <n>Attention! Vous êtes sérieusement blessé a divers endroits. Condition vital critique. Vous devez vous faire hospitalisé immédiatement</n>
+    <n>Attention! Vous êtes sérieusement blessé a divers endroits. Condition vital critique. Vous devez vous faire hospitaliser immédiatement</n>
   </info>
   <info id="trauma4" st="5">
-    <n>Blessé a en mourrir. Reposez en paix, @1</n>
+    <n>Blessé à en mourir. Reposez en paix, @1</n>
   </info>
   <info id="blood1" st="5">
-    <n>Attention! Petite perte de sang</n>
+    <n>Attention ! Petite perte de sang.</n>
   </info>
   <info id="blood2" st="5">
-    <n>Attention! Perte de sang sérieuse</n>
+    <n>Attention ! Perte de sang sérieuse.</n>
   </info>
   <info id="blood3" st="5">
-    <n>Attention! Vous êtes entrain de mourrir du a la perte de sang. Condition vital critique</n>
+    <n>Attention ! Vous êtes en train de mourir dû à la perte de sang. Condition vitale critique.</n>
   </info>
   <info id="blood4" st="5">
-    <n>Vous êtes mort a cause de la perte de sang. Reposez en paix, @1</n>
+    <n>Vous êtes mort à cause de la perte de sang. Reposez en paix, @1</n>
   </info>
   <info id="tmana2" st="3">
     <n>You have a small magical exhaustion</n>
   </info>
   <info id="tmana3" st="3">
-    <n>Attention! You have a serious magical exhaustion</n>
+    <n>Attention ! You have a serious magical exhaustion</n>
   </info>
   <info id="tmana4" st="5">
-    <n>Attention! Your magical power is depleted. Further magical use is impossible</n>
+    <n>Attention ! Your magical power is depleted. Further magical use is impossible</n>
   </info>
   <info id="poison" st="5">
     <n>Attention ! Vous êtes empoisonné !</n>
@@ -7568,10 +7568,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   <txt id="begDialInvent" imp="2" v="0.7">
     <n>
       <t v="0.8">Manuel de l'inventaire</t>
-      <r p='term' s1='keyPip' s2='keyInvent'>[Inventory manual]
+      <r p='term' s1='keyPip' s2='keyInvent'>[Manuel de l'inventaire]
                 Everything that you find and collect during a journey will be stored in your inventory. You can browse through the inventory using PipBuck (key @1 or @2), [Inventory] section.
                 This section has several subsections that you can switch between using buttons in the upper part of the interface - [Weapons], [Armor], [Equipment], [Ammunition], [Other]</r>
-  <r p='term'>In the [Weapons] section you can see every weapon that you have. From here you can equip it, check its characteristics, condition and how much corresponding ammo you have.
+  <r p='term'>In the [Armes] section you can see every weapon that you have. From here you can equip it, check its characteristics, condition and how much corresponding ammo you have.
                 Likewise, section [Armor] allows you to equip armor and check its characteristics and condition</r>
   <r p='term' s1='keyItem' s5='keyItem' s2='keyItemNext' s3='keyItemPrev' s4='keyPot'>Subsection [Equipment] shows all items that you can use - medications, repair kits, books etc.
                 You can use items from here, through PipBuck interface, or in-game using @1 key.
@@ -7599,23 +7599,23 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </txt>
   <txt id="begDialWater">
     <n>
-      <r p="lp2">Uh-oh... Quelque chose ne va pas avec cette eau...</r>
-      <r p="lp2" push="1">Pour autant que je sache , elle ne devrait pas être de cette couleur</r>
+      <r p="lp2">Oh-oh... Quelque chose ne va pas avec cette eau...</r>
+      <r p="lp2" push="1">Pour autant que je sache, elle ne devrait pas être de cette couleur.</r>
     </n>
   </txt>
   <txt id="begDialPodkradun">
     <n>
-      <r p="lp2">Cette tourelle automatique a l'air dangereuse, et je n'ai pas d'arme adapté. Je ne pense pas que le combat soit équitable</r>
-      <r p="lp2">Mais ce n'est pas necessaire. Pour aller de l'autre coté je peux passer discrètement</r>
-      <r p="lp4">Allez, je peux le faire!</r>
+      <r p="lp2">Cette tourelle automatique à l'air dangereuse, et je n'ai pas d'arme adaptée. Je ne pense pas que le combat soit équitable</r>
+      <r p="lp2">Mais ce n'est pas nécessaire. Pour aller de l'autre coté, je peux passer discrètement.</r>
+      <r p="lp4">Allez, je peux le faire !</r>
     </n>
   </txt>
   <txt id="begDialTurret" imp="2">
     <n>
       <t v="0.8">Tourelles</t>
-      <r p='term'>Les tourelles sont des robots défensifs, installés à des endroits particuliers et équipés d'armes puissantes</r>
-      <r p='term'>En mode combat, ils reconnaissent automatiquement les cibles hostiles à proximité et ouvrent le feu sans avertissement</r>
-      <r p='term'>Il y a pas mal de tourelles fonctionnelles d'avant-guerre dans les Terres Désolé qui, même après toutes ces années, continuent de garder les objets confiés. Et cela représente certainement un gros problème pour ceux qui souhaitent obtenir facilement du butin.</r>
+      <r p='term'>Les tourelles sont des robots défensifs, installés à des endroits particuliers et équipés d'armes puissantes.</r>
+      <r p='term'>En mode combat, elles reconnaissent automatiquement les cibles hostiles à proximité et ouvrent le feu sans avertissement.</r>
+      <r p='term'>Il y a pas mal de tourelles fonctionnelles d'avant-guerre dans les Terres Désolées qui, même après toutes ces années, continuent de garder les objets confiés. Et cela représente certainement un gros problème pour ceux qui souhaitent obtenir facilement du butin.</r>
       <r p='term'>Heureusement, les tourelles sont assez faciles à éliminer, malgré leur puissance de feu mortelle. Vous pouvez utiliser des armes perforantes ou à impulsion, ou simplement les fermer via le terminal de sécurité. La partie la plus importante - restez à l'écart des balles, ce qui n'est pas si difficile. Parce que les tourelles ne peuvent pas bouger, elles ne vous poursuivront pas si vous quittez leur détection.</r>
     </n>
   </txt>
@@ -7632,12 +7632,12 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   <txt id="begDialBloat2" v="0.7">
     <n>
       <r p="lp2">Il y a quelque chose derrière ce mur. J'entend un étrange bourdonnement.</r>
-      <r p="lp3">Hmm... le mur n'a pas l'air très solide. Je pourrais essayer de faire un trou dedans, mais est-ce que ça vaut le coup?</r>
+      <r p="lp3">Hmm... le mur n'a pas l'air très solide. Je pourrais essayer de faire un trou dedans, mais est-ce que ça vaut le coup ?</r>
     </n>
   </txt>
   <txt id="begDialExpl">
     <n>
-      <r p="lp3">Il y a plein d'explosifs là-dedans ! Je pourrais essayer de le désarmer, mais je doute que ma compétence soit assez élevée.</r>
+      <r p="lp3">Il y a plein d'explosifs là-dedans ! Je pourrais essayer de les désamorcer, mais je doute que ma compétence soit assez élevée.</r>
       <r p="lp3">Je pourrais tirer dessus...</r>
       <r p="lp3" push="1">Mais d'abord je vais peut-être me reculer !</r>
       <r p="lp3" push="1">J'espère que les murs ne vont pas s'écrouler...</r>
@@ -7691,7 +7691,7 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   </txt>
   <txt id="surfDialHello">
     <n>
-      <r p="lp4">Err.. Salut! Tu vis ici? Je...</r>
+      <r p="lp4">Euh.. Salut ! Vous vivez ici ? Je...</r>
       <r m="1" p="raider">Que... T'es qui bordel de merde ???|Hein ? T'es qui toi ???</r>
       <r p="raider">Eh, tout le monde venez ! On va s'amuser un peu !</r>
     </n>
@@ -7731,10 +7731,10 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   </txt>
   <txt id="plantNextLevel" v="0.7">
     <n>
-      <r mod="1" p="term">Toutes nos félicitations! Vous avez terminé [le premier niveau de l'usine]. Pour aller au [deuxième niveau], passez la porte sur votre droite. À chaque niveau suivant, de nouvelles épreuves, de nouveaux ennemis et de nouvelles récompenses vous attendent !
+      <r mod="1" p="term">Toutes nos félicitations ! Vous avez terminé [le premier niveau de l'usine]. Pour aller au [deuxième niveau], passez la porte sur votre droite. À chaque niveau suivant, de nouvelles épreuves, de nouveaux ennemis et de nouvelles récompenses vous attendent !
 Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp de base pour soigner et réapprovisionner en fournitures</r>
       <r p="lp3">Aha, voyons voir... ça ressemble au plan général de l'usine... .</r>
-      <r p="lp3" push="1">Maintenant, je suis au premier niveau. Ci-dessous se trouvent les deuxième, troisième et... bien d'autres </r>
+      <r p="lp3" push="1">Maintenant, je suis au premier niveau. Ci-dessous se trouvent les deuxième, troisième et... bien d'autres.</r>
       <r p="lp3" push="1">Le terminal d'ordinateur central que je recherche est dans le Département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité </r>
       <r p="lp3">Ouais, cette usine est vraiment énorme. Si je voulais, je pourrais l'explorer pour toujours...</r>
     </n>
@@ -7752,7 +7752,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   </txt>
   <txt id="mainframeOff" v="0.7">
     <n>
-      <r p="main">Erreur système. Veuillez contacter l'administrateur</r>
+      <r p="main">Erreur système. Veuillez contacter l'administrateur.</r>
     </n>
   </txt>
   <txt id="storyDial2" imp="1" v="0.71">
@@ -7760,16 +7760,16 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <t v="0.8">Première conversation avec Mentor </t>
       <r>Vous connectez votre PipBuck au terminal de l'ordinateur central. Pendant un moment, rien ne se passe, puis une série de caractères parcourent l'écran PipBuck, qui sont ensuite remplacés par un indicateur de téléchargement. Après cela, le grand écran du terminal s'anime, et une à une les lignes commencent à apparaître </r>
       <r p='main' push='1'>Autorisation...</r>
-      <r p='main' push='1'>Démarage système...</r>
+      <r p='main' push='1'>Démarrage système...</r>
       <r p='main' push='1'>Recherche de fichier...</r>
       <r p='main' push='1'>Fichiers de projet "Rainbow" trouvés ...</r>
-      <r p='main' push='1'>Connexion à distance établie. Le transfert commence, veuillez patienter ...</r>
+      <r p='main' push='1'>Connexion à distance établie. Le transfert commence, veuillez patienter...</r>
       <r p='lp4'>On dirait que tout se passe comme prévu ! </r>
       <r p=''>Soudain, vous entendez une voix provenant de la dynamique cachée quelque part à l'intérieur de la machine.</r>
       <r p='main'>Bonjour @lp. C'est moi, Mentor. Félicitations, vous avez terminé avec succès votre première mission. En ce moment, nous recevons des fichiers que nous attendons depuis près de deux siècles</r>
       <r p='lp2'>Quoi? Mentor? Parlez-vous via ce terminal ? Et je peux te répondre ?</r>
       <r p='main'>Oui, @lp. Tout à l'heure, votre PipBuck a lancé un programme sur l'ordinateur central, à travers lequel nous pouvons communiquer. Bien sûr, vous avez de nombreuses questions. Maintenant vous pouvez leur demander </r>
-      <r p='lp2'>Des questions? Oh, bien sûr. Qui es-tu ?... Et qui suis-je ? Pourquoi je ne me souviens de rien de mon passé ? Et... qu'y a-t-il dans ces fichiers que vous cherchiez ? </r>
+      <r p='lp2'>Des questions ? Oh, bien sûr. Qui es-tu ?... Et qui suis-je ? Pourquoi je ne me souviens de rien de mon passé ? Et... qu'y a-t-il dans ces fichiers que vous cherchiez ? </r>
       <r p='main'>Les réponses à toutes ces questions sont interconnectées. Je suis vraiment ton mentor, un poney que tu as connu toute ta vie. Je ne peux pas encore dire mon nom. Votre maison, l'endroit où vous êtes né et avez grandi - Stable Pi. Je n'ai pas non plus le droit de divulguer des détails à ce sujet, ainsi que sur les fichiers que vous avez trouvés. Cette information est top secrète. Pour la sécurité de notre maison commune, nous avons dû vous jeter un sort de mémoire. Ainsi, si vous vous faites attraper par un ennemi, il ne pourra jamais rien obtenir de vous. J'espère que vous comprendrez </r>
       <r p='lp2'>C'etait vraiment nécessaire?</r>
       <r p='main'>Malheureusement oui. Nous avons beaucoup d'ennemis. Lorsque vous aurez terminé la mission et que vous reviendrez, je supprimerai le sort et les souvenirs vous reviendront. Mais pas avant. Vous avez vous-même accepté de telles conditions, n'est-ce pas ? </r>
