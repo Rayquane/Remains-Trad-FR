@@ -6772,7 +6772,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Attention ! Vous êtes sérieusement blessé. Demandez de l'aide à un docteur.</n>
   </info>
   <info id="trauma3" st="5">
-    <n>Attention! Vous êtes sérieusement blessé a divers endroits. Condition vital critique. Vous devez vous faire hospitaliser immédiatement</n>
+    <n>Attention! Vous êtes sérieusement blessé à divers endroits. Condition vitale critique. Vous devez vous faire hospitaliser immédiatement.</n>
   </info>
   <info id="trauma4" st="5">
     <n>Blessé à en mourir. Reposez en paix, @1</n>
@@ -6790,13 +6790,13 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Vous êtes mort à cause de la perte de sang. Reposez en paix, @1</n>
   </info>
   <info id="tmana2" st="3">
-    <n>You have a small magical exhaustion</n>
+    <n>Vous avez un léger épuisement magique.</n>
   </info>
   <info id="tmana3" st="3">
-    <n>Attention ! You have a serious magical exhaustion</n>
+    <n>Attention ! Vous avez un sévère épuisement magique.</n>
   </info>
   <info id="tmana4" st="5">
-    <n>Attention ! Your magical power is depleted. Further magical use is impossible</n>
+    <n>Attention ! Votre pouvoir magique est épuisé. L'utilisation de magie ultérieure est impossible.</n>
   </info>
   <info id="poison" st="5">
     <n>Attention ! Vous êtes empoisonné !</n>
@@ -6886,10 +6886,10 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>The merchant does not have enough caps to pay for your goods</n>
   </info>
   <info id="fullWeap" st="3" v="0.8">
-    <n>Not enough weapon slots</n>
+    <n>Pas assez de slots d'armes</n>
   </info>
   <info id="fullMagic" st="3" v="0.8">
-    <n>Not enough spell slots</n>
+    <n>Pas assez de slots de sorts</n>
   </info>
   <info id="itemDestr" st="5" v="0.8">
     <n>Equipement détruit (@1, @2pcs)</n>
