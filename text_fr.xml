@@ -3934,7 +3934,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Your talents as an economist contribute to the development of trade. All traders start importing more ammunition, medicine and other popular goods. Also, a traveling trader with rare goods begins visiting the "The prancing pony" camp</info>
   </eff>
   <eff id="empathy" v="0.6">
-    <n>Empathy</n>
+    <n>Empathie</n>
     <info>A special psychological connection with your companion gives him new strength. With each level of this ability, the defense and attack of your companion significantly increases</info>
   </eff>
   <eff id="stamina" v="0.7">
@@ -3946,7 +3946,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You learned to hold the weapon with telekinesis so that there is less impact from recoil. Now you can sustain burst fire longer without fear of losing a target. This also increases the accuracy of assault rifles</info>
   </eff>
   <eff id="perf" v="0.7">
-    <n>Perforator</n>
+    <n>Perforateur</n>
     <info>Let`s make some holes in `em! Your heavy machine guns receive additional armor-piercing properties, and their bullet spread is decreased #1 times</info>
   </eff>
   <eff id="diel" v="0.7">
@@ -3954,7 +3954,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Due to some features of your organism, electricity and lightning cause you 20% less damage</info>
   </eff>
   <eff id="recyc" v="0.7">
-    <n>Recycling</n>
+    <n>Recycleur</n>
     <info>You optimized all your weapons that use various batteries to consume less energy. With a #1 probability each shot from such a weapon will be free of charge, that is, it will not consume the battery charge</info>
   </eff>
   <eff id="freel" v="0.7">
@@ -3962,13 +3962,13 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You are always a little more lucky than other hunters for valuable junk. You will find more cartridges and explosives in containers</info>
   </eff>
   <eff id="durable" v="0.7">
-    <n>Reliable armor</n>
+    <n>Armure fiable</n>
     <info>Due to the fact that you always carefully look after your armor, it serves you #1 longer. That allows saving considerably on its repair</info>
   </eff>
   <!--Other Perks-->
   <eff id="levitation" v="0.7">
     <n>Double saut</n>
-    <info>With help of your telekinesis, you can jump once in mid-air. The height of this second jump depends on the skill level of "Telekinesis"</info>
+    <info>Grâce à votre télékinésie, vous pouvez sauter une fois de plus dans les airs. La hauteur du second saut dépend du niveau de la compétence "Télékinésie".</info>
   </eff>
   <eff id="dead">
     <n>Utilisateur SSU</n>
@@ -3987,11 +3987,11 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Zebra potion fortified your bones. Now you get #1 less injuries with each level of this ability</info>
   </eff>
   <eff id="potion_immun">
-    <n>Strong immunity</n>
+    <n>Immunité robuste</n>
     <info>Zebra potion improved natural defense systems of your body. You get +#1 resistance to poisoning, bleeding and radiation for each level of this ability</info>
   </eff>
   <eff id="potion_might">
-    <n>Might of Earth</n>
+    <n>Pouvoir de la Terre</n>
     <info>Zebra potion improved your reflexes and increased aggression. You deal #1 more melee damage for each level of this ability</info>
   </eff>
   <eff id="potion_speed">
@@ -4007,102 +4007,102 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Zebra potion strengthened your intuition. You gain +#1 to evasion bonus for each level of this ability</info>
   </eff>
   <eff id="potion_crit" v="0.7">
-    <n>Critical luck</n>
-    <info>Zebra potion enhanced your luck. You gain +#1 to chance of critical hit for each level of this ability</info>
+    <n>Chance critique</n>
+    <info>La potion de zèbre a amélioré votre chance. Vous obtenez +#1 de chance d'infliger un coup critique à chaque niveau de cette capacité.</info>
   </eff>
   <eff id="potion_elements" v="0.6">
-    <n>Ardent spirit</n>
+    <n>Volonté ardente</n>
     <info>A magical potion strengthened the connection between you and the elemental forces of nature. Your attack spells power is increased by #1 for each level of this ability</info>
   </eff>
   <eff id="dam_zombie" v="0.7">
-    <n>Zombie Exterminator</n>
-    <info>You`ve learned a lot about the anatomy of ghouls, and therefore inflict them #1 more damage</info>
+    <n>Exterminateur de zombies</n>
+    <info>Vous en avez beaucoup appris sur l'anatomie des goules, et vous leur infliger donc #1 de dégâts en plus.</info>
   </eff>
   <eff id="dam_alicorn" v="0.6">
-    <n>Enemy of the Unity</n>
+    <n>Ennemi de l'Unité</n>
     <info>You learned something special about fighting with alicorns. Now you deal them #1 more damage</info>
   </eff>
   <eff id="potion_consc" v="0.8">
-    <n>Expanded mind</n>
-    <info>You can memorize more spells</info>
+    <n>Esprit élargi</n>
+    <info>Vous pouvez mémoriser plus de sorts.</info>
   </eff>
   <!--Effects-->
   <eff id="burning" st="5">
-    <n>Burning</n>
-    <info>You`re burning! You need to jump into water to stop it</info>
-    <mess>Aahh, fire! I`m burning, burning!!!</mess>
+    <n>Brûlure</n>
+    <info>Vous brûlez ! Vous avez besoin de sauter dans de l'eau pour stopper cet effet.</info>
+    <mess>Aahh, du feu ! Je brûle, je brûûûûle !!!</mess>
   </eff>
   <eff id="chemburn" st="5">
-    <n>Chemical burn</n>
-    <info>You got splashed with some corrosive substance, and now it corrupts your armor and burns your hide</info>
-    <mess>Ah! This stuff burns!</mess>
+    <n>Brûlure chimique</n>
+    <info>Vous avez été aspergé de substance corrosive, qui est désormais en train d'altérer votre armure et brûler votre peau.</info>
+    <mess>Ah ! C'est en train de me brûler !</mess>
   </eff>
   <eff id="stealth">
-    <n>Stealth mode</n>
-    <info>You are in stealth-mode</info>
-    <mess>Stealth-Buck activated</mess>
+    <n>Mode furtif</n>
+    <info>Vous êtes en mode furtif.</info>
+    <mess>Stealth-Buck activé.</mess>
   </eff>
   <eff id="stealth_armor">
-    <n>Stealth mode</n>
-    <info>You are in stealth-mode</info>
-    <mess>Stealth armor camouflage system activated</mess>
+    <n>Mode furtif</n>
+    <info>Vous êtes en mode furtif.</info>
+    <mess>Système de camouflage d'armure furtif activé.</mess>
   </eff>
   <eff id="disorient" st="5" v="0.6">
-    <n>Disorientation</n>
-    <info>The concepts "right" and "left" for you temporarily changed places</info>
-    <mess>You fell under the telepathic attack!</mess>
+    <n>Désorientation</n>
+    <info>Le concept de "droite" et "gauche" ont temporairement changé de place pour vous.</info>
+    <mess>Vous avez succombé à l'attaque télépathique !</mess>
   </eff>
   <eff id="horror" st="5" v="0.6">
-    <n>Panic</n>
-    <info>You can`t control yourself and try to flee to someplace else</info>
-    <mess>You fell under the telepathic attack!</mess>
+    <n>Panique</n>
+    <info>Vous ne pouvez vous contrôler et essayez de fuir quelque part.</info>
+    <mess>Vous avez succombé à l'attaque télépathique !</mess>
   </eff>
   <eff id="vote" st="5" v="0.6">
-    <n>Voices in your head</n>
-    <info>These voices in your head do not stop... and they order you to kill!</info>
-    <mess>You fell under the telepathic attack!</mess>
+    <n>Voix dans votre tête</n>
+    <info>Ces voix dans votre tête ne s'arrêtent pas... et elles vous ordonnent de tuer !</info>
+    <mess>Vous avez succombé à l'attaque télépathique !</mess>
   </eff>
   <eff id="freezing" v="0.8">
-    <n>Frozen</n>
-    <info>Frozen creatures are vulnerable to bullets, strikes and explosions, and their speed decreases by #1. Their fire resistance, on the other hoof, is increased</info>
+    <n>Gelé</n>
+    <info>Les créatures gelées sont vulnérables aux balles, aux frappes et aux explosions, et leur vitesse diminue de #1. Leur résistance au feu, d'autre part, a augmenté.</info>
   </eff>
   <eff id="blindness" st="5" v="0.8">
-    <n>Blind</n>
-    <info>It became almost impossible to aim properly. Accuracy reduced by #1</info>
-    <mess>Right in the eye!</mess>
+    <n>Aveugle</n>
+    <info>Il est devenu presque impossible de viser correctement. Précision réduite de #1.</info>
+    <mess>En plein dans l'oeil !</mess>
   </eff>
   <eff id="contusion" st="5" v="0.8">
     <n>Contusion</n>
-    <info>You were hit hard by a blast wave. You have reduced speed (-#1), accuracy (-#2) and melee attack speed (-#3), and increased magic energy consumption by #4</info>
-    <mess>You got a concussion!</mess>
+    <info>Vous avez été frappé de plein fouet par une onde de choc. Vous avez une vitesse réduite (-#1), une précision réduite (-#2) et une vitesse d'attaque au corps-à-corps réduite (-#3), en plus d'une consommation magique augmentée de #4.</info>
+    <mess>Vous avez une commotion cérébrale !</mess>
   </eff>
   <eff id="namok">
-    <n>Soaking wet</n>
-    <info>You recently swum or got into a heavy rain. In any case, your fire resistance is temporarily increased, but resistance to frost and electricity is decreased</info>
+    <n>Trempé</n>
+    <info>Vous avez récemment nagé ou avez subi une forte pluie. Dans tous les cas, votre résistance au feu est augmentée temporairement, mais la résistance à la glace et à l'électricité est diminuée.</info>
   </eff>
   <eff id="inhibitor" v="0.6">
-    <n>Distortion field</n>
-    <info>The movement of all nearby enemies is slowed down</info>
+    <n>Champ de distorsion</n>
+    <info>Les mouvements des ennemis proches sont ralentis.</info>
   </eff>
   <eff id="reanim">
-    <n>Reanimation</n>
-    <info>Reanimation module has recently been used and now is recharging</info>
+    <n>Réanimation</n>
+    <info>Le module de réanimation a récemment été utilisé et est en train de se recharger.</info>
   </eff>
   <eff id="antidote" v="0.8">
-    <n>Antidote effect</n>
-    <info>You have recently taken an antidote, your resistance to poisons is temporarily increased by #1</info>
+    <n>Effet d'antidote</n>
+    <info>Vous avez récemment pris un antidote, votre résistance aux poisons est augmenté temporairement de #1.</info>
   </eff>
   <eff id="radx" v="0.8">
-    <n>Rad-X effect</n>
-    <info>Radiation resistance increased by #1</info>
+    <n>Effeet de Rad-X</n>
+    <info>Résistance aux radiations augmentée de #1.</info>
   </eff>
   <eff id="mint">
-    <n>Mint-als effect</n>
-    <info>Your intelligence, sight and hearing are improved, and with them - ability to pick locks (+#1), hack terminals (+#2) and use explosives (+#3)</info>
+    <n>Effet des Mint-als</n>
+    <info>Votre intelligence, votre vue et votre ouïe sont renforcées, et avec elles, la capacité de crocheter des serrures (+#1), de pirater des terminaux (+#2) et d'utiliser des explosifs (+#3).</info>
   </eff>
   <eff id="pmint">
-    <n>Party-Time Mint-als effect</n>
-    <info>Your intelligence, sight and hearing are improved, and with them - ability to pick locks (+#1), hack terminals (+#2) and use explosives (+#3)</info>
+    <n>Effet des Mint-als de fête</n>
+    <info>Votre intelligence, votre vue et votre ouïe sont renforcées, et avec elles, la capacité de crocheter des serrures (+#1), de pirater des terminaux (+#2) et d'utiliser des explosifs (+#3).</info>
   </eff>
   <eff id="post_mint">
     <n>Mint-als after effect</n>
