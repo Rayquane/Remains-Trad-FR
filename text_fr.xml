@@ -4093,7 +4093,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Vous avez récemment pris un antidote, votre résistance aux poisons est augmenté temporairement de #1.</info>
   </eff>
   <eff id="radx" v="0.8">
-    <n>Effeet de Rad-X</n>
+    <n>Effet de Rad-X</n>
     <info>Résistance aux radiations augmentée de #1.</info>
   </eff>
   <eff id="mint">
@@ -4105,79 +4105,79 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>Votre intelligence, votre vue et votre ouïe sont renforcées, et avec elles, la capacité de crocheter des serrures (+#1), de pirater des terminaux (+#2) et d'utiliser des explosifs (+#3).</info>
   </eff>
   <eff id="post_mint">
-    <n>Mint-als after effect</n>
+    <n>Séquelles après Mint-als</n>
     <info>You`ve got post Mint-als after effects, meaning that you temporarily got dumber, with hearing and sight impaired. You lockpicking decreased by #1 and hacking decreased by #2</info>
   </eff>
   <eff id="post_mint_ad" v="0.6">
-    <n>Mint-als addiction</n>
+    <n>Addiction aux Mint-als </n>
     <info>When you are not under the influence of mint-als, you completely lose the sharpness of perception and clarity of thinking, and with them the ability to break locks (-#1) and hack terminals (-#2)</info>
   </eff>
   <eff id="dash">
-    <n>Dash effect</n>
+    <n>Effet de Dash</n>
     <info>Your speed and jump height are increased by #1 and #2 action points were added</info>
   </eff>
   <eff id="ultradash" v="0.6">
-    <n>Ultra-dash effect</n>
+    <n>Effet d'Ultra-dash</n>
     <info>Your speed and jump height are greatly increased (+#1) and #2 action points were added</info>
   </eff>
   <eff id="post_dash">
-    <n>Dash after effect</n>
-    <info>You`re slow as hay!</info>
+    <n>Séquelles après Dash</n>
+    <info>Vous êtes lent comme la mort !</info>
   </eff>
   <eff id="post_dash_ad" v="0.6">
-    <n>Dash addiction</n>
+    <n>Addiction au Dash</n>
     <info>You are so used to Dash that without it you crawl like a snail. You lose #2 action points, and your speed is reduced by #1</info>
   </eff>
   <eff id="rage">
-    <n>Rage effect</n>
+    <n>Effet de Rage</n>
     <info>You are in a chemical rage state. Damage by any weapon in increased by #1</info>
   </eff>
   <eff id="post_rage">
-    <n>Rage after effect</n>
+    <n>Séquelles après Rage</n>
     <info>A feeling of deep apathy took over, you don`t want to fight anymore. Damage by any weapon in decreased by #1</info>
   </eff>
   <eff id="post_rage_ad" v="0.6">
-    <n>Rage addiction</n>
+    <n>Addiction à la Rage</n>
     <info>Your abuse of Rage has led to the fact that without it you can no longer normally fight. Damage from any of your attacks is reduced by #1</info>
   </eff>
   <eff id="medx">
-    <n>Med-X effect</n>
+    <n>Effet de Med-X</n>
     <info>You are temporarily mute to pain, any damage to you is decreased by #1</info>
   </eff>
   <eff id="post_medx">
-    <n>Med-X after effect</n>
+    <n>Séquelles après Med-X</n>
     <info>After pain-killer effect wears off, you feel pain much sharper than before</info>
   </eff>
   <eff id="post_medx_ad" v="0.6">
-    <n>Med-X addiction</n>
+    <n>Addiction au Med-X</n>
     <info>Your addiction to Med-X-y made your sensitivity to pain increase. Any damage you get is increased by #1 for each level of addiction</info>
   </eff>
   <eff id="buck">
-    <n>Buck effect</n>
+    <n>Effet de Buck</n>
     <info>Your strength and endurance are temporarily increased. Health increased by #1, stamina consumption for running decreased by #2, damage threshold +#3, kick strength +#4</info>
   </eff>
   <eff id="post_buck">
-    <n>Buck after effect</n>
+    <n>Séquelles après Buck</n>
     <info>You feel overwhelming weakness and sleepiness. Health decreased by #1, stamina consumption for running increased by #2</info>
   </eff>
   <eff id="post_buck_ad" v="0.6">
-    <n>Buck addiction</n>
+    <n>Addiction au Buck</n>
     <info>When you are not under the influence of Buck, your health is decreased by #1. Also, running takes #2 more stamina</info>
   </eff>
   <eff id="stampede">
-    <n>Stampede effect</n>
+    <n>Effet de Stampede</n>
     <info>You are temporarily mute to pain, your damage resistance is increased by #2, and the damage of any of your weapons is increased by #1</info>
   </eff>
   <eff id="post_stampede">
-    <n>Stampede after effect</n>
+    <n>Effet après Stampede</n>
     <info>You have a deep depression, and everything hurts. The damage of any weapon is reduced by #1, and your resistance to damage is reduced by #2</info>
   </eff>
   <eff id="post_stampede_ad" v="0.6">
-    <n>Stampede addiction</n>
+    <n>Addiction au Stampede</n>
     <info>Without a regular dose of Stampede, you are in a constant depression. The damage of any weapon is reduced by #1, and your resistance to damage is reduced by #2</info>
   </eff>
   <eff id="hydra">
-    <n>Regeneration boost</n>
+    <n>Boost de régénération</n>
     <info>Your health is being restored, and traumas and internal injuries are being magically mended</info>
   </eff>
   <eff id="post_hydra">
@@ -4186,7 +4186,7 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="potion_fly">
     <n>Potion of flight</n>
-    <info>You can fly!</info>
+    <info>Vous pouvez voler !</info>
   </eff>
   <eff id="potion_shadow">
     <n>Potion of shadows</n>
