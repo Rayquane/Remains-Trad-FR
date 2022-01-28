@@ -696,39 +696,39 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <weapon id="mont">
     <n>Pied-de-biche</n>
-    <info>Covered with peeling red paint, scratches and some sticky yuck. Quite handy for breaking into common doors, lockers and cabinets. Useless against armored doors and safes</info>
+    <info>Couvert d'écaillage de peinture rouge, d'écratignures et de quelques choses cracra et collantes. Plutôt pratique pour casser des portes ordinaires, des verrous et des cabinets. Inutile contre les portes et les verrous blindés.</info>
   </weapon>
   <weapon id="mont^1">
     <n>"Complice du cambrioleur"</n>
-    <info>A tool for ponies with not so righteous source of income. Much sturdier than a crowbar, it can break even metal doors and concrete walls</info>
+    <info>Un outil pour les poneys qui ont une source de richesse pas très morale. Bien plus robuste qu'un pied-de-biche, il peut même casser des portes en métal et des murs en béton.</info>
   </weapon>
   <weapon id="armature">
     <n>Morceau d'armature</n>
-    <info>Just a piece of rebar, covered with insulating tape for holding by teeth. You can hardly even call it "a weapon"</info>
+    <info>Juste un morceau d'armature, couvert de ruban isolant à tenir avec des dents. Difficile de la considérer comme "une arme".</info>
   </weapon>
   <weapon id="spear">
     <n>Lance</n>
-    <info>Composed of a sharpened metal part fastened by wire to a firm wooden stick</info>
+    <info>Composé d'une partie métallique aiguisée, fixée grâce à un fil, attachée à un solide bâton en bois.</info>
   </weapon>
   <weapon id="spear^1">
     <n>"Morsure de la vipère"</n>
-    <info>Unlike an ordinary spear, this one is made of firm bamboo with a tip perfectly sharpened and, for a cherry on top, poisoned</info>
+    <info>Contrairement à une lance ordinaire, celle-ci est faite de robuste bambou avec une pointe parfaitement aiguisée et, cerise sur le gâteau, empoisonnée.</info>
   </weapon>
   <weapon id="knife">
     <n>Couteau</n>
-    <info>A large kitchen knife, not particularly suitable for a fight</info>
+    <info>Un grand couteau de cuisine, pas vraiment adapté au combat.</info>
   </weapon>
   <weapon id="chopper">
     <n>Hachoir</n>
-    <info>With this huge and heavy knife you can chop a cabbagehead in ten seconds flat... or any other head too!</info>
+    <info>Avec ce lourd couteau, vous pourriez couper la tête d'un chou en 10 secondes pile... et n'importe quelle autre tête d'ailleurs !</info>
   </weapon>
   <weapon id="zknife">
-    <n>Couteau denté</n>
-    <info>A knife with bent and indented edge, all rusty and bloodstained. You don`t want know who used it and how</info>
+    <n>Couteau dentelé</n>
+    <info>Un couteau avec un côté dentelé et courbé, rouillé et sanglant. Vous ne voulez pas savoir qui l'a utilisé et comment.</info>
   </weapon>
   <weapon id="zknife^1" v="0.7">
     <n>Couteau sacrificiel</n>
-    <info>Le jouet préféré des pillards sadiques, ainsi que le votre.</info>
+    <info>Le jouet préféré des pillards sadiques... ainsi que le vôtre.</info>
   </weapon>
   <weapon id="cknife">
     <n>Couteau de combat</n>
@@ -3326,7 +3326,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>Dear Reader! If you hold this opus in your hooves, that means that you have decided to take the first step in mastering the subtle art of foul language. The ability to swear firmly and ornately is actually an important and essential part of intelligent speech, and there is absolutely nothing shameful in it if used properly. In most cases, simply adding a dirty word to your speech is not enough to impress audience and fully express your feelings, and many improve their skills of conveying emotions colorfully throughout entire live. Sadly, our dictionary will unlikely be enough to raise you to the level of real maestros of this art, because the truly masterful swearing should come intuitively and from your very heart. But thanks to this book, you can definitely get a starting point that will guide you in further improving your talents in this field</info>
   </item>
   <item id="potion_rat" v="0.8">
-    <n>Potion of transformation</n>
+    <n>Potion de transformation</n>
     <info>Turns you into a small animal for a short time. This potion is so powerful that it`s enough to take just the smallest sip, hence you can use it many times</info>
   </item>
   <obj id="box">
