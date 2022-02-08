@@ -732,11 +732,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="cknife">
     <n>Couteau de combat</n>
-    <info>An outstanding knife of high quality steel, still sharp even after all these years. Indispensable in a close range battle</info>
+    <info>Un excellent couteau d'acier d'haute qualité, toujours aussi tranchant même après toutes ces années. Indispensable dans les combats à courte portée.</info>
   </weapon>
   <weapon id="cknife^1">
     <n>"Piqûre"</n>
-    <info>A unique combat knife with a wavy edge made of durable steel. Sharp like a razor !</info>
+    <info>Un unique couteau de combat avec une lame ondulée faite d'acier durable. Tranchante comme un rasoir !</info>
   </weapon>
   <weapon id="bat">
     <n>Batte avec des clous</n>
@@ -1315,7 +1315,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>This weapon is called so because, after seeing it in your hooves, anypony will be immediately struck with the idea that it is way better to be your friend rather than your enemy</info>
   </weapon>
   <weapon id="bfg" m="1">
-    <n>"Big Fucking Gun"|"Big Frickin Gun"</n>
+    <n>"Gros putain de flingue"|"Gros fichu flingue"</n>
     <info>A weapon invented by a genius, yet obviously mad scientist. It is as dangerous for the owner, as for his enemies, as it shoots huge, unstable and explosive balls of plasma</info>
   </weapon>
   <weapon id="dinamit">
@@ -1331,11 +1331,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An effective weapon against enemies hiding behind a cover. It looks like a metallic apple</info>
   </weapon>
   <weapon id="gasgr">
-    <n>Gaseous grenade</n>
+    <n>Grenade gazeuse</n>
     <info>This grenade emits a cloud of toxic gases. Even small amount of it can cause a quick death when inhaled. Especially effective in small and poorly ventilated rooms</info>
   </weapon>
   <weapon id="acidgr">
-    <n>Acid bomb</n>
+    <n>Bombe acide</n>
     <info>A bottle filled with a very corrosive liquid. When smashed, it spills acid everywhere, causing severe chemical burns to whoever steps into it. Effective against robots` armor</info>
   </weapon>
   <weapon id="plagr">
@@ -1383,7 +1383,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>On explosion of this mine, the surrounding air instantly cools down to extremely low temperatures. The living beings receive serious hypothermic damage</info>
   </weapon>
   <weapon id="balemine" v="0.6">
-    <n>Balefire mine</n>
+    <n>Mine funeste</n>
     <info>A balefire egg, turned into a mine. It is required to be a real explosives master to assemble and use such dangerous devices</info>
   </weapon>
   <weapon id="zebmine" v="0.8">
@@ -1513,7 +1513,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Lance-roquettes</n>
   </weapon>
   <weapon id='robogatp' v='0.8'>
-    <n>Plasma minigun</n>
+    <n>Minigun plasma </n>
   </weapon>
   <weapon id='robomlau2' v='0.8'>
     <n>Multiple launch rocket system</n>
@@ -1522,13 +1522,13 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Gas rocket</n>
   </weapon>
   <weapon id='roboplagr' v='0.8'>
-    <n>Plasma grenade</n>
+    <n>Grenade plasma</n>
   </weapon>
   <weapon id='mercgr' v='0.8'>
-    <n>Plasma grenade</n>
+    <n>Grenade plasma</n>
   </weapon>
   <weapon id='drongr' v='0.8'>
-    <n>Plasma grenade</n>
+    <n>Grenade plasma</n>
   </weapon>
   <weapon id='dronlaser' v='0.8'>
     <n>Laser cannon</n>
@@ -1788,11 +1788,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="p9" v="0.6">
     <n>Cartouche 9 mm</n>
-    <info>A low-power pistol ammo, quite cheap because of its low efficiency</info>
+    <info>Une munition de pistolet faible en puissance, bon marché à cause de sa faible efficacité.</info>
   </item>
   <item id="p10">
     <n>Cartouche 10 mm</n>
-    <info>Widely-used handgun ammo, easily obtained in the Wasteland</info>
+    <info>Une munition courante d'arme à feu à une main, obtenable facilement dans les Terres Désolées.</info>
   </item>
   <item id="p375" v="0.6">
     <n>Cartouche cal. 375</n>
@@ -5007,13 +5007,13 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>pas d'addiction</n>
   </pip>
   <pip id="ad1" v="0.6">
-    <n>1st level - weak</n>
+    <n>1er niveau - faible</n>
   </pip>
   <pip id="ad2" v="0.6">
-    <n>2nd level - medium</n>
+    <n>2ème niveau - moyen</n>
   </pip>
   <pip id="ad3" v="0.6">
-    <n>3rd level - strong</n>
+    <n>3ème niveau - fort</n>
   </pip>
   <pip id="drunk1" v="0.7">
     <n>Slightly dizzy</n>
@@ -5028,7 +5028,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Alcohol intoxication</n>
   </pip>
   <pip id="alcohol" v="0.7">
-    <n>Alcohol</n>
+    <n>Alcool</n>
   </pip>
   <pip id="hp">
     <n>PV</n>
@@ -5038,7 +5038,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>This value is subtracted from any damage you take (except from prolonged effects - for example, it doesn`t reduce damage from burning, bleeding, or poisoning)</info>
   </pip>
   <pip id="armor">
-    <n>Armor</n>
+    <n>Armure</n>
     <info>The amount of physical damage you take is reduced by the armor level value, that is if bullet or melee weapon hit your armor. Affects only physical damage such as from bullets, melee weapons, blast damage etc. Depends on type and condition of the armor you wear. If condition drops below 50%, protection decreases</info>
   </pip>
   <pip id="marmor">
@@ -5054,7 +5054,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Plus cette valeur est haute, plus les ennemis équippés d'arme à distance vous rateront. La probabilité de vous toucher est divisée par la valeur absolue de l'évasion. Par exemple, le "+ 20%" bonus veut dire que la probabilité de vous toucher est de 1.2.</info>
   </pip>
   <pip id="sneak" v="0.8">
-    <n>Stealth</n>
+    <n>Furtivité</n>
     <info>The higher this indicator is, the harder it is for enemies to see you, and the more time it will take them to discover you. Does not account for a StealthBuck effect</info>
   </pip>
   <pip id="allresist">
@@ -5070,30 +5070,30 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>Bonus de dégâts sur vos armes de corps-à-corps.</info>
   </pip>
   <pip id="spelldamage" v="0.71">
-    <n>Combat spells damage</n>
-    <info>Bonus to damage of combat spells</info>
+    <n>Dégâts d'attaques de sorts</n>
+    <info>Bonus de dégâts sur vos attaques de sorts.</info>
   </pip>
   <pip id="gunsdamage" v="0.8">
-    <n>Ranged weapons damage</n>
-    <info>Bonus to damage of firearms and magical energy weapons</info>
+    <n>Dégâts d'armes à longue portée</n>
+    <info>Bonus de dégâts aux armes à feu et aux armes à énergie magique.</info>
   </pip>
   <pip id="bullet">
-    <n>Protection against bullets</n>
+    <n>Protection contre les balles</n>
   </pip>
   <pip id="blade">
     <n>Protection against cuts and stubs</n>
   </pip>
   <pip id="phis">
-    <n>Blunt weapons protection</n>
+    <n>Protection d'armes contondantes</n>
   </pip>
   <pip id="fang">
-    <n>Protection against teeth and claws</n>
+    <n>Protection contre dents et griffes</n>
   </pip>
   <pip id="expl">
     <n>Blast damage resistance</n>
   </pip>
   <pip id="fire">
-    <n>Fire resistance</n>
+    <n>Résistance au feu </n>
   </pip>
   <pip id="laser">
     <n>Laser resistance</n>
@@ -7009,7 +7009,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="buttons1" v="0.6">
     <n>Boutons cibles</n>
-    <info>Activate all the red buttons by shooting them</info>
+    <info>Activez tous les boutons rouges en tirant dessus</info>
     <help>To press the lower button, use a grenade together with telekinesis</help>
   </map>
   <map id="buttons2" v="0.6">
@@ -7590,9 +7590,9 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   <txt id="begDialExit" imp="1" v="0.7">
     <n>
       <t v="0.8">Fin du tutoriel</t>
-      <r p='lp1'>A corridor? It seems there is light coming from the right - this is probably an exit</r>
-      <r p='lp1'>And on the left is just darkness. I guess I should head toward the exit</r>
-      <r p='lp1'>Or should I explore these catacombs first?</r>
+      <r p='lp1'>Un couloir ? On dirait que de la lumière vient de la droite, c'est probablement une sortie.</r>
+      <r p='lp1'>Et sur la gauche n'est qu'obscurité. Je suppose que je devrais me diriger vers la sortie.</r>
+      <r p='lp1'>Ou devrais-je explorer d'abord ces catacombes ?</r>
       <r p='pip' mod='1' s1='keySkills' v='0.7'>You have successfully reached the exit and are awarded with a level up!</r>
       <r p='pip' mod='1' s1='keySkills' v='0.7'>With each level up you receive skill points and abilities. Use them to improve your skills - via PipBuck, the "Status" section - "Skills"</r>
 </n>
@@ -7605,7 +7605,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </txt>
   <txt id="begDialPodkradun">
     <n>
-      <r p="lp2">Cette tourelle automatique à l'air dangereuse, et je n'ai pas d'arme adaptée. Je ne pense pas que le combat soit équitable</r>
+      <r p="lp2">Cette tourelle automatique a l'air dangereuse, et je n'ai pas d'arme adaptée. Je ne pense pas que le combat soit équitable</r>
       <r p="lp2">Mais ce n'est pas nécessaire. Pour aller de l'autre coté, je peux passer discrètement.</r>
       <r p="lp4">Allez, je peux le faire !</r>
     </n>
@@ -11958,9 +11958,9 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
   </txt>
 
   <advice>
-    <a>Here you can find useful tips for the game. Use the left and right mouse buttons to show the next or previous tip</a>
+    <a>Ici, vous trouverez des astuces utiles pour le jeu. Utilisez les boutons droite et gauche de la souris pour afficher la précédente ou suivante astuce.</a>
     <a>Collect the golden horseshoes scattered throughout the rooms to get experience. The last horseshoe gives an additional bonus, and if you collect all of them before being spotted by enemies, you also get a stealth bonus</a>
-    <a>After receiving a new level, don`t forget to distribute skill points and choose a new ability</a>
+    <a>Après avoir monté de niveau, n'oubliez pas de distribuer vos points de compétence et de choisir votre nouvelle aptitude.</a>
     <a>Security terminals allow you to disable all electronic security systems (such as turrets) in the room</a>
     <a>The access terminals allow you unlocking doors and wall safes in the room, providing you can hack them</a>
     <a>If your skill of lockpicking is lower than the lock level, an unsuccessful attempt at unlocking it can lead to jamming. Such a door cannot be opened, unless you have a key for it</a>
@@ -13563,9 +13563,9 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
     </rep>
     <rep act="neutral" id="ponpon" v="0.7">
       <r>Salut !</r>
-      <r>How are you?</r>
+      <r>Comment allez-vous ?</r>
       <r>Huh!</r>
-      <r>Yeah, we have a problem...</r>
+      <r>Ouais, nous avons un problème...</r>
       <r>Ponies are always talking</r>
       <r>What`s new?</r>
       <r>You are not from around here?</r>
@@ -13584,11 +13584,11 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
       <r>That is definitely none of his concern</r>
       <r>Why me?</r>
       <r>What is this horrible smell?</r>
-      <r>Ah, it`s you</r>
+      <r>Ah, c'est vous.</r>
       <r>Oh, damn it!</r>
-      <r>You won`t understand!</r>
-      <r>I have much to do!</r>
-      <r>I need some rest</r>
+      <r>Vous ne comprendrez pas !</r>
+      <r>J'ai beaucoup à faire !</r>
+      <r>J'ai besoin d'un peu de repos.</r>
     </rep>
     <rep act="neutral" id="stabpon" v="0.8">
       <r>Time to work</r>
