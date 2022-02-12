@@ -6980,7 +6980,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>The former capital of Equestria. Now filled with the deadly Pink Cloud and inhabited by various monsters</info>
   </map>
   <map id="mtn" v="0.7">
-    <n>Tour M.A.S.</n>
+    <n>Tour M.S.A.</n>
     <info>A tall, but heavily destroyed skyscraper, in the past - one of the regional offices of the Ministry of Arcane Sciences</info>
   </map>
   <map id="labirint" v="0.6">
@@ -6989,7 +6989,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <help>You will easily find the right path by using an infra-vision potion</help>
   </map>
   <map id="slimes" v="0.6">
-    <n>Slime kingdom</n>
+    <n>Royaume des slimes</n>
     <info>Get to the end without stepping on slime. Tip: use a chemical protection suit to minimize acid damage</info>
   </map>
   <map id="radioactive" v="0.6">
