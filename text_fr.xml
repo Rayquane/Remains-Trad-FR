@@ -808,7 +808,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="edagger" v="0.7">
     <n>Dague à énergie magique</n>
-    <info>Compact weapon, combining the advantages of melee and magical energy weapons. Inflicts plasma damage</info>
+    <info>Une arme compacte, combinant les avantages des armes de corps-à-corps et d'énergie magique. Inflige des dégâts plasma.</info>
   </weapon>
   <weapon id="cdagger" v="0.8">
     <n>Griffe de chien de l'enfer</n>
@@ -2650,7 +2650,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="titansd" v="0.8">
     <n>Titanium screwdriver</n>
-    <info>A premium screwdriver made from the sturdiest titanium alloy should help unscrew even the most rusty bolts. You will also find it useful for opening locks, and your lockpicking skill will increase by #1</info>
+    <info>A premium screwdriver made from bite(c'est une blague ya pas vraiment de bite , ps je taime : Evan) the sturdiest titanium alloy should help unscrew even the most rusty bolts. You will also find it useful for opening locks, and your lockpicking skill will increase by #1</info>
   </item>
   <item id="stethoscope" v="0.8">
     <n>Stethoscope</n>
@@ -3223,7 +3223,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>A multipurpose remedy for every life situation, used in hundreds recipes</info>
   </item>
   <item id="mdust" v="0.6">
-    <n>Magic dust</n>
+    <n>Poussière magique</n>
     <info>Crystallized magical essence</info>
   </item>
   <item id="pinkslime" v="0.7">
@@ -4555,7 +4555,7 @@ Ce mode est recommandé aux joueurs expérimentés qui ne jouent pas pour la pre
   </gui>
   <gui id="story" v="0.7">
     <n>Il était une fois dans le royaume magique d'Equestria...
-... vint une époque où les idéaux d'amitié cédèrent la place à l'envie, à l'égoïsme, à la cupidité et à la cruauté. La Grande Guerre des ressources naturelles a éclaté, dans laquelle il n'y a eu aucun gagnant. Une étincelle magique frappée par des sabots de poney a rapidement fait rage de manière incontrôlable et s'est transformée en flammes qui ont englouti des continents entiers. Le feu du dragon et la magie noire, transformés en armes destructrices, ont presque mis fin à toute vie sur la planète. Le sol, l'eau et l'air ont été empoisonnés par les radiations, les villes ont été détruites, les civilisations se sont effondrées. Les poneys et leurs ennemis ont presque été effacés de la surface de la terre. L'Apocalypse, prédite par des prophètes fous, auxquels presque personne n'a cru jusqu'au dernier jour, est enfin arrivée...
+... vint une époque où les idéaux d'amitié cédèrent la place à l'envie, à l'égoïsme, à la cupidité et à la cruauté. La Grande Guerre des ressources naturelles a éclaté, dans laquelle il n'y a eu aucun gagnant. Une étincelle magique frappée par des sabots de poney a rapidement fait rage de manière incontrôlable et s'est transformée en flammes qui ont englouti des continents entiers. Le feu du dragon et la magie noire, transformés en armes destructrices, ont presque mis fin à toute vie sur la planète. Le sol, l'eau et l'air ont été empoisonnés par les radiations, les villes ont été détruites, les civilisations se sont effondrées. Les poneys et leurs ennemis ont presque été effacés de la surface de la terre. L'Apocalypse, prédite par des prophètes fous, auxquels presque personne n'a cru jusqu'au dernier jour, était enfin arrivée...
 ... Mais ce n'était pas encore la fin. De nombreux poneys ont survécu, certains - se cachant dans les immenses abris-étables souterrains, d'autres - s'adaptant d'une manière ou d'une autre aux nouvelles conditions. L'Apocalypse n'était qu'un prologue pour un autre chapitre sanglant de l'histoire des poneys. Sur les Terres Désolés brûlées et empoisonnées, la violence et la cruauté ne sont pas seulement devenues permises - elles sont désormais des moyens de survie...
 ... Depuis ce jour, le dernier jour de l'ancien Equestria, environ deux-cent années se sont écoulées...</n>
   </gui>
@@ -5042,7 +5042,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <info>The amount of physical damage you take is reduced by the armor level value, that is if bullet or melee weapon hit your armor. Affects only physical damage such as from bullets, melee weapons, blast damage etc. Depends on type and condition of the armor you wear. If condition drops below 50%, protection decreases</info>
   </pip>
   <pip id="marmor">
-    <n>Magic protection</n>
+    <n>Protection magique</n>
     <info>This value is subtracted from magical energy damage, if magical beam or projectile hit armor. Affects only magical damage such as fire, laser, plasma, lightning, or frost. Depends on type and condition of the armor you wear. If condition drops below 50%, protection decreases</info>
   </pip>
   <pip id="aqual">
@@ -5649,7 +5649,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Accepter l'offre</n>
   </pip>
   <pip id="sellall" v="0.8">
-    <n>Vendre ​​objets</n>
+    <n>Vendre objets</n>
   </pip>
   <pip id="medprice">
     <n>Prix du soin</n>
@@ -11713,29 +11713,29 @@ One more thing: please delete this message from your terminal as soon as you rea
   </txt>
   <txt id="termText14" v="0.7">
     <n>
-      <r mod="1">Category: known Stables, brief information. Sorting files alphabetically.
-Stable 0, Fillydelphia: not functioning. Under control of Steel Rangers of the Fillydelphia Division;
-Stable 1, Canterlot: unknown. Presumably pillaged;
-Stable 2, Ponyville: sealed. Presumably extinct;
-Stable 3, Zebratown: not functioning. Pillaged;
-Stable 6, Crystal mountains: unknown. Presumably pillaged;
-Stable 12, Trottingham: not functioning. Intact;
-Stable 20, New Pegasus: not functioning. Pillaged and occupied by raiders;
-Stable 29, Fetlock: sealed. Extinct;
-Stable 40, Stalliongrad: unknown. Presumably extinct;
-Stable 49, Vanhoover: not functioning. Pillaged;
-Stable 55, The border with the Griffin Kingdom: unknown. Presumably extinct;
-Stable 65, Neighara falls: not functioning. Under control of Steel Rangers of the Neighara Division;
-Stable 67, Fillydelphia: not functioning. Pillaged;
-Stable 77, Coltchester: sealed. Presumably extinct;
-Stable 88, Falls Springs: not functioning. Intact;
-Stable 93, Fillydelphia: unknown. Presumably pillaged;
-Stable 96, northern wastelands: not functioning. Presumably pillaged;
+      <r mod="1">Catégorie : Etables connues, brèves informations. Tri par ordre alphabétique des fichiers.
+Etable 0, Fillydelphia : non fonctionnel. Sous le contrôle des Rangers d'Acier de la Division Fillydelphia;
+Etable 1, Canterlot : inconnu. Probablement pillé;
+Etable 2, Ponyville : fermé. Presumably extinct;
+Etable 3, Zebratown : non fonctionnel. Pillé;
+Etable 6, Crystal mountains : inconnu. Probablement pillé;
+Etable 12, Trottingham : not functioning. Intacte;
+Etable 20, New Pegasus : not functioning. Pillé et occupé par des pillards;
+Etable 29, Fetlock : fermé. Extinct;
+Etable 40, Stalliongrad : inconnu. Presumably extinct;
+Etable 49, Vanhoover : non fonctionnel. Pillé;
+Etable 55, The border with the Griffin Kingdom : unknown. Presumably extinct;
+Stable 65, Neighara falls : not functioning. Under control of Steel Rangers of the Neighara Division;
+Stable 67, Fillydelphia : not functioning. Pillaged;
+Stable 77, Coltchester : fermé. Presumably extinct;
+Stable 88, Falls Springs : not functioning. Intact;
+Stable 93, Fillydelphia : unknown. Presumably pillaged;
+Stable 96, northern wastelands : non fonctionnel. Probablement pillé;
 </r>
-      <r mod="1">Stable 99, Hoofington: sealed. Presumably extinct;
-Stable 102, Caledonia: unknown. Presumably extinct.
-Stable Pi, location unknown: presumably open. Presumably inhabited.
-Stable Solaris, Route 52: unknown. Presumably extinct</r>
+      <r mod="1">Etable 99, Hoofington: sealed. Presumably extinct;
+Etable 102, Caledonia: inconnu. Presumably extinct.
+Etable Pi, location unknown: presumably open. Presumably inhabited.
+Etable Solaris, Route 52: unknown. Presumably extinct</r>
     </n>
   </txt>
   <txt id="termText15" v="0.8">
@@ -11887,7 +11887,7 @@ I have not yet decided, but maybe I should volunteer. This is really scary, beca
   </txt>
   <txt id="termText21" v="0.8">
     <n>
-      <r mod="1">The Chronicles of Stable Pi.
+      <r mod="1">Les Chroniques de l'Etable Pi.
 This document contains information about all significant events that have occurred in our history. Let it be filled only with good milestones.
 Day 0
 Sealing the Stable Pi after receiving a signal about the start of UK class events. Full assembly of the assigned personnel, followed by shelter isolation. The following months were spent on arranging new living conditions and trying to get contact with other centers.
