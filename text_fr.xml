@@ -2157,7 +2157,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="milk" v="0.7">
     <n>Lait</n>
-    <info>Lat de brahmine frais, retire les radiations</info>
+    <info>Lait de brahmine frais, retire les radiations</info>
   </item>
   <item id="beer" v="0.7">
     <n>Bière</n>
@@ -2181,7 +2181,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="spirt" v="0.7">
     <n>Alcool</n>
-    <info>Almost pure alcohol, rare and quite expensive</info>
+    <info>De l'alcool presque pur, rare et plutôt cher.</info>
   </item>
   <item id="alc1" v="0.7">
     <n>Apple cider "Old farm"</n>
@@ -2228,12 +2228,12 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An incomprehensible gray mass with even more incomprehensible bits of something, perhaps dried vegetables</info>
   </item>
   <item id="beans" v="0.7">
-    <n>Canned beans</n>
-    <info>Food rich in vegetable protein</info>
+    <n>Haricots en boîte</n>
+    <info>Nourriture riche en protéines végétales.</info>
   </item>
   <item id="bread" v="0.7">
     <n>Pain</n>
-    <info>Relatively fresh bread, baked no more than a week ago</info>
+    <info>Un pain relativement frais, cuit il y a moins d'une semaine.</info>
   </item>
   <item id="oats" v="0.7">
     <n>Oats</n>
@@ -2244,7 +2244,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Pre-war potato chips with the taste of spicy horseradish</info>
   </item>
   <item id="crackers" v="0.7">
-    <n>Squirrel bits</n>
+    <n>Bouchées d'écureuil</n>
     <info>Crackers with the taste of sorrel, so dry that one could use them to make sparks for a bonfire</info>
   </item>
   <item id="nuts" v="0.7">
@@ -2420,35 +2420,35 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A type of soup of a very complex composition. Only an experienced chef can cook it properly</info>
   </item>
   <item id="bit">
-    <n>Pre-war bits</n>
-    <info>Pre-War bits, not widely used these days, but can be exchanged for caps</info>
+    <n>Pièces d'avant-guerre</n>
+    <info>Pièces d'avant-guerre, qui ne sont plus très utilisées, mais pouvant être échangées contre des capsules.</info>
   </item>
   <item id="gem1">
-    <n>Emerald</n>
-    <info>Gems are still valued highly these days. You can sell it for a good price</info>
+    <n>Emeraude</n>
+    <info>Les gemmes sont encore de grande valeur aujourd'hui. Vous pouvez la vendre pour un bon prix.</info>
   </item>
   <item id="gem2">
-    <n>Sapphire</n>
-    <info>Gems are still valued highly these days. You can sell it for a good price</info>
+    <n>Saphir</n>
+    <info>Les gemmes sont encore de grande valeur aujourd'hui. Vous pouvez la vendre pour un bon prix.</info>
   </item>
   <item id="gem3">
-    <n>Ruby</n>
-    <info>Gems are still valued highly these days. You can sell it for a good price</info>
+    <n>Rubis</n>
+    <info>Les gemmes sont encore de grande valeur aujourd'hui. Vous pouvez la vendre pour un bon prix.</info>
   </item>
   <item id="data">
-    <n>Data disc</n>
+    <n>Disque de données</n>
     <info>Information downloaded from the terminal contains long forgotten secrets of the past. You can sell it for a good price</info>
   </item>
   <item id="disc">
-    <n>Disc with valuable data</n>
-    <info>Data on pre-War technologies is on high demand among certain communities</info>
+    <n>Disque de données importantes</n>
+    <info>Les données sur les technologies d'avant-guerre sont très demandées parmi certaines communautés.</info>
   </item>
   <item id="datast">
-    <n>Disc of the Min. of Image</n>
+    <n>Disque du Ministère de l'Image</n>
     <info>This disc contains information about the development of the StealthBuck M2. Perhaps Steel Rangers will find it interesting</info>
   </item>
   <item id="lbook">
-    <n>Pre-War book</n>
+    <n>Livre d'avant-guerre</n>
     <info>Undamaged pre-War books - a true rarity nowadays. Most merchants will gladly pay for them</info>
   </item>
   <item id="runa" s1="keyCrack" v="0.8">
@@ -2468,7 +2468,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Despite its name, this book can tell you not only about fixing toasters, but actually about repairing anything - from household equipment to modern weapons</info>
   </item>
   <item id="medic">
-    <n>Medicine - is fun!</n>
+    <n>La médecine - c'est fun !</n>
     <info>In this book you can find interesting and fun facts about medicine, first aid, treating wounds and even basics of surgery</info>
   </item>
   <item id="lockpick">
@@ -2476,11 +2476,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>This book has detailed and well-illustrated descriptions of locks of different types and much advice on how to break them. An author definitely must`ve had problems with the law</info>
   </item>
   <item id="science">
-    <n>Young hacker</n>
+    <n>Jeune hacker</n>
     <info>A children`s guide, in which author introduces young readers to the basics of information technology, and also shares different less known facts about terminals and other electronic systems</info>
   </item>
   <item id="explosives">
-    <n>Fireworks for parties</n>
+    <n>Feux d'artifices pour les fêtes</n>
     <info>A book sponsored by the Ministry of Morale. It contains guidelines for safe handling of explosive materials used in fireworks and some other devices</info>
   </item>
   <item id="smallguns">
@@ -2500,7 +2500,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A guide for beginner spies and scouts. Despite that the author was obviously a paranoid psycho, the book contains some useful information</info>
   </item>
   <item id="barter">
-    <n>Why pay more?</n>
+    <n>Pourquoi payer plus ?</n>
     <info>This book teaches how to communicate with traders of all sorts, how to barter and get discounts and also recognize some common tricks and ruses</info>
   </item>
   <item id="tele">
@@ -6655,7 +6655,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Moving to @1</n>
   </info>
   <info id="noOutLoc" st="3">
-    <n>You can not leave the room while being attacked</n>
+    <n>Vous ne pouvez pas quitter la pièce en étant attaqué</n>
   </info>
   <info id="term1Act">
     <n>Les systèmes de sécurité sont désactivés</n>
@@ -6948,7 +6948,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>A partly destroyed "ManeTec" factory complex, occupied by raiders. Apart from them you should watch out for automatic defense systems and occasional monsters</info>
   </map>
   <map id="nio" v="0.7">
-    <n>Department of special research</n>
+    <n>Département de recherche spéciale</n>
     <info>The brain center of the ManeTec factory, where research and development was previously conducted. The central maneframe is somewhere here</info>
   </map>
   <map id="random_sewer">
@@ -6976,7 +6976,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <info>A military base in the past, now - base of the Steel Rangers</info>
   </map>
   <map id="random_canter" v="0.7">
-    <n>Ruines de Canterlot </n>
+    <n>Ruines de Canterlot</n>
     <info>The former capital of Equestria. Now filled with the deadly Pink Cloud and inhabited by various monsters</info>
   </map>
   <map id="mtn" v="0.7">
@@ -7841,10 +7841,10 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='vd'>Si c'est vénérien, discutons de votre cas derrière ce rideau</r>
       <r p='lp2'>Non, ce n'est pas ça. Je veux vous poser une question sur un habitant d'étable. La connaissiez-vous ? On m'a dit qu'il y a quelque temps elle vous aidait ici à la clinique</r>
       <r p='vd'>Ah, mais bien sûr, je me souviens d'elle. Velvet Remedy - c'était son nom. Oui, elle m'a aidé ici pendant un certain temps. Très compétente et bonne en médecine, malgré son autodidacte. Elle a appris dans les livres, ça se voit tout de suite. Peu de pratique, surtout en chirurgie</r>
-      <r p='vd'>Mais très gentille, trop même. Elle voulais aider tout le monde gratuitement. Pas seulement les poneys, toutes les créatures. Nous avons eu quelques querelles avec elle à ce sujet, car sa gentillesse a fait basculer la clinique dans un bilan négatif. Mais nous avons réussi à trouver un compromis</r>
+      <r p='vd'>Mais très gentille, trop même. Elle voulait aider tout le monde gratuitement. Pas seulement les poneys, toutes les créatures. Nous avons eu quelques querelles avec elle à ce sujet, car sa gentillesse a fait basculer la clinique dans un bilan négatif. Mais nous avons réussi à trouver un compromis</r>
       <r p='vd'>Elle posait beaucoup de questions sur notre vie, mais surtout elle s'intéressait aux goules. Elle a essayé de révéler un secret de leur anti-vie, et n'a pas cru mes mots que c'est la magie noire des zèbres. En conséquence, elle a décidé de découvrir la vérité elle-même. Idée stupide, si vous voulez mon avis. Les goules ne peuvent plus être guéries</r>
       <r p='vd'>D'abord, elle les cherchait dans les environs... J'ai essayé de l'en dissuader, mais c'était inutile. Puis elle a dit qu'elle avait découvert où ces créatures étaient les plus abondantes. Je suppose, dans certains égouts ou autre trou délaissé. Et puis elle est partie et, eh bien, c'est tout. je ne l'ai pas vue depuis</r>
-      <r p='vd'>Dommage... elle a probablement trouvé plus de goules qu'il n'en fallait. Attention, ne répétez pas son erreur</r>
+      <r p='vd'>Dommage... elle a probablement trouvé plus de goules qu'il n'en fallait. Attention, ne répétez pas son erreur.</r>
       <r p='lp2'>And you did not even look for her?</r>
       <r p='vd'>On a regardé. Calamity a volé partout, a même vérifié les canalisations d'égout. Nous n'avons trouvé aucune trace</r>
       <r p='lp3'>Je vois... Merci</r>
@@ -8203,7 +8203,7 @@ You were not at the briefing of the rear-guard commanders, so I`ll give you the 
   </txt>
   <txt id="vendor_bar_task" imp="1" v="0.7">
     <n>
-      <t v="0.8">Destroyed factory</t>
+      <t v="0.8">Usine détruite</t>
       <r p='lp4'>I came from afar and don`t know these lands. Are there any places worth visiting or, on the contrary, that one should avoid?</r>
       <r p='vb'>The only attraction here is the destroyed prewar factory. It didn`t get much damage during the bombing, because most of its buildings were underground. There are lots of valuable things preserved, locals usually go there for loot. The factory is simply huge, it seems it`s impossible to explore it completely even in ten years</r>
       <r p='lp4'>Factory? Sounds interesting, I`ll definitely take a look</r>
@@ -10974,11 +10974,11 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Smuggled cigars</n>
   </txt>
   <txt id="repairAutoDoc" v="0.6">
-    <n>Fix AutoDoc</n>
+    <n>Réparer l'AutoDoc</n>
     <info>Looks like the AutoDoc finally went to meet it`s maker. Fix it already, somepony! It`s in your best interests, you know!</info>
   </txt>
   <txt id="repairAutoDoc1" v="0.6">
-    <n>Repair the AutoDoc</n>
+    <n>Réparez l'AutoDoc</n>
   </txt>
   <txt id="repairAutoDoc2" v="0.6">
     <n>Report to Doc Sepsis and get a reward</n>
