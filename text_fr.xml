@@ -2878,37 +2878,37 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>An extension module for PipBuck increasing its computing power. Increases your level of lockpicking and hacking by #1, as well as the amount of AP in S.A.T.S. by #2</info>
   </item>
   <item id="stat_tw" v="0.7">
-    <n>Twilight Sparkle figurine</n>
+    <n>Figurine de Twilight Sparkle</n>
     <info>Be Smart! Increases damage from combat spells by #1, also increases the chance of successful lockpicking and terminal hacking</info>
     <mess>You find a figurine of a young lavender unicorn with a crimson and lilac stripes in a dark blue mane and with a cutie mark shaped like a magic star. ["Be Smart!"] - reads the golden inscription at the base of the statuette. You immediately feel an unusual clarity of thought, and your magical power has clearly increased</mess>
   </item>
   <item id="stat_pp" v="0.7">
-    <n>Pinkie Pie figurine</n>
+    <n>Figurine de Pinkie Pie</n>
     <info>Awareness! It was under "E"! Increases accuracy and stealth by #1</info>
     <mess>A beautifully preserved statuette of a bright pink pony, with a mane that looks like cotton candy, just radiating an aura of unrestrained happiness and fun. The inscription at the base is a bit strange: [`Awareness! It was under "E"!`] You are surprised to note that all your feelings magically sharpened</mess>
   </item>
   <item id="stat_aj" v="0.7">
-    <n>Applejack figurine</n>
+    <n>Figurine d'Applejack</n>
     <info>Be Strong! Increases damage from melee weapons by #1, damage from hoof attacks by #2, and health by #3</info>
     <mess>You find a statue of an orange earth pony with a yellow mane and tail, depicted at the moment when her hind hooves hit the air. It is engraved with the inscription "Be Strong!". Amazingly, now you really feel much stronger</mess>
   </item>
   <item id="stat_rd" v="0.7">
-    <n>Rainbow Dash figurine</n>
+    <n>Figurine de Rainbow Dash</n>
     <info>Be Awesome! Increases damage of all firearms by #1, and the speed of running and swimming by #2</info>
     <mess>A statuette of a sky-blue pegasus, with rainbow mane and tail. She is depicted in a proud pose, with straightened wings and a grin on her face. You see the inscription on the base ["Be awesome!"], and immediately feel... much cooler! In every way</mess>
   </item>
   <item id="stat_fl" v="0.7">
-    <n>Fluttershy figurine</n>
+    <n>Figurine de Fluttershy </n>
     <info>Be Pleasant! Reduces the prices of merchants by #1 and increases the effectiveness of healing potions by #2</info>
     <mess>A statuette of a yellow pegasus, untouched by time, smiling very sweetly from beneath her pink mane with a gentle look in her eyes. The inscription at the base reads "Be Pleasant!" - and indeed you feel inside the power not to kill, but to heal and save lives</mess>
   </item>
   <item id="stat_rr" v="0.7">
-    <n>Rarity figurine</n>
+    <n>Figurine de Rarity</n>
     <info>Be Unwavering! Increases the damage threshold by #1, reduces physical and magical damage by #2</info>
     <mess>A statuette of an amazingly beautiful white unicorn with a carefully combed purple mane. With all its appearance, it radiates confidence and firmness, like diamonds on her cutie mark, and these qualities are immediately transmitted to you. The inscription at the base reads: ["Be Unwavering!"]</mess>
   </item>
   <item id="amul_al" v="0.7">
-    <n>Alicorn Amulet</n>
+    <n>Amulette d'Alicorne</n>
     <info>An ancient and mysterious relic, increasing the magical power of the owner but enslaving his mind. Under no circumstances should you wear this amulet around your neck! Although just laying in your bag, it still strengthens your battle spells by #1 and decreases magic consumption by #2</info>
     <mess>Alicorn Amulet! An ancient and mysterious relic, increasing the magical power of the owner but enslaving his mind. You feel a strong desire to immediately put the amulet around your neck, but, realizing the danger of such a rash act, simply put it in your bag. And still, even just being near, the amulet increases your magical power</mess>
   </item>
@@ -3027,11 +3027,11 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>A container for canned food</info>
   </item>
   <item id="scrap">
-    <n>Scrap metal</n>
+    <n>Morceau de métal</n>
     <info>Just a pile of metal parts, good for nothing</info>
   </item>
   <item id="detonat">
-    <n>Detonator</n>
+    <n>Détonateur</n>
     <info>A small detonator used in grenades</info>
   </item>
   <item id="powder">
@@ -3119,16 +3119,16 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>A memory module containing 300,000 most used passwords. It can be used to create a device that would help hacking terminals</info>
   </item>
   <item id="fan" v="0.6">
-    <n>Fan</n>
-    <info>Old desktop fan, long broken and non-functional</info>
+    <n>Ventilateur</n>
+    <info>Un vieux ventilateur de bureau, abimé depuis longtemps et non-fonctionnel.</info>
   </item>
   <item id="lamp" v="0.6">
-    <n>Lamp</n>
-    <info>Old desk lamp, long broken and non-functional</info>
+    <n>Lampe</n>
+    <info>Une ville lampe de bureau, abimée depuis longtemps et non-fonctionnel.</info>
   </item>
   <item id="kofe" v="0.6">
-    <n>Coffee maker</n>
-    <info>Old coffee maker, long broken and non-functional</info>
+    <n>Machine à café</n>
+    <info>Une ville machine à café, abimée depuis longtemps et non-fonctionnel.</info>
   </item>
   <item id="elcomp">
     <n>Electronic elements</n>
@@ -3199,7 +3199,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>Eww gross!</info>
   </item>
   <item id="rattail">
-    <n>Rat tail</n>
+    <n>Queue de rat</n>
     <info>Looks like a giant worm</info>
   </item>
   <item id="molefat">
@@ -3402,13 +3402,13 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Gun case</n>
   </obj>
   <obj id="bookcase">
-    <n>Bookshelf</n>
+    <n>Etagère</n>
   </obj>
   <obj id="fridge">
     <n>Frigo</n>
   </obj>
   <obj id="cup">
-    <n>Cupboard</n>
+    <n>Armoire</n>
   </obj>
   <obj id="locker">
     <n>Casiers</n>
@@ -3462,7 +3462,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Premiers soins</n>
   </obj>
   <obj id="bigmed">
-    <n>Cabinet with medicines</n>
+    <n>Armoire à médicaments</n>
   </obj>
   <obj id="instr1">
     <n>Tool cabinet</n>
@@ -3902,7 +3902,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>You understand automatic security systems like none other. From any terminal controlling the turrets, you can not just simply turn them off, but reconfigure them so that they begin attacking your opponents. Meanwhile, you get all experience from the turret`s kills</info>
   </eff>
   <eff id="zona" v="0.6">
-    <n>Zonede danger </n>
+    <n>Zone de danger </n>
     <info>The blast radius for any explosives you use increases by #1</info>
   </eff>
   <eff id="sapper" v="0.6">
@@ -4185,7 +4185,7 @@ At the second level of this ability the consumption of magic will decrease, and 
     <info>While your organism recovers after shock caused by Hydra, healing potions have #1 effectiveness</info>
   </eff>
   <eff id="potion_fly">
-    <n>Potion of flight</n>
+    <n>Potion d'envol</n>
     <info>Vous pouvez voler !</info>
   </eff>
   <eff id="potion_shadow">
@@ -4298,17 +4298,17 @@ Damage resistance #1, melee damage #2, accuracy #3, evasion bonus #4, magic cons
     <info>Thanks to the stimulating effect of coffee, your ability to open locks (+#1) and hack terminals (+#2) has been increased</info>
   </eff>
   <eff id="food" st="5" v="0.7">
-    <n>Effect of food</n>
+    <n>Effet de nourriture</n>
     <info>You ate something, and this temporarily improved your characteristics. At the same time, only one food effect can be active. The effect of other food will replace the current one</info>
   </eff>
   <eff id="f_hp" v="0.7">
-    <info>Health increased by #1</info>
+    <info>Vie augmentée de #1</info>
   </eff>
   <eff id="f_speed" v="0.7">
-    <info>Speed ​​and stamina increased by #1</info>
+    <info>Vitesse et endurance augmentées de #1</info>
   </eff>
   <eff id="f_prec" v="0.7">
-    <info>Accuracy increased by #1</info>
+    <info>Précision augmentée de #1</info>
   </eff>
   <eff id="f_melee" v="0.7">
     <info>Damage by melee weapons increased by #1</info>
@@ -5352,7 +5352,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Portée</n>
   </pip>
   <pip id="holder">
-    <n>Magazine</n>
+    <n>Chargeur</n>
   </pip>
   <pip id="rashod">
     <n>par tir</n>
@@ -5616,7 +5616,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Quête</n>
   </pip>
   <pip id="iv1">
-    <n>goods</n>
+    <n>objets</n>
   </pip>
   <pip id="iv2">
     <n>condition</n>
@@ -5883,15 +5883,15 @@ After a few years this entire area of ​​Equestria was almost completely devo
   <pip id="piperror" v="0.8">
     <n>Attention ! Echec système.</n>
     <info>Erreur 0-4570-7f45-a420-ff98 (Erreur système, contactez l'administrateur)
-The likely cause of the failure is an effect of an electromagnetic pulse on the PipBuck systems.
-Checking the subsystems and modules :
+La cause de cette erreur est probablement dû à une impulsion électromagnétique sur les systèmes PipBuck.
+Vérification des sous-systèmes et modules :
 • Statut utilisateur - indisponible
 • Module médical - indisponible
 • Trieur d'inventaire - indisponible
 • Module cartographique - indisponible
 • Visée de sort - indisponible
 • Interface utilisateur - désactivé
-• Le noyau du système d'exploitation - ne répond pas
+• Noyau du système d'exploitation - ne répond pas
 Attention ! Redémarrage requis.
 Redémarrage du système en cours, veuillez patienter.......</info>
   </pip>
@@ -12032,7 +12032,7 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
     <a v="0.8">Special opponents of red color have increased damage, blue - protection from physical damage, purple - from magic, green - increased speed and perception</a>
     <a>Potions of permanent action enhance some of your characteristics forever. You can drink no more than five identical potions, after that any additional potion will not have any effect</a>
     <a>The robot cells are activated by a radio signal if you engage in combat with other robots. However, they can be disabled in advance</a>
-    <a>The "stealth" skill can help you by turning off an alarm system. If it is triggered, the alarm will attract new enemies</a>
+    <a>La compétence "Discrétion" peut vous aider à éteindre une alarme. Si elle est activée, l'alarme attirera de nouveaux ennemis.</a>
     <a>Dashing allows you evading enemies attacking in close combat, as well as overpassing some obstacles. To dash, press [A] or [D] twice while holding [Shift]</a>
     <a>You can use the levitated box as a bullet shield. Strong metal boxes protect better than light wooden boxes. You can also try using a body of a dead enemy</a>
     <a v="0.8">The "Survival" skill gives you access to zebra potion recipes. Potions can have temporary or permanent effects. Preparing potions requires a lab bench</a>
