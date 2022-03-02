@@ -295,12 +295,12 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <info>Les zèbres nécromanciens sont de puissants ensorceleurs, en aucun cas inférieurs aux meilleurs magiciens unicornes. Mais, contrairement à eux, les nécromanciens ne comptent plus sur les sorts d'attaques, mais plutôt sur les sorts obscurs et les invocations de diverses créatures et d'esprits.</info>
   </unit>
   <unit id="ranger" v="0.7">
-    <n>Rangers d'Acier</n>
-    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger d'acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des Rangers d'Acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
+    <n>Rangers de l'Acier</n>
+    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger de l'Acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des Rangers de l'Acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
   </unit>
   <unit id="ranger1" v="0.7">
     <n>Chevalier</n>
-    <info>Les Chevaliers sont la force principale des Rangers d'Acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
+    <info>Les Chevaliers sont la force principale des Rangers de l'Acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
   </unit>
   <unit id="ranger2" v="0.7">
     <n>Croisé</n>
@@ -308,7 +308,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="ranger3" v="0.7">
     <n>Paladin</n>
-    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre Rangers d'Acier. Ils signalent directement aux paladins seniors.</info>
+    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre Rangers de l'Acier. Ils signalent directement aux paladins seniors.</info>
   </unit>
   <unit id="encl" v="0.8">
     <n>Grande Enclave des Pégases</n>
@@ -590,7 +590,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="gutsy1" v="0.7">
     <n>Mr. Vigilant</n>
-    <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers d'Acier, équippée d'armes plus sophistiquées.</info>
+    <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers de l'Acier, équippée d'armes plus sophistiquées.</info>
   </unit>
   <unit id="sentinel">
     <n>Robot-sentinelle</n>
@@ -602,7 +602,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="bossdron" v="0.7">
     <n>Bombardier</n>
-    <info>Un drone de combat de très grande taille, un vrai tank volant. Protège habituellement les bâtiments les plus importants appartenant aux Rangers d'Acier.</info>
+    <info>Un drone de combat de très grande taille, un vrai tank volant. Protège habituellement les bâtiments les plus importants appartenant aux ranger de l'Acier.</info>
   </unit>
   <unit id="smallrobot" v="0.6">
     <n>Petits robots</n>
@@ -2666,7 +2666,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="empbomb" v="0.7">
     <n>Bombe à impulsion</n>
-    <info>Aide à rentrer dans le bunker des Rangers d'Acier. Usage unique.</info>
+    <info>Aide à rentrer dans le bunker des ranger de l'Acier. Usage unique.</info>
   </item>
   <item id="card0" v="0.7">
     <n>Carte de tarot "Le Fou"</n>
@@ -2769,7 +2769,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>The key belonging to the necromancer zebra Mchawi</info>
   </item>
   <item id="key_ranger" v="0.7">
-    <n>Clé des Rangers d'Acier</n>
+    <n>Clé des ranger de l'Acier</n>
     <info>The key that was kept by Elder Coldsight</info>
   </item>
   <item id="key_tumba" v="0.6">
@@ -7190,7 +7190,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="src" v="0.7">
     <n>Usine de traitement de l'eau</n>
-    <info>Un petit bâtiment où un camp temporaire a été organisé par les Rangers d'Acier sous le commandement de SteelHooves</info>
+    <info>Un petit bâtiment où un camp temporaire a été organisé par les ranger de l'Acier sous le commandement de SteelHooves</info>
   </map>
   <map id="minst" v="0.7">
     <n>Ministère de l'Image</n>
@@ -7198,7 +7198,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="bunker" v="0.7">
     <n>Bunker</n>
-    <info>Un bunker de stockage appartenant aux Rangers d'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
+    <info>Un bunker de stockage appartenant aux ranger de l'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
   </map>
   <map id="sttech" v="0.7">
     <n>Bureau Stable-Tec, entrée de service</n>
@@ -7824,7 +7824,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
     <n>
       <t v="0.8">Conversation avec Calamity sur le «Chosen 24»</t>
       <r p='lp4'>Calamity ?</r>
-      <r p='calam'>s'lut, @lp. B'soin d'quelque chose ?</r>
+      <r p='calam'>S'lut, @lp. B'soin d'quelque chose ?</r>
       <r p='lp4'>Hé bien oui. Dites-moi, au cours des derniers mois, avez-vous vu quelqu'un comme moi ?</r>
       <r p='calam'>Hein ? Tu veux dire, qui t'ressembles ? Une ptite ? Ou une aventurière comme toi?</r>
       <r p='lp2'>Hmm.. Non, pas ça. Je veux dire, quelqu'un d'une Etable.</r>
@@ -7846,8 +7846,8 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='vd'>D'abord, elle les cherchait dans les environs... J'ai essayé de l'en dissuader, mais c'était inutile. Puis elle a dit qu'elle avait découvert où ces créatures étaient les plus abondantes. Je suppose, dans certains égouts ou autre trou délaissé. Et puis elle est partie et, eh bien, c'est tout. je ne l'ai pas vue depuis</r>
       <r p='vd'>Dommage... elle a probablement trouvé plus de goules qu'il n'en fallait. Attention, ne répétez pas son erreur.</r>
       <r p='lp2'>And you did not even look for her?</r>
-      <r p='vd'>On a regardé. Calamity a volé partout, a même vérifié les canalisations d'égout. Nous n'avons trouvé aucune trace</r>
-      <r p='lp3'>Je vois... Merci</r>
+      <r p='vd'>On a regardé. Calamity a volé partout, a même vérifié les canalisations d'égout. Nous n'avons trouvé aucune trace.</r>
+      <r p='lp3'>Je vois... Merci.</r>
       <r p='vd'>Ce n'était rien... Et pourquoi demandez-vous ? Vous vous connaissiez ?</r>
       <r p='lp2'>Oui... je veux dire, non...</r>
       <r p='lp3' push='1'>Je ne sais pas.</r>
@@ -7869,16 +7869,16 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
   <txt id="velvetDial5" imp="1" v="0.7">
     <n>
       <t v="0.8">Inspection du camp d'égout</t>
-      <r p='lp2'>Aloooooors. Aucune traces de goules ? - c'est parfait.</r>
-      <r p='lp2'>Mais il y a des signes de lutte. Le matelas est chiffonné, comme si un poney l'avait piétiné. Une pile de livres est retournée. Idem pour le pot et ces bouteilles de la table. Ils sont brisés, comme s'ils étaient tombés après qu'un poney ait donné un coup de pied à la table sous eux de toutes leurs forces. Ou quelque chose comme ça. Et tout cela est resté intact pendant un certain temps</r>
-      <r p='lp3'>Mais surtout, il n'y a pas de sang. Peut-être que le propriétaire du camp est vivant... Je dois chercher d'autres traces</r>
+      <r p='lp2'>Aloooooors. Aucune trace de goules ? C'est parfait.</r>
+      <r p='lp2'>Mais il y a des signes de lutte. Le matelas est chiffonné, comme si un poney l'avait piétiné. Une pile de livres est retournée. Idem pour le pot et ces bouteilles de la table. Ils sont brisés, comme s'ils étaient tombés après qu'un poney ait donné un coup de pied à la table sous eux de toutes leurs forces. Ou quelque chose comme ça. Et tout cela est resté intact pendant un certain temps.</r>
+      <r p='lp3'>Mais surtout, il n'y a pas de sang. Peut-être que le propriétaire du camp est vivant... Je dois chercher d'autres traces.</r>
 </n>
   </txt>
   <txt id="velvetDial6" imp="1" v="0.7">
     <n>
       <t v="0.8">Journal de Velvet trouvé</t>
       <r p='lp2'>Oh, et voici le journal ! Il appartient probablement au propriétaire du camp. Aha... Il y a une signature : "Velvet Remedy"</r>
-      <r p='lp3'>(lit) Bien-bien-bien... Elle a étudié les goules ici, a mené quelques expériences... Je dois étudier le journal plus en détail plus tard</r>
+      <r p='lp3'>(lit) Bien bien bien... Elle a étudié les goules ici, a mené quelques expériences... Je dois étudier le journal plus en détail plus tard</r>
       <r p='lp3'>Cependant, le camp a été vide pendant longtemps et elle n'a manifestement pas déménagé de son plein gré. Qui pourrait la trouver ici, à part les goules ?... Les négriers du camp d'en haut ?</r>
     </n>
   </txt>
@@ -7916,75 +7916,75 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='lp2' push='1'>Où sont les autres captifs?</r>
       <r p='capt'>Je ne sais pas. Ça doit être dans ce grand bâtiment. J'espère qu'ils vont bien...</r>
       <r p='lp2'>Je vais essayer de crocheter la serrure de ta cage. Et si ça ne marche pas, je vais devoir récupérer la clé.</r>
-      <r p='lp5' push='1'>Je ne peux tout simplement pas croire que des choses comme celle-ci se produisent réellement !</r>
+      <r p='lp5' push='1'>Je n'arrive tout simplement pas à croire que des choses comme ça se produisent réellement !</r>
     </n>
   </txt>
   <txt id="surfDialHello2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Talk with a chief warden</t>
-      <r p='slaver1'>Ah, here you are! So, it`s you we should thank for causing us so much trouble?</r>
-      <r p='lp5'>That`s right. And you must be chief warden? Do you have the keys from the captives` cages?</r>
-      <r p='slaver1'>You bet! You want to free all that meat? Well, I sure have the keys. Come closer... so I can give it to you...</r>
+      <t v="0.8">Conversation avec un chef gardien</t>
+      <r p='slaver1'>Ah, te voilà, devrions-nous te remercier pour nous avoir causé tant de problèmes ?</r>
+      <r p='lp5'>Exact. Et vous devez être le chef gardien ? Auriez-vous les clés des cages des captifs ?</r>
+      <r p='slaver1'>Absolument ! Tu veux libérer tout ce gibier ? J'en ai bien les clés. Approche-toi... que je puisse te les donner...</r>
     </n>
   </txt>
   <txt id="surfDialHello3" imp="1" v="0.7">
     <n>
-      <t v="0.8">Meeting Butch</t>
-      <r p='lp2'>Oh, wow... you are a huge one! Can ponies even be of this size?</r>
-      <r p='slaver2' m='1'>Er, shit, I don`t get it! What the fuck is going on here??? What is all this shooting? Did you lose you damned mind?|Er, I don`t get it! What the hay is going on here??? What is all this shooting? Did you lose you damned mind?</r>
-      <r p='slaver2' m='1'>HEY, ARE YOU FUCKING DEAF!!?? GET YOUR ASSES HERE YOU BASTARDS, RIGHT NOW!!!|HEY, ARE YOU DEAF!!?? COME HERE YOU BASTARDS, RIGHT NOW!!!</r>
-      <r p='lp5'>Spare your breath, big boy, nopony comes</r>
-      <r p='slaver2'>What`s this squeaking down there? Who are you, a flea?</r>
-      <r p='lp5'>Your gang is no more, and your captives are free. Any last words?</r>
-      <r p='slaver2' m='1'>I will crush you with my left hoof, little cunt. You are finished| I will crush you with my left hoof, pipsqueak. You are finished</r>
+      <t v="0.8">Rencontre avec Butch</t>
+      <r p='lp2'>Oh, wow... vous êtes bien grand ! Les poneys sont capables d'atteindre ce genre de taille ?</r>
+      <r p='slaver2' m='1'>Et merde, je comprends rien ! Qu'est-ce qu'il se passe ici bordel ??? C'est quoi tous ces tirs ? Vous avez perdu vos putain de têtes ou quoi ?|Argh, j'y comprends rien ! Qu'est-ce qui se passe ici ??? C'est quoi tous ces tirs ? Vous avez perdu la tête ou quoi ?</r>
+      <r p='slaver2' m='1'>EH, VOUS ÊTES SOURD OU QUOI PUTAIN !!??  RAMENEZ VOS CULS ICI TOUT DE SUITE ENFOIRÉS, MAINTENANT !!!|EH, VOUS ÊTES SOURDS OU QUOI !!?? RAMENEZ-VOUS ENFOIRÉS, MAINTENANT !!!</r>
+      <r p='lp5'>Epargne ton souffle, grand garçon, personne n'arrive.</r>
+      <r p='slaver2'>C'est quoi ce couinement en bas ? T'es qui, une puce ?</r>
+      <r p='lp5'>Ton gang n'est plus, et tes captifs sont libérés. Un dernier mot ?</r>
+      <r p='slaver2' m='1'>Je vais t'écraser avec mon sabot gauche, petite salope. C'en est fini de toi.| Je vais t'écraser avec mon sabot gauche, demi-portion. C'en est fini de toi.</r>
     </n>
   </txt>
   <txt id="slNote1" imp="2" v="0.7">
     <n>
-      <t v="0.8">Sharp Shooter`s note</t>
-      <r mod='1' m='1'>Butch! You son of a bitch! Not only do you not follow my orders, but you also run away so I can`t kick your ass in person? Remember, if I find out that you once again ignore your duties, this operation will be your last in my squad!
-Did I order you to start looking? I did, even you bitch can`t deny it. You were instructed to get your guys and personally scout the square 15:28 for the entrance to the Stable. It was to be done yesterday! And what the fuck you`ve been doing all that time? Just siting, drinking and scratching balls?
-Your last chance: tonight you need to take a dozen of your bastards and execute my order to find the house of that sugary bitch with PipBuck, which your guys found a week ago. There might be a bunker just a couple of miles underground filled to the brim with the finest meat, and we can not miss it. Do you understand, Butch? We Can Not!
-If I come back from the Stable 88, and you are still here - I`LL KICK YOUR ASS OFF!
-And yes: if I find out that you`ve told guys the real purpose of this little walk, I`ll cut your tongue myself.
-Sharp Shooter|Butch! You bastard! Not only do you not follow my orders, but you also run away so I can`t kick your ass in person? Remember, if I find out that you once again ignore your duties, this operation will be your last in my squad!
-Did I order you to start looking? I did, even you can`t deny it. You were instructed to get your guys and personally scout the square 15:28 for the entrance to the Stable. It was to be done yesterday! And what the hay you`ve been doing all that time? Just siting, drinking and scratching balls?
-Your last chance: tonight you need to take a dozen of your bastards and execute my order to find the house of that sugary lass with PipBuck, which your guys found a week ago. There might be a bunker just a couple of miles underground filled to the brim with the finest meat, and we can not miss it. Do you understand, Butch? We Can Not!
-If I come back from the Stable 88, and you are still here - I`LL KICK YOUR ASS OFF!
-And yes: if I find out that you`ve told guys the real purpose of this little walk, I`ll cut your tongue myself.
+      <t v="0.8">Note de Sharp Shooter</t>
+      <r mod='1' m='1'>Butch ! Fils de pute ! Non seulement ne tu suis pas mes ordres, mais en plus tu t'en vas comme ça je peux pas te sabotter le cul en personne ? Souviens-toi, si je te vois encore ignorer tes devoirs, cette opération sera ta dernière dans mon équipe !
+Est-ce que je t'ai donné l'ordre de commencer à chercher ? Je l'ai fait, même un p'tit con comme toi ne peut pas dire le contraire. T'as été donné l'instruction d'emmener tes hommes et d'aller personnellement en éclaireurs à la place 15:28 pour l'entrée de l'Etable. Ça devrait être fait depuis hier ! Et qu'est-ce que vous foutiez depuis ce temps ? Vous asseoir, boire et vous grattez les couilles ?
+C'est ta dernière chance : ce soir, tu vas avoir besoin de prendre une dizaine de tes salauds et d'exécuter mon ordre de trouver la maison de cette jolie salope avec un PipBuck, que tes gars avaient eux même trouvée il y a une semaine. Il doit y avoir un bunker juste quelques mètres plus bas rempli à ras bord de la viande la plus raffinée qui soit, et on ne peut pas louper ça. T'as compris, Butch ? On. Ne. Peut. Pas !
+Si quand je reviens de l'Etable 88, vous êtes encore là, JE VOUS SABOTTE LE CUL !
+Et oui : si je trouve que vous avez enoncé la vraie raison de ce petite promenade, je vous couperais la langue moi-même.
+Sharp Shooter|Butch ! Enfoiré ! Non seulement tu ne suis pas mes ordres, mais en plus tu t'en vas comme ça je peux pas te sabotter le cul en personne ? Souviens-toi, si je te vois encore ignorer tes devoirs, cette opération sera ta dernière dans mon équipe !
+Est-ce que je t'ai donné l'ordre de commencer à chercher ? Je l'ai fait, même toi ne peut dire le contraire. T'as été donné l'instruction d'emmener tes hommes et d'aller personnellement en éclaireurs à la place 15:28 pour l'entrée de l'Etable. Ça devrait être fait depuis hier ! Et qu'est-ce que vous faisiez depuis ce temps ? Vous asseoir, boire et vous grattez les couilles ?
+C'est ta dernière chance : ce soir, tu vas avoir besoin de prendre une dizaine de tes salauds et d'exécuter mon ordre de trouver la maison de cette jolie petite fille avec un PipBuck, que tes gars avaient eux même trouvée il y a une semaine. Il doit y avoir un bunker juste quelques mètres plus bas rempli à ras bord de la viande la plus raffinée qui soit, et on ne peut pas louper ça. T'as compris, Butch ? On. Ne. Peut. Pas !
+Si quand je reviens de l'Etable 88, vous êtes encore là, JE VOUS SABOTTE LE CUL !
+Et oui : si je trouve que vous avez enoncé la vraie raison de ce petite promenade, je vous couperais la langue moi-même.
 Sharp Shooter</r>
     </n>
   </txt>
   <txt id="surfDialSewer" v="0.7">
     <n>
-      <r p="lp5">Light, water and fresh air!</r>
-      <r m="1" p="lp5" push="1">FUCK IT!|Sweet!</r>
+      <r p="lp5">De la lumière, de l'eau et de l'air frais !</r>
+      <r m="1" p="lp5" push="1">ENFIN PUTAIN !|Super !</r>
     </n>
   </txt>
   <txt id="surfDialNote" v="0.7">
     <n>
-      <r p="lp2">A note! Let`s see what`s in it?..</r>
-      <r p="lp2">Oh, no... Seems like these bastards captured the "Chosen-24"! We need to find her and save her as soon as possible</r>
-      <r p="lp5">Who is this Sharp Shooter, a local boss? Judging by the note, he is somewhere in Stable 88. Can`t wait to meet him!</r>
+      <r p="lp2">Une note ! Voyons voir ce qu'il y a dedans...</r>
+      <r p="lp2">Oh, non... On dirait que ces enfoirés ont capturés la "Chosen-24" ! On a besoin de la trouver et de la sauver le plus vite possible.</r>
+      <r p="lp5">Qui est ce Sharp Shooter, un boss local ? A en juger par la note, il serait quelque part vers l'Etable 88. Je suis impatiente de le rencontrer !</r>
     </n>
   </txt>
   <txt id="surfDialStop2" v="0.7">
     <n>
-      <r p="capt2">Stop! I do not know who you are, but do not go any further!</r>
-      <r p="lp2">Why? What is there?</r>
-      <r p="capt2">Not what, but who. Butch, head of the slavers. Huge as a buffalo, and ferocious like a manticore. If he sees you, you are dead!</r>
-      <r p="lp5">We`ll see! Don`t worry about me, let`s open your cage</r>
+      <r p="capt2">Stop ! Je ne sais pas qui vous êtes, mais n'allez pas plus loin !</r>
+      <r p="lp2">Pourquoi ? Qu'est-ce qu'il y a ?</r>
+      <r p="capt2">Pas quoi, mais qui. Butch, à la tête des esclavagistes. Grand comme un buffle, et féroce comme un manticore. Si il vous voit, vous êtes mort !</r>
+      <r p="lp5">On verra ! Ne t'inquiète pas pour moi, ouvrons ta cage d'abord.</r>
     </n>
   </txt>
   <txt id="surfDialStable" v="0.7">
     <n>
-      <r p="lp2">The door to Stable 88... What can I say, quite impressive</r>
+      <r p="lp2">La porte de l'Etable 88... Je dois dire qu'elle est plutôt impressionnante.</r>
     </n>
   </txt>
   <txt id="stableNextLevel" v="0.7">
     <n>
-      <r mod="1" p="term">You have reached the end of [the first level of the abandoned Stable]. Enter the [exit] door to go to [second level]. At deeper levels you will find more enemies, trials and rewards, and it will help you gain the necessary experience</r>
-      <r p="lp3">Hmm... so far I have not seen a place I`m looking for. I need to go into deeper levels</r>
+      <r mod="1" p="term">Vous avez atteint la fin du [premier niveau de l'Etable abandonnée]. Entrez dans la porte de [sortie] pour aller au [second niveau]. Dans les niveaux plus profonds, vous trouverez plus d'ennemis, épreuves et récompenses, ce qui vous aidera à gagner plus d'expérience nécessaire.</r>
+      <r p="lp3">Hmm... pour l'instant je n'ai pas vu d'endroit que je cherche. J'ai besoin d'aller dans des niveaux plus profonds.</r>
     </n>
   </txt>
   <txt id="stableNextLevel2" v="0.7">
@@ -8042,7 +8042,7 @@ Reactor core: 17.56% power.
 Central maneframe: operational.
 Security systems: active.
 Ultra-Sentinel: active</r>
-      <r p='term'>Attention!
+      <r p='term'>Attention !
 Leakage of radioactive materials from the reactor.
 Visiting the F-17 zone at this time is not recommended</r>
 </n>
@@ -8091,7 +8091,7 @@ Visiting the F-17 zone at this time is not recommended</r>
   </txt>
   <txt id="meetDial1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Unexpected meeting with Steel Rangers</t>
+      <t v="0.8">Rencontre imprévue avec les Rangers de l'Acier</t>
       <r p='ran1'>Hey, you!</r>
       <r p='lp2'>Easy now. I do not wish you any harm, er, metal ponies</r>
       <r p='ran1'>I will ask you questions, and you will answer them. Is this your sprite-bot?</r>
@@ -10334,7 +10334,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Retourner à l'Etable Pi</n>
   </txt>
   <txt id="storyRanger" v="0.7">
-    <n>Rangers d'Acier</n>
+    <n>ranger de l'Acier</n>
     <info>It seems that the Elder of the local Steel Rangers division conspires with zebras of the Legion and plans an attack on Stable Pi! You must take measures at once</info>
   </txt>
   <txt id="storyRanger1">
@@ -11714,7 +11714,7 @@ One more thing: please delete this message from your terminal as soon as you rea
   <txt id="termText14" v="0.7">
     <n>
       <r mod="1">Catégorie : Etables connues, brèves informations. Tri par ordre alphabétique des fichiers.
-Etable 0, Fillydelphia : non fonctionnel. Sous le contrôle des Rangers d'Acier de la Division Fillydelphia;
+Etable 0, Fillydelphia : non fonctionnel. Sous le contrôle des ranger de l'Acier de la Division Fillydelphia;
 Etable 1, Canterlot : inconnu. Probablement pillé;
 Etable 2, Ponyville : fermé. Presumably extinct;
 Etable 3, Zebratown : non fonctionnel. Pillé;
