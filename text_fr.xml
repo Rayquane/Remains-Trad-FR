@@ -1,5 +1,5 @@
 <all>
-  <lang id="def">Français</lang>
+  <lang id="fr">Français</lang>
   <unit id="littlepip">
     <n>Littlepip</n>
   </unit>
@@ -644,7 +644,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Piège</n>
   </unit>
   <unit id="trigcans" v="0.6">
-    <n>Can trail alarm</n>
+    <n>Carillon en boîtes de conserve</n>
   </unit>
   <unit id="trigridge" v="0.6">
     <n>Fil à détente</n>
@@ -744,11 +744,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="mach">
     <n>Machette</n>
-    <info>A huge broad blade from Zebra Empire. Useful for chopping through dense vegetation or slicing and dicing enemies</info>
+    <info>Une grande et large lame de l'Empire des Zèbres. Utile pour couper de la végétation dense ou trancher et découper des ennemis.</info>
   </weapon>
   <weapon id="mach^1">
     <n>"L'Appel de la Jungle"</n>
-    <info>A heavy machete, decorated with ornament and encrusted with nephrite</info>
+    <info>Une lourde machette, décorée d'un ornement et d'un néphrite encrusté.</info>
   </weapon>
   <weapon id="pipe">
     <n>Barre en plomb</n>
@@ -1119,7 +1119,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Do not even ask why ponies might need hunting rifles. Just a good and accurate weapon, besides consuming a common ammo type</info>
   </weapon>
   <weapon id="winchester">
-    <n>Fusil à répétition de cow-poney</n>
+    <n>Fusil à répétition de cow-pony</n>
     <info>A lever-action rifle, slightly primitive perhaps, but accurate and reliable. It was quite popular before the War among civilians of Equestria, regarded as an outstanding self-defense weapon</info>
   </weapon>
   <weapon id="winchester^1">
@@ -1585,8 +1585,8 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Un vêtement commun porté par tous les habitants d'Etables.</info>
   </armor>
   <armor id="kombu">
-    <n>Strengthened jumpsuit</n>
-    <info>Stable jumpsuit strengthened with armor plates. It gives little protection, but it`s better than nothing</info>
+    <n>Combinaison renforcée</n>
+    <info>Une combinaison d'Etable renforcée avec des plaques de blindage. Cela donne un petit peu de protection, mais c'est mieux que rien.</info>
   </armor>
   <armor id="antirad">
     <n>Combinaison anti-radiations</n>
@@ -1724,10 +1724,10 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Plan pour l'épée faite-sabot</n>
   </item>
   <item id="s_arson">
-    <n>Schematics for the "Igniter"</n>
+    <n>Plan pour l'"Igniter"</n>
   </item>
   <item id="s_dartgun">
-    <n>Schematics for the "Dart gun"</n>
+    <n>Plan pour le "Dart gun"</n>
   </item>
   <item id="s_acidgun">
     <n>Schematics for the acid gun</n>
@@ -1742,13 +1742,13 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <n>Schematics for a railway rifle</n>
   </item>
   <item id="s_bfg">
-    <n>Plan pour le "Big Frickin Gun"</n>
+    <n>Plan pour le "Gros fichu flingue"</n>
   </item>
   <item id="dinamit">
     <n>Dynamite</n>
   </item>
   <item id="s_hgren">
-    <n>Plan pour une grande faite-sabot</n>
+    <n>Plan pour une grenade faite-sabot</n>
   </item>
   <item id="s_acidgr">
     <n>Recette pour une bombe acide</n>
@@ -7732,17 +7732,17 @@ Vous recevrez le prochain message le moment venu. N'oubliez pas que votre tâche
   <txt id="plantNextLevel" v="0.7">
     <n>
       <r mod="1" p="term">Toutes nos félicitations ! Vous avez terminé [le premier niveau de l'usine]. Pour aller au [deuxième niveau], passez la porte sur votre droite. À chaque niveau suivant, de nouvelles épreuves, de nouveaux ennemis et de nouvelles récompenses vous attendent !
-Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp de base pour soigner et réapprovisionner en fournitures</r>
-      <r p="lp3">Aha, voyons voir... ça ressemble au plan général de l'usine... .</r>
+Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp de base pour soigner et réapprovisionner en fournitures.</r>
+      <r p="lp3">Aha, voyons voir... Ça ressemble au plan général de l'usine...</r>
       <r p="lp3" push="1">Maintenant, je suis au premier niveau. Ci-dessous se trouvent les deuxième, troisième et... bien d'autres.</r>
-      <r p="lp3" push="1">Le terminal d'ordinateur central que je recherche est dans le Département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité </r>
+      <r p="lp3" push="1">Le terminal d'ordinateur central que je recherche est dans le Département de recherche spécial. Ses entrées sont trois niveau plus bas. Je dois aller plus loin. Oui, et il semble que pour y entrer j'aurai besoin d'une clé d'accès de sécurité.</r>
       <r p="lp3">Ouais, cette usine est vraiment énorme. Si je voulais, je pourrais l'explorer pour toujours...</r>
     </n>
   </txt>
   <txt id="plantNio" v="0.7">
     <n>
       <r p="lp2">Il semblerait que je sois sur la bonne voie. Le Département de recherche spécial est dans le couloir.</r>
-      <r mod="1" p="term">Allez tout droit dans le couloir pour entrer dans le [Département de recherche spécial] et remplissez votre mission. Ou entrez par la porte [Sortie] pour continuer à explorer un nouveau niveau d'usine. Vous pouvez revenir ici lorsque vous êtes prêt </r>
+      <r mod="1" p="term">Allez tout droit dans le couloir pour entrer dans le [Département de recherche spécial] et remplissez votre mission. Ou entrez par la porte [Sortie] pour continuer à explorer un nouveau niveau d'usine. Vous pouvez revenir ici lorsque vous êtes prêt.</r>
     </n>
   </txt>
   <txt id="nioDial1" v="0.7">
@@ -8018,8 +8018,8 @@ Sharp Shooter</r>
 - Not here.
 - No…
 - Aha, there!</r>
-      <r p='lp5' m='1'>Son of a bitch...|Darn bastard...</r>  
-      <r p='lp4'>She escaped! Holly Celestia, she escaped!</r>
+      <r p='lp5' m='1'>Fils de pute...|Enfoiré...</r>  
+      <r p='lp4'>Elle s'est échappée ! Sainte Celestia, elle s'est échappée !</r>
     </n>
   </txt>
   <txt id="slNote2" imp="2" v="0.7">
