@@ -752,27 +752,27 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="pipe">
     <n>Barre en plomb</n>
-    <info>A heavy pipe with a massive nut on one side. Those who meet this in a battle quickly learn to keep away</info>
+    <info>Une barre lourde avec un gros écrou sur un côté. Ceux qui rencontrent ceci dans un combat apprenent rapidement à s'éloigner.</info>
   </weapon>
   <weapon id="ripper">
     <n>Eventreur</n>
-    <info>Electrical saw, working on batteries. Can cut relatively fragile materials, including bones and skulls. Way less effective against metal</info>
+    <info>Scie électrique, marchant aux batteries. Peut couper des matériaux relativement fragiles, incluant les os et les crânes. Beaucoup moins efficace contre le métal.</info>
   </weapon>
   <weapon id="ripper^1" v="0.7">
     <n>Scie de poney</n>
-    <info>A unique modified ripper. Unlike the common one, this has teeth of special steel, which makes it easy to cut through not that strong armor</info>
+    <info>Un éventreur modifié unique. À la différence de l'éventreur commun, celui-ci a des dents d'acier spécial, rendant facile le découpage d'une armure pas si solide.</info>
   </weapon>
   <weapon id="autoaxe">
     <n>Auto-hache</n>
-    <info>Spinning edges of this tool are enchanted so that it can easily cut all sorts of metal garbage. Quite as easily it cuts metal armor, with its owner inside. Consumes Spark-batteries</info>
+    <info>Les bords tournants de cet outil sont enchantés pour pouvoir couper facilement toute sorte de déchet en métal. Cela coupe facilement les armures en métal, avec son propriétaire à l'intérieur. Consomme des Spark-batteries.</info>
   </weapon>
   <weapon id="bsaw">
     <n>Tronçonneuse</n>
-    <info>Once it was used to cut down trees, now, as there are no trees left, one can use it to cut enemies to pieces. Magically-enhanced teeth can handle even the sturdiest material. Consumes Spark-batteries</info>
+    <info>Autrefois utilisé pour couper des arbres, mais maintenant qu'il n'y en a plus, on l'utilise pour découper les ennemis en morceaux. Ses dents magiquement renforcées peuvent gérer le plus solide des matériaux. Consomme des Spark-batteries.</info>
   </weapon>
   <weapon id="shovel">
     <n>Pelle</n>
-    <info>Once it was an instrument for earthwork, but sharpened edge converted it into a weapon</info>
+    <info>Autrefois utilisé comme outil pour travailler la terre, mais ses bords tranchants l'ont converti en arme.</info>
   </weapon>
   <weapon id="mace">
     <n>Masse</n>
