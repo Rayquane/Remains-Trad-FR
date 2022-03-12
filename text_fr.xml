@@ -295,12 +295,12 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
     <info>Les zèbres nécromanciens sont de puissants ensorceleurs, en aucun cas inférieurs aux meilleurs magiciens unicornes. Mais, contrairement à eux, les nécromanciens ne comptent plus sur les sorts d'attaques, mais plutôt sur les sorts obscurs et les invocations de diverses créatures et d'esprits.</info>
   </unit>
   <unit id="ranger" v="0.7">
-    <n>Rangers de l'Acier</n>
-    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger de l'Acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des Rangers de l'Acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
+    <n>Rangers d'Acier</n>
+    <info>Une des factions post-guerre les plus importantes d'Equestria. Ranger d'Acier - Une organisation militaire fermée, constituée de poneys terrestres et de licornes, proclamant son objectif de trouver et de préserver la technologie d'avant-guerre. Ils sont caractérisés par l'agressivité, l'intolérance envers les étrangers et une attitude généralement méprisante envers les autres habitants des Terres Désolées, qu'ils appellent simplement « sauvages ». Ils possèdent de nombreuses technologies rares, ne respectent pas les armes plus petites qu'un minigun et sont particulièrement célèbres pour leur armure assistée - l'héritage du ministère de la Technologie de guerre. Armure puissante, armes puissantes, robots de combat et morale perverse à peine mieux que les pillards - tout cela fait des Rangers d'Acier l'un des adversaires les plus dangereux que vous ayez à affronter.</info>
   </unit>
   <unit id="ranger1" v="0.7">
     <n>Chevalier</n>
-    <info>Les Chevaliers sont la force principale des Rangers de l'Acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
+    <info>Les Chevaliers sont la force principale des Rangers d'Acier, le rang le plus bas de leur hiérarchie militaire. Ils sont organisés en divisions commandées par des croisés ou en d'importantes formations.</info>
   </unit>
   <unit id="ranger2" v="0.7">
     <n>Croisé</n>
@@ -308,7 +308,7 @@ Les pillards sont souvent en groupes, voire dans de grands gangs dirigés par de
   </unit>
   <unit id="ranger3" v="0.7">
     <n>Paladin</n>
-    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre Rangers de l'Acier. Ils signalent directement aux paladins seniors.</info>
+    <info>Les Paladins sont des officiers subalternes, commandant de grandes divisions de trente-quatre Rangers d'Acier. Ils signalent directement aux paladins seniors.</info>
   </unit>
   <unit id="encl" v="0.8">
     <n>Grande Enclave des Pégases</n>
@@ -590,7 +590,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="gutsy1" v="0.7">
     <n>Mr. Vigilant</n>
-    <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers de l'Acier, équippée d'armes plus sophistiquées.</info>
+    <info>Une version modifiée du "Mr. Gutsy" pour les besoin des Rangers d'Acier, équippée d'armes plus sophistiquées.</info>
   </unit>
   <unit id="sentinel">
     <n>Robot-sentinelle</n>
@@ -602,7 +602,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </unit>
   <unit id="bossdron" v="0.7">
     <n>Bombardier</n>
-    <info>Un drone de combat de très grande taille, un vrai tank volant. Protège habituellement les bâtiments les plus importants appartenant aux ranger de l'Acier.</info>
+    <info>Un drone de combat de très grande taille, un vrai tank volant. Protège habituellement les bâtiments les plus importants appartenant aux ranger d'Acier.</info>
   </unit>
   <unit id="smallrobot" v="0.6">
     <n>Petits robots</n>
@@ -2661,12 +2661,12 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>A very useful tool for sharpening weapons. Just always carry it with you and it will increase damage of your piercing and cutting weapons by #1</info>
   </item>
   <item id="binoc" v="0.7">
-    <n>Binoculars</n>
-    <info>Old binoculars with scratched lenses, a gift from Calamity</info>
+    <n>Jumelles</n>
+    <info>Vieilles jumelles avec des lentilles rayées, un cadeau de Calamity.</info>
   </item>
   <item id="empbomb" v="0.7">
     <n>Bombe à impulsion</n>
-    <info>Aide à rentrer dans le bunker des ranger de l'Acier. Usage unique.</info>
+    <info>Aide à rentrer dans le bunker des Rangers d'Acier. Usage unique.</info>
   </item>
   <item id="card0" v="0.7">
     <n>Carte de tarot "Le Fou"</n>
@@ -2769,7 +2769,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>The key belonging to the necromancer zebra Mchawi</info>
   </item>
   <item id="key_ranger" v="0.7">
-    <n>Clé des ranger de l'Acier</n>
+    <n>Clé des ranger d'Acier</n>
     <info>The key that was kept by Elder Coldsight</info>
   </item>
   <item id="key_tumba" v="0.6">
@@ -3115,8 +3115,8 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>An element of high capacitance, capable of producing high discharge</info>
   </item>
   <item id="bdpass" v="0.6">
-    <n>Passwords database</n>
-    <info>A memory module containing 300,000 most used passwords. It can be used to create a device that would help hacking terminals</info>
+    <n>Stockage de mots de passe</n>
+    <info>Un module de mémoire contenant plus de 300 000 des mots de passe les plus utilisés. Il peut être utilisé afin de créer un appareil pouvant aider à pirater des terminaux.</info>
   </item>
   <item id="fan" v="0.6">
     <n>Ventilateur</n>
@@ -3124,11 +3124,11 @@ Having the book with you, you get some protection from black magic, as well as a
   </item>
   <item id="lamp" v="0.6">
     <n>Lampe</n>
-    <info>Une ville lampe de bureau, abimée depuis longtemps et non-fonctionnel.</info>
+    <info>Une vieille lampe de bureau, abimée depuis longtemps et non-fonctionnel.</info>
   </item>
   <item id="kofe" v="0.6">
     <n>Machine à café</n>
-    <info>Une ville machine à café, abimée depuis longtemps et non-fonctionnel.</info>
+    <info>Une vieille machine à café, abimée depuis longtemps et non-fonctionnel.</info>
   </item>
   <item id="elcomp">
     <n>Electronic elements</n>
@@ -3414,10 +3414,10 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Casiers</n>
   </obj>
   <obj id="tumba1">
-    <n>Nightstand</n>
+    <n>Tale de chevet</n>
   </obj>
   <obj id="tumba2">
-    <n>Metal nightstand</n>
+    <n>Table de chevet en métal</n>
   </obj>
   <obj id="ccup">
     <n>Table de cuisine</n>
@@ -3611,7 +3611,7 @@ Having the book with you, you get some protection from black magic, as well as a
   <obj id="tomb" v="0.8">
     <n>Tombe</n>
   </obj>
-  <!--Skills-->
+  <!--Skills/Compétences-->
   <eff id="tele" v="0.7">
     <n>Télékinésie</n>
     <info>La compétence "Télékinésie" représente votre abilité à déplacer divers objets avec de la magie, et peut aussi servir de soutien pour sauter.[br]- A chaque point investi, la consommation de pouvoir magique pour la télékinésie et le double saut diminue.[br]- A chaque montée de niveau, votre pouvoir télékinésique augmente, vous permettant de déplacer des objets plus lourds et les ennemis auront plus de difficulté à échapper à votre prise télékinésique.</info>
@@ -3622,43 +3622,43 @@ Having the book with you, you get some protection from black magic, as well as a
   </eff>
   <eff id="smallguns">
     <n>Armes à feu</n>
-    <info>La compétence "Firearms" determines your ability to handle pistols, rifles, shotguns and, a minigun. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
+    <info>La compétence "Armes à feu" détermine votre abilité à manier les pistolets, les fusils, les fusils à pompe et le minigun. [br]- Chaque point investi augmente les dégâts et la précision de ces armes par #1.[br]- Chaque niveau de compétence permet d'utiliser des armes plus avancées. Un niveau de compétence insuffisant vous fera rater votre cible plus souvent.</info>
   </eff>
   <eff id="energy">
     <n>Armes à énergie</n>
-    <info>La compétence "Energy weapons" determines your ability to handle different laser, plasma or pulse weapons and a flamethrower. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
+    <info>La compétence "Armes à énergie" determines your ability to handle different laser, plasma or pulse weapons and a flamethrower. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
   </eff>
   <eff id="explosives">
     <n>Explosifs</n>
-    <info>La compétence "Explosives" determines your ability to work with everything that is capable of exploding. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
+    <info>La compétence "Explosifs" determines your ability to work with everything that is capable of exploding. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
   </eff>
   <eff id="magic">
     <n>Magie</n>
-    <info>La compétence "Magic" determines your knowledge of magical arts, directly affecting power of your spells, both offensive and defensive. [br]- Each invested skill point increases damage of your offensive spells by #1, and defensive - by #2.[br]- Each skill level decreases cooldown time for all spells</info>
+    <info>La compétence "Magie" determines your knowledge of magical arts, directly affecting power of your spells, both offensive and defensive. [br]- Each invested skill point increases damage of your offensive spells by #1, and defensive - by #2.[br]- Each skill level decreases cooldown time for all spells</info>
   </eff>
   <eff id="repair">
     <n>Réparation</n>
-    <info>La compétence "Repair" helps you keeping your weapons and armor in good condition, and using mechanisms of all sorts. [br]- Each invested skill point increases the effectiveness of repairs by #1 (with base value of #2) and increases damage for the crafted weapon by #3.[br]- Each skill level enables you creating advanced weapons, also repairing or shutting down more complex mechanisms</info>
+    <info>La compétence "Réparation" helps you keeping your weapons and armor in good condition, and using mechanisms of all sorts. [br]- Each invested skill point increases the effectiveness of repairs by #1 (with base value of #2) and increases damage for the crafted weapon by #3.[br]- Each skill level enables you creating advanced weapons, also repairing or shutting down more complex mechanisms</info>
   </eff>
   <eff id="medic">
     <n>Médecine</n>
-    <info>La compétence "Medicine" directly affects your health and ability to heal yourself without medic`s help. [br]- Each invested skill point increases the effectiveness of healing potions and other medication by #1 (with base value of #2).[br]- Each skill level increases your maximal health and enables you to operate special medical instrumentation</info>
+    <info>La compétence "Médecine" directly affects your health and ability to heal yourself without medic`s help. [br]- Each invested skill point increases the effectiveness of healing potions and other medication by #1 (with base value of #2).[br]- Each skill level increases your maximal health and enables you to operate special medical instrumentation</info>
   </eff>
   <eff id="lockpick">
     <n>Crochetage</n>
-    <info>La compétence "Lockpicking" allows you to open mechanical locks. [br]- Each invested skill point increases probability to open a lock and decreases chance of jamming. [br]- Each skill level allows you to pick locks of more sophisticated design</info>
+    <info>La compétence "Crochetage" allows you to open mechanical locks. [br]- Each invested skill point increases probability to open a lock and decreases chance of jamming. [br]- Each skill level allows you to pick locks of more sophisticated design</info>
   </eff>
   <eff id="science">
     <n>Sciences</n>
-    <info>La compétence "Science" represents your knowledge in different scientific fields, particularly those about electronics and information technology. [br]- Each invested skill point increases the chance of successful hacking of electronic locks and protected terminals.[br]- Each skill level enables you breaking through more advanced defense systems, and using additional PipBuck features by applying special extension modules</info>
+    <info>La compétence "Sciences" represents your knowledge in different scientific fields, particularly those about electronics and information technology. [br]- Each invested skill point increases the chance of successful hacking of electronic locks and protected terminals.[br]- Each skill level enables you breaking through more advanced defense systems, and using additional PipBuck features by applying special extension modules</info>
   </eff>
   <eff id="sneak">
     <n>Discrétion</n>
-    <info>La compétence "Sneak" allows you to move unnoticed by enemies or to attack them from ambush, suddenly and deadly. [br]- Each invested skill point makes you harder to be noticed or heard. [br]- With each skill level a chance to deal critical damage to an enemy who hasn`t seen you is increased by #1. It also helps you to shut down alarm systems</info>
+    <info>La compétence "Discrétion" allows you to move unnoticed by enemies or to attack them from ambush, suddenly and deadly. [br]- Each invested skill point makes you harder to be noticed or heard. [br]- With each skill level a chance to deal critical damage to an enemy who hasn`t seen you is increased by #1. It also helps you to shut down alarm systems</info>
   </eff>
   <eff id="barter">
     <n>Discours</n>
-    <info>La compétence "Barter" helps you to negotiate with all sorts of merchants in the Wasteland to get better goods and services for a lower price. [br]- Each invested skill point decreases prices for purchasing and repairs by #1. [br]- Each skill level expands the selection of merchants` goods and allows you to access some exclusive deals, that can`t be found anywhere else</info>
+    <info>La compétence "Discours" helps you to negotiate with all sorts of merchants in the Wasteland to get better goods and services for a lower price. [br]- Each invested skill point decreases prices for purchasing and repairs by #1. [br]- Each skill level expands the selection of merchants` goods and allows you to access some exclusive deals, that can`t be found anywhere else</info>
   </eff>
   <eff id="survival">
     <n>Survie</n>
@@ -3666,15 +3666,15 @@ Having the book with you, you get some protection from black magic, as well as a
   </eff>
   <eff id="attack" v="0.7">
     <n>Attaque</n>
-    <info>With each level of this skill the damage of any weapon is increased by #1</info>
+    <info>À chaque niveau de cette compétence, les dégâts de n'importe quelle arme est augmentée de #1.</info>
   </eff>
   <eff id="defense" v="0.71">
     <n>Défense</n>
-    <info>With each level your resistance to any damage increases by #1</info>
+    <info>À chaque niveau de cette compétence, votre résistance aux dégâts est augmentée de #1.</info>
   </eff>
   <eff id="knowl" v="0.7">
     <n>Connaissances</n>
-    <info>With each level of this skill, you gain an additional ability for each level up</info>
+    <info>À chaque niveau de cette compétence, vous obtenez une aptitude additionnelle à chaque montée de niveau.</info>
   </eff>
   <eff id="alicorn" v="0.8">
     <n>Armure d'Alicorne</n>
@@ -3707,11 +3707,11 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Défense active</n>
     <info>The inner lining of the Alicorn Armor is made of the "smart" plastic that is normally elastic but instantly hardens when damaged. Resistance to any external damage depends on the "Barter" skill level</info>
   </eff>
-  <!--Perks you can learn-->
+  <!--Perks you can learn/Aptitudes que vous pouvez apprendre-->
   <eff id="selflevit" s1="keyJump" s2="keyBeUp" s3="keyLeft" s4="keySit" s5="keyRight" v="0.7">
     <n>Auto-lévitation</n>
-    <info>You can levitate yourself using magical power. To do this, press and hold @1 while being in the air. Press the @2@3@4@5 movement keys to move sideways, down or up. Moving upwards consumes more magical power.
-At the second level of this ability the consumption of magic will decrease, and the time and range of flight increase</info>
+    <info>Vous pouvez léviter vous-même en utilisant de la puissance magique. Pour ce faire, appuyez et maintenez @1 pendant que vous êtes dans les airs. Appuyez sur les touches de direction @2@3@4@5 pour vous déplacer en haut, en bas ou sur les côtés. Vous déplacer vers le haut consomme plus d'énergie magique.
+Au second niveau de cette capacité, la consommation de magie diminue, et le temps et la portée de vol augmente.</info>
   </eff>
   <eff id="jump">
     <n>Sauteur</n>
@@ -3719,31 +3719,31 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="lightstep" v="0.7">
     <n>Pied léger</n>
-    <info>You are always watchful and careful. You never activate a trap or a pressure plate, and enemy mines are triggered with a delay</info>
+    <info>Vous êtes toujours vigilant et prudent. Vous n'activez jamais un piège ou une plaque de pression, et les mines ennemies s'activent avec un délai.</info>
   </eff>
   <eff id="babah">
     <n>Fan d'explosions</n>
-    <info>Even though you like to explode stuff, you don`t forget about safety. Any explosion causes you less damage</info>
+    <info>Même si vous aimez exploser des trucs, vous n'oubliez pas la sécurité. N'importe quelle explosion vous cause moins de dégâts.</info>
   </eff>
   <eff id="antifire">
     <n>Ignifuge</n>
-    <info>Fire inflicts less damage to you. Also decreases a chance for you to be set on fire</info>
+    <info>Le feu vous inflige moins de dégâts. Cela diminue aussi vos chances d'être brûlé.</info>
   </eff>
   <eff id="dexter">
     <n>Esquiveur de balles</n>
-    <info>Enemies will have a hard time trying to hit you. You evasion bonus increased</info>
+    <info>Les ennemis vont passer un sale quart d'heure à essayer de vous toucher. Votre bonus d'évasion augmente.</info>
   </eff>
   <eff id="oak">
     <n>Peau de fer</n>
-    <info>Trainings with melee weapons gave great results. Now you are harder to get wounded with sharp items. Resistance to cutting damage increased</info>
+    <info>Les entraînements aux armes de corps-à-corps ont donné d'excellents résultats. Vous êtes maintenant moins susceptible d'être blessé par des objets tranchants. La résistance aux dégâts tranchants est augmentée.</info>
   </eff>
   <eff id="stonewall">
     <n>Mur de pierre</n>
-    <info>You got so used to being hit with heavy stuff, now it just tickles. Resistance to blunt weapons increased</info>
+    <info>Vous vous êtes tellement habitué à être frappé par des trucs lourds, que maintenant cela vous chatouille. La résistance aux armes contondantes est augmentée.</info>
   </eff>
   <eff id="reinforced">
     <n>Peau blindée</n>
-    <info>You lost count of bullets being shot at you. This made you tougher, your bullet resistance is permanently increased</info>
+    <info>Vous avez perdu le compte des balles tirées sur vous. Cela vous a rendu plus robuste, augmentant alors en permanence votre résistance aux balles.</info>
   </eff>
   <eff id="bigsize">
     <n>C'est la taille qui compte</n>
@@ -3751,15 +3751,15 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="fastreload">
     <n>Rechargement rapide</n>
-    <info>You reload weapons twice quicker than before. It is a great advantage - less chance to get killed while you desperately try to reload</info>
+    <info>Vous rechargez les armes deux fois plus vite qu'avant. C'est un gros avantage, moins de chances d'être tué pendant que vous êtes en train d'essayer de recharger désespérément.</info>
   </eff>
   <eff id="fortune">
     <n>Chasseur de trésors</n>
-    <info>You have a habit of searching through every trash can on your way, hence you always find more caps and pre-War bits</info>
+    <info>Vous avez une habitude à aller chercher dans chaque poubelle que vus voyez, ce qui fait que vous trouvez plus de capsules et de pièces d'avant-guerre.</info>
   </eff>
   <eff id="infiltrator">
     <n>Infiltrateur</n>
-    <info>You learned to be more careful when picking locks. In case of failure, pin break twice less often, and lock is damaged #1 less</info>
+    <info>Vous avez appris à être plus prudent lors d'un crochetage de verrou. En cas d'échec, l'épingle casse deux fois moins, et le verrou est cassé de #1 de moins.</info>
   </eff>
   <eff id="coolhacker">
     <n>Le pirate cool</n>
@@ -3767,27 +3767,27 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="metabol">
     <n>Métabolisme rapide</n>
-    <info>Your body adsorbs and converts chemicals much faster than average, therefore healing potions become #1 more effective and restore health #2 times faster</info>
+    <info>Votre corps absorbe et convertit les produits chimiques bien plus rapidement que la moyenne, ce qui fait que les potions de soin deviennent #1 fois plus efficaces et restaure de la vie #2 fois plus vite.</info>
   </eff>
   <eff id="action">
     <n>Poney d'action</n>
-    <info>You never stay put, always rushing somewhere. You get #1 action points extra (to #2 initial points) in S.A.T.S. for every level of this ability</info>
+    <info>Vous ne restez jamais sur place et vous vous précipitez toujours quelque part. Vous obtenez #1 points d'action en plus (à #2 points initiaux) dans le S.A.T.S. à chaque niveau de cette aptitude.</info>
   </eff>
   <eff id="entomolog">
     <n>Entomologiste</n>
-    <info>You always showed interest to insects, spiders, and other arthropods, and you learned their weaknesses. You cause #1 more damage to radscorpions, radroaches, bloatsprites and similar creatures</info>
+    <info>Vous avez toujours montré de l'intérêt pour les insectes, les araignées et autres arthropodes, et vous avez appris leurs faiblesses. Vous infligez #1 de dégâts en plus aux radscorpions, aux radcafards, aux bouffisprites et aux créatures similaires.</info>
   </eff>
   <eff id="anatomy">
     <n>Anatomie militaire</n>
-    <info>You know pony anatomy so well, that you always aim at vital organs. You cause #1 more damage to raiders and other equine enemies</info>
+    <info>Vous connaissez si bien l'anatomie d'un poney que vous visez toujours les organes vitaux. Vous infligez #1 dégâts de plus aux pillards et aux autres équidés ennemis.</info>
   </eff>
   <eff id="robot">
-    <n>Applied robotics</n>
-    <info>You know schematics for any robot by heart, and always aim at their weak points. You cause #1 more damage to robots and turrets</info>
+    <n>Robotques appliquées</n>
+    <info>Vous connaissez par coeur le fonctionnement des robots, et visez toujours leurs points faibles. Vous infligez #1 dégâts de plus aux robots et aux tourelles.</info>
   </eff>
   <eff id="purifier">
-    <n>Purifier</n>
-    <info>You believe that the Wasteland must be cleansed of monsters and mutated beasts. You cause #1 more damage to feral ghouls and mutants</info>
+    <n>Purificateur</n>
+    <info>Vous croyez que les Terres Désolées doivent être nettoyées des monstres et autres bêtes mutantes. Vous infligez #1 dégâts en plus aux goules sauvages et aux mutants.</info>
   </eff>
   <eff id="rungun">
     <n>Run and Gun</n>
@@ -3915,7 +3915,7 @@ At the second level of this ability the consumption of magic will decrease, and 
   </eff>
   <eff id="warlock" v="0.6">
     <n>Mage de combat</n>
-    <info>You are so used to using attack magic in battles, that it almost does not tire you. With each level of this ability, you spend less magical energy on combat spells</info>
+    <info>Vous êtes tellement habitué à utiliser des attaques magiques en combat que cela ne vous presque fatigue pas. A chaque niveau de cette capacité, vous utiliser moins d'énergie magique dans les sorts de combat.</info>
   </eff>
   <eff id="friendly" v="0.6">
     <n>L'ami du feu</n>
@@ -7190,7 +7190,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="src" v="0.7">
     <n>Usine de traitement de l'eau</n>
-    <info>Un petit bâtiment où un camp temporaire a été organisé par les ranger de l'Acier sous le commandement de SteelHooves</info>
+    <info>Un petit bâtiment où un camp temporaire a été organisé par les ranger d'Acier sous le commandement de SteelHooves</info>
   </map>
   <map id="minst" v="0.7">
     <n>Ministère de l'Image</n>
@@ -7198,7 +7198,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="bunker" v="0.7">
     <n>Bunker</n>
-    <info>Un bunker de stockage appartenant aux ranger de l'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
+    <info>Un bunker de stockage appartenant aux ranger d'Acier. Mieux protégé que n'importe quel lieu dans la région. Ce serais de la folie d'essayer de rentrer dedans</info>
   </map>
   <map id="sttech" v="0.7">
     <n>Bureau Stable-Tec, entrée de service</n>
@@ -8091,7 +8091,7 @@ Visiting the F-17 zone at this time is not recommended</r>
   </txt>
   <txt id="meetDial1" imp="1" v="0.7">
     <n>
-      <t v="0.8">Rencontre imprévue avec les Rangers de l'Acier</t>
+      <t v="0.8">Rencontre imprévue avec les Rangers d'Acier</t>
       <r p='ran1'>Hey, you!</r>
       <r p='lp2'>Easy now. I do not wish you any harm, er, metal ponies</r>
       <r p='ran1'>I will ask you questions, and you will answer them. Is this your sprite-bot?</r>
@@ -10334,7 +10334,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Retourner à l'Etable Pi</n>
   </txt>
   <txt id="storyRanger" v="0.7">
-    <n>ranger de l'Acier</n>
+    <n>ranger d'Acier</n>
     <info>It seems that the Elder of the local Steel Rangers division conspires with zebras of the Legion and plans an attack on Stable Pi! You must take measures at once</info>
   </txt>
   <txt id="storyRanger1">
@@ -11714,7 +11714,7 @@ One more thing: please delete this message from your terminal as soon as you rea
   <txt id="termText14" v="0.7">
     <n>
       <r mod="1">Catégorie : Etables connues, brèves informations. Tri par ordre alphabétique des fichiers.
-Etable 0, Fillydelphia : non fonctionnel. Sous le contrôle des ranger de l'Acier de la Division Fillydelphia;
+Etable 0, Fillydelphia : non fonctionnel. Sous le contrôle des ranger d'Acier de la Division Fillydelphia;
 Etable 1, Canterlot : inconnu. Probablement pillé;
 Etable 2, Ponyville : fermé. Presumably extinct;
 Etable 3, Zebratown : non fonctionnel. Pillé;
