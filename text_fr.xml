@@ -7774,8 +7774,8 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='lp2'>C'etait vraiment nécessaire?</r>
       <r p='main'>Malheureusement oui. Nous avons beaucoup d'ennemis. Lorsque vous aurez terminé la mission et que vous reviendrez, je supprimerai le sort et les souvenirs vous reviendront. Mais pas avant. Vous avez vous-même accepté de telles conditions, n'est-ce pas ? </r>
       <r p='lp1'>Oui, j'ai entendu l'enregistrement. Mais cela ne facilite pas les choses !</r>
-      <r p='main'>Je comprends... mais je sais que tu réussiras</r>
-      <r p='lp1'>Mais peux-tu au moins me dire quelque chose sur le but de ma mission ? </r>
+      <r p='main'>Je comprends... mais je sais que tu réussiras.</r>
+      <r p='lp1'>Mais peux-tu au moins me dire quelque chose sur l'objectif de ma mission ?</r>
       <r p='main'>C'est la principale raison pour laquelle nous parlons en ce moment. Bien avant la fin de la guerre, Stable Pi était un refuge secret pour les scientifiques et les ingénieurs impliqués dans les études les plus importantes pour l'armée d'Equestria. Après la chute des bombes, nous sommes passés à une existence complètement autonome. L'ensemble du complexe Stable est profondément souterrain et vous ne trouverez l'entrée sur aucune carte. Le secret est très important pour nous. Nous ne sommes pas des guerriers, nous ne pouvons pas protéger nos précieuses connaissances de la cupidité des habitants des Terres Désolés. Par conséquent, nous ne contactons presque jamais le monde extérieur </r>
       <r p='lp1'>Je vois. Mais pourquoi aviez-vous besoin de m'envoyer à la surface ? </r>
       <r p='main'>L'un des derniers développements de Stable Pi avant le jour du jugement était le projet "Sun". Je ne peux rien vous dire à ce sujet, mais c'est extrêmement important non seulement pour notre petite société, mais pour l'ensemble d'Equestria. Malheureusement, à ce moment-là, le projet n'était pas terminé, car il était étroitement lié à un autre développement important - en même temps, les travaux sur le projet "Rainbow" étaient menés en parallèle dans les laboratoires ManeTec. Selon nos informations, ce deuxième projet était terminé, et l'ensemble des schémas et documentations techniques devait nous être transmis. Mais pour une raison quelconque, cela ne s'est jamais produit. Les lignes de communication avec leur maneframe ont survécu, mais le serveur n'a pas répondu à nos tentatives pour le faire fonctionner à distance </r>
@@ -7787,7 +7787,7 @@ Vous pouvez également utiliser le [terminal MAS] pour vous téléporter au camp
       <r p='lp2'>J'ai plein de questions, en fait. Que diriez-vous... </r>
       <r p='main'>Le transfert de fichiers est terminé. Connexion fermée </r>
       <r p='lp5'>Bon sang !</r>
-      <r p='lp1'>Ça veut dire que je suis coincé ici depuis longtemps ? Et en plus, je dois encore risquer ma vie ? </r>
+      <r p='lp1'>Ça veut dire que je suis coincé ici depuis longtemps ? Et en plus, je dois encore risquer ma vie ?</r>
       <r p='lp3'>Mais "moi" du passé était confiante dans l'importance de cette mission. Suis-je alors au courant de ma future mission ? Que je devrais rester ici si longtemps ? </r>
       <r p='lp1'>Pourtant, même si je ne l'ai pas fait, cela ne veut pas dire que je dois tout abandonner. La tâche qui m'est confiée est extrêmement importante, et cela signifie que je dois la remplir. D'une façon ou d'une autre </r>
     </n>
@@ -7964,7 +7964,7 @@ Sharp Shooter</r>
   <txt id="surfDialNote" v="0.7">
     <n>
       <r p="lp2">Une note ! Voyons voir ce qu'il y a dedans...</r>
-      <r p="lp2">Oh, non... On dirait que ces enfoirés ont capturés la "Chosen-24" ! On a besoin de la trouver et de la sauver le plus vite possible.</r>
+      <r p="lp2">Oh, non... On dirait que ces enfoirés ont capturé la "Chosen-24" ! On a besoin de la trouver et de la sauver le plus vite possible.</r>
       <r p="lp5">Qui est ce Sharp Shooter, un boss local ? A en juger par la note, il serait quelque part vers l'Etable 88. Je suis impatiente de le rencontrer !</r>
     </n>
   </txt>
@@ -7989,48 +7989,48 @@ Sharp Shooter</r>
   </txt>
   <txt id="stableNextLevel2" v="0.7">
     <n>
-      <r p="lp3">This corridor to the right... As far as I know a plan of a typical Stable, it leads to the Stable Core and the central server. Perhaps the Quantum Cogitator is there?</r>
-      <r mod="1" p="term">Go along the corridor to the right to get to [Stable Core]. Or enter the [Exit] door to continue exploring the new Stable level</r>
+      <r p="lp3">Ce couloir à droite... De tout ce que je sais de l'architecture d'une Etable typique, cela mène au Coeur de l'Etable et au serveur central. Peut-être que le Cogitator Quantum se trouve là ?</r>
+      <r mod="1" p="term">Continuez vers le couloir à droite pour arriver au [Coeur de l'Etable]. Ou entrez par la porte de [sortie] pour continuer à explorer le nouveau niveau d'Etable.</r>
     </n>
   </txt>
   <txt id="stableDialSlavers" imp="1" v="0.7">
     <n>
-      <t v="0.8">Slavers` conversation about a robot</t>
-      <r p='slaver3'>Report</r>
-      <r p='slaver1' m='1'>Err... Boss! There`s not way to get in while this fucking robot is sitting there!|Err... Boss! There`s no way to get in while this fricking robot is sitting there!</r>
-      <r p='slaver3'>Whose problem is this? Mine? I gave the order, it means that the passage must be clear. You were taught dealing with robots</r>
-      <r p='slaver1'>But, ehem... Boss! This is not just any robot! He killed five of ours within seconds!</r>
-      <r p='slaver3' m='1'>I DON`T GIVE A FUCK! YOUR TASK IS TO DO AS I ORDER, AND IF I ORDER YOU TO KILL YOURSELF, YOU GO AND KILL YOURSELF! YOU MUST HAVE CLEARED THIS SECTOR THREE FUCKING DAYS AGO! DO YOU UNDERSTAND WHAT IT MEANS? IT MEANS THAT IF AFTER ONE HOUR I COME BACK AND DON`T SEE THIS ROBOT FUCKING BLOWN TO PEACES, I WILL SHOOT YOU! DO YOU UNDERSTAND, SUCKER?! DO! YOU! UNDERSTAND?!|I DON`T CARE! YOUR TASK IS TO DO AS I ORDER, AND IF I ORDER YOU TO KILL YOURSELF, YOU GO AND KILL YOURSELF! YOU MUST HAVE CLEARED THIS SECTOR THREE FRICKING DAYS AGO! DO YOU UNDERSTAND WHAT IT MEANS? IT MEANS THAT IF AFTER ONE HOUR I COME BACK AND DON`T SEE THIS ROBOT BLOWN TO PEACES, I WILL SHOOT YOU! DO YOU UNDERSTAND, MAGGOT?! DO! YOU! UNDERSTAND?!</r>
-      <r p='slaver1'>Got it, boss! Err... We`ll do it right now! Could we, you know... take impulse grenades?</r>
-      <r p='slaver3' m='1'>Take everything you need. An hour later this robot must not be there anymore, I don`t care how you do it, you understand? I`m so fucking tired of you morons...|Take everything you need. An hour later this robot must not be there anymore, I don`t care how you do it, you understand? I`m so tired of you morons...</r>
+      <t v="0.8">Conversation d'esclavagistes à propos d'un robot</t>
+      <r p='slaver3'>Rapport</r>
+      <r p='slaver1' m='1'>Euh... Boss ! Y a aucun moyen d'y aller tant que ce putain de robot est planté là !|Euh... Boss ! Y a aucun moyen d'y aller tant que ce foutu robot est planté là !</r>
+      <r p='slaver3'>C'est le problème de qui ? Le mien ? J'ai donné l'ordre, et ça veut dire que le passage doit être libre. On t'as appris à faire face aux robots.</r>
+      <r p='slaver1'>Mais, hum... Boss ! Ce n'est pas n'importe quel robot ! Il a tué 5 des nôtres en quelques secondes !</r>
+      <r p='slaver3' m='1'>J'EN AI RIEN À FOUTRE ! TA TÂCHE C'EST DE FAIRE COMME JE L'ORDONNE, ET SI JE T'ORDONNE DE TE TUER, TU Y VAS ET TU TE TUES ! TU DEVAIS AVOIR NETTOYÉ CE SECTEUR IL Y A TROIS PUTAIN DE JOURS ! TU COMPRENDS CE QUE ÇA VEUT DIRE ? ÇA VEUT DIRE QUE SI DANS UNE HEURE, JE REVIENS ET JE VOIS PAS CE ROBOT RÉDUIT EN PUTAIN DE MIETTES, JE VAIS TE TIRER DESSUS ! TU AS COMPRIS, ENCULÉ ?! TU ! AS ! COMPRIS ?!|J'EN AI RIEN À FAIRE ! TA TÂCHE C'EST DE FAIRE COMME JE L'ORDONNE, ET SI JE T'ORDONNE DE TE TUER, TU Y VAS ET TU TE TUES ! YOU MUST HAVE CLEARED THIS SECTOR THREE FRICKING DAYS AGO! DO YOU UNDERSTAND WHAT IT MEANS? IT MEANS THAT IF AFTER ONE HOUR I COME BACK AND DON`T SEE THIS ROBOT BLOWN TO PEACES, I WILL SHOOT YOU! DO YOU UNDERSTAND, MAGGOT?! DO! YOU! UNDERSTAND?!</r>
+      <r p='slaver1'>Compris, boss ! Euh... On va le faire tout de suite ! Peut-on, vous savez... prendre des grenades à impulsion ?</r>
+      <r p='slaver3' m='1'>Prenez tout ce dont vous avez besoin. Dans une heure ce robot ne doit plus être là, je me fiche de comment vous le faites, compris ? Je suis putain de fatigué des imbéciles que vous êtes...|Take everything you need. An hour later this robot must not be there anymore, I don`t care how you do it, you understand? I`m so tired of you morons...</r>
       <r p='lp2'>…</r>
-      <r p='lp2'>They can`t get through here? Perhaps this is the place I was looking for. And this must be Sharp Shooter. Now, let`s have a chat with him...</r>
-      <r p='lp2'>Still… what robot they were talking about?</r>
+      <r p='lp2'>Ils ne peuvent pas passer par là ? Peut-être que c'est le lieu que je recherchais. Et cela doit être Sharp Shooter. Maintenant, allons discuter avec lui...</r>
+      <r p='lp2'>Par contre... de quel robot parlaient-ils ?</r>
     </n>
   </txt>
   <txt id="stableDialNote2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Notes found on the body of the slavers` chief</t>
-      <r p='lp5'>Oh, damn it, he`s dead! How can I learn about other "Chosen" now?</r>
-      <r p='lp2'>Wait, what is this? Some kind of notes. Let`s see</r>
-      <r p='lp3'>Just rubbish here. Let`s read further:
-- Day five. Nothing.
-- Not here.
-- No…
-- Aha, there!</r>
-      <r p='lp5' m='1'>Fils de pute...|Enfoiré...</r>  
+      <t v="0.8">Notes trouvées sur le corps d'un des chef des esclavagistes</t>
+      <r p='lp5'>Oh mince, il est mort ! Comment je vais en apprendre plus sur l'autre "Chosen" maintenant ?</r>
+      <r p='lp2'>Attends, qu'est-ce que c'est ça ? Une sorte de notes. Voyons voir.</r>
+      <r p='lp3'>C'est illisible ici. Lisons après :
+- Jour cinq. Rien.
+- Pas ici.
+- Non...
+- Haha, ici !</r>
+      <r p='lp5' m='1'>Fils de pute...|Enfoiré...</r>
       <r p='lp4'>Elle s'est échappée ! Sainte Celestia, elle s'est échappée !</r>
     </n>
   </txt>
   <txt id="slNote2" imp="2" v="0.7">
     <n>
-      <t v="0.8">Sharp Shooter`s diary</t>
+      <t v="0.8">Journal de Sharp Shooter</t>
       <r mod='1' m='1'>So, only a few hours passed after our conversation, and our glorious, shining, Hope of all Ponies, our Saviour, fuck-his-ass Red Eye has already got rid of me. Send to clear the old Stable? Seriously, bitch? Perhaps I should take a shovel myself, shouldn`t I, our dearest Rebuilder? I have never met such a vengeful bastard in my life. All right, fuck it. At least I`ll have some rest, while my guys have fun shooting at the tins|So, only a few hours passed after our conversation, and our glorious, shining, Hope of all Ponies, our Saviour, kiss-his-flank Red Eye has already got rid of me. Send to clear the old Stable? Seriously? Perhaps I should take a shovel myself, shouldn`t I, our dearest Rebuilder? I have never met such a vengeful bastard in my life. All right, screw it. Perhaps I`ll finally have some rest, while my guys have fun shooting at the tins</r>
-      <r mod='1'>Day 1. My detachment gathered at dawn and went out through the northern gate. When I passed under the arch, I heard sentries giggling from the tower. These freaks lost all fear and continued laughing about my quarrel with the "red-eyed", even when I looked in their direction. I shot both of them, because you don`t mess with me. If anyone asks, I say that was for disrespecting the leader</r>
-      <r mod='1'>Day 21. The usual routine was interrupted with the arrival of the Butch`s gang. The detachment was sent to prepare maps of underground sewers, and during that task they came across a lone unicorn, playing with some corpse in a dark corner. But this is not the main thing. The thing is that she has a PipBuck. Guards who caught her sincerely believe that this is a scribe of the Steel Rangers. I won`t make them doubt their beliefs, but my experience says something completely different. The Steel Rangers would never have sent out a lone unarmed scribe. In this world, there are only three types of ponies that have access to such rarities as PipBuck: Steel Rangers, elite Red Eye guards and habitants of the still closed Stables. The latter are so rare that many believe there are no functioning Stables at all, but our captive clearly does not belong to the first two categories. Nooo, she`s from a Stable! If so, then, it seems, I am the luckiest bastard from here to Canterlot itself. This little chick looks like she`s just out of a test tube, and she certainly won`t last long in our world. So her house must be very close. If I find an untouched Stable full of residents... this will be the biggest prize in my life!</r>
-      <r mod='1'>Day 22. Yesterday I gave my guest a day to wrack her brain and tell me where her home is. Today the time is out, but she is deaf to the voice of reason. She claims that she "does not remember" this. Hah! Unfortunately, today she didn`t say anything important. We will continue our conversation tomorrow. But dear goddess, how sweetly she shouts under the blows of a whip...</r>
-      <r mod='1'>Day 25. The prisoner is still silent. Choking in tears, assuring that she remembers nothing, but does not crack. Well, I`ll give her that, in her Stable they really know how to teach keeping their mouth shut. I`ll have to start searching myself. The problem is that among Butches guys there must be at least a pair of spies from my competitors. As soon as they find out that we have found a Stable, they run off the very same evening and report to their masters. Hence, we will support the myth of the Steel-ass`s scribe. I`ll put my most reliable guys at the head of the search teams, only they will know the real purpose of the search</r>
-      <r mod='1' m='1'>Day 26. Escape of slaves. A newbie guards fell asleep at the post, and several fuckers escaped, including our tough chick. No longer I can hope learning about the Stable entrance from the first hooves. Both of the suckers were hanged at dawn, but what does it matter now? Now we have to rely only on luck and thorough search|Day 26. Escape of slaves. A newbie guards fell asleep at the post, and several captives escaped, including our tough chick. No longer I can hope learning about the Stable entrance from the first hooves. Both of the idiots were hanged at dawn, but what does it matter now? Now we have to rely only on luck and thorough search</r>
+      <r mod='1'>Jour 1. My detachment gathered at dawn and went out through the northern gate. When I passed under the arch, I heard sentries giggling from the tower. These freaks lost all fear and continued laughing about my quarrel with the "red-eyed", even when I looked in their direction. I shot both of them, because you don`t mess with me. If anyone asks, I say that was for disrespecting the leader</r>
+      <r mod='1'>Jour 21. The usual routine was interrupted with the arrival of the Butch`s gang. The detachment was sent to prepare maps of underground sewers, and during that task they came across a lone unicorn, playing with some corpse in a dark corner. But this is not the main thing. The thing is that she has a PipBuck. Guards who caught her sincerely believe that this is a scribe of the Steel Rangers. I won`t make them doubt their beliefs, but my experience says something completely different. The Steel Rangers would never have sent out a lone unarmed scribe. In this world, there are only three types of ponies that have access to such rarities as PipBuck: Steel Rangers, elite Red Eye guards and habitants of the still closed Stables. The latter are so rare that many believe there are no functioning Stables at all, but our captive clearly does not belong to the first two categories. Nooo, she`s from a Stable! If so, then, it seems, I am the luckiest bastard from here to Canterlot itself. This little chick looks like she`s just out of a test tube, and she certainly won`t last long in our world. So her house must be very close. If I find an untouched Stable full of residents... this will be the biggest prize in my life!</r>
+      <r mod='1'>Jour 22. Yesterday I gave my guest a day to wrack her brain and tell me where her home is. Today the time is out, but she is deaf to the voice of reason. She claims that she "does not remember" this. Hah! Unfortunately, today she didn`t say anything important. We will continue our conversation tomorrow. But dear goddess, how sweetly she shouts under the blows of a whip...</r>
+      <r mod='1'>Jour 25. The prisoner is still silent. Choking in tears, assuring that she remembers nothing, but does not crack. Well, I`ll give her that, in her Stable they really know how to teach keeping their mouth shut. I`ll have to start searching myself. The problem is that among Butches guys there must be at least a pair of spies from my competitors. As soon as they find out that we have found a Stable, they run off the very same evening and report to their masters. Hence, we will support the myth of the Steel-ass`s scribe. I`ll put my most reliable guys at the head of the search teams, only they will know the real purpose of the search</r>
+      <r mod='1' m='1'>Jour 26. Escape of slaves. A newbie guards fell asleep at the post, and several fuckers escaped, including our tough chick. No longer I can hope learning about the Stable entrance from the first hooves. Both of the suckers were hanged at dawn, but what does it matter now? Now we have to rely only on luck and thorough search|Day 26. Escape of slaves. A newbie guards fell asleep at the post, and several captives escaped, including our tough chick. No longer I can hope learning about the Stable entrance from the first hooves. Both of the idiots were hanged at dawn, but what does it matter now? Now we have to rely only on luck and thorough search</r>
     </n>
   </txt>
   <txt id="coreDialOpen" imp="1" v="0.7">
@@ -8092,29 +8092,29 @@ Visiting the F-17 zone at this time is not recommended</r>
   <txt id="meetDial1" imp="1" v="0.7">
     <n>
       <t v="0.8">Rencontre imprévue avec les Rangers d'Acier</t>
-      <r p='ran1'>Hey, you!</r>
-      <r p='lp2'>Easy now. I do not wish you any harm, er, metal ponies</r>
-      <r p='ran1'>I will ask you questions, and you will answer them. Is this your sprite-bot?</r>
-      <r p='lp2'>What? What do you mean?</r>
-      <r p='ran1'>I asked you a question. We have a sprite-bot here in front of us. Is it yours?</r>
-      <r p='lp2'>You are mistaken. I do not own any sprite bots</r>
-      <r p='ran2'>Hold on, Rose. It seems that we have a misunderstanding</r>
-      <r p='ran2'>Excuse my friend, little one. She did not mean to scare you</r>
-      <r p='ran1'>What was that, Diamond?</r>
-      <r p='ran2'>Be quiet</r>
-      <r p='ran2' push='1'>Tell me, dear, where did you get this thing on your leg?</r>
-      <r p='lp5'>Stop talking to me like this. And this "thing" belongs to me</r>
-      <r p='ran2'>Sorry, little one, but you`re wrong. The fact is that such technologies are a legacy of ancient times. And we are Steel Rangers, a brotherhood whose duty is to preserve these technologies. Therefore, we, unfortunately, do not have the moral right to leave such an item in danger</r>
-      <r p='ran2'>Besides, you`re not here by chance, are you? When we found this bot, it just hovered in one place, hiding in the bushes. Unusual behavior for a thoughtless machine, is it not? All the more unusual is that this robot tried to escape the very moment it spotted us. Somepony controlled this bot, and it was going to meet here with a certain pony, who was by chance passing by this abandoned, uninteresting place at this right moment. Do you understand what I mean, girl?</r>
-      <r p='ran1'>In short - you are going with us. Now.</r>
-      <r p='ran2'>Why so rude? Darling, once again please forgive rude Rose. We are not your enemies. But we must take you to our home, where you will give us your PipBuck and tell us where you got it from and who controlled the sprite-bot. This way you will do everypony great favor, I assure you! And for this, we will treat you well and give you supplies for the journey. Deal?</r>
-      <r p='lp5'>I`d say this was the most unusual attempt to rob me as long as I can remember. No, I`m not going anywhere with you, and I am not giving you my PipBuck. Do you understand?</r>
-      <r p='ran2'>Yes, wanderer. We understood</r>
+      <r p='ran1'>Eh, toi !</r>
+      <r p='lp2'>Doucement doucement. Je ne vous veux aucun mal, euh, poneys de métal.</r>
+      <r p='ran1'>Je vais vous poser des questions, et vous y répondrez. Est-ce votre sprite-bot ?</r>
+      <r p='lp2'>Hein ? Qu'est-ce que vous voulez dire ?</r>
+      <r p='ran1'>Je vous ai posé une question. Nous avons un sprite juste en face de nous. Est-il à vous ?</r>
+      <r p='lp2'>Vous vous trompez. Je ne possède aucun sprite-bot.</r>
+      <r p='ran2'>Attendez, Rose. Il semble qu'il y ai un malentendu.</r>
+      <r p='ran2'>Excuse mon amie, petite. Elle n'avait pas l'intention de te faire peur.</r>
+      <r p='ran1'>Qu'est-ce que tu dis, Diamond ?</r>
+      <r p='ran2'>Silence.</r>
+      <r p='ran2' push='1'>Dis-moi, ma chère, où as-tu obtenu cette chose à ta jambe ?</r>
+      <r p='lp5'>Arrêtez de me parler comme ça. Et cette "chose" m'appartient.</r>
+      <r p='ran2'>Désolée, petite, mais tu te trompes. Ce genre de technologie est un héritage des temps anciens. Et nous sommes les Rangers d'Acier, une confrérie dont le devoir est de préserver ces technologies. Par conséquent, nous n'avons, malheureusement, pas le droit moral de laisser un objet de tel importance en danger.</r>
+      <r p='ran2'>De plus, tu n'es pas là par chance, pas vrai ? Quand nous avons trouvé ce bot, il planait juste dans un lieu, se cachant dans les buissons. Un comportement peu commun pour une machine sans pensées, n'est-il pas ? Le plus inhabituel a été que ce robot nous a fui le moment où il nous a vu. Quelqu'un controllaît ce bot, et cela voudrait dire qu'on serait bien tombé sur un certain poney, qui par hasard serait passée par ce lieu abandonné et inintéressant à ce moment précis. Comprends-tu ce que je veux dire, ma fille ?</r>
+      <r p='ran1'>Pour faire simple : vous venez avec nous. Maintenant.</r>
+      <r p='ran2'>Pourquoi cette impolitesse ? Chérie, encore une fois pardonne la grossièreté de Rose. Nous ne sommes pas tes ennemis. Mais nous devons te ramener chez nous, là où tu nous donneras ton PipBuck et nous diras où l'as-tu trouvé et qui controllaît le sprite-bot. De cette façon, tu feras une grande faveur à tout le monde, je peux te l'assurer ! Et pour cela, nous te traiterons bien et te donnerons des fournitures pour le trajet. Marché conclu ?</r>
+      <r p='lp5'>Je dirais que c'était la façon la plus inhabituel de me voler à ce que je sache. Non, je n'irais nul part avec vous, et je ne vous donnerais pas mon PipBuck. Vous comprenez ?</r>
+      <r p='ran2'>Oui, vagabonde. Nous avons compris.</r>
     </n>
   </txt>
   <txt id="mercNote1" imp="2" v="0.7">
     <n>
-      <t v="0.8">A mercenary`s note</t>
+      <t v="0.8">Une note d'un mercenaire</t>
       <r mod='1' m='1'>Peck, this is Stinker. In short, here`s the situation. My group was reassigned to strengthen the main detachments of catchers, and the supervision of the territory was entrusted to you. There`s no time to look for you personally, so I leave you this note. You may think I`m fucking with you - you can leave everything, run to the headquarters and show her to Tweak, I`be happy to watch as he kicks your butt for "insubordination." I`m serious, buddy, no lies now.
 You were not at the briefing of the rear-guard commanders, so I`ll give you the short version. We do not really expect anyone, but just in case everypony should watch out for the Steel-asses. These shit-mashers got a habit of sending spies to the places of our operations. Personally I give them no shit, but this kind of surveillance makes the employers nervous. Therefore, it is ordered to shoot every bitch on sight. It is simple to tell one: these gear-fuckers never, under no circumstances refuse to let go of PipBucks. It contradicts their principles or something. So just tell your guys to make holes in everypony who has such a gadget on his leg. And do not kill anypony by mistake, the employer needs locals alive. The convoy will be sent to you from time to time to pick up those ponies that you catch on the perimeter, so you don`t have to separate the group. I hope your guys have eyes sharp enough not to confuse PipBucks with bandages? Haha!|Peck, this is Stinker. In short, here`s the situation. My group was reassigned to strengthen the main detachments of catchers, and the supervision of the territory was entrusted to you. There`s no time to look for you personally, so I leave you this note. You may think I`m joking with you - you can leave everything, run to the headquarters and show her to Tweak, I`be happy to watch as he kicks you up for "insubordination." I`m serious, buddy, no lies now.
 You were not at the briefing of the rear-guard commanders, so I`ll give you the short version. We do not really expect anyone, but just in case everypony should watch out for the Steel-flanks. Those mud-mashers got a habit of sending spies to the places of our operations. Personally I don`t mind them, but this kind of surveillance makes the employers nervous. Therefore, it is ordered to shoot every bastard on sight. It is simple to tell one: these gear-lovers never, under no circumstances refuse to let go of PipBucks. It contradicts their principles or something. So just tell your guys to make holes in everypony who has such a gadget on his leg. And do not kill anypony by mistake, the employer needs locals alive. The convoy will be sent to you from time to time to pick up those ponies that you catch on the perimeter, so you don`t have to separate the group. I hope your guys have eyes sharp enough not to confuse PipBucks with bandages? Haha!</r>
@@ -8122,15 +8122,15 @@ You were not at the briefing of the rear-guard commanders, so I`ll give you the 
   </txt>
   <txt id="maneNextLevel" imp="1" v="0.7">
     <n>
-      <t v="0.8">Observation of the Mainhatten Ruins</t>
-      <r p='lp1'>Here, a good place to look around</r>
-      <r>You take out binoculars and observe surroundings</r>
-      <r p='lp1'>There are only ruins everywhere... yeah, the War did not spare this place...</r>
-      <r p='lp2'>Stop!</r>
+      <t v="0.8">Observation des ruines de Manehattan</t>
+      <r p='lp1'>Là, une bonne place à observer.</r>
+      <r>Vous prenez vos jumelles et regardez les alentours.</r>
+      <r p='lp1'>Il n'y a que des ruines... ouais, la Guerre n'a pas épargné ce lieu...</r>
+      <r p='lp2'>Stop !</r>
       <r p='lp1'>A tall skyscraper with a large symbol of the Ministry of Arcane Sciences. Strongly damaged, but even now there are at least thirty floors left in it. Perhaps this is the scientific research institute of M.A.S. If there is a place to look for the Alicorn Amulet, it is there</r>
       <r p='lp1'>So, what is a better way to get there... There is no passage from below, everything is covered with debris... But the skyscraper is connected with a monorail road, and you can get there from the roof of a nearby building</r>
       <r p='lp2'>But what are these black specks around the institute? I don`t see. Let me zoom in...</r>
-      <r p='lp5' m='1'>Alicorns! Fuck them manticore! There`s a whole flock of them|Alicorns! Celestia darn them! There`s a whole flock of them</r>
+      <r p='lp5' m='1'>Des alicornes ! Fuck them manticore! There`s a whole flock of them|Alicorns! Celestia darn them! There`s a whole flock of them</r>
       <r p='lp3'>But why are there so many? Perhaps that means the Amulet is really there?</r>
     </n>
   </txt>
@@ -10468,7 +10468,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="tamePhoenix" v="0.6">
     <n>Être ami avec un phénix funeste</n>
-    <info>The balefire phoenix, it seems, is not afraid of you and does not show any aggression. Rumors say, these birds are unusually intelligent and, with proper care, can become loyal friends. Try to make friends with one</info>
+    <info>Il semblerait que le phénix funeste n'ai pas peur de vous et ne se motre pas agressif envers vous. Les rumeurs disent que ces oiseaux sont exceptionnellement intelligents et, avec un bon traitement, peuvent devenir des amis loyaux. Essayez d'être ami avec un phénix funeste.</info>
   </txt>
   <txt id="tamePhoenix1" v="0.6">
     <n>Offrir des cookies radioactifs :</n>
@@ -10479,55 +10479,55 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   <txt id="dialTamePhoenix" imp="1" v="0.6">
     <n>
       <t v="0.8">Phénix funeste</t>
-      <r p='phoenix'>*** balefire phoenix, turning its head, looks at you with one eye ***</r>
-      <r p='lp4'>You know ... you are the most beautiful creature I`ve ever met in my life</r>
-      <r p='phoenix'>*** the balefire phoenix looks very pleased, it ruffles feathers on its head and turns to show you first one side, then another ***</r>
-      <r p='lp2'>You... understand me?</r>
-      <r p='phoenix'>*** balefire phoenix nods, issuing a sound, apparently in confirmation. Then spreads its wings and issues a series of new melodic sounds ***</r>
-      <r p='lp4'>It`s so strange, but I feel as if I also understand you. You are saying you want to accompany me?</r>
-      <r p='phoenix'>*** The phoenix nods again, then takes off, getting ready to follow you ***</r>
+      <r p='phoenix'>*** le phénix funeste tourne sa tête, et vous regarde d'un oeil ***</r>
+      <r p='lp4'>Tu sais... tu es la plus belle créature que j'ai rencontré de toute ma vie.</r>
+      <r p='phoenix'>*** le phénix funeste semble content, il froisse ses plumes sur sa tête et se tourne pour vous montrer un côté, puis un autre ***</r>
+      <r p='lp2'>Tu... me comprends ?</r>
+      <r p='phoenix'>*** le phénix funeste hoche la tête, émet un son, apparemment de confirmation. Puis déploie ses ailes et exécute une série de nouveaux sons mélodieux ***</r>
+      <r p='lp4'>C'est étrange, mais j'ai l'impression de te comprendre aussi. Es-tu en train de me dire que tu veux m'accompagner ?</r>
+      <r p='phoenix'>*** le phénix hoche la tête une nouvelle fois, et s'envole, prêt à vous suivre ***</r>
     </n>
   </txt>
   <txt id="dialTakeWhistle" imp="2" v="0.6">
     <n>
-      <t v="0.8">A propos des compagnons</t>
-      <r p='lp4'>It might be dangerous, coming with me, but if you really want to travel together, then I won`t mind your company at all</r>
-      <r p='phoenix'>*** the balefire phoenix soars next to you, you feel the warmth radiating from it. Now you don`t feel so lonely ***</r>
-      <r mod='1'>[Balefire Phoenix] becomes your companion. He will follow you, helping in battle.
-          Balefire phoenix has fiery breath that burns through armor. It will attack those enemies it sees, and against which its weapons are effective. If it dies in battle, it will revive itself after some time with incomplete health.
-          [Radioactive cookies] heal it (can be used from inventory, like any other item), and it will also restore health each time you receive a dose of radiation</r>
-      <r mod='1' push='1' s1='keyPet'>To summon or dismiss a phoenix, use [whistle] from your inventory.
-          Use the companion communication key @1 to give commands. A single tap means a command to move to the specified point or attack the specified enemy. Holding the key you give a command to return back to you</r>
+      <t v="0.8">À propos des compagnons</t>
+      <r p='lp4'>Cela pourrait être dangereux, de venir avec moi, mais si tu veux vraiment qu'on voyage ensemble, je ne serais pas du tout dérangée.</r>
+      <r p='phoenix'>*** le phénix funeste vole à côté de vous. Vous sentez la chaleur émettant de lui. Maintenant, vous ne vous sentez plus aussi seul. ***</r>
+      <r mod='1'>Le [phénix funeste] est devenu votre compagnon. Il vous suivra, en vous aidant lors des combats.
+          Le phénix funeste possède un souffle enflammé brûlant à travers les armures. Il attaquera les ennemis qu'il voit, et contre ceux où ses armes sont efficaces. Si il meurt en combat, il revivra après un certain temps avec une vie incomplète.
+          Les [cookies radioactifs] peuvent le soigner (peuvent être utilisées depuis l'inventaire, comme n'importe quel objet), et cela restaurera de la vie à chaque fois que vous recevez une dose de radiation.</r>
+      <r mod='1' push='1' s1='keyPet'>Pour appeler ou renvoyer un phénix, utilisez [siffler] dans votre inventaire.
+          Utilisez la touche de communication de compagnon @1 pour donner des commandes. Un appui signifie une commande pour se déplacer vers l'endroit spécifié ou attaquer l'ennemi spécifié. En restant appuyé, vous donnez la commande de revenir vers vous.</r>
     </n>
   </txt>
   <txt id="dialSmoke" v="0.6">
     <n>
-      <r p="lp3">Perhaps I should try this?</r>
-      <r p="lp3">*** inhales ***</r>
-      <r p="lp2" push="1">Cough-cough ... Wow, what a junk! It seems, nothing happens</r>
-      <r p="lp2" push="1">I feel no...</r>
-      <r p="lp4" push="1">Ow...</r>
+      <r p="lp3">Peut-être que je devrais essayer ça ?</r>
+      <r p="lp3">*** aspire ***</r>
+      <r p="lp2" push="1">Kof-kof... Wow, quelle merde ! On dirait que rien ne se passe.</r>
+      <r p="lp2" push="1">Je ne sens ri...</r>
+      <r p="lp4" push="1">Oh...</r>
       <r p="lp6">O-o-oh...</r>
       <r p="lp6">A-a-ah...</r>
-      <r p="lp6">We-e-e...</r>
-      <r p="lp6">Everything around is sort of... flat...</r>
-      <r p="lp2">Oh, I think it`s over. Oh, no ... not just yet...</r>
-      <r p="lp2">Now, it`s back to normal. Yeah, well, it was weird...</r>
+      <r p="lp6">Oui-i-i...</r>
+      <r p="lp6">Tout a l'air... plat...</r>
+      <r p="lp2">Oh, je crois que c'est fini. Oh en fait, non... pas encore...</r>
+      <r p="lp2">Maintenant, tout est de retour à la normale. Ouais, et bien, c'était bizarre...</r>
     </n>
   </txt>
   <txt id="rblAutoDocR1" v="0.7">
     <n>
-      <r p="lp4">Soo... what do we have here?</r>
-      <r p="lp2">Hm....</r>
+      <r p="lp4">Alors... qu'est-ce qu'on a là ?</r>
+      <r p="lp2">Hmm...</r>
       <r p="lp3" push="1">Hmmmm....</r>
-      <r p="lp4">Well, what can I say? This thing is definitely broken. But I have no idea how to fix it...</r>
-      <r p="lp3">Yeah, in repairs I`m a complete zero. What I can, is only to break it down completely. I should at least read a book about it...</r>
+      <r p="lp4">Bon, qu'est-ce que je peux dire ? Ce truc est bien cassé. Mais je n'ai aucune idée de comment le réparer...</r>
+      <r p="lp3">Ouaip, en réparation, je suis à zéro. Tout ce que je pourrais faire serait de le casser complètement. Je devrais au moins lire un livre à propos de ça...</r>
     </n>
   </txt>
   <txt id="rblAutoDocR2" v="0.7">
     <n>
-      <r p="lp4">Let`s see... Yeah, this AutoDoc knew better times. Many parts clearly require replacement</r>
-      <r p="lp3">What about mechanics? The motor is useless... a broken spring... the seals dried up. This can be glued, and that fastened with tape...</r>
+      <r p="lp4">Voyons voir... Ouais, cet AutoDoc a connu mieux. Plusieurs parties ont besoin d'être remplacées.</r>
+      <r p="lp3">Et pour la mécanique ? Le moteur est inutile... un ressort cassé... the seals dried up. This can be glued, and that fastened with tape...</r>
       <r p="lp2">Electronic stuff also is a mess. The battery has expired, capacitors burned out, the processor should also be replaced</r>
       <r p="lp3">And what`s this, a diagnostic module? The ultrasound scanner needs to be changed, the old one is completely dead. The guide laser doesn`t work, magnetic clamps are non-functional</r>
       <r p="lp2">Weeell... quite some work we have here, so many things need replacement... It`s a miracle this device survived at all. I will make a list of necessary parts</r>
@@ -10535,7 +10535,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
 	- Wonderglue (3 pcs)
 	- Duct tape (3 pcs)
 	- Rubber band (2 pcs)
-	- Industrial battery (1 pc)
+	- Batterie insdustrielle (1 pc)
 	- Electric motor (1 pc)
 	- Spring (2 pcs)
 	- Capacitor (1 pc)
@@ -10687,7 +10687,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="collectPaintsA" v="0.6">
     <n>Obtenez de la peinture</n>
-    <info>I`m looking for sprays with paint of different colors. For a start, the common ones will do</info>
+    <info>Je cherche des sprays avec des peintures de différentes couleurs. Pour le début, les couleurs communes suffiront.</info>
   </txt>
   <txt id="collectPaintsA1" v="0.6">
     <n>Rouge</n>
@@ -10709,7 +10709,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="collectPaintsB" v="0.6">
     <n>Obtenez de la peinture - 2</n>
-    <info>Again I`m looking for paint sprays, but now I require more rare colors</info>
+    <info>Encore une fois, je cherche des sprays à peinture, mais maintenant j'ai besoin de couleurs plus rares.</info>
   </txt>
   <txt id="collectPaintsB1" v="0.6">
     <n>Gris</n>
@@ -10737,7 +10737,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="collectPaintsC" v="0.7">
     <n>Obtenez de la peinture - 3</n>
-    <info>Another hunt for paint. I need special colors, see the list attached. As usual - you bright paint, I pay caps, but this time the reward is bigger</info>
+    <info>Encore une chasse à la peinture. J'ai besoin de couleurs spéciales, regardez la liste. Comme d'habitude, vous apportez de la peinture, je vous paie en capsules, mais cette fois, la récompense est plus grande.</info>
   </txt>
   <txt id="collectPaintsC1" v="0.6">
     <n>Cyan</n>
@@ -10777,17 +10777,17 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     </n>
   </txt>
   <txt id="killBloats" v="0.6">
-    <n>Destroy bloatsprites` lair</n>
+    <n>Détruisez le repaire des bouffisprites</n>
     <info>Bloatsprites, that inhabit the ruins of the factory, recently started multiplying out of control. It`s time to end this! I`ll pay to anypony who finds a lair of bloatsprites and burns it once and for all</info>
   </txt>
   <txt id="killBloats1" v="0.6">
-    <n>Find a lair of bloatsprites</n>
+    <n>Trouvez un repaire de bouffisprites</n>
   </txt>
   <txt id="killBloats2" v="0.6">
-    <n>Destroy the nests</n>
+    <n>Détruisez les nids</n>
   </txt>
   <txt id="killBloats3" v="0.6">
-    <n>Get a reward from Brass Buckshot</n>
+    <n>Obtenez une récompense de Brass Buckshot</n>
   </txt>
   <txt id="collectFcrystal" v="0.6">
     <n>Find a new focusing crystal</n>
@@ -10857,17 +10857,17 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     </n>
   </txt>
   <txt id="killLucerne" v="0.6">
-    <n>Kill Lucerne</n>
+    <n>Tuez Lucerne</n>
     <info>Many of you probably remember a pony named Lucerne. Once she was a good, decent ghoul, but now, it seems, the process of decay finally reached her brain, and she turned into a feral. They say she was seen in the sewers, in a place called "Pit", in the company of a whole herd of other ferals. It would be nice if somepony decided to end her time on earth - in present state she poses a considerable danger for all of us</info>
   </txt>
   <txt id="killLucerne1" v="0.6">
-    <n>Kill Lucerne</n>
+    <n>Tuez Lucerne</n>
   </txt>
   <txt id="killLucerne2" v="0.6">
-    <n>Get a reward from Brass Buckshot</n>
+    <n>Obtenez une récompense de Brass Buckshot</n>
   </txt>
   <txt id="collectNitro" v="0.6">
-    <n>Help with dynamite production</n>
+    <n>Aidez dans la production de dynamites</n>
     <info>I gonna start producing dynamite. Folks, share if you have, or help me get the components</info>
   </txt>
   <txt id="collectNitro1" v="0.6">
@@ -10877,21 +10877,21 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     <n>Find a canister of glycerine</n>
   </txt>
   <txt id="collectNitro3" v="0.6">
-    <n>Give components to Smoky Pit and get a reward</n>
+    <n>Donnez les composants à Smoky Pit et obtenez une récompense</n>
   </txt>
   <txt id="killAnthills" v="0.6">
-    <n>Destroy the ant nests</n>
+    <n>Détruisez les nids de fourmis</n>
     <info m="1">I gonna say it again - those ants will soon become a pain in the ass for all of us. If you don`t give a shit, I myself gonna pay to anypony who finds and blows up all the fucking ant nests. You can get the dynamite from me|I gonna say it again - those ants will soon become a pain in the neck for all of us. If you don`t care, I myself gonna pay to anypony who finds and blows up all the fricking ant nests. You can get dynamite from me</info>
   </txt>
   <txt id="killAnthills1" v="0.6">
-    <n>Nests destroyed</n>
+    <n>Nids détruits</n>
   </txt>
   <txt id="killAnthills2" v="0.6">
-    <n>Get a reward from Smoky Pit</n>
+    <n>Obtenez une récompense de Smoky Pit</n>
   </txt>
   <txt id="vendor_expl_quest1" imp="1" v="0.6">
     <n>
-      <t v="0.8">Ants problem</t>
+      <t v="0.8">Problème de fourmis</t>
       <r p='ve' m='1'>In short, here`s a deal... Ants, huge like dogs, appeared at the factory. And the bitches are up to something, you see, they wanna dig a passage right here|In short, here`s a deal... Ants, huge like dogs, appeared at the factory. And the bastards are up to something, you see, they wanna dig a passage right here</r>
       <r p='lp1'>Are you afraid of ants?</r>
       <r p='ve'>You don`t know whatcha talking about, I give no shit for the common ants. But folks say, there are also those who spit fire, for reals! And here I have... Well, you`ve probably got the idea. Fire is not welcome here</r>
@@ -10903,26 +10903,26 @@ So we won`t bore you any longer so you could go on playing the game!</r>
     </n>
   </txt>
   <txt id="testCryo" v="0.6">
-    <n>Cryotechnology</n>
-    <info>A new type of explosives, coming soon! For reals! There is a tiny-winy thing left, just get them materials, get it together and test it in battle</info>
+    <n>Cryotechnologie</n>
+    <info>Un nouveau type d'explosifs, bientôt disponible ! For reals! There is a tiny-winy thing left, just get them materials, get it together and test it in battle</info>
   </txt>
   <txt id="testCryo1" v="0.6">
-    <n>Obtain cryo-cells from the laboratory in an abandoned stable</n>
+    <n>Obtenez des cryo-cellules dans le laboratoire d'une Etable abandonnée</n>
   </txt>
   <txt id="testCryo2" v="0.6">
-    <n>Create a cryogrenade</n>
+    <n>Créez une cryogrenade</n>
   </txt>
   <txt id="testCryo3" v="0.6">
-    <n>Create a cryomine</n>
+    <n>Créez une cryomine</n>
   </txt>
   <txt id="testCryo4" v="0.6">
-    <n>Destroy enemies with a cryogrenade</n>
+    <n>Eliminez des ennemis avec une cryogrenade</n>
   </txt>
   <txt id="testCryo5" v="0.6">
-    <n>Destroy enemies with a cryomine</n>
+    <n>Eliminez des ennemis avec une cryomine</n>
   </txt>
   <txt id="testCryo6" v="0.6">
-    <n>Report to Smoky Pit about test results</n>
+    <n>Faites un rapport à Smoky Pit à propos des résultats</n>
   </txt>
   <txt id="vendor_expl_quest2" imp="1" v="0.6">
     <n>
@@ -10939,7 +10939,7 @@ So we won`t bore you any longer so you could go on playing the game!</r>
   </txt>
   <txt id="vendor_expl_quest3" imp="1" v="0.6">
     <n>
-      <t v="0.8">Cryo-explosives</t>
+      <t v="0.8">Cryo-explosifs</t>
       <r p='lp4'>About that idea of yours on freezing explosives... The tests went successful, both grenades and mines explode as expected. All those getting into the explosion area instantly get covered in ice, and that doesn`t look very pleasant. And those that get deadly damage just crumble into pieces</r>
       <r p='ve'>Awesome! I bet my customers gonna like it. Excellent job, @lp. Here, I`ve got a couple of radio mines. A real hot stuff, no shit</r>
     </n>
