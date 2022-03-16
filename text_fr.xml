@@ -3143,7 +3143,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>A compact device for generating radio signals of certain frequency and amplitude</info>
   </item>
   <item id="uscan">
-    <n>Ultrasonic scanner</n>
+    <n>Scanner ultrasonique</n>
     <info>Device for scanning surroundings using ultrasonic signals</info>
   </item>
   <item id="tlaser">
@@ -3167,31 +3167,31 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>Full of very dangerous poison</info>
   </item>
   <item id="acidslime">
-    <n>Acidic goo</n>
-    <info>Can be obtained from acidic slime</info>
+    <n>Gelée acide</n>
+    <info>Peut être obtenue d'un slime acide</info>
   </item>
   <item id="ghoulblood">
-    <n>Ghoul`s blood</n>
+    <n>Sang de goule</n>
     <info>A muddy brownish liquid, that substitutes ghouls blood</info>
   </item>
   <item id="radslime">
-    <n>Radioactive goo</n>
+    <n>Gelée radioactive</n>
     <info>Glows in the dark with ominous poisonous-green light</info>
   </item>
   <item id="wingmembrane">
-    <n>Wing membrane</n>
+    <n>Membrane d'aile</n>
     <info>Wing membrane of a huge bloodwing</info>
   </item>
   <item id="vampfang">
-    <n>Vampire fang</n>
+    <n>Croc de vampire</n>
     <info>A fang of a bloodwing, containing liquid, preventing blood from coagulating</info>
   </item>
   <item id="bloatwing">
-    <n>Bloatsprite wing</n>
+    <n>Aile de bouffisprite</n>
     <info>Resembles an ordinary insect wing, but of enormous size</info>
   </item>
   <item id="bloateye">
-    <n>Bloatsprite eye</n>
+    <n>Oeil de bouffisprite</n>
     <info>Faceted eye, sparkling with all colors of the rainbow</info>
   </item>
   <item id="ratliver">
@@ -3227,7 +3227,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>Crystallized magical essence</info>
   </item>
   <item id="pinkslime" v="0.7">
-    <n>Pink slime</n>
+    <n>Slime rose</n>
     <info>Slime which absorbed the concentrated Pink cloud</info>
   </item>
   <item id="dsoul" v="0.7">
@@ -3275,7 +3275,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <info>It appears to be materialized dark magic</info>
   </item>
   <item id="impgr" v="0.7">
-    <n>Pulse grenade</n>
+    <n>Grenade à impulsion</n>
   </item>
   <item id="kogt" v="0.8">
     <n>Hellhound Claw</n>
@@ -3432,7 +3432,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Cuisinière</n>
   </obj>
   <obj id="couch">
-    <n>Couch</n>
+    <n>Canapé</n>
   </obj>
   <obj id="bed">
     <n>Lit</n>
@@ -3453,7 +3453,7 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Table en acier</n>
   </obj>
   <obj id="longtable" v="0.7">
-    <n>Long table</n>
+    <n>Table longue</n>
   </obj>
   <obj id="filecab">
     <n>Filing cabinet</n>
@@ -3555,10 +3555,10 @@ Having the book with you, you get some protection from black magic, as well as a
     <n>Champ de force</n>
   </obj>
   <obj id="hatch1">
-    <n>Trapdoor</n>
+    <n>Trappe</n>
   </obj>
   <obj id="hatch2">
-    <n>Iron trapdoor</n>
+    <n>Trappe en acier</n>
   </obj>
   <obj id="indoor1">
     <n>Porte en bois</n>
@@ -5697,7 +5697,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>Terminé</n>
   </pip>
   <pip id="ls3" v="0.7">
-    <n>Location level reached</n>
+    <n>Niveau de lieu atteint</n>
   </pip>
   <pip id="ls4" v="0.7">
     <n>Camp de base</n>
@@ -5824,7 +5824,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[clic] - réparer</n>
   </pip>
   <pip id="infotrade">
-    <n>[clic] - select 1 unit of product@[clic droit] - cancel selection@hold [shift] - select all</n>
+    <n>[clic] - sélectionner une unité@[clic droit] - annuler la sélection@maintenir [shift] - sélectionner tout</n>
   </pip>
   <pip id="infoskills">
     <n>[clic] - augmenter une compétence @[clic droit] - retour</n>
@@ -5836,7 +5836,7 @@ After a few years this entire area of ​​Equestria was almost completely devo
     <n>[clic] - sauvegarder</n>
   </pip>
   <pip id="infokeys">
-    <n>[clic] - reassign key</n>
+    <n>[clic] - réassigner une touche</n>
   </pip>
   <pip id="infotasks" v="0.6">
     <n>[clic] - choisir une quête</n>
@@ -5972,11 +5972,11 @@ You can go to any available location from the base camp using the wall map or th
 Remember, if you save the game while being in a generated location, then after loading you will find yourself in the base camp! Its current configuration will be lost, only the maximum level of location reached and the completed trials are saved</n>
   </pip>
   <pip id='helpSave' v='0.81'>
-   <n>You can save the game in slots (10 slots + autosave slot) or into a file.
-Saving the game to a file can be used to create backup copies of your saves or to transfer saves between different versions of the game. To save to a file use the [To file] button on the [Save] tab, and for loading use the [From file] button on the [Load] tab and select file location and name.
+   <n>Vous pouvez sauvegarder le jeu dans des slots (10 slots + slot automatique) ou dans un fichier.
+Sauvegarder la partie dans un fichier peut être utilisé pour créer une copie de vos sauvegardes ou pour les transférer entre différentes versions du jeu. Pour sauvegarder dans un fichier, utilisez le bouton [Sauv. fichier] dans l'onglet [Sauvegarder], et pour charger utilisez le bouton [Ouvrir un fichier] dans l'onglet [Charger] et sélectionnez l'emplacement et le nom du fichier.
 
-[Attention! Important!]
-Des programmes de nettoyage peuvent supprimer les sauvegardes des slots ! Si vous utilisez ce genre de programme, faites des sauvegardes du jeu en utilisant le boutton [To file].
+[Attention ! Important !]
+Des programmes de nettoyage peuvent supprimer les sauvegardes des slots ! Si vous utilisez ce genre de programme, faites des sauvegardes du jeu en utilisant le bouton [Sauv. fichier].
 Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement juste au cas-où.</n>
   </pip>
   <pip id="err_close" v="0.8">
@@ -6041,55 +6041,55 @@ Il est d'ailleurs recommandé de sauvegarder de cette manière périodiquement j
   </pip>
   <pip id="autotake" v="0.8">
     <n>Collecte automatique d'objets</n>
-    <info>Cliquez pour choisir quels objets devraient être collectés automatiquement</info>
+    <info>Cliquez pour choisir quels objets devraient être collectés automatiquement.</info>
   </pip>
   <pip id="vsWeaponNew" v="0.8">
     <n>Nouvelles armes</n>
-    <info>Collecte automatiquement les nouvelles armes si il y a des slots libres pour elles</info>
+    <info>Collecte automatiquement les nouvelles armes si il y a des slots libres pour elles.</info>
   </pip>
   <pip id="vsWeaponRep" v="0.8">
     <n>Armes pour réparer</n>
-    <info>Collecte automatiquement une arme si vous avez la même arme qui a besoin de réparation</info>
+    <info>Collecte automatiquement une arme si vous avez la même arme qui a besoin de réparation.</info>
   </pip>
   <pip id="vsAmmoAll" v="0.8">
     <n>Toutes les munitions</n>
-    <info>Collecte automatiquement toutes les munitions en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
+    <info>Collecte automatiquement toutes les munitions en sachant qu'il y a assez d'espace dans la section "Munitions".</info>
   </pip>
   <pip id="vsAmmoTek" v="0.8">
     <n>Munitions compatibles</n>
-    <info>Collecte automatiquement les munitions compatibles avec les armes que vous possédez en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
+    <info>Collecte automatiquement les munitions compatibles avec les armes que vous possédez en sachant qu'il y a assez d'espace dans la section "Munitions".</info>
   </pip>
   <pip id="vsExplAll" v="0.8">
     <n>Explosifs</n>
-    <info>Collecte automatiquement les grenades, les mines et les bombes en sachant qu'il y a assez d'espace dans la section "Munitions"</info>
+    <info>Collecte automatiquement les grenades, les mines et les bombes en sachant qu'il y a assez d'espace dans la section "Munitions".</info>
   </pip>
   <pip id="vsMedAll" v="0.8">
     <n>Médecine et potions</n>
-    <info>Collecte automatiquement toutes les potions et médicaments en sachant qu'il y a assez d'espace dans la section "Aides"</info>
+    <info>Collecte automatiquement toutes les potions et médicaments en sachant qu'il y a assez d'espace dans la section "Aides".</info>
   </pip>
   <pip id="vsHimAll" v="0.8">
     <n>Produits chimiques</n>
-    <info>Collecte automatiquement les produits chimiques en sachant qu'il y a assez d'espace dans la section "Aides"</info>
+    <info>Collecte automatiquement les produits chimiques en sachant qu'il y a assez d'espace dans la section "Aides".</info>
   </pip>
   <pip id="vsEqipAll" v="0.8">
     <n>Autres équipements</n>
-    <info>Collecte automatiquement les StealthBucks, les kits de réparation, des runes et des objets similaires en sachant qu'il y a assez d'espace dans la section "Aides"</info>
+    <info>Collecte automatiquement les StealthBucks, les kits de réparation, des runes et des objets similaires en sachant qu'il y a assez d'espace dans la section "Aides".</info>
   </pip>
   <pip id="vsStuffAll" v="0.8">
     <n>Tout les objets</n>
-    <info>Collecte automatiquement tous les objets qui ne sont ni de l'équipement, ni des munitions, en sachant qu'il y a assez d'espace dans la section "Objets"</info>
+    <info>Collecte automatiquement tous les objets qui ne sont ni de l'équipement, ni des munitions, en sachant qu'il y a assez d'espace dans la section "Objets".</info>
   </pip>
   <pip id="vsVal" v="0.8">
     <n>- Objets de valeur</n>
-    <info>Des gemmes, disques, livres d'avant-guerre - tout ce qui peut être vendu aux marchands</info>
+    <info>Des gemmes, disques, livres d'avant-guerre - tout ce qui peut être vendu aux marchands.</info>
   </pip>
   <pip id="vsBook" v="0.8">
     <n>- Capacités d'objets</n>
-    <info>Des livres éducatifs et orbes de mémoire</info>
+    <info>Des livres éducatifs et orbes de mémoire.</info>
   </pip>
   <pip id="vsFood" v="0.8">
     <n>- Nourriture</n>
-    <info>Tout type de nourriture et de breuvage</info>
+    <info>Tout type de nourriture et de breuvage.</info>
   </pip>
   <pip id="vsComp" v="0.8">
     <n>- Composants</n>
@@ -6945,14 +6945,14 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="random_plant">
     <n>Usine</n>
-    <info>A partly destroyed "ManeTec" factory complex, occupied by raiders. Apart from them you should watch out for automatic defense systems and occasional monsters</info>
+    <info>Une usine "ManeTec" en partie détruite, occupée par des pillards. Mise à part eux, vous devriez être vigilant des systèmes de défenses automatiques et des monstres occasionnels.</info>
   </map>
   <map id="nio" v="0.7">
     <n>Département de recherche spéciale</n>
     <info>The brain center of the ManeTec factory, where research and development was previously conducted. The central maneframe is somewhere here</info>
   </map>
   <map id="random_sewer">
-    <n>Egoûts</n>
+    <n>Egouts</n>
     <info>Sewage tunnels, filled with sludge, toxic and radioactive waste. It is a lair for various monsters, and wild ghouls pose a significant threat. Many passages and rooms are flooded</info>
   </map>
   <map id="random_stable">
@@ -6973,7 +6973,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="random_mbase" v="0.7">
     <n>Base militaire</n>
-    <info>A military base in the past, now - base of the Steel Rangers</info>
+    <info>Une base militaire par le passé. Maintenant une base pour les Rangers d'Acier.</info>
   </map>
   <map id="random_canter" v="0.7">
     <n>Ruines de Canterlot</n>
@@ -7508,7 +7508,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
       <r s1='keyWeapon1' s2='keyWeapon12'>Dans l'inventaire - @1-@2 (touches numériques) - attribuez une arme, une armure ou un objet à un emplacement d'accès rapide. Appuyez sur la même touche dans le jeu pour utiliser l'élément attribué </r>
       <r s1='keyWeapon1' s2='keyWeapon12' s3='keyRun'>Dans l'inventaire - @3 + @1-@2 - idem pour les emplacements supplémentaires </r>
       <r>[Right mouse button] dans la section "armes" du Pip-Buck - cacherles armes non utiliser</r>
-      <r>[Shift] + [click] pendant un échange - sélectionnez la quantité maximale de marchandises</r>
+      <r>[Shift] + [clic] pendant un échange - sélectionnez la quantité maximale de marchandises</r>
       <r s1='keyMagic'>@1 - utiliser le dernier sort d'attaque</r>
       <r s1='keyDef'>@1 - utiliser un sort de defense équipé</r>
       <r s1='keyPet'>@1 - ordonner au compagnon de se déplacer ou d'attaquer </r>
@@ -11249,45 +11249,45 @@ First, I need calipers</r>
     </n>
   </txt>
   <txt id="collectAlc" v="0.7">
-    <n>Rare alcohol</n>
-    <info>I`m buying rare pre-war alcohol made from apples. I am interested in the very elite drinks, leave cheap hooch for yourself</info>
+    <n>Alcool rare</n>
+    <info>J'achète de rares alcools d'avant-guerre fabriqué à partir de pommes. Je suis intéressé dans la crème de l'élite des breuvages, alors gardez la gnôle de basse qualité pour vous.</info>
   </txt>
   <txt id="collectAlc1" v="0.7">
-    <n>Apple cider "Old farm"</n>
+    <n>Cidre de pomme "Vieille ferme"</n>
   </txt>
   <txt id="collectAlc2" v="0.7">
-    <n>Apple wine "Pink sunset"</n>
+    <n>Vin de pomme "Crépuscule rose"</n>
   </txt>
   <txt id="collectAlc3" v="0.7">
-    <n>Apple liquor "Summer flavors"</n>
+    <n>Liqueur de pomme "Saveurs d'été"</n>
   </txt>
   <txt id="collectAlc4" v="0.7">
-    <n>Apple Whiskey "Wild Pegasus"</n>
+    <n>Whisky de pomme "Pégase sauvage"</n>
   </txt>
   <txt id="collectAlc5" v="0.7">
-    <n>Apple vodka "Crystal"</n>
+    <n>Vodka de pomme "Cristal"</n>
   </txt>
   <txt id="collectAlc6" v="0.7">
-    <n>Granny Smith`s Apple bitter</n>
+    <n>L'amère pomme de Granny Smith</n>
   </txt>
   <txt id="collectAlc7" v="0.7">
-    <n>Apple balsam "The gift of nature"</n>
+    <n>Pomme de merveille "Le cadeau de la nature"</n>
   </txt>
   <txt id="hydroPon" v="0.7">
-    <n>Hydroponics</n>
-    <info>I need data on hydroponic farms from the Canterlot Stable-Tec office</info>
+    <n>Hydroponiques</n>
+    <info>J'ai besoin de données sur les fermes hydroponiques dans le bureau Stable-Tec de Canterlot.</info>
   </txt>
   <txt id="hydroPon1" v="0.7">
-    <n>Locate the Canterlot Stable-Tec office</n>
+    <n>Localisez le bureau Stable-Tec de Canterlot.</n>
   </txt>
   <txt id="hydroPon2" v="0.7">
-    <n>Download data on hydroponic farms</n>
+    <n>Téléchargez les données sur les fermes hydroponiques.</n>
   </txt>
   <txt id="hydroPon3" v="0.7">
-    <n>Give the data to scribe Amaranth and receive the reward</n>
+    <n>Donnez les données au scribe Amaranth et recevez une récompense.</n>
   </txt>
   <txt id="collectCanter" v="0.7">
-    <n>Canterlot Alchemy</n>
+    <n>Alchimie Canterlot</n>
     <info>I need help collecting rare alchemical ingredients that can be obtained only from Canterlot monsters. This is a very dangerous work, but I`ll give the Elixir of intuition recipe in reward</info>
   </txt>
   <txt id="collectCanter1" v="0.7">
