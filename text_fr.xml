@@ -100,7 +100,7 @@
     <n>AutoDoc</n>
   </unit>
   <unit id="mainframe" v="0.7">
-    <n>Factory maneframe</n>
+    <n>Ordinateur central d'usine</n>
   </unit>
   <unit id="mainframe2" v="0.7">
     <n>Ordinateur central d'Etable</n>
@@ -2213,11 +2213,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="noodles" v="0.7">
     <n>Nouilles instantanés</n>
-    <info>You can pour in hot water, or just eat it dry</info>
+    <info>Vous pouvez y verser de l'eau bouillante, ou juste les manger sèches.</info>
   </item>
   <item id="pasta" v="0.7">
-    <n>Pasta</n>
-    <info>You can cook something with it, or just chew it as it is</info>
+    <n>Pâtes</n>
+    <info>Vous pouvez cuisiner quelque chose avec, ou juste les mâcher comme ça.</info>
   </item>
   <item id="corn" v="0.7">
     <n>Canned corn</n>
@@ -2236,12 +2236,12 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Un pain relativement frais, cuit il y a moins d'une semaine.</info>
   </item>
   <item id="oats" v="0.7">
-    <n>Oats</n>
-    <info>You can eat it as is, but it`s better when cooked</info>
+    <n>Flocons d'avoine</n>
+    <info>Vous pouvez les manger comme ça, mais c'est meilleur cuisiné.</info>
   </item>
   <item id="chips" v="0.7">
     <n>Chips</n>
-    <info>Pre-war potato chips with the taste of spicy horseradish</info>
+    <info>Chips d'avant-guerre, avec un goût piquant de raifort.</info>
   </item>
   <item id="crackers" v="0.7">
     <n>Bouchées d'écureuil</n>
@@ -2269,11 +2269,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="honey" v="0.7">
     <n>Miel</n>
-    <info>Honey can be stored for hundreds of years, but fresh honey is lost, probably, forever</info>
+    <info>Le miel peut être conservé des centaines d'années, mais le miel frais est perdu, probablement, pour toujours.</info>
   </item>
   <item id="apple" v="0.7">
     <n>Pomme</n>
-    <info>A real apple grown on the surface</info>
+    <info>Une vraie pomme qui a poussé à la surface.</info>
   </item>
   <item id="mushroom" v="0.7">
     <n>Cave Mushroom</n>
@@ -2377,7 +2377,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="pizza" v="0.7">
     <n>Pizza</n>
-    <info>By the Wasteland standards this is a rich dish</info>
+    <info>Selon les standards des Terres Désolées, ce plat est riche.</info>
   </item>
   <item id="casser" v="0.7">
     <n>Casserole</n>
@@ -2388,7 +2388,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>This recipe was invented after the war, when meat began to be consumed in large quantities</info>
   </item>
   <item id="spsalad" v="0.7">
-    <n>Special salad</n>
+    <n>Salade spéciale</n>
     <info>Mixing, at the first glance, incompatible ingredients, we get a completely unexpected taste</info>
   </item>
   <item id="patty" v="0.7">
@@ -2437,7 +2437,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="data">
     <n>Disque de données</n>
-    <info>Information downloaded from the terminal contains long forgotten secrets of the past. You can sell it for a good price</info>
+    <info>Informations téléchargées depuis un terminal contenant des secrets longtemps oubliés du passé. Vous pouvez vendre cet objet pour un bon prix.</info>
   </item>
   <item id="disc">
     <n>Disque de données importantes</n>
@@ -2532,32 +2532,32 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
     <info>Belonged to Sharp Shooter, the leader of a slavers gang</info>
   </item>
   <item id="merc_note1" v="0.7">
-    <n>Griffin`s note</n>
-    <info>A note found on one of the griffins in the prison camp</info>
+    <n>Note de griffon</n>
+    <info>Une note trouvée sur l'un des griffons dans le camp de prisonniers.</info>
   </item>
   <item id="col1" v="0.8">
-    <n>Cogwheel</n>
-    <info>Just a souvenir</info>
+    <n>Roue dentée</n>
+    <info>Juste un souvenir.</info>
   </item>
   <item id="col2" v="0.7">
-    <n>The Cyberpony magazine</n>
-    <info>The magazine, issued before the War by a society that promoted the idea of ​​turning ponies into cyborgs. It lasted only one year, after which it was banned for moral and ethical reasons</info>
+    <n>Le magazine Cyberpony</n>
+    <info>Le magazine, publié avant la Guerre par une société qui promouvait l'idée de transformer les poneys en cyborgs. Il a duré seulement un an, banni pour des raisons morales et éthiques.</info>
   </item>
   <item id="pro_armor" v="0.6">
-    <n>Armor blueprints</n>
-    <info>A pack of drawings for some unusual armor. Only specialists can understand them</info>
+    <n>Schéma d'armure</n>
+    <info>Un lot de plans pour une armure inhabituelle. Seuls des spécialistes peuvent les comprendre.</info>
   </item>
   <item id="super_sapphire" v="0.8">
-    <n>Ice sapphire</n>
-    <info>A huge sapphire spreading a frosty aura</info>
+    <n>Saphir de glace</n>
+    <info>Un énorme saphir diffusant une aura glaciale.</info>
   </item>
   <item id="super_ruby" v="0.8">
-    <n>Fire ruby</n>
-    <info>A huge ruby ​​shining with fiery light and radiating heat</info>
+    <n>Rubis de feu</n>
+    <info>Un énorme rubis brillant d'une lumière ardente et irradiant de chaleur.</info>
   </item>
   <item id="super_emerald" v="0.8">
-    <n>Marine emerald</n>
-    <info>A huge emerald, for some reason always wet and smelling like the sea</info>
+    <n>Emeraude marin</n>
+    <info>Une énorme émeraude, qui pour une certaine raison est toujours mouillée et sent la mer.</info>
   </item>
   <item id="tool_calipers" v="0.6">
     <n>Calipers</n>
@@ -3626,11 +3626,11 @@ Having the book with you, you get some protection from black magic, as well as a
   </eff>
   <eff id="energy">
     <n>Armes à énergie</n>
-    <info>La compétence "Armes à énergie" determines your ability to handle different laser, plasma or pulse weapons and a flamethrower. [br]- Each invested skill point increases damage and accuracy of these weapons by #1.[br]- Each skill level allows using more advanced weapons. Insufficient skill level will make you miss more often</info>
+    <info>La compétence "Armes à énergie" détermine votre abilité à manier différentes armes laser, plasma ou à impulsion et le lance-flammes.[br]- Chaque point investi aumente les dégâts et la précision de ces armes par #1.[br]- Chaque niveau de compétence permet d'utiliser plus d'armes plus avancées. Un niveau de compétence insuffisant vous fera rater votre cible plus souvent.</info>
   </eff>
   <eff id="explosives">
     <n>Explosifs</n>
-    <info>La compétence "Explosifs" determines your ability to work with everything that is capable of exploding. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
+    <info>La compétence "Explosifs" détermine votre abilité à gérer tout type d'explosif. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
   </eff>
   <eff id="magic">
     <n>Magie</n>
@@ -7179,7 +7179,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Camp</n>
   </map>
   <map id="griff" v="0.7">
-    <n>Prison du camp</n>
+    <n>Camp de prisonniers</n>
   </map>
   <map id="way" v="0.7">
     <n>Quelque part sur le chemin vers Canterlot...</n>
@@ -11086,7 +11086,7 @@ First, I need calipers</r>
     <n>Bring the obtained fat</n>
   </txt>
   <txt id="collectCol2" v="0.7">
-    <n>Magazine "Cyberponey"</n>
+    <n>Magazine "Cyberpony"</n>
     <info>I`m looking for pre-war magazines "Cyberpony". They are very rare, they only came out during a single year and in small batches. I`ll pay for each, but anypony who brings all twelve numbers will receive a special reward</info>
   </txt>
   <txt id="collectCol21" v="0.7">
