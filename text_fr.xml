@@ -5896,12 +5896,12 @@ Attention ! Redémarrage requis.
 Redémarrage du système en cours, veuillez patienter.......</info>
   </pip>
   <pip id="helpInv1" s1="keyRun" s2="keyGrenad" s3="keyMagic" s4="keyGrenad" s5="keyMagic" v="0.8">
-    <n>This is a list of all your weapons and magic. New weapons are indicated by the [☩] symbol.
-Use [left mouse button] to equip the weapon. You can also use [mouse scroll] to change weapons in game without opening inventory.
-Use [right mouse button] to remove weapons you are not going to use from the list, or to add them back to the list.
-Hover over a list item and press [slot selection key] ([1] - [0], [-], [=]) to assign a weapon to the quick access slot, or to cancel the assignment. By pressing the same key in game, you can quickly equip this weapon.
-You can also press the [slot selection key] together with the @1 key. Thus, the number of available slots increases from 12 to 24.
-Hover over a grenade, mine, or attack spell and press @2 or @3 to designate them as additional weapons. Thus you will be able to use them together with a main weapon at any time using these keys. If no additional weapon is assigned, pressing the @4 key will use the last selected explosive, and the @5 key will activate the last selected combat spell.
+    <n>Ceci est une liste de toutes les armes et magies. Les nouvelles armes sont indiquées avec le symbole [☩].
+Utilisez le [clic gauche] pour équiper l'arme. Vous pouvez aussi [scroller avec la souris (molette)] pour changer d'arme sans ouvrir votre inventaire.
+Utilisez le [clic droit] pour supprimer des armes que vous n'utiliserez pas dans cette liste, ou pour les rajouter à la liste.
+Placez votre curseur sur un objet de la liste et appuyez sur le [bouton de sélection de slot] ([1] - [0], [-], [=]) pour assigner une arme au slot d'accès rapide, ou pour annuler l'attribution. En appuyant sur la même touche en jeu, vous pouvez équiper rapidement cette arme.
+Vous pouvez aussi appuyer sur la [touche de sélection de slot] avec la touche @1. Ce faisant, le nombre de slots disponibles augmente de 12 à 24.
+Placez votre curseur sur une grenade, une mine, ou un sort, et appuyez sur @2 ou @3 pour les désigner en tant qu'armes additionnelles. Ce faisant, vous pourrez les utiliser avec votre arme principale à tout moment en utilisant ces touches. Si aucune arme additionnelle n'est assignée, appuyer sur la touche @4 utilisera le dernier explosif utilisé, et la touche @5 activera le dernier sort sélectionné.
 In addition, you can assign a defensive spell to the quick spell slot using one of the [quick spell keys] (see control settings). By pressing the same key in game you can immediately apply the selected spell without having to equip it.
 The right side of the screen shows weapon characteristics.
 Damage: basic weapon damage (in parentheses is the actual damage that depends on your characteristics, in square brackets is the number of pellets for shotguns)
