@@ -5902,30 +5902,30 @@ Utilisez le [clic droit] pour supprimer des armes que vous n'utiliserez pas dans
 Placez votre curseur sur un objet de la liste et appuyez sur le [bouton de sélection de slot] ([1] - [0], [-], [=]) pour assigner une arme au slot d'accès rapide, ou pour annuler l'attribution. En appuyant sur la même touche en jeu, vous pouvez équiper rapidement cette arme.
 Vous pouvez aussi appuyer sur la [touche de sélection de slot] avec la touche @1. Ce faisant, le nombre de slots disponibles augmente de 12 à 24.
 Placez votre curseur sur une grenade, une mine, ou un sort, et appuyez sur @2 ou @3 pour les désigner en tant qu'armes additionnelles. Ce faisant, vous pourrez les utiliser avec votre arme principale à tout moment en utilisant ces touches. Si aucune arme additionnelle n'est assignée, appuyer sur la touche @4 utilisera le dernier explosif utilisé, et la touche @5 activera le dernier sort sélectionné.
-In addition, you can assign a defensive spell to the quick spell slot using one of the [quick spell keys] (see control settings). By pressing the same key in game you can immediately apply the selected spell without having to equip it.
-The right side of the screen shows weapon characteristics.
-Damage: basic weapon damage (in parentheses is the actual damage that depends on your characteristics, in square brackets is the number of pellets for shotguns)
-Damage per second: damage per second based on your characteristics (in brackets - approximate damage per second based on the time for reloading)
-AP: action points for a shot at S.A.T.S. (in parentheses - the number of shots per burst shot in S.A.T.S. for automatic weapons)
-Range: the distance in blocks at which the weapon will be guaranteed to hit the target. In reality this value is relative and depends on the weapon mastery skill and other factors
+De plus, vous pouvez assigner une sort de défense dans le slot de sort rapide en utilisant l'une des [touches de sort rapide] (voir les paramètres des contrôles). En appuyant sur la même touche en jeu, vous pouvez directement utiliser le sort sélectionné sans avoir à l'équiper.
+À droite de l'écran se trouve les caractéristiques des armes.
+Dégâts : dégâts d'arme basique (entre parenthèses sont les dégâts finaux dépendant de vos caractéristiques, entre crochets est le nombre de plombs pour les fusils à pompes).
+Dégâts par seconde : dégâts par seconde basé sur vos caractéristiques (entre crochets : dégâts approximatifs par seconde basé sur le temps pour recharger).
+PA : points d'action pour un coup avec le S.A.T.S. (entre parenthèses : le nombre de coups par rafale dans le S.A.T.S. pour les armes automatiques).
+Portée : la distance en blocs à laquelle l'arme garantit de toucher la cible. En réalité, cette valeur est relative et dépend de la maîtrise de l'arme et d'autres facteurs.
 </n>
   </pip>
   <pip id="helpInv2" s1="keyRun" v="0.8">
-    <n>This is a list of your armor and amulets.
-Use [left mouse button] to put on or remove armor.
-Hover over an item and press [slot selection key] ([1] - [0], [-], [=]) to assign the item to a quick access slot, or to cancel the assignment. By pressing the same key in game, you can quickly put on this armor, unless you are being attacked. You can also use the [slot selection key] together with the @1 key
+    <n>Ceci est une liste de vos armures et amulettes.
+Utilisez le [clic gauche de la souris] pour mettre ou retirer une armure.
+Placez votre curseur sur un objet et appuyez sur la [touche de sélection de slot] ([1] - [0], [-], [=]) pour assigner un objet au slot d'accès rapide, ou pour annuler l'attribution. En appuyant sur la même touche en jeu, vous pouvez équiper rapidement cette armure, à moins que vous ne soyez attaqué. Vous pouvez aussi utiliser la [touche de sélection de slot] en même temps avec la touche @1.
 </n>
   </pip>
   <pip id="helpInv3" s1="keyRun" s2="keyDef" v="0.8">
-    <n>This is a list of your equipment, which includes all items that you can use: protective spells, medicines, chemicals, potions, food, tools, books, spray cans.
-Use [left mouse button] to apply an item or equip a protective spell if you have one (this spell can be used in game using the @2 key).
-Hover over an item and press [slot selection key] ([1] - [0], [-], [=]) to assign this item to the quick access slot, or to cancel the assignment. By pressing the same key in game you can apply this item without opening inventory. You can also use the [slot selection key] together with the @1 key.
-In addition, you can assign a protective spell to a quick spell slot using one of the [quick spell keys] (see control settings). By pressing the same key in the game, you can immediately apply the selected spell without having to equip it first.
-New items are indicated by [☩]. Items which quantity has recently increased is indicated by the [+] symbol.
+    <n>Ceci est une liste de votre équipement, qui inclut tous les objets que vous pouvez utiliser : sorts de protection, médicaments, produits chimiques, potions, nourriture, outils, livres, aérosols.
+Utilisez le [clic gauche de la souris] pour appliquer un objet ou équiper un sort de défense si vous en avez un (ce sort peut être utilisé en jeu en utilisant la touche @2).
+Placez votre curseur sur un objet et appuyez sur la [touche de sélection de slot] ([1] - [0], [-], [=]) pour assigner cet objet au slot d'accès rapide, ou pour annuler l'attribution. En appuyant sur la même touche en jeu, vous pouvez utiliser cet objet sans ouvrir l'inventaire. Vous pouvez aussi utiliser la [touche de sélection de slot] en même temps avec la touche @1.
+De plus, vous pouvez assigner un sort de défense à un slot de sort rapide en utilisant l'une des [touches de sort rapide] (voir paramètres des contrôles). En appuyant sur la même touche en jeu, vous pouvez immédiatement utiliser le sort sélectionné sans avoir à l'équiper.
+Les nouveaux objets sont indiqués par le symbole [☩]. Les objets dont la quantité a récemment augmenté sont indiqués par le symbole [+].
 </n>
   </pip>
   <pip id="helpInv4" v="0.8">
-    <n>This is a list of all the other things you have, such as valuable items, artifacts, quest items, schematics, components and other junk. These things are either used automatically or are useless and can be sold to merchants
+    <n>Ceci est une liste de toutes les autres choses que vous avez, comme les objets de valeur, les artéfacts, les objets de quête, les plans, les composants, et d'autres déchets. These things are either used automatically or are useless and can be sold to merchants
 </n>
   </pip>
   <pip id="helpInv5" s1="keyRun" v="0.8">
@@ -8330,7 +8330,7 @@ You were not at the briefing of the rear-guard commanders, so I`ll give you the 
   </txt>
   <txt id="dialAlicorn2" imp="1" v="0.7">
     <n>
-      <t v="0.8">Meeting with Blood Moon</t>
+      <t v="0.8">Rencontre avec Blood Moon</t>
       <r p='bm'>SO, THE MIGHTY KILLER OF ALICORNS PAYED US A VISIT. WE ARE CHARMED</r>
       <r p='lp5'>Right. And you are next</r>
       <r p='bm'>YOUR SPIRIT IS IMPRESSIVE, BUT YOUR BODY IS WEAK. YOU ARE NOTHING, A PITIFUL DUST BEFORE THE HOOVES OF THE GODDESS</r>
@@ -13534,8 +13534,8 @@ The Omegatron-Y intergalactic robot has captured the planet and requires uncondi
     </rep>
     <rep act="vse" id="doctor">
       <r>On se sent mieux ?</r>
-      <r>All set! Neeext!</r>
-      <r>Be careful next time, OK?</r>
+      <r>Tout est bon ! Suivaaant !</r>
+      <r>Be careful next time, OK ?</r>
       <r>Stay healthy!</r>
       <r>There, there, you`re going to be OK</r>
       <r>Don`t you worry, it will grow back!</r>
