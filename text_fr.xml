@@ -776,11 +776,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="mace">
     <n>Masse</n>
-    <info>A heavy iron machinery part, welded to a sturdy long rod. A good swing - and it can easily add a couple of holes to somepony`s head</info>
+    <info>Un gros morceau de fer de machinerie, welded to a sturdy long rod. A good swing - and it can easily add a couple of holes to somepony`s head</info>
   </weapon>
   <weapon id="hammer">
     <n>Marteau</n>
-    <info>A good tool for crushing walls as well as enemy skulls</info>
+    <info>Un bon outil pour autant casser des murs que des crânes d'ennemis.</info>
   </weapon>
   <weapon id="hammer^1">
     <n>"Poing de minotaure"</n>
@@ -788,11 +788,11 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="axe">
     <n>Hache</n>
-    <info>This huge axe comes in handy for cutting through enemy crowds</info>
+    <info>Cette grande hache est utile pour couper à travers les groupes ennemis.</info>
   </weapon>
   <weapon id="zsword">
     <n>Epée de zèbre</n>
-    <info>This sword was an attribute of every zebra centurion or higher officer during wartime. It was more a proof of status than a combat weapon though</info>
+    <info>Cette épée était un attribut de chaque centurion de zèbres ou d'officiers plus haut gradés en temps de guerre. Elle était tout de même plus vu comme une preuve de statut qu'une véritable arme.</info>
   </weapon>
   <weapon id="zsword^1">
     <n>"Eclat de l'aube"</n>
@@ -804,7 +804,7 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </weapon>
   <weapon id="elsword^1" v="0.71">
     <n>"Le mot de Caesar"</n>
-    <info>A unique electric sword that once belonged to a legate of the Zebra legion</info>
+    <info>Une épée électrique unique qui a appartenu à un légat de la légion des Zèbres.</info>
   </weapon>
   <weapon id="edagger" v="0.7">
     <n>Dague à énergie magique</n>
@@ -2301,19 +2301,19 @@ Malgré que plus personne ne produit de robots aujourd'hui, beaucoup d'entre eux
   </item>
   <item id="butter" v="0.7">
     <n>Beurre</n>
-    <info>Fresh butter from a local farm</info>
+    <info>Du beurre frais venant d'une ferme locale.</info>
   </item>
   <item id="cheese" v="0.7">
     <n>Fromage</n>
-    <info>Fresh cheese, looks and smells good</info>
+    <info>Du fromage frais. Il sent bon et a l'air bon.</info>
   </item>
   <item id="tegg" v="0.7">
     <n>Oeuf</n>
-    <info>Looks more like an egg of some reptile than bird</info>
+    <info>Cela ressemble plus à un oeuf de reptile que d'oiseau.</info>
   </item>
   <item id="meat" v="0.7">
     <n>Viande</n>
-    <info>It is not recommended to eat raw meat</info>
+    <info>Il n'est pas recommandé de manger de la viande crue.</info>
   </item>
   <item id="potato" v="0.7">
     <n>Patate</n>
@@ -3630,11 +3630,11 @@ Having the book with you, you get some protection from black magic, as well as a
   </eff>
   <eff id="explosives">
     <n>Explosifs</n>
-    <info>La compétence "Explosifs" détermine votre abilité à gérer tout type d'explosif. [br]- Each invested skill point increases the damage of your explosives by #1, also increases throwing distance for grenades.[br]- Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
+    <info>La compétence "Explosifs" détermine votre abilité à gérer tout type d'explosif. [br]- Chaque point de compétence investi augmente les dégâts de vos explosifs de #1, en plus d'augmenter la distance de lancer des grenades.[br]- Chaque niveau de compétence permet de créer et d'utiliser des explosifs plus avancés Each skill level allows using and creating more advanced explosives, improves success rate at defusing and helps you detect enemy mines from a longer distance</info>
   </eff>
   <eff id="magic">
     <n>Magie</n>
-    <info>La compétence "Magie" determines your knowledge of magical arts, directly affecting power of your spells, both offensive and defensive. [br]- Each invested skill point increases damage of your offensive spells by #1, and defensive - by #2.[br]- Each skill level decreases cooldown time for all spells</info>
+    <info>La compétence "Magie" détermine votre savoir des arts magiques, affectant directement la puissance de vos sorts, qu'ils soient offensifs ou défensifs. [br]- Chaque point de compétence investi augmente les dégâts de vos sorts offensifs de #1, et défensifs - de #2.[br]- Chaque niveau de compétence diminue le temps de recharge pour tous les sorts.</info>
   </eff>
   <eff id="repair">
     <n>Réparation</n>
@@ -6844,7 +6844,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Votre compagnon ne vous suivra pas ici.</n>
   </info>
   <info id="closeProb" st="6" v="0.6">
-    <n>Epreuve "@1" complétée</n>
+    <n>Épreuve "@1" complétée</n>
   </info>
   <info id="noBase" st="0" v="0.6">
     <n>Ceci doit être fait dans un endroit sûr</n>
@@ -6883,7 +6883,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Il serait préférable de garder cet objet</n>
   </info>
   <info id="noSell" st="3" v="0.8">
-    <n>The merchant does not have enough caps to pay for your goods</n>
+    <n>Le marchand n'a pas assez de capsules pour payer vos objets</n>
   </info>
   <info id="fullWeap" st="3" v="0.8">
     <n>Pas assez de slots d'armes</n>
@@ -6892,7 +6892,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Pas assez de slots de sorts</n>
   </info>
   <info id="itemDestr" st="5" v="0.8">
-    <n>Equipement détruit (@1, @2pcs)</n>
+    <n>Équipement détruit (@1, @2pcs)</n>
   </info>
   <info id="itemLose" st="3" v="0.8">
     <n>Objets tombés de l'inventaire (@1, @2pcs)</n>
@@ -6907,7 +6907,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Electric fence active</n>
   </info>
   <info id="alicornNot" st="0" v="0.8">
-    <n>Not available with Alicorn mode active</n>
+    <n>Non disponible en mode Alicorne</n>
   </info>
   <info id="noTravel" st="3" v="0.8">
     <n>Vous n'avez pas le temps pour ça.</n>
@@ -6927,7 +6927,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
     <n>Tunnels techniques</n>
     <info>Le commencement de votre voyage.</info>
   </map>
-  <map id="surf">
+  <map id="surf" s1="keyBeUp" s2="keyLeft">
     <n>Surface</n>
     <info>Les Terres Désolées, rudes et cruelles.</info>
   </map>
@@ -6949,27 +6949,27 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="nio" v="0.7">
     <n>Département de recherche spéciale</n>
-    <info>The brain center of the ManeTec factory, where research and development was previously conducted. The central maneframe is somewhere here</info>
+    <info>Le cerveau principal de l'usine ManeTec, où la recherche et le développement étaient réalisés par le passé. L'ordinateur central est quelque part ici.</info>
   </map>
   <map id="random_sewer">
-    <n>Egouts</n>
-    <info>Sewage tunnels, filled with sludge, toxic and radioactive waste. It is a lair for various monsters, and wild ghouls pose a significant threat. Many passages and rooms are flooded</info>
+    <n>Égouts</n>
+    <info>Des tunnels d'eaux usées, remplis de vase et de déchets toxiques et radioactifs. C'est une cachette pour divers monstres, dont les goules sauvages qui représentent une menace notable. Beaucoup de passages et de pièces sont innondés.</info>
   </map>
   <map id="random_stable">
     <n>Etable abandonnée</n>
-    <info>Its population died many years ago, and those who remained turned into wild ghouls. Security robots and turrets are especially dangerous there</info>
+    <info>Sa population est morte il y a des années, et ceux qui sont restés sont devenus des goules sauvages. Les robots de sécurité et les tourelles sont particulièrement dangereux ici.</info>
   </map>
   <map id="core" v="0.7">
     <n>Coeur de l'Etable 88</n>
-    <info>Here are the overmare office, the main security office, the main server and the reactor core, which gives energy to the whole stable</info>
+    <info>Ici se trouve le bureau de la superviseuse, le bureau de sécurité principal, le serveur principal et le coeur du réacteur, ce dernier alimentant l'Etable entière.</info>
   </map>
   <map id="garages" v="0.7">
     <n>Garages Hankey</n>
-    <info>Meeting place according to the Mentor instructions</info>
+    <info>Un lieu de rencontre selon les instructions du Mentor.</info>
   </map>
   <map id="random_mane" v="0.6">
     <n>Ruines de Manehattan </n>
-    <info>There are many dangers in the ruins of Manehattan. Here you can often encounter squads of slavers and mercenaries. Also, some time ago reports started coming about groups of the Goddess`s alicorns appearing there</info>
+    <info>Il y a beaucoup de dangers dans les ruines de Manehattan. Here you can often encounter squads of slavers and mercenaries. Also, some time ago reports started coming about groups of the Goddess`s alicorns appearing there</info>
   </map>
   <map id="random_mbase" v="0.7">
     <n>Base militaire</n>
@@ -6977,15 +6977,15 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
   </map>
   <map id="random_canter" v="0.7">
     <n>Ruines de Canterlot</n>
-    <info>The former capital of Equestria. Now filled with the deadly Pink Cloud and inhabited by various monsters</info>
+    <info>L'ancienne capitale d'Equestria. Elle est maintenant remplie du nuage rose mortel et habitée par une variété de monstres.</info>
   </map>
   <map id="mtn" v="0.7">
     <n>Tour M.S.A.</n>
     <info>A tall, but heavily destroyed skyscraper, in the past - one of the regional offices of the Ministry of Arcane Sciences</info>
   </map>
-  <map id="labirint" v="0.6">
+  <map id="labirint" v="0.6" s1="keyBeUp" s2="keyRight" s3="keyLeft">
     <n>Labyrinthe</n>
-    <info>Find the way out of the maze. Tip: to get into narrow passages at the height of one block, press [W] + [A] or [W] + [D]</info>
+    <info>Cherchez la sortie du labyrinthe. Astuce : pour passer à travers les passages étroits d'un bloc de haut, appuyez sur [@1] + [@3] ou [@1] + [@2].</info>
     <help>You will easily find the right path by using an infra-vision potion</help>
   </map>
   <map id="slimes" v="0.6">
@@ -7537,7 +7537,7 @@ Vous pouvez toujours zoomer en jeu en appuyant sur la touche @1. Et si la salle 
 [Ministère des Sciences Arcaniques], aussi appelé [MSA] - un ministère dirigé par Twilight Sparkle. Le MSA était principalement engagé dans le développement d'armes magiques et de sorts de combat.
 [Ministère de l'Image] est un ministère dirigé par Rarity. Il s'occupait de la décoration des rues, de la publication de documents imprimés et était également responsable de la censure.
 [Ministère de la Paix] - Ministère dirigé par Fluttershy. Il traitait des problèmes de santé, de la production de médicaments tels que des potions médicinales et de l'aide aux blessés au combat. C'est ce ministère qui est responsable de l'invention des mégasorts.
-[Ministère du Moral] - Un ministère dirigé par Pinky Pie. Officiellement, il s'occupait de l'éducation patriotique, soutenant le moral de la population et l'organisation des vacances. Officieusement, il était engagé dans l'espionnage et le contre-espionnage.
+[Ministère du Moral] - Un ministère dirigé par Pinkie Pie. Officiellement, il s'occupait de l'éducation patriotique, soutenant le moral de la population et l'organisation des vacances. Officieusement, il était engagé dans l'espionnage et le contre-espionnage.
 [Ministère des Technologies de guerre] - le ministère dirigé par Applejack. Il était engagé dans le développement des armes et des moyens de protection les plus récents, tels que l'armure assistée.
 [Ministère de la Coolitude] - le ministère dirigé par Rainbow Dash. Ce qu'il a fait exactement n'était pas vraiment connu.</r>
 </n>
@@ -8505,7 +8505,7 @@ Covertsign is the refuge of those zebras that rejected the call of the Legion. T
       <r p='zetr'>Once upon a time zebras and ponykind began a war among themselves. Small at first, their discord grew every year, and no one could extinguish this fire, until the world was burned to the ground in flames of anger and fear. When this happened, the strongest zebra shamans resorted to the most terrible spells that exist in this world - necromancy</r>
       <r p='zetr'>They created a magical gas called the Pink Cloud and placed it into amulets, from which it was flowing as an endless stream. These amulets were secretly hidden in the bowels of the capital of ponykind, and when the hour came, the mighty clouds of pink death burst into streets of the city.
 But those who were unlucky to get into these clouds rarely found peace. And after death they are doomed to rise again and again, wandering aimlessly through the streets that once were familiar to them. If you are unlucky enough to encounter these poor souls, make sure that their body is no longer able to rise</r>
-      <r p='zetr'>But not only these poor ponies will threaten you there. So strong was hatred of shamans who created the Pink Cloud, that it still lives in the shadows of the castles and palaces of the Damned City. Breathing it means death, but even the best mask will not protect you from it, and armor will only cause your demise. Everything that the cloud touches merges together, and so your armor will bite into your body and will never let go. If you have to go into these cursed clouds, take off everything that is unnecessary and keep away from your body</r>
+      <r p='zetr'>But not only these poor ponies will threaten you there. So strong was hatred of shamans who created the Pink Cloud, that it still lives in the shadows of the castles and palaces of the Damned City. Breathing it means death, but even the best mask will not protect you from it, and armor will only cause your demise. Everything that the cloud touches merges together, and so your armor will bite (haha lol xd) into your body and will never let go. If you have to go into these cursed clouds, take off everything that is unnecessary and keep away from your body</r>
       <r p='zetr'>In some places the Pink Cloud became so dense that it turned liquid or almost solid state. Do not even think about stepping on those lumps of pink slime, as they will burst under your feet like an overripe mutafruit. And then you will get to know all the dark power of the Cloud like in the day it was released into our world</r>
       <r p='zetr'>The darkest spawn of the Cloud are the necrosprites. Once you see them, you will remember their shapeless appearance until the end of your days. The black haze that came to life by an evil trick and set off to kill. Do not even try to defeat them with a usual weapon - it will pass through the darkness as if you are trying to cut trough the shadow. The only thing that can cleanse this dark spawn is magic, otherwise you will have no choice but to run and not look back, as far as your hooves will carry you</r>
       <r p='zetr'>The dark magic of the Cloud influenced even inanimate objects. Technical devices from old times, such as loudspeakers and radio, themselves became transmitters of evil power. They fill streets with hymns of insanity and death, and if you hear them - destroy the source without approaching it or just leave and do not return</r>
